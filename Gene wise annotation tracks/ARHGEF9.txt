@@ -1,0 +1,517 @@
+Amino Acid Index	Amino Acid	Population Mutation	Population Mutation (details)	Pathogenic Mutation	Pathogenic Mutation (details)	Bond Detail	Accessible Surface Area	Relative Accessible Surface Area	8-class DSSP Secondary Structure Properties	3-class DSSP Secondary Structure Properties	Exposure	Physiochemical Property	Acetylation Detail	Methylation Detail	O.GalNAc Detail	O.GclNAc Detail	Phosphorylation Detail	Sumoylation Detail	Ubiquitination Detail	Active Site	Metal Binding Site	binding Site	Site	Zinc Finger	Dna Binding	Nucleotide Phosphate Binding	Calcium Binding	Region	Repeat	Coiled Coil	Topological Domain	Peptide	Modified Residue	Motif	Domain	Intramembrane	Propetide	Lipidation	Glycosylation	Cross Links	Disulfide Bond	Transit Peptide	Transmembrane	Signal Peptide	Functional Site	Functional Binding Region	Sequence Motif Region	Modular Domain	Molecular Processing	Modified Residues
+1	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+3	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+4	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+5	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+6	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+7	G	none	none	none	none	-	76	0.667	loop	coils	Medium-exposed	Special	-	-	-	-	2ysq.A.41/12.673	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+8	D	D>E	D>E (exome, AC = 2, AN = 183075, AF = 1.09245e-05)	none	none	-	165	0.855	loop	coils	exposed	Negatively Charged & Polar	-	-	-	-	2ysq.A.41/14.265	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+9	S	none	none	none	none	-	107	0.69	loop	coils	Medium-exposed	Neutral & Polar	-	-	-	-	2ysq.A.41/13.388	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+10	I	I>V	I>V (exome, AC = 40, AN = 183125, AF = 0.00021843); I>V (genome, AC = 25, AN = 21795, AF = 0.00114705)	none	none	-	117	0.594	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/13.576	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+11	V	V>I	V>I (exome, AC = 2, AN = 183111, AF = 1.09223e-05)	none	none	-	49	0.282	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/13.053	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+12	S	none	none	none	none	-	25	0.161	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	2ysq.A.41/15.516	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+13	A	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/15.925	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+14	E	none	none	none	none	-	87	0.39	beta-sheet	beta-strand/sheet	Medium-buried	NegativelyCharged & Polar	-	-	-	-	2ysq.A.41/19.044	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+15	A	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/19.682	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+16	V	none	none	none	none	-	56	0.322	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/21.63	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+17	W	none	none	none	none	-	178	0.625	bend	coils	Medium-exposed	Aromatic & Hydrophobic	-	-	-	-	2ysq.A.41/23.076	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+18	D	none	none	none	none	-	93	0.48200000000000004	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	2ysq.A.41/23.74	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+19	H	H>Y	H>Y (exome, AC = 1, AN = 183185, AF = 5.45896e-06)	none	none	-	40	0.179	loop	coils	buried	Positively Charged & Polar	-	-	-	-	2ysq.A.41/21.109	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+20	V	V>I	V>I (exome, AC = 2, AN = 183194, AF = 1.09174e-05)	none	none	-	116	0.667	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/23.314	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+21	T	none	none	none	none	-	35	0.203	loop	coils	buried	Neutral & Polar	-	-	-	-	2ysq.A.41/22.26	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+22	M	none	none	none	none	-	187	0.835	bend	coils	exposed	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/24.712	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+23	A	none	none	none	none	-	37	0.287	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/22.607	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+24	N	N>S	N>S (exome, AC = 1, AN = 183200, AF = 5.45852e-06); N>S (genome, AC = 1, AN = 21690, AF = 4.61042e-05)	none	none	-	149	0.764	bend	coils	exposed	Neutral & Polar	-	-	-	-	2ysq.A.41/22.151	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+25	R	R>Q	R>Q (exome, AC = 1, AN = 183176, AF = 5.45923e-06)	none	none	-	209	0.763	bend	coils	exposed	Positively Charged & Polar	-	-	-	-	2ysq.A.41/18.706	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+26	E	none	none	none	none	-	48	0.215	bend	coils	buried	NegativelyCharged & Polar	-	-	-	-	2ysq.A.41/17.148	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+27	L	none	none	none	none	-	3	0.015	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/17.225	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+28	A	none	none	none	none	-	37	0.287	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/20.337	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+29	F	none	none	none	none	-	14	0.057999999999999996	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	2ysq.A.41/21.592	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+30	K	none	none	none	none	-	159	0.674	loop	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	2ysq.A.41/24.202	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+31	A	none	none	none	none	-	63	0.488	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/24.122	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+32	G	none	none	none	none	-	34	0.298	turn	coils	Medium-buried	Special	-	-	-	-	2ysq.A.41/23.989	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+33	D	none	none	none	none	-	76	0.39399999999999996	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	2ysq.A.41/22.151	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+34	V	V>I	V>I (exome, AC = 1, AN = 183129, AF = 5.46063e-06)	none	none	-	76	0.43700000000000006	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/19.871	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+35	I	none	none	none	none	-	1	0.005	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/16.567	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+36	K	K>Q	K>Q (exome, AC = 1, AN = 183148, AF = 5.46007e-06)	none	none	-	102	0.43200000000000005	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	2ysq.A.41/14.666	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+37	V	none	none	none	none	-	10	0.057	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/10.907	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+38	L	none	none	none	none	-	92	0.45799999999999996	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/9.798	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+39	D	none	none	none	none	-	103	0.534	beta-sheet	beta-strand/sheet	Medium-exposed	Negatively Charged & Polar	-	-	-	-	2ysq.A.41/6.038	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+40	A	none	none	none	none	-	54	0.419	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/3.804	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+41	S	none	none	none	none	-	107	0.69	loop	coils	Medium-exposed	Neutral & Polar	-	-	-	-	2ysq.A.41/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+42	N	none	none	none	none	-	99	0.508	bend	coils	Medium-exposed	Neutral & Polar	-	-	-	-	2ysq.A.41/3.804	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+43	K	none	none	none	none	-	183	0.775	bend	coils	exposed	Positively Charged & Polar	-	-	-	-	2ysq.A.41/6.638	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+44	D	none	none	none	none	-	61	0.316	bend	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	2ysq.A.41/8.692	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+45	W	none	none	none	none	-	114	0.4	beta-sheet	beta-strand/sheet	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	2ysq.A.41/7.328	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+46	W	none	none	none	none	-	46	0.161	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	2ysq.A.41/6.658	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+47	W	none	none	none	none	-	113	0.396	beta-sheet	beta-strand/sheet	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	2ysq.A.41/8.886	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+48	G	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	2ysq.A.41/12.144	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+49	Q	Q>K	Q>K (exome, AC = 20, AN = 182944, AF = 0.000109323)	none	none	-	76	0.33799999999999997	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	2ysq.A.41/15.1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+50	I	none	none	none	none	-	19	0.096	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/18.67	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+51	D	D>N	D>N (exome, AC = 3, AN = 182765, AF = 1.64145e-05)	none	none	-	174	0.902	bend	coils	exposed	Negatively Charged & Polar	-	-	-	-	2ysq.A.41/21.878	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+52	D	none	none	none	none	-	128	0.6629999999999999	bend	coils	Medium-exposed	Negatively Charged & Polar	-	-	-	-	2ysq.A.41/22.969	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+53	E	none	none	none	none	-	81	0.363	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	2ysq.A.41/20.58	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+54	E	none	none	none	none	-	116	0.52	beta-sheet	beta-strand/sheet	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	2ysq.A.41/17.11	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+55	G	none	none	G>A	G>A (ClinVar, phenotype = Early infantile epileptic encephalopathy 8); G>A (ClinVar, phenotype = Hyperekplexia and epilepsy)	-	1	0.009000000000000001	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	2ysq.A.41/14.512	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+56	W	none	none	none	none	-	87	0.305	beta-sheet	beta-strand/sheet	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	2ysq.A.41/11.923	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+57	F	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	2ysq.A.41/13.063	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+58	P	none	none	none	none	-	10	0.063	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	2ysq.A.41/12.904	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+59	A	none	none	none	none	-	15	0.11599999999999999	310-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/11.9	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+60	S	none	none	none	none	-	87	0.561	310-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	2ysq.A.41/14.835	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+61	F	none	none	none	none	-	95	0.396	310-helix	Helices	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	2ysq.A.41/17.209	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+62	V	none	none	none	none	-	10	0.057	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/16.613	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+63	R	none	none	none	none	-	97	0.354	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	2ysq.A.41/17.991	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+64	L	none	none	none	none	-	59	0.294	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/16.294	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+65	W	none	none	none	none	-	143	0.502	bend	coils	Medium-exposed	Aromatic & Hydrophobic	-	-	-	-	2ysq.A.41/18.854	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+66	V	none	none	none	none	-	123	0.7070000000000001	bend	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/18.307	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+67	N	none	none	none	none	-	55	0.282	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	2ysq.A.41/18.499	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	D8-N67: SH3	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+68	Q	none	none	none	none	-	174	0.773	loop	coils	exposed	Neutral & Polar	-	-	-	-	2ysq.A.41/20.696	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+69	E	none	none	none	none	-	100	0.44799999999999995	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	2ysq.A.41/22.021	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+70	D	D>N	D>N (exome, AC = 1, AN = 170097, AF = 5.879e-06)	none	none	-	133	0.6890000000000001	loop	coils	Medium-exposed	Negatively Charged & Polar	-	-	-	-	2ysq.A.41/25.209	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+71	E	none	none	none	none	-	141	0.632	loop	coils	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	2ysq.A.41/26.121	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+72	V	none	none	none	none	-	114	0.655	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	2ysq.A.41/29.731	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+73	E	none	none	none	none	-	143	0.6409999999999999	loop	coils	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	2ysq.A.41/30.408	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+74	E	none	none	none	none	-	149	0.6679999999999999	loop	coils	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	2ysq.A.41/32.426	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+75	G	none	none	none	none	-	46	0.40399999999999997	loop	coils	Medium-buried	Special	-	-	-	-	2ysq.A.41/34.758	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+76	P	P>L	P>L (exome, AC = 1, AN = 171762, AF = 5.82201e-06); P>L (genome, AC = 1, AN = 21852, AF = 4.57624e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+77	S	S>N	S>N (exome, AC = 1, AN = 171741, AF = 5.82272e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+78	D	D>N; D>V	D>N (exome, AC = 3, AN = 171463, AF = 1.74965e-05); D>V (exome, AC = 1, AN = 172005, AF = 5.81378e-06); D>N (genome, AC = 1, AN = 21871, AF = 4.57226e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+79	V	V>L	V>L (exome, AC = 1, AN = 171632, AF = 5.82642e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+80	Q	Q>H	Q>H (exome, AC = 2, AN = 171241, AF = 1.16794e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+81	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+82	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+83	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+84	L	L>M	L>M (exome, AC = 1, AN = 170955, AF = 5.84949e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+85	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+86	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+87	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+88	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+89	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+90	C	C>R	C>R (exome, AC = 1, AN = 169610, AF = 5.89588e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+91	L	L>V	L>V (genome, AC = 1, AN = 21933, AF = 4.55934e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+92	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+93	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+94	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+95	R	R>Q	R>Q (exome, AC = 3, AN = 170059, AF = 1.76409e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+96	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+97	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+98	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+99	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+100	R	R>W	R>W (exome, AC = 1, AN = 171442, AF = 5.83288e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R100-E110: Interaction with GPHN	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+101	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R100-E110: Interaction with GPHN	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+102	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R100-E110: Interaction with GPHN	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+103	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R100-E110: Interaction with GPHN	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+104	R	none	none	R>W; R>Q; R>Q	R>W (ClinVar, phenotype = not provided); R>Q (ClinVar, phenotype = Early infantile epileptic encephalopathy 8,not provided); R>Q (ClinVar, phenotype = Intellectual disability & epilepsy)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R100-E110: Interaction with GPHN	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+105	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R100-E110: Interaction with GPHN	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+106	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R100-E110: Interaction with GPHN	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+107	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R100-E110: Interaction with GPHN	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+108	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R100-E110: Interaction with GPHN	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+109	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R100-E110: Interaction with GPHN	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+110	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R100-E110: Interaction with GPHN	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+111	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+112	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+113	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+114	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+115	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+116	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+117	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+118	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+119	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+120	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+121	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+122	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+123	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+124	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+125	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+126	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+127	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+128	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+129	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+130	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+131	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+132	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+133	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+134	R	R>Q	R>Q (exome, AC = 1, AN = 182603, AF = 5.47636e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+135	K	K>R	K>R (exome, AC = 1, AN = 182638, AF = 5.47531e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+136	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+137	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+138	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+139	M	M>V	M>V (exome, AC = 1, AN = 182689, AF = 5.47378e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+140	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+141	S	S>G	S>G (genome, AC = 1, AN = 21859, AF = 4.57477e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+142	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+143	E	E>K	E>K (exome, AC = 1, AN = 182661, AF = 5.47462e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+144	Q	Q>K	Q>K (exome, AC = 1, AN = 182655, AF = 5.4748e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+145	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+146	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+147	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+148	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+149	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+150	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+151	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+152	I	I>V	I>V (exome, AC = 1, AN = 182643, AF = 5.47516e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+153	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+154	D	D>G	D>G (exome, AC = 1, AN = 182578, AF = 5.47711e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+155	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+156	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+157	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+158	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+159	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+160	M	M>T	M>T (exome, AC = 1, AN = 182426, AF = 5.48167e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+161	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+162	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+163	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+164	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+165	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+166	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+167	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+168	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+169	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+170	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+171	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+172	N	N>D	N>D (exome, AC = 1, AN = 181307, AF = 5.51551e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+173	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+174	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+175	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+176	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+177	L	L>F	L>F (exome, AC = 1, AN = 180634, AF = 5.53606e-06)	L>P	L>P (ClinVar, phenotype = Intellectual disability & epilepsy)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+178	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+179	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+180	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+181	G	none	none	G>R	G>R (ClinVar, phenotype = Early infantile epileptic encephalopathy 8)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+182	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+183	C	C>G	C>G (exome, AC = 1, AN = 179005, AF = 5.58644e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+184	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+185	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+186	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+187	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+188	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+189	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+190	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+191	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+192	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+193	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+194	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+195	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+196	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+197	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+198	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+199	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+200	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+201	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+202	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+203	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+204	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+205	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+206	M	M>I	M>I (genome, AC = 1, AN = 21781, AF = 4.59116e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+207	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+208	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+209	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+210	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+211	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+212	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+213	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+214	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+215	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+216	R	R>C; R>H	R>C (exome, AC = 7, AN = 168404, AF = 4.15667e-05); R>H (exome, AC = 1, AN = 168300, AF = 5.94177e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+217	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+218	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+219	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+220	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+221	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+222	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+223	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+224	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+225	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+226	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+227	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+228	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+229	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+230	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+231	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+232	D	D>G	D>G (exome, AC = 1, AN = 170131, AF = 5.87782e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+233	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+234	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+235	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+236	D	D>N	D>N (exome, AC = 1, AN = 170286, AF = 5.87247e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+237	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+238	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+239	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+240	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+241	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+242	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+243	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+244	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+245	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+246	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+247	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+248	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+249	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+250	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+251	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+252	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+253	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+254	A	A>S	A>S (exome, AC = 18, AN = 169595, AF = 0.000106135)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+255	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+256	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+257	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+258	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+259	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+260	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+261	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+262	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+263	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+264	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+265	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+266	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+267	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+268	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+269	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+270	V	V>M	V>M (exome, AC = 1, AN = 182438, AF = 5.48131e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+271	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+272	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+273	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+274	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+275	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+276	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+277	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+278	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+279	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+280	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+281	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+282	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+283	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+284	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+285	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+286	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+287	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M103-R287: DH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+288	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+289	R	R>Q	R>Q (exome, AC = 1, AN = 182973, AF = 5.46529e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+290	R	none	none	R>C; R>H	R>C (ClinVar, phenotype = Epileptic encephalopathy & intellectual disability); R>H (ClinVar, phenotype = Epileptic encephalopathy, early infantile)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+291	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+292	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+293	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+294	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+295	D	D>E	D>E (exome, AC = 1, AN = 183027, AF = 5.46367e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+296	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+297	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+298	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+299	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+300	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+301	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+302	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+303	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+304	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+305	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+306	D	D>E	D>E (exome, AC = 64, AN = 182813, AF = 0.000350085); D>E (genome, AC = 7, AN = 21975, AF = 0.000318544)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+307	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+308	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+309	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+310	E	E>K	E>K (exome, AC = 4, AN = 182047, AF = 2.19723e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+311	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+312	I	I>V	I>V (exome, AC = 4, AN = 182144, AF = 2.19606e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+313	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+314	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+315	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+316	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+317	S	none	none	S>W	S>W (ClinVar, phenotype = Intellectual disability, epilepsy & facial dysmorphism)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+318	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+319	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+320	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+321	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+322	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+323	G	none	none	G>R	G>R (ClinVar, phenotype = Intellectual disability, focal epilepsy and febrile seizures)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+324	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+325	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+326	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+327	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+328	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+329	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+330	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+331	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+332	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+333	G	G>S	G>S (exome, AC = 2, AN = 182610, AF = 1.09523e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+334	R	R>H	R>H (exome, AC = 1, AN = 182382, AF = 5.483e-06); R>H (genome, AC = 1, AN = 21471, AF = 4.65744e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+335	N	N>S	N>S (exome, AC = 1, AN = 182477, AF = 5.48014e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+336	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+337	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+338	R	none	none	R>W	R>W (ClinVar, phenotype = Inborn genetic diseases); R>W (ClinVar, phenotype = Intellectual disability, with macrocephaly and macro-orchidism)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+339	V	V>I	V>I (exome, AC = 1, AN = 182085, AF = 5.49194e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+340	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+341	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+342	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+343	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+344	D	D>N	D>N (exome, AC = 1, AN = 181354, AF = 5.51408e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+345	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+346	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+347	M	M>L	M>L (exome, AC = 6, AN = 181045, AF = 3.31409e-05); M>L (genome, AC = 1, AN = 21627, AF = 4.62385e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+348	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+349	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+350	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+351	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+352	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+353	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+354	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+355	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+356	R	R>Q	R>Q (exome, AC = 1, AN = 180798, AF = 5.53103e-06)	R>Q	R>Q (ClinVar, phenotype = Intellectual disability)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+357	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+358	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+359	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+360	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+361	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+362	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+363	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+364	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+365	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+366	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+367	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+368	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+369	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+370	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+371	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+372	E	E>D	E>D (exome, AC = 1, AN = 182424, AF = 5.48173e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+373	V	V>I	V>I (exome, AC = 2, AN = 182438, AF = 1.09626e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+374	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+375	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+376	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+377	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+378	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+379	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+380	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+381	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+382	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+383	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+384	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+385	N	N>S	N>S (exome, AC = 1, AN = 182711, AF = 5.47312e-06); N>S (genome, AC = 1, AN = 21993, AF = 4.5469e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+386	V	V>I	V>I (exome, AC = 1, AN = 182692, AF = 5.47369e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+387	S	S>N	S>N (exome, AC = 5, AN = 182702, AF = 2.7367e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+388	M	M>V	M>V (exome, AC = 14, AN = 182729, AF = 7.66162e-05); M>V (genome, AC = 3, AN = 22001, AF = 0.000136357)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+389	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+390	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+391	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+392	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+393	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+394	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+395	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+396	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+397	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+398	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+399	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+400	E	none	none	E>K	E>K (ClinVar, phenotype = Intellectual disability)	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+401	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+402	I	I>V	I>V (exome, AC = 54, AN = 182738, AF = 0.000295505); I>V (genome, AC = 2, AN = 21911, AF = 9.12784e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+403	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+404	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+405	F	F>L	F>L (exome, AC = 2, AN = 182726, AF = 1.09453e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+406	F	F>S	F>S (exome, AC = 1, AN = 182718, AF = 5.47291e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+407	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+408	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+409	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+410	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+411	E	E>K	E>K (exome, AC = 1, AN = 182719, AF = 5.47288e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+412	E	E>D	E>D (exome, AC = 1, AN = 182802, AF = 5.4704e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+413	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+414	I	I>V	I>V (exome, AC = 1, AN = 182778, AF = 5.47112e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+415	R	R>C; R>H	R>C (exome, AC = 2, AN = 182735, AF = 1.09448e-05); R>H (exome, AC = 1, AN = 182754, AF = 5.47184e-06); R>H (genome, AC = 1, AN = 21936, AF = 4.55872e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+416	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+417	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+418	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+419	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+420	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+421	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+422	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+423	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+424	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+425	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E318-K425: PH	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+426	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+427	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+428	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+429	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+430	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+431	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+432	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+433	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+434	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+435	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+436	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+437	I	I>V	I>V (exome, AC = 8, AN = 182040, AF = 4.39464e-05); I>V (genome, AC = 1, AN = 21636, AF = 4.62193e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+438	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+439	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+440	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+441	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+442	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+443	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+444	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+445	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+446	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+447	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+448	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+449	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+450	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+451	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+452	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+453	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+454	K	K>R	K>R (exome, AC = 1, AN = 182848, AF = 5.46902e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+455	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+456	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+457	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+458	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+459	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+460	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+461	A	A>S	A>S (exome, AC = 13, AN = 137609, AF = 9.44706e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+462	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+463	S	S>L	S>L (exome, AC = 1, AN = 142494, AF = 7.01784e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+464	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+465	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+466	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+467	S	S>F	S>F (exome, AC = 2, AN = 151638, AF = 1.31893e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+468	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+469	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+470	P	P>L	P>L (exome, AC = 1, AN = 155047, AF = 6.44966e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+471	P	P>L	P>L (exome, AC = 7, AN = 156454, AF = 4.47416e-05); P>L (genome, AC = 2, AN = 21365, AF = 9.3611e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+472	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+473	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+474	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+475	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+476	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+477	H	H>R	H>R (exome, AC = 2, AN = 165117, AF = 1.21126e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+478	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+479	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+480	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+481	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+482	V	V>L	V>L (exome, AC = 8, AN = 169653, AF = 4.71551e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+483	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+484	D	D>N; D>E	D>N (exome, AC = 3, AN = 171655, AF = 1.74769e-05); D>E (exome, AC = 11, AN = 172281, AF = 6.38492e-05); D>N (genome, AC = 1, AN = 21650, AF = 4.61894e-05); D>E (genome, AC = 3, AN = 21736, AF = 0.00013802)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+485	G	G>S	G>S (exome, AC = 1, AN = 172493, AF = 5.79734e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+486	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+487	A	A>T	A>T (exome, AC = 1, AN = 174340, AF = 5.73592e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+488	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+489	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+490	Q	Q>R	Q>R (exome, AC = 8, AN = 177332, AF = 4.51131e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+491	V	V>A	V>A (exome, AC = 1, AN = 177901, AF = 5.6211e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+492	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+493	E	E>V	E>V (exome, AC = 1, AN = 178782, AF = 5.5934e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+494	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+495	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+496	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+497	P	P>S	P>S (exome, AC = 1, AN = 179694, AF = 5.56502e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+498	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+499	R	R>H	R>H (exome, AC = 1, AN = 180124, AF = 5.55173e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+500	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+501	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+502	S	S>L	S>L (exome, AC = 3, AN = 181299, AF = 1.65473e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S502: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+503	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+504	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+505	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+506	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+507	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+508	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+509	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+510	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+511	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+512	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+513	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+514	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+515	K	K>R	K>R (exome, AC = 1, AN = 177907, AF = 5.62091e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+516	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
