@@ -1,0 +1,1031 @@
+Amino Acid Index	Amino Acid	Population Mutation	Population Mutation (details)	Pathogenic Mutation	Pathogenic Mutation (details)	Bond Detail	Accessible Surface Area	Relative Accessible Surface Area	8-class DSSP Secondary Structure Properties	3-class DSSP Secondary Structure Properties	Exposure	Physiochemical Property	Acetylation Detail	Methylation Detail	O.GalNAc Detail	O.GclNAc Detail	Phosphorylation Detail	Sumoylation Detail	Ubiquitination Detail	Active Site	Metal Binding Site	binding Site	Site	Zinc Finger	Dna Binding	Nucleotide Phosphate Binding	Calcium Binding	Region	Repeat	Coiled Coil	Topological Domain	Peptide	Modified Residue	Motif	Domain	Intramembrane	Propetide	Lipidation	Glycosylation	Cross Links	Disulfide Bond	Transit Peptide	Transmembrane	Signal Peptide	Functional Site	Functional Binding Region	Sequence Motif Region	Modular Domain	Molecular Processing	Modified Residues
+1	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+3	I	I>F	I>F (exome, AC = 2, AN = 183209, AF = 1.09165e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+4	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+5	N	N>D	N>D (exome, AC = 1, AN = 183249, AF = 5.45706e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+6	I	I>T	I>T (exome, AC = 2, AN = 183320, AF = 1.09099e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+7	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+8	N	N>D	N>D (exome, AC = 2, AN = 183336, AF = 1.09089e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+9	V	none	none	none	none	-	54	0.31	loop	coils	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.12/5.11	-	-	-	4bgq.A.286/45.664	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+10	M	none	none	none	none	-	62	0.277	turn	coils	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.12/5.235	-	-	-	4bgq.A.286/46.326	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+11	N	none	none	none	none	-	139	0.713	turn	coils	Medium-exposed	Neutral & Polar	4bgq.A.12/3.867	-	-	-	4bgq.A.286/49.214	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+12	K	none	none	none	none	-	28	0.119	turn	coils	buried	Positively Charged & Polar	4bgq.A.12/0.0	-	-	-	4bgq.A.286/46.993	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+13	F	none	none	F>S	F>S (HGMD, phenotype = CDKL5 disorder)	-	7	0.029	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	4bgq.A.12/3.837	-	-	-	4bgq.A.286/44.478	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+14	E	none	none	none	none	-	76	0.341	beta-sheet	beta-strand/sheet	Medium-buried	NegativelyCharged & Polar	4bgq.A.33/6.462	-	-	-	4bgq.A.286/45.613	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+15	I	none	none	none	none	-	74	0.376	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.12/9.931	-	-	-	4bgq.A.286/43.714	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+16	L	none	none	none	none	-	68	0.338	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.33/11.502	-	-	-	4bgq.A.262/41.626	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+17	G	none	none	none	none	-	28	0.246	beta-sheet	beta-strand/sheet	buried	Special	4bgq.A.33/14.998	-	-	-	4bgq.A.262/39.127	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+18	V	none	none	none	none	-	102	0.586	beta-sheet	beta-strand/sheet	Medium-exposed	Aliphatic & Hydrophobic	4bgq.A.12/17.267	-	-	-	4bgq.A.262/36.858	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+19	V	none	none	none	none	-	63	0.362	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.12/18.789	-	-	-	4bgq.A.262/33.529	-	-	-	-	-	-	-	-	V19-V27: ATP	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+20	G	none	none	G>R; G>D	G>R (ClinVar, phenotype = Early infantile epileptic encephalopathy 2); G>D (ClinVar, phenotype = not provided); G>R (HGMD, phenotype = Encephalopathy with early epilepsy); G>D (HGMD, phenotype = Epileptic encephalopathy)	-	12	0.105	beta-sheet	beta-strand/sheet	buried	Special	4bgq.A.12/21.025	-	-	-	4bgq.A.262/32.452	-	-	-	-	-	-	-	-	V19-V27: ATP	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+21	E	none	none	E>G	E>G (ClinVar, phenotype = Early infantile epileptic encephalopathy 2); E>G (HGMD, phenotype = Epilepsy, early-onset)	-	76	0.341	beta-sheet	beta-strand/sheet	Medium-buried	NegativelyCharged & Polar	4bgq.A.12/22.091	-	-	-	4bgq.A.262/33.947	-	-	-	-	-	-	-	-	V19-V27: ATP	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+22	G	none	none	none	none	-	47	0.412	bend	coils	Medium-buried	Special	4bgq.A.12/25.007	-	-	-	4bgq.A.262/32.551	-	-	-	-	-	-	-	-	V19-V27: ATP	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+23	A	none	none	none	none	-	115	0.891	bend	coils	exposed	Aliphatic & Hydrophobic	4bgq.A.12/26.456	-	-	-	4bgq.A.286/32.164	-	-	-	-	-	-	-	-	V19-V27: ATP	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+24	Y	none	none	Y>C	Y>C (HGMD, phenotype = CDKL5 disorder)	-	77	0.293	bend	coils	Medium-buried	Aromatic & Hydrophobic	4bgq.A.12/23.651	-	-	-	4bgq.A.286/30.998	-	-	-	-	-	-	-	-	V19-V27: ATP	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+25	G	none	none	G>R	G>R (ClinVar, phenotype = not provided); G>R (HGMD, phenotype = Rett syndrome, atypical)	-	15	0.132	loop	coils	buried	Special	4bgq.A.12/21.26	-	-	-	4bgq.A.286/34.669	-	-	-	-	-	-	-	-	V19-V27: ATP	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+26	V	none	none	none	none	-	29	0.167	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4bgq.A.12/18.579	-	-	-	4bgq.A.286/35.966	-	-	-	-	-	-	-	-	V19-V27: ATP	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+27	V	none	none	none	none	-	27	0.155	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4bgq.A.12/16.639	-	-	-	4bgq.A.286/34.826	-	-	-	-	-	-	-	-	V19-V27: ATP	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+28	L	none	none	none	none	-	15	0.075	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4bgq.A.12/13.879	-	-	-	4bgq.A.286/37.674	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+29	K	none	none	none	none	-	66	0.28	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	4bgq.A.33/13.038	-	-	-	4bgq.A.286/37.716	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+30	C	none	none	C>Y	C>Y (ClinVar, phenotype = Early infantile epileptic encephalopathy 2)	-	0	0	beta-sheet	beta-strand/sheet	core	Special	4bgq.A.33/9.288	-	-	-	4bgq.A.286/40.327	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+31	R	none	none	R>G	R>G (ClinVar, phenotype = Early infantile epileptic encephalopathy 2); R>G (HGMD, phenotype = Epileptic encephalopathy)	-	69	0.252	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	4bgq.A.33/6.121	-	-	-	4bgq.A.286/42.121	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+32	H	none	none	none	none	-	41	0.183	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	4bgq.A.33/3.831	-	-	-	4bgq.A.286/43.579	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+33	K	none	none	none	none	-	107	0.453	turn	coils	Medium-buried	Positively Charged & Polar	4bgq.A.33/0.0	-	-	-	4bgq.A.286/47.345	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+34	E	none	none	none	none	-	166	0.744	turn	coils	Medium-exposed	NegativelyCharged & Polar	4bgq.A.33/3.819	-	-	-	4bgq.A.286/48.016	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+35	T	none	none	T>I	T>I (HGMD, phenotype = CDKL5 disorder)	-	92	0.535	turn	coils	Medium-exposed	Neutral & Polar	4bgq.A.33/6.025	-	-	-	4bgq.A.286/44.978	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+36	H	H>R	H>R (exome, AC = 3, AN = 180152, AF = 1.66526e-05)	none	none	-	115	0.513	loop	coils	Medium-exposed	Positively Charged & Polar	4bgq.A.33/5.576	-	-	-	4bgq.A.286/43.938	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+37	E	none	none	none	none	-	87	0.39	loop	coils	Medium-buried	NegativelyCharged & Polar	4bgq.A.33/8.104	-	-	-	4bgq.A.286/40.209	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+38	I	none	none	none	none	-	70	0.355	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.33/9.642	-	-	-	4bgq.A.286/38.34	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+39	V	none	none	none	none	-	2	0.011	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4bgq.A.33/11.371	-	-	-	4bgq.A.286/36.175	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+40	A	none	none	A>V; A>V; A>E	A>V (ClinVar, phenotype = Angelman syndrome-like,Atypical Rett syndrome,Early infantile epileptic encephalopathy 2,Early infantile epileptic encephalopathy 2); A>V (HGMD, phenotype = Encephalopathy); A>E (HGMD, phenotype = Epileptic encephalopathy, early infantile 2)	-	12	0.093	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4bgq.A.12/13.534	-	-	-	4bgq.A.286/34.492	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+41	I	none	none	I>F	I>F (ClinVar, phenotype = not provided)	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4bgq.A.12/12.151	-	-	-	4bgq.A.286/36.236	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+42	K	none	none	K>R	K>R (ClinVar, phenotype = Early infantile epileptic encephalopathy 2,not provided)	-	34	0.144	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	4bgq.A.12/15.106	-	-	-	4bgq.A.286/34.889	-	-	-	-	K42: ATP	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	binding site	-	-	domain	-	-
+43	K	none	none	none	none	-	68	0.288	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	4bgq.A.12/15.048	-	-	-	4bgq.A.286/37.88	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+44	F	none	none	none	none	-	60	0.25	loop	coils	Medium-buried	Aromatic & Hydrophobic	4bgq.A.12/18.3	-	-	-	4bgq.A.286/37.727	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+45	K	none	none	K>Q	K>Q (HGMD, phenotype = CDKL5 disorder)	-	143	0.606	loop	coils	Medium-exposed	Positively Charged & Polar	4bgq.A.12/20.628	-	-	-	4bgq.A.286/39.832	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+46	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+47	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+48	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+49	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+50	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+51	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+52	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+53	V	none	none	none	none	-	106	0.609	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	4bgq.A.12/22.269	-	-	-	4bgq.A.286/37.29	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+54	K	none	none	none	none	-	93	0.394	loop	coils	Medium-buried	Positively Charged & Polar	4bgq.A.12/25.538	-	-	-	4bgq.A.286/34.742	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+55	E	none	none	none	none	-	73	0.327	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	4bgq.A.12/27.745	-	-	-	4bgq.A.286/32.291	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+56	T	T>M	T>M (exome, AC = 1, AN = 182785, AF = 5.47091e-06)	none	none	-	55	0.32	alpha-helix	Helices	Medium-buried	Neutral & Polar	4bgq.A.12/27.112	-	-	-	4bgq.A.286/29.308	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+57	T	none	none	none	none	-	9	0.052	alpha-helix	Helices	buried	Neutral & Polar	4bgq.A.12/23.354	-	-	-	4bgq.A.286/30.889	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+58	L	none	none	none	none	-	111	0.552	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	4bgq.A.12/24.326	-	-	-	4bgq.A.286/31.459	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+59	R	none	none	R>P; R>Q	R>P (ClinVar, phenotype = Early infantile epileptic encephalopathy 2); R>Q (ClinVar, phenotype = Early infantile epileptic encephalopathy 2)	-	77	0.281	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	4bgq.A.12/27.13	-	-	-	4bgq.A.286/27.916	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+60	E	none	none	none	none	-	21	0.094	alpha-helix	Helices	buried	NegativelyCharged & Polar	4bgq.A.12/25.012	-	-	-	4bgq.A.286/26.529	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+61	L	none	none	L>P	L>P (HGMD, phenotype = West syndrome)	-	38	0.189	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4bgq.A.12/22.397	-	-	-	4bgq.A.286/29.021	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+62	K	none	none	none	none	-	137	0.581	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	4bgq.A.12/25.451	-	-	-	4bgq.A.286/27.971	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+63	M	none	none	none	none	-	13	0.058	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4bgq.A.12/26.959	-	-	-	4bgq.A.286/24.288	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+64	L	none	none	L>P	L>P (ClinVar, phenotype = Early infantile epileptic encephalopathy 2); L>P (HGMD, phenotype = Encephalopathy with early epilepsy)	-	8	0.04	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.12/23.93	-	-	-	4bgq.A.286/25.416	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+65	R	R>Q	R>Q (exome, AC = 3, AN = 182997, AF = 1.63937e-05)	R>Q	R>Q (HGMD, phenotype = Encephalopathy)	-	209	0.763	alpha-helix	Helices	exposed	Positively Charged & Polar	4bgq.A.12/24.027	-	-	-	4bgq.A.286/27.468	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+66	T	none	none	none	none	-	69	0.401	alpha-helix	Helices	Medium-buried	Neutral & Polar	4bgq.A.12/27.763	-	-	-	4bgq.A.286/24.755	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+67	L	none	none	L>F; L>P	L>F (ClinVar, phenotype = Early infantile epileptic encephalopathy 2,Rett syndrome); L>P (HGMD, phenotype = CDKL5 disorder)	-	0	0	turn	coils	core	Aliphatic & Hydrophobic	4bgq.A.12/27.611	-	-	-	4bgq.A.286/22.381	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+68	K	none	none	none	none	-	133	0.564	loop	coils	Medium-exposed	Positively Charged & Polar	4bgq.A.12/24.889	-	-	-	4bgq.A.286/25.18	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+69	Q	none	none	none	none	-	82	0.364	bend	coils	Medium-buried	Neutral & Polar	4bgq.A.33/26.222	-	-	-	4bgq.A.286/23.919	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+70	E	none	none	none	none	-	73	0.327	turn	coils	Medium-buried	NegativelyCharged & Polar	4bgq.A.33/24.994	-	-	-	4bgq.A.286/24.437	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+71	N	none	none	N>D	N>D (ClinVar, phenotype = Atypical Rett syndrome,not provided); N>D (HGMD, phenotype = Rett syndrome, variant, with infantile spasms)	-	29	0.149	turn	coils	buried	Neutral & Polar	4bgq.A.33/26.895	-	-	-	4bgq.A.286/21.244	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+72	I	none	none	I>T; I>N; I>N; I>T; I>M	I>T (ClinVar, phenotype = Early infantile epileptic encephalopathy 2,Rett syndrome,not provided); I>N (ClinVar, phenotype = Atypical Rett syndrome); I>N (HGMD, phenotype = Rett syndrome, variant, with infantile spasms); I>T (HGMD, phenotype = Precocious puberty); I>M (HGMD, phenotype = Infantile spasm with global developmental delay)	-	1	0.005	beta-strand	beta-strand/sheet	core	Aliphatic & Hydrophobic	4bgq.A.12/25.208	-	-	-	4bgq.A.286/22.277	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+73	V	none	none	none	none	-	8	0.046	loop	coils	core	Aliphatic & Hydrophobic	4bgq.A.12/21.651	-	-	-	4bgq.A.286/25.482	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+74	E	none	none	none	none	-	66	0.296	loop	coils	Medium-buried	NegativelyCharged & Polar	4bgq.A.12/19.293	-	-	-	4bgq.A.286/28.383	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+75	L	none	none	none	none	-	44	0.219	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4bgq.A.12/17.102	-	-	-	4bgq.A.286/30.76	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+76	K	none	none	none	none	-	74	0.314	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	4bgq.A.12/14.218	-	-	-	4bgq.A.286/34.17	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+77	E	none	none	none	none	-	94	0.422	beta-sheet	beta-strand/sheet	Medium-buried	NegativelyCharged & Polar	4bgq.A.12/12.725	-	-	-	4bgq.A.286/36.606	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+78	A	none	none	none	none	-	55	0.426	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.12/12.95	-	-	-	4bgq.A.286/37.714	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+79	F	none	none	none	none	-	29	0.121	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	4bgq.A.12/11.146	-	-	-	4bgq.A.286/41.219	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+80	R	R>C; R>L	R>C (exome, AC = 3, AN = 183028, AF = 1.63909e-05); R>L (exome, AC = 1, AN = 183036, AF = 5.46341e-06)	none	none	-	142	0.518	beta-sheet	beta-strand/sheet	Medium-exposed	Positively Charged & Polar	4bgq.A.12/12.462	-	-	-	4bgq.A.286/43.419	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+81	R	R>Q	R>Q (exome, AC = 1, AN = 183021, AF = 5.46385e-06)	none	none	-	35	0.128	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	4bgq.A.12/11.839	-	-	-	4bgq.A.286/46.182	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+82	R	R>S	R>S (exome, AC = 1, AN = 183032, AF = 5.46353e-06)	none	none	-	114	0.416	turn	coils	Medium-buried	Positively Charged & Polar	4bgq.A.12/15.297	-	-	-	4bgq.A.286/48.292	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+83	G	none	none	G>V	G>V (HGMD, phenotype = CDKL5 disorder)	-	58	0.509	turn	coils	Medium-exposed	Special	4bgq.A.12/17.186	-	-	-	4bgq.A.286/45.545	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+84	K	none	none	none	none	-	35	0.148	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	4bgq.A.12/15.976	-	-	-	4bgq.A.286/42.921	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+85	L	none	none	none	none	-	22	0.109	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4bgq.A.12/15.314	-	-	-	4bgq.A.286/39.695	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+86	Y	none	none	none	none	-	28	0.106	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	4bgq.A.12/12.665	-	-	-	4bgq.A.286/38.563	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+87	L	none	none	L>S	L>S (HGMD, phenotype = Epileptic encephalopathy)	-	6	0.03	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4bgq.A.12/13.748	-	-	-	4bgq.A.286/35.332	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+88	V	none	none	none	none	-	1	0.006	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4bgq.A.12/11.948	-	-	-	4bgq.A.286/35.416	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+89	F	none	none	none	none	-	27	0.113	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	4bgq.A.12/14.782	-	-	-	4bgq.A.286/32.218	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+90	E	none	none	none	none	-	40	0.179	beta-sheet	beta-strand/sheet	buried	NegativelyCharged & Polar	4bgq.A.33/15.882	-	-	-	4bgq.A.286/31.498	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+91	Y	none	none	none	none	-	65	0.247	loop	coils	buried	Aromatic & Hydrophobic	4bgq.A.33/15.621	-	-	-	4bgq.A.286/32.137	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+92	V	none	none	none	none	-	17	0.098	loop	coils	buried	Aliphatic & Hydrophobic	4bgq.A.33/18.89	-	-	-	4bgq.A.286/29.687	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+93	E	none	none	none	none	-	94	0.422	bend	coils	Medium-buried	NegativelyCharged & Polar	4bgq.A.33/19.544	-	-	-	4bgq.A.262/30.584	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+94	K	none	none	none	none	-	38	0.161	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	4bgq.A.33/22.758	-	-	-	4bgq.A.262/27.248	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+95	N	none	none	none	none	-	18	0.092	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	4bgq.A.33/25.614	-	-	-	4bgq.A.262/24.433	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+96	M	none	none	none	none	-	1	0.004	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.33/29.333	-	-	-	4bgq.A.262/20.649	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+97	L	none	none	L>L	L>L (HGMD, phenotype = Epileptic encephalopathy, infantile)	-	61	0.303	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.33/30.142	-	-	-	4bgq.A.262/20.737	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+98	E	none	none	none	none	-	80	0.359	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	4bgq.A.33/28.164	-	-	-	4bgq.A.262/22.97	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+99	L	none	none	none	none	-	19	0.095	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4bgq.A.33/29.813	-	-	-	4bgq.A.262/20.896	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+100	L	none	none	none	none	-	14	0.07	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4bgq.A.33/33.201	-	-	-	4bgq.A.262/17.872	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+101	E	none	none	none	none	-	139	0.623	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	4bgq.A.33/32.488	-	-	-	4bgq.A.262/20.504	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+102	E	none	none	none	none	-	77	0.345	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	4bgq.A.33/31.945	-	-	-	4bgq.A.262/21.553	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+103	M	M>I	M>I (exome, AC = 1, AN = 182944, AF = 5.46615e-06)	none	none	-	68	0.304	bend	coils	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.33/35.041	-	-	-	4bgq.A.262/18.079	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+104	P	none	none	none	none	-	72	0.453	turn	coils	Medium-buried	Special	4bgq.A.33/37.413	-	-	-	4bgq.A.262/16.26	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+105	N	none	none	none	none	-	131	0.672	turn	coils	Medium-exposed	Neutral & Polar	4bgq.A.33/40.369	-	-	-	4bgq.A.262/13.33	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+106	G	none	none	none	none	-	15	0.132	loop	coils	buried	Special	4bgq.A.33/38.781	-	-	-	4bgq.A.262/12.702	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+107	V	none	none	none	none	-	10	0.057	loop	coils	buried	Aliphatic & Hydrophobic	4bgq.A.33/37.112	-	-	-	4bgq.A.262/14.84	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+108	P	none	none	none	none	-	71	0.447	loop	coils	Medium-buried	Special	4bgq.A.33/39.142	-	-	-	4bgq.A.262/15.108	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+109	P	none	none	none	none	-	100	0.629	alpha-helix	Helices	Medium-exposed	Special	4bgq.A.33/41.222	-	-	-	4bgq.A.262/13.385	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+110	E	none	none	none	none	-	73	0.327	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	4bgq.A.33/39.258	-	-	-	4bgq.A.262/16.958	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+111	K	none	none	none	none	-	80	0.339	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	4bgq.A.33/35.968	-	-	-	4bgq.A.262/17.416	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+112	V	none	none	none	none	-	1	0.006	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.33/37.905	-	-	-	4bgq.A.262/14.238	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+113	K	none	none	none	none	-	40	0.169	alpha-helix	Helices	buried	Positively Charged & Polar	4bgq.A.33/39.065	-	-	-	4bgq.A.262/15.768	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+114	S	none	none	none	none	-	41	0.265	alpha-helix	Helices	Medium-buried	Neutral & Polar	4bgq.A.33/35.696	-	-	-	4bgq.A.286/18.35	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+115	Y	Y>C	Y>C (exome, AC = 1, AN = 183047, AF = 5.46308e-06)	none	none	-	6	0.023	alpha-helix	Helices	core	Aromatic & Hydrophobic	4bgq.A.33/33.86	-	-	-	4bgq.A.286/17.623	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+116	I	none	none	none	none	-	2	0.01	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.33/36.831	-	-	-	4bgq.A.286/13.856	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+117	Y	Y>C	Y>C (genome, AC = 1, AN = 21902, AF = 4.56579e-05)	Y>C	Y>C (ClinVar, phenotype = not provided)	-	90	0.342	alpha-helix	Helices	Medium-buried	Aromatic & Hydrophobic	4bgq.A.33/37.047	-	-	-	4bgq.A.286/13.86	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+118	Q	none	none	Q>R	Q>R (ClinVar, phenotype = Early infantile epileptic encephalopathy 2)	-	38	0.169	alpha-helix	Helices	buried	Neutral & Polar	4bgq.A.33/33.41	-	-	-	4bgq.A.286/16.043	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+119	L	none	none	L>R	L>R (ClinVar, phenotype = not provided)	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.33/33.786	-	-	-	4bgq.A.286/14.22	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+120	I	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.33/36.948	-	-	-	4bgq.A.286/10.97	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+121	K	none	none	none	none	-	81	0.343	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	4bgq.A.33/35.309	-	-	-	4bgq.A.286/13.568	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+122	A	none	none	A>T	A>T (HGMD, phenotype = CDKL5 disorder)	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.12/32.434	-	-	-	4bgq.A.286/15.383	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+123	I	none	none	none	none	-	1	0.005	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.12/34.644	-	-	-	4bgq.A.286/12.602	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+124	H	H>D	H>D (exome, AC = 1, AN = 182929, AF = 5.4666e-06)	none	none	-	47	0.21	alpha-helix	Helices	buried	Positively Charged & Polar	4bgq.A.12/36.883	-	-	-	4bgq.A.286/11.832	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+125	W	W>C	W>C (exome, AC = 2, AN = 182918, AF = 1.09339e-05)	none	none	-	56	0.196	alpha-helix	Helices	buried	Aromatic & Hydrophobic	4bgq.A.12/34.021	-	-	-	4bgq.A.286/15.583	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+126	C	none	none	C>Y	C>Y (HGMD, phenotype = CDKL5 disorder)	-	1	0.006	alpha-helix	Helices	core	Special	4bgq.A.12/33.193	-	-	-	4bgq.A.286/15.75	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+127	H	none	none	H>R; H>Y	H>R (ClinVar, phenotype = Atypical Rett syndrome,not provided); H>Y (HGMD, phenotype = Lennox-Gastaut syndrome)	-	6	0.027	alpha-helix	Helices	core	Positively Charged & Polar	4bgq.A.12/36.964	-	-	-	4bgq.A.286/13.21	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+128	K	none	none	none	none	-	139	0.589	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	4bgq.A.12/37.408	-	-	-	4bgq.A.286/15.223	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+129	N	none	none	none	none	-	45	0.231	turn	coils	buried	Neutral & Polar	4bgq.A.12/34.899	-	-	-	4bgq.A.286/18.149	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+130	D	none	none	none	none	-	60	0.311	turn	coils	Medium-buried	Negatively Charged & Polar	4bgq.A.12/36.992	-	-	-	4bgq.A.286/16.791	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+131	I	none	none	I>M	I>M (ClinVar, phenotype = not provided)	-	2	0.01	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4bgq.A.12/34.355	-	-	-	4bgq.A.286/17.015	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+132	V	none	none	V>G	V>G (HGMD, phenotype = Rett syndrome, variant, with infantile spasms)	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4bgq.A.12/35.387	-	-	-	4bgq.A.286/14.893	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+133	H	none	none	H>R	H>R (HGMD, phenotype = Epileptic encephalopathy)	-	1	0.004	loop	coils	core	Positively Charged & Polar	4bgq.A.12/32.711	-	-	-	4bgq.A.286/16.469	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+134	R	none	none	none	none	-	20	0.073	loop	coils	buried	Positively Charged & Polar	4bgq.A.12/35.012	-	-	-	4bgq.A.286/16.168	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+135	D	none	none	none	none	-	34	0.176	loop	coils	buried	Negatively Charged & Polar	4bgq.A.12/33.031	-	-	-	4bgq.A.286/18.115	-	-	D135: Proton acceptor	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	active site	-	-	domain	-	-
+136	I	none	none	none	none	-	0	0	loop	coils	core	Aliphatic & Hydrophobic	4bgq.A.12/32.898	-	-	-	4bgq.A.286/16.491	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+137	K	none	none	none	none	-	37	0.157	loop	coils	buried	Positively Charged & Polar	4bgq.A.12/32.76	-	-	-	4bgq.A.286/18.578	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+138	P	none	none	P>L	P>L (ClinVar, phenotype = not provided)	-	4	0.025	310-helix	Helices	core	Special	4bgq.A.12/31.616	-	-	-	4bgq.A.262/19.54	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+139	E	none	none	none	none	-	70	0.314	310-helix	Helices	Medium-buried	NegativelyCharged & Polar	4bgq.A.12/28.484	-	-	-	4bgq.A.262/23.091	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+140	N	none	none	N>S	N>S (ClinVar, phenotype = not provided)	-	2	0.01	310-helix	Helices	core	Neutral & Polar	4bgq.A.12/27.065	-	-	-	4bgq.A.286/22.31	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+141	L	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4bgq.A.33/28.077	-	-	-	4bgq.A.286/20.904	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+142	L	none	none	none	none	-	29	0.144	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4bgq.A.33/24.747	-	-	-	4bgq.A.286/24.013	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+143	I	I>V	I>V (exome, AC = 1, AN = 181775, AF = 5.50131e-06)	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4bgq.A.33/25.333	-	-	-	4bgq.A.286/24.665	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+144	S	none	none	none	none	-	15	0.097	loop	coils	buried	Neutral & Polar	4bgq.A.33/22.87	-	-	-	4bgq.A.286/27.509	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+145	H	none	none	H>Y	H>Y (HGMD, phenotype = Epileptic encephalopathy)	-	141	0.629	turn	coils	Medium-exposed	Positively Charged & Polar	4bgq.A.33/22.852	-	-	-	4bgq.A.262/29.647	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+146	N	N>S	N>S (exome, AC = 3, AN = 181973, AF = 1.6486e-05)	none	none	-	115	0.59	turn	coils	Medium-exposed	Neutral & Polar	4bgq.A.33/25.331	-	-	-	4bgq.A.286/28.547	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+147	D	none	none	none	none	-	32	0.166	loop	coils	buried	Negatively Charged & Polar	4bgq.A.33/27.549	-	-	-	4bgq.A.286/25.295	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+148	V	none	none	none	none	-	50	0.287	loop	coils	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.33/26.78	-	-	-	4bgq.A.286/23.625	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+149	L	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4bgq.A.33/27.678	-	-	-	4bgq.A.286/21.095	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+150	K	none	none	K>R	K>R (ClinVar, phenotype = not provided)	-	23	0.097	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	4bgq.A.33/25.974	-	-	-	4bgq.A.286/21.572	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+151	L	none	none	none	none	-	1	0.005	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4bgq.A.12/26.892	-	-	-	4bgq.A.286/20.221	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+152	C	none	none	C>F; C>R; C>F	C>F (ClinVar, phenotype = Atypical Rett syndrome,Early infantile epileptic encephalopathy 2); C>R (HGMD, phenotype = CDKL5 disorder); C>F (HGMD, phenotype = Mental retardation and epilepsy)	-	23	0.138	loop	coils	buried	Special	4bgq.A.12/24.606	-	-	-	4bgq.A.286/22.775	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+153	D	none	none	D>G; D>E	D>G (ClinVar, phenotype = Early infantile epileptic encephalopathy 2); D>E (HGMD, phenotype = Epileptic encephalopathy, early infantile)	-	51	0.264	loop	coils	Medium-buried	Negatively Charged & Polar	4bgq.A.12/25.144	-	-	-	4bgq.A.286/23.691	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+154	F	none	none	none	none	-	1	0.004	loop	coils	core	Aromatic & Hydrophobic	4bgq.A.12/27.035	-	-	-	4bgq.A.286/22.403	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+155	G	none	none	none	none	-	21	0.184	turn	coils	buried	Special	4bgq.A.12/27.523	-	-	-	4bgq.A.286/24.614	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+156	F	none	none	none	none	-	83	0.346	turn	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+157	A	none	none	none	none	-	0	0	loop	coils	core	Aliphatic & Hydrophobic	4bgq.A.12/31.77	-	-	-	4bgq.A.286/19.951	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+158	R	R>H	R>H (exome, AC = 2, AN = 183121, AF = 1.09217e-05)	R>P	R>P (ClinVar, phenotype = Early infantile epileptic encephalopathy 2); R>P (HGMD, phenotype = CDKL5 disorder)	-	83	0.303	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	4bgq.A.12/34.263	-	-	-	4bgq.A.286/19.908	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+159	N	none	none	none	none	-	42	0.215	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	4bgq.A.12/35.271	-	-	-	4bgq.A.286/20.038	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+160	L	none	none	none	none	-	62	0.308	turn	coils	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.12/39.026	-	-	-	4bgq.A.286/18.203	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+161	S	none	none	none	none	-	93	0.6	turn	coils	Medium-exposed	Neutral & Polar	4bgq.A.12/39.889	-	-	-	4bgq.A.286/21.269	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+162	E	E>D	E>D (exome, AC = 1, AN = 183143, AF = 5.46021e-06)	none	none	-	152	0.682	loop	coils	Medium-exposed	NegativelyCharged & Polar	4bgq.A.12/38.978	-	-	-	4bgq.A.286/23.605	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+163	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+164	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+165	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+166	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+167	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+168	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+169	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+170	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+171	Y	none	none	Y>D; Y>N	Y>D (HGMD, phenotype = CDKL5 disorder); Y>N (HGMD, phenotype = Infantile spasms)	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+172	V	none	none	V>I	V>I (ClinVar, phenotype = Inborn genetic diseases); V>I (HGMD, phenotype = Epileptic encephalopathy, early infantile, 2)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+173	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+174	T	none	none	none	none	-	86	0.5	loop	coils	Medium-exposed	Neutral & Polar	4bgq.A.12/35.113	-	-	-	4bgq.A.262/22.667	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+175	R	none	none	R>S; R>I	R>S (ClinVar, phenotype = Atypical Rett syndrome,Early infantile epileptic encephalopathy 2); R>I (ClinVar, phenotype = not provided); R>S (HGMD, phenotype = Mental retardation and epilepsy)	-	93	0.339	loop	coils	Medium-buried	Positively Charged & Polar	4bgq.A.12/38.504	-	-	-	4bgq.A.262/21.465	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+176	W	none	none	W>G; W>C; W>G; W>L	W>G (ClinVar, phenotype = Early infantile epileptic encephalopathy 2); W>C (ClinVar, phenotype = Atypical Rett syndrome); W>G (HGMD, phenotype = Epileptic encephalopathy); W>L (HGMD, phenotype = CDKL5 disorder)	-	91	0.319	turn	coils	Medium-buried	Aromatic & Hydrophobic	4bgq.A.12/39.409	-	-	-	4bgq.A.262/17.783	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+177	Y	none	none	Y>C	Y>C (HGMD, phenotype = Rett syndrome, atypical)	-	22	0.084	turn	coils	buried	Aromatic & Hydrophobic	4bgq.A.12/38.407	-	-	-	4bgq.A.286/16.698	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+178	R	none	none	R>W; R>P; R>W; R>P; R>Q	R>W (ClinVar, phenotype = Angelman syndrome-like,Atypical Rett syndrome,Early infantile epileptic encephalopathy 2,Early infantile epileptic encephalopathy 2,not provided); R>P (ClinVar, phenotype = Early infantile epileptic encephalopathy 2); R>W (HGMD, phenotype = Encephalopathy with early epilepsy); R>P (HGMD, phenotype = Encephalopathy with early epilepsy); R>Q (HGMD, phenotype = Encephalopathy with early epilepsy)	-	27	0.099	loop	coils	buried	Positively Charged & Polar	4bgq.A.12/39.811	-	-	-	4bgq.A.286/16.187	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+179	S	none	none	none	none	-	1	0.006	loop	coils	core	Neutral & Polar	4bgq.A.12/42.947	-	-	-	4bgq.A.286/13.794	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+180	P	none	none	P>L	P>L (ClinVar, phenotype = Early infantile epileptic encephalopathy 2); P>L (HGMD, phenotype = Mental retardation and epilepsy)	-	0	0	alpha-helix	Helices	core	Special	4bgq.A.12/46.059	-	-	-	4bgq.A.286/15.863	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+181	E	none	none	E>A	E>A (ClinVar, phenotype = not provided)	-	4	0.018	alpha-helix	Helices	core	NegativelyCharged & Polar	4bgq.A.12/46.112	-	-	-	4bgq.A.286/15.612	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+182	L	none	none	L>P	L>P (HGMD, phenotype = Epileptic encephalopathy, early-onset)	-	22	0.109	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4bgq.A.12/42.595	-	-	-	4bgq.A.286/16.993	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+183	L	none	none	none	none	-	4	0.02	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.12/43.603	-	-	-	4bgq.A.286/19.589	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+184	L	none	none	none	none	-	0	0	turn	coils	core	Aliphatic & Hydrophobic	4bgq.A.12/46.664	-	-	-	4bgq.A.286/20.691	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+185	G	none	none	none	none	-	53	0.465	turn	coils	Medium-buried	Special	4bgq.A.12/44.858	-	-	-	4bgq.A.286/21.088	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+186	A	A>T	A>T (exome, AC = 1, AN = 183174, AF = 5.45929e-06)	none	none	-	16	0.124	loop	coils	buried	Aliphatic & Hydrophobic	4bgq.A.12/46.521	-	-	-	4bgq.A.286/18.72	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+187	P	none	none	none	none	-	121	0.761	loop	coils	exposed	Special	4bgq.A.12/45.476	-	-	-	4bgq.A.286/17.626	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+188	Y	none	none	none	none	-	77	0.293	loop	coils	Medium-buried	Aromatic & Hydrophobic	4bgq.A.12/43.444	-	-	-	4bgq.A.286/14.437	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+189	G	none	none	none	none	-	20	0.175	loop	coils	buried	Special	4bgq.A.12/42.388	-	-	-	4bgq.A.286/12.34	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+190	K	none	none	none	none	-	66	0.28	turn	coils	Medium-buried	Positively Charged & Polar	4bgq.A.12/40.922	-	-	-	4bgq.A.286/9.882	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+191	S	none	none	none	none	-	18	0.116	alpha-helix	Helices	buried	Neutral & Polar	4bgq.A.12/43.068	-	-	-	4bgq.A.286/7.603	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+192	V	none	none	none	none	-	1	0.006	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+193	D	none	none	D>N; D>G; D>H; D>G	D>N (ClinVar, phenotype = not provided); D>G (ClinVar, phenotype = Early infantile epileptic encephalopathy 2); D>H (HGMD, phenotype = Epileptic encephalopathy, early onset); D>G (HGMD, phenotype = Epilepsy, early-onset)	-	0	0	alpha-helix	Helices	core	Negatively Charged & Polar	4bgq.A.12/38.187	-	-	-	4bgq.A.286/10.558	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+194	M	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.12/40.968	-	-	-	4bgq.A.286/7.295	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+195	W	none	none	W>G; W>R	W>G (ClinVar, phenotype = Angelman syndrome-like,Early infantile epileptic encephalopathy 2); W>R (HGMD, phenotype = Encephalopathy with early epilepsy)	-	0	0	alpha-helix	Helices	core	Aromatic & Hydrophobic	4bgq.A.12/42.04	-	-	-	4bgq.A.286/9.423	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+196	S	none	none	S>L	S>L (ClinVar, phenotype = Early infantile epileptic encephalopathy 2,Epileptic encephalopathy,not provided); S>L (HGMD, phenotype = Encephalopathy with early epilepsy)	-	4	0.026	alpha-helix	Helices	core	Neutral & Polar	4bgq.A.12/38.632	-	-	-	4bgq.A.286/12.253	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+197	V	none	none	V>G	V>G (ClinVar, phenotype = not provided)	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.12/38.926	-	-	-	4bgq.A.286/10.773	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+198	G	none	none	G>D	G>D (HGMD, phenotype = Epileptic encephalopathy)	-	0	0	alpha-helix	Helices	core	Special	4bgq.A.12/42.316	-	-	-	4bgq.A.286/10.45	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+199	C	none	none	C>R	C>R (HGMD, phenotype = CDKL5 disorder)	-	2	0.012	alpha-helix	Helices	core	Special	4bgq.A.12/41.053	-	-	-	4bgq.A.262/12.152	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+200	I	none	none	none	none	-	1	0.005	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.33/38.149	-	-	-	4bgq.A.262/13.267	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+201	L	none	none	L>P	L>P (ClinVar, phenotype = not provided); L>P (HGMD, phenotype = CDKL5 disorder)	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.33/40.28	-	-	-	4bgq.A.262/11.03	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+202	G	none	none	G>E	G>E (HGMD, phenotype = CDKL5 disorder)	-	0	0	alpha-helix	Helices	core	Special	4bgq.A.33/42.442	-	-	-	4bgq.A.262/8.014	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+203	E	none	none	E>D	E>D (HGMD, phenotype = Rett syndrome, variant, with infantile spasms)	-	17	0.076	alpha-helix	Helices	buried	NegativelyCharged & Polar	4bgq.A.33/39.752	-	-	-	4bgq.A.262/10.552	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+204	L	none	none	none	none	-	1	0.005	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.33/37.874	-	-	-	4bgq.A.262/12.077	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+205	S	none	none	none	none	-	23	0.148	alpha-helix	Helices	buried	Neutral & Polar	4bgq.A.33/41.286	-	-	-	4bgq.A.262/9.119	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+206	D	none	none	D>Y; D>N	D>Y (ClinVar, phenotype = Early infantile epileptic encephalopathy 2); D>N (HGMD, phenotype = West syndrome)	-	21	0.109	alpha-helix	Helices	buried	Negatively Charged & Polar	4bgq.A.33/42.333	-	-	-	4bgq.A.262/8.855	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+207	G	none	none	G>E	G>E (HGMD, phenotype = Epileptic encephalopathy)	-	12	0.105	bend	coils	buried	Special	4bgq.A.33/39.343	-	-	-	4bgq.A.262/12.04	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+208	Q	none	none	none	none	-	85	0.378	loop	coils	Medium-buried	Neutral & Polar	4bgq.A.33/41.337	-	-	-	4bgq.A.262/11.15	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+209	P	none	none	P>R; P>L	P>R (ClinVar, phenotype = not provided); P>L (HGMD, phenotype = PEHO-like syndrome)	-	34	0.214	loop	coils	buried	Special	4bgq.A.12/40.844	-	-	-	4bgq.A.262/12.415	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+210	L	none	none	none	none	-	10	0.05	bend	coils	buried	Aliphatic & Hydrophobic	4bgq.A.12/43.831	-	-	-	4bgq.A.262/10.163	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+211	F	none	none	none	none	-	2	0.008	loop	coils	core	Aromatic & Hydrophobic	4bgq.A.12/44.075	-	-	-	4bgq.A.262/13.303	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+212	P	none	none	none	none	-	57	0.358	loop	coils	Medium-buried	Special	4bgq.A.12/42.627	-	-	-	4bgq.A.262/15.964	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+213	G	none	none	G>E; G>R; G>E	G>E (ClinVar, phenotype = Angelman syndrome-like,Early infantile epileptic encephalopathy 2); G>R (HGMD, phenotype = Encephalopathy, early-onset, and atypical Rett syndrome); G>E (HGMD, phenotype = Infantile spasms)	-	5	0.044	loop	coils	core	Special	4bgq.A.12/43.974	-	-	-	4bgq.A.262/18.763	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+214	E	none	none	none	none	-	171	0.767	bend	coils	exposed	NegativelyCharged & Polar	4bgq.A.12/43.673	-	-	-	4bgq.A.262/22.187	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+215	S	none	none	none	none	-	48	0.31	bend	coils	Medium-buried	Neutral & Polar	4bgq.A.12/43.909	-	-	-	4bgq.A.262/24.315	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+216	E	none	none	none	none	-	45	0.202	alpha-helix	Helices	buried	NegativelyCharged & Polar	4bgq.A.12/44.389	-	-	-	4bgq.A.262/24.498	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+217	I	none	none	none	none	-	37	0.188	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4bgq.A.12/48.157	-	-	-	4bgq.A.262/24.296	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+218	D	none	none	none	none	-	40	0.207	alpha-helix	Helices	buried	Negatively Charged & Polar	4bgq.A.12/47.897	-	-	-	4bgq.A.262/21.492	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+219	Q	none	none	Q>P	Q>P (ClinVar, phenotype = Atypical Rett syndrome,Inborn genetic diseases); Q>P (HGMD, phenotype = Rett syndrome, atypical)	-	0	0	alpha-helix	Helices	core	Neutral & Polar	4bgq.A.12/45.572	-	-	-	4bgq.A.262/19.479	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+220	L	none	none	L>P	L>P (ClinVar, phenotype = Angelman syndrome-like,Early infantile epileptic encephalopathy 2,Early infantile epileptic encephalopathy 2); L>P (HGMD, phenotype = Encephalopathy)	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.12/48.459	-	-	-	4bgq.A.262/19.924	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+221	F	F>L	F>L (exome, AC = 1, AN = 183254, AF = 5.45691e-06)	none	none	-	81	0.338	alpha-helix	Helices	Medium-buried	Aromatic & Hydrophobic	4bgq.A.12/50.825	-	-	-	4bgq.A.262/18.996	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+222	T	none	none	none	none	-	26	0.151	alpha-helix	Helices	buried	Neutral & Polar	4bgq.A.12/48.814	-	-	-	4bgq.A.262/15.708	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+223	I	none	none	I>S	I>S (HGMD, phenotype = CDKL5 disorder)	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.12/48.603	-	-	-	4bgq.A.262/14.74	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+224	Q	none	none	none	none	-	2	0.009	alpha-helix	Helices	core	Neutral & Polar	4bgq.A.12/52.39	-	-	-	4bgq.A.262/15.789	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+225	K	K>R	K>R (exome, AC = 1, AN = 183265, AF = 5.45658e-06)	none	none	-	30	0.127	alpha-helix	Helices	buried	Positively Charged & Polar	4bgq.A.12/53.159	-	-	-	4bgq.A.262/14.08	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+226	V	none	none	none	none	-	9	0.052	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4bgq.A.12/52.055	-	-	-	4bgq.A.262/10.764	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+227	L	none	none	L>R; L>P; L>R	L>R (ClinVar, phenotype = Early infantile epileptic encephalopathy 2); L>P (HGMD, phenotype = CDKL5 disorder); L>R (HGMD, phenotype = Encephalopathy with early epilepsy)	-	43	0.214	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4bgq.A.12/52.87	-	-	-	4bgq.A.262/12.494	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+228	G	none	none	G>E	G>E (HGMD, phenotype = Rett syndrome, Hanefeld variant)	-	6	0.053	loop	coils	buried	Special	4bgq.A.12/55.786	-	-	-	4bgq.A.262/15.629	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+229	P	none	none	none	none	-	81	0.509	bend	coils	Medium-exposed	Special	4bgq.A.12/56.388	-	-	-	4bgq.A.262/19.237	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+230	L	none	none	none	none	-	5	0.025	loop	coils	core	Aliphatic & Hydrophobic	4bgq.A.12/54.108	-	-	-	4bgq.A.286/18.067	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+231	P	none	none	none	none	-	34	0.214	loop	coils	buried	Special	4bgq.A.12/55.538	-	-	-	4bgq.A.286/17.133	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+232	S	S>A	S>A (exome, AC = 1, AN = 183259, AF = 5.45676e-06)	none	none	-	74	0.477	alpha-helix	Helices	Medium-buried	Neutral & Polar	4bgq.A.12/57.783	-	-	-	4bgq.A.286/20.109	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+233	E	none	none	none	none	-	133	0.596	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	4bgq.A.12/55.304	-	-	-	4bgq.A.286/19.252	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+234	Q	none	none	none	none	-	11	0.049	alpha-helix	Helices	core	Neutral & Polar	4bgq.A.12/52.62	-	-	-	4bgq.A.286/18.846	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+235	M	none	none	none	none	-	61	0.272	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.12/55.271	-	-	-	4bgq.A.286/22.063	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+236	K	none	none	none	none	-	119	0.504	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	4bgq.A.12/56.305	-	-	-	4bgq.A.286/23.814	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+237	L	none	none	none	none	-	39	0.194	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4bgq.A.12/52.715	-	-	-	4bgq.A.286/22.884	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+238	F	none	none	none	none	-	3	0.013	alpha-helix	Helices	core	Aromatic & Hydrophobic	4bgq.A.12/52.639	-	-	-	4bgq.A.286/24.571	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+239	Y	none	none	none	none	-	163	0.62	alpha-helix	Helices	Medium-exposed	Aromatic & Hydrophobic	4bgq.A.12/55.486	-	-	-	4bgq.A.286/27.753	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+240	S	none	none	none	none	-	83	0.535	alpha-helix	Helices	Medium-exposed	Neutral & Polar	4bgq.A.12/54.603	-	-	-	4bgq.A.286/27.563	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+241	N	none	none	none	none	-	36	0.185	bend	coils	buried	Neutral & Polar	4bgq.A.12/50.985	-	-	-	4bgq.A.286/26.905	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+242	P	P>T	P>T (exome, AC = 5, AN = 183086, AF = 2.73096e-05)	none	none	-	105	0.66	310-helix	Helices	Medium-exposed	Special	4bgq.A.12/51.38	-	-	-	4bgq.A.286/30.462	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+243	R	R>C	R>C (exome, AC = 1, AN = 183038, AF = 5.46335e-06)	none	none	-	163	0.595	310-helix	Helices	Medium-exposed	Positively Charged & Polar	4bgq.A.12/48.321	-	-	-	4bgq.A.286/29.315	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+244	F	F>L	F>L (genome, AC = 1, AN = 21668, AF = 4.6151e-05)	none	none	-	5	0.021	310-helix	Helices	core	Aromatic & Hydrophobic	4bgq.A.12/50.763	-	-	-	4bgq.A.286/29.211	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+245	H	H>R	H>R (exome, AC = 1, AN = 182937, AF = 5.46636e-06)	none	none	-	165	0.737	turn	coils	Medium-exposed	Positively Charged & Polar	4bgq.A.12/53.682	-	-	-	4bgq.A.286/32.525	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+246	G	none	none	none	none	-	77	0.675	turn	coils	Medium-exposed	Special	4bgq.A.12/56.218	-	-	-	4bgq.A.286/34.363	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+247	L	none	none	none	none	-	86	0.428	loop	coils	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.12/54.295	-	-	-	4bgq.A.262/31.917	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+248	R	R>Q	R>Q (exome, AC = 1, AN = 182677, AF = 5.47414e-06); R>Q (genome, AC = 1, AN = 21638, AF = 4.6215e-05)	none	none	-	177	0.646	loop	coils	Medium-exposed	Positively Charged & Polar	4bgq.A.12/56.06	-	-	-	4bgq.A.262/29.668	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+249	F	none	none	none	none	-	23	0.096	loop	coils	buried	Aromatic & Hydrophobic	4bgq.A.12/55.397	-	-	-	4bgq.A.262/26.877	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+250	P	none	none	none	none	-	0	0	loop	coils	core	Special	4bgq.A.12/54.492	-	-	-	4bgq.A.262/23.65	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+251	A	none	none	none	none	-	69	0.535	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	4bgq.A.12/57.429	-	-	-	4bgq.A.262/22.968	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+252	V	none	none	none	none	-	33	0.19	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+253	N	none	none	none	none	-	136	0.697	bend	coils	Medium-exposed	Neutral & Polar	4bgq.A.12/60.219	-	-	-	4bgq.A.262/19.876	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+254	H	H>R	H>R (exome, AC = 2, AN = 183438, AF = 1.09029e-05); H>R (genome, AC = 1, AN = 21973, AF = 4.55104e-05)	none	none	-	156	0.696	bend	coils	Medium-exposed	Positively Charged & Polar	4bgq.A.12/60.089	-	-	-	4bgq.A.262/16.81	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+255	P	none	none	none	none	-	52	0.327	loop	coils	Medium-buried	Special	4bgq.A.12/57.176	-	-	-	4bgq.A.262/13.885	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+256	Q	none	none	none	none	-	75	0.333	loop	coils	Medium-buried	Neutral & Polar	4bgq.A.12/55.924	-	-	-	4bgq.A.262/10.326	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+257	S	none	none	none	none	-	34	0.219	loop	coils	buried	Neutral & Polar	4bgq.A.12/54.915	-	-	-	4bgq.A.262/8.676	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+258	L	none	none	none	none	-	6	0.03	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.33/51.911	-	-	-	4bgq.A.262/5.849	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+259	E	none	none	none	none	-	89	0.399	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	4bgq.A.33/54.235	-	-	-	4bgq.A.262/5.533	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+260	R	none	none	none	none	-	171	0.624	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	4bgq.A.33/54.937	-	-	-	4bgq.A.262/5.546	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+261	R	none	none	none	none	-	48	0.175	alpha-helix	Helices	buried	Positively Charged & Polar	4bgq.A.33/51.437	-	-	-	4bgq.A.262/3.838	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+262	Y	none	none	none	none	-	3	0.011	alpha-helix	Helices	core	Aromatic & Hydrophobic	4bgq.A.33/49.912	-	-	-	4bgq.A.262/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+263	L	none	none	none	none	-	148	0.736	turn	coils	Medium-exposed	Aliphatic & Hydrophobic	4bgq.A.33/52.742	-	-	-	4bgq.A.262/3.79	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+264	G	none	none	none	none	-	79	0.693	turn	coils	Medium-exposed	Special	4bgq.A.33/51.334	-	-	-	4bgq.A.262/6.045	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+265	I	none	none	none	none	-	65	0.33	turn	coils	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.33/47.725	-	-	-	4bgq.A.262/5.016	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+266	L	none	none	none	none	-	19	0.095	bend	coils	buried	Aliphatic & Hydrophobic	4bgq.A.33/47.668	-	-	-	4bgq.A.262/5.565	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+267	N	none	none	none	none	-	92	0.472	loop	coils	Medium-buried	Neutral & Polar	4bgq.A.33/49.648	-	-	-	4bgq.A.262/8.515	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+268	S	none	none	none	none	-	97	0.626	alpha-helix	Helices	Medium-exposed	Neutral & Polar	4bgq.A.33/52.023	-	-	-	4bgq.A.262/9.65	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+269	V	none	none	none	none	-	51	0.293	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.33/49.75	-	-	-	4bgq.A.262/11.959	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+270	L	none	none	none	none	-	16	0.08	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4bgq.A.33/46.816	-	-	-	4bgq.A.262/9.885	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+271	L	none	none	L>P	L>P (HGMD, phenotype = Encephalopathy with early epilepsy)	-	29	0.144	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4bgq.A.33/49.381	-	-	-	4bgq.A.262/7.537	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+272	D	none	none	none	none	-	71	0.368	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	4bgq.A.33/50.836	-	-	-	4bgq.A.262/11.108	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+273	L	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.33/47.471	-	-	-	4bgq.A.286/8.576	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+274	M	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+275	K	none	none	none	none	-	72	0.305	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	4bgq.A.33/50.133	-	-	-	4bgq.A.286/9.579	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+276	N	none	none	none	none	-	23	0.118	alpha-helix	Helices	buried	Neutral & Polar	4bgq.A.12/49.285	-	-	-	4bgq.A.286/5.858	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+277	L	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4bgq.A.12/45.702	-	-	-	4bgq.A.286/5.862	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+278	L	none	none	none	none	-	4	0.02	bend	coils	core	Aliphatic & Hydrophobic	4bgq.A.12/47.021	-	-	-	4bgq.A.286/8.957	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+279	K	none	none	none	none	-	83	0.352	loop	coils	Medium-buried	Positively Charged & Polar	4bgq.A.12/49.872	-	-	-	4bgq.A.286/8.59	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+280	L	none	none	none	none	-	25	0.124	bend	coils	buried	Aliphatic & Hydrophobic	4bgq.A.12/50.236	-	-	-	4bgq.A.286/11.605	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+281	D	none	none	none	none	-	64	0.332	bend	coils	Medium-buried	Negatively Charged & Polar	4bgq.A.12/51.1	-	-	-	4bgq.A.286/10.932	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+282	P	none	none	none	none	-	29	0.182	310-helix	Helices	buried	Special	4bgq.A.12/47.97	-	-	-	4bgq.A.286/8.739	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+283	A	none	none	none	none	-	85	0.659	310-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	4bgq.A.12/50.422	-	-	-	4bgq.A.286/8.429	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+284	D	none	none	none	none	-	94	0.487	310-helix	Helices	Medium-buried	Negatively Charged & Polar	4bgq.A.12/51.463	-	-	-	4bgq.A.286/6.633	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+285	R	none	none	R>K; R>S; R>G; R>S	R>K (ClinVar, phenotype = not provided); R>S (ClinVar, phenotype = Early infantile epileptic encephalopathy 2,not provided); R>G (HGMD, phenotype = CDKL5 disorder); R>S (HGMD, phenotype = Encephalopathy with early epilepsy)	-	10	0.036	bend	coils	core	Positively Charged & Polar	4bgq.A.12/47.978	-	-	-	4bgq.A.286/3.774	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+286	Y	none	none	none	none	-	49	0.186	loop	coils	buried	Aromatic & Hydrophobic	4bgq.A.12/46.993	-	-	-	4bgq.A.286/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+287	L	none	none	none	none	-	71	0.353	loop	coils	Medium-buried	Aliphatic & Hydrophobic	4bgq.A.12/44.117	-	-	-	4bgq.A.286/3.792	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+288	T	none	none	T>I	T>I (ClinVar, phenotype = Early infantile epileptic encephalopathy 2); T>I (HGMD, phenotype = Encephalopathy with early epilepsy)	-	9	0.052	alpha-helix	Helices	buried	Neutral & Polar	4bgq.A.12/41.755	-	-	-	4bgq.A.286/6.64	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+289	E	none	none	none	none	-	136	0.61	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	4bgq.A.33/43.927	-	-	-	4bgq.A.286/8.105	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+290	Q	none	none	none	none	-	107	0.476	alpha-helix	Helices	Medium-buried	Neutral & Polar	4bgq.A.33/46.828	-	-	-	4bgq.A.286/5.888	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+291	C	none	none	C>R; C>Y	C>R (ClinVar, phenotype = not provided); C>Y (HGMD, phenotype = Encephalopathy with early epilepsy)	-	0	0	alpha-helix	Helices	core	Special	4bgq.A.33/44.573	-	-	-	4bgq.A.286/6.082	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+292	L	none	none	none	none	-	28	0.139	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4bgq.A.33/43.121	-	-	-	4bgq.A.286/9.673	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+293	N	none	none	none	none	-	102	0.523	turn	coils	Medium-exposed	Neutral & Polar	4bgq.A.33/46.778	-	-	-	4bgq.A.286/10.285	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+294	H	none	none	none	none	-	10	0.045	bend	coils	core	Positively Charged & Polar	4bgq.A.33/47.601	-	-	-	4bgq.A.286/9.684	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+295	P	P>L	P>L (exome, AC = 1, AN = 183326, AF = 5.45476e-06)	none	none	-	62	0.39	alpha-helix	Helices	Medium-buried	Special	4bgq.A.33/48.586	-	-	-	4bgq.A.286/13.185	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+296	T	T>A	T>A (exome, AC = 7, AN = 183330, AF = 3.81825e-05)	none	none	-	16	0.093	alpha-helix	Helices	buried	Neutral & Polar	4bgq.A.33/45.534	-	-	-	4bgq.A.286/13.119	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+297	F	none	none	none	none	-	36	0.15	alpha-helix	Helices	buried	Aromatic & Hydrophobic	4bgq.A.33/43.367	-	-	-	4bgq.A.286/13.859	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	F13-F297: Protein kinase	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+298	Q	none	none	none	none	-	113	0.502	alpha-helix	Helices	Medium-exposed	Neutral & Polar	4bgq.A.33/46.109	-	-	-	4bgq.A.286/15.408	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+299	T	none	none	none	none	-	96	0.558	loop	coils	Medium-exposed	Neutral & Polar	4bgq.A.33/47.439	-	-	-	4bgq.A.286/18.06	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+300	Q	none	none	none	none	-	181	0.804	loop	coils	exposed	Neutral & Polar	4bgq.A.33/46.212	-	-	-	4bgq.A.286/21.381	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+301	R	none	none	none	none	-	250	0.912	loop	coils	exposed	Positively Charged & Polar	4bgq.A.33/46.429	-	-	-	4bgq.A.262/22.46	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+302	L	L>F	L>F (exome, AC = 1, AN = 183364, AF = 5.45363e-06)	L>F	L>F (HGMD, phenotype = Encephalopathy with early epilepsy)	-	152	0.756	loop	coils	exposed	Aliphatic & Hydrophobic	4bgq.A.33/49.31	-	-	-	4bgq.A.262/25.111	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+303	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+304	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+305	R	R>C; R>H	R>C (exome, AC = 2, AN = 183355, AF = 1.09078e-05); R>H (exome, AC = 2, AN = 183348, AF = 1.09082e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+306	S	S>P	S>P (genome, AC = 1, AN = 21824, AF = 4.58211e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+307	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+308	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+309	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+310	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+311	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+312	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+313	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+314	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+315	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+316	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+317	H	H>R	H>R (exome, AC = 4, AN = 183326, AF = 2.18191e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+318	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+319	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+320	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+321	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+322	T	T>S	T>S (exome, AC = 1, AN = 183302, AF = 5.45548e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+323	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+324	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+325	N	N>D	N>D (exome, AC = 2, AN = 183258, AF = 1.09136e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+326	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+327	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+328	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+329	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+330	G	G>R	G>R (exome, AC = 3, AN = 183135, AF = 1.63814e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+331	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+332	S	S>N	S>N (exome, AC = 1, AN = 183242, AF = 5.45726e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+333	T	T>S	T>S (exome, AC = 2, AN = 183264, AF = 1.09132e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+334	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+335	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+336	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+337	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+338	H	H>Y	H>Y (exome, AC = 1, AN = 183346, AF = 5.45417e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+339	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+340	R	R>K	R>K (exome, AC = 1, AN = 183376, AF = 5.45328e-06); R>K (genome, AC = 1, AN = 21905, AF = 4.56517e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+341	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+342	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+343	S	S>G	S>G (exome, AC = 1, AN = 183412, AF = 5.45221e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+344	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+345	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+346	I	I>S	I>S (exome, AC = 1, AN = 183409, AF = 5.4523e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+347	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+348	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+349	L	L>V	L>V (exome, AC = 1, AN = 183410, AF = 5.45227e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+350	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+351	V	V>I	V>I (exome, AC = 1, AN = 183414, AF = 5.45215e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+352	G	G>R	G>R (exome, AC = 1, AN = 183429, AF = 5.4517e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+353	L	L>P	L>P (exome, AC = 1, AN = 183434, AF = 5.45155e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+354	P	P>S	P>S (exome, AC = 1, AN = 183422, AF = 5.45191e-06); P>S (genome, AC = 1, AN = 21586, AF = 4.63263e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+355	R	R>Q	R>Q (exome, AC = 2, AN = 183423, AF = 1.09038e-05); R>Q (genome, AC = 1, AN = 21521, AF = 4.64662e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+356	A	A>P	A>P (exome, AC = 2, AN = 183425, AF = 1.09036e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+357	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+358	E	E>K	E>K (exome, AC = 4, AN = 183439, AF = 2.18056e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+359	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+360	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+361	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+362	A	A>S	A>S (exome, AC = 3, AN = 183455, AF = 1.63528e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+363	N	N>H; N>S	N>H (exome, AC = 1, AN = 183458, AF = 5.45084e-06); N>S (exome, AC = 5, AN = 183461, AF = 2.72537e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+364	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+365	S	S>N	S>N (exome, AC = 2, AN = 183462, AF = 1.09014e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+366	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+367	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+368	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+369	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+370	N	N>T	N>T (exome, AC = 1, AN = 183469, AF = 5.45051e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+371	L	L>F	L>F (exome, AC = 1, AN = 183462, AF = 5.45072e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+372	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+373	G	G>A	G>A (exome, AC = 1, AN = 183451, AF = 5.45105e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+374	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+375	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+376	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+377	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+378	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+379	L	L>R	L>R (exome, AC = 1, AN = 183424, AF = 5.45185e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+380	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+381	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+382	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+383	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+384	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+385	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+386	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+387	S	S>G	S>G (exome, AC = 1, AN = 183342, AF = 5.45429e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+388	S	S>N	S>N (exome, AC = 1, AN = 183253, AF = 5.45694e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+389	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+390	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+391	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+392	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+393	T	T>A	T>A (genome, AC = 1, AN = 21866, AF = 4.57331e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+394	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+395	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+396	D	D>E	D>E (exome, AC = 1, AN = 183198, AF = 5.45857e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+397	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+398	T	T>A	T>A (exome, AC = 2, AN = 183182, AF = 1.09181e-05); T>A (genome, AC = 1, AN = 21897, AF = 4.56684e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+399	N	N>T	N>T (exome, AC = 2, AN = 183174, AF = 1.09186e-05)	N>T	N>T (HGMD, phenotype = Rett syndrome, variant, with infantile spasms)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+400	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+401	N	N>S	N>S (exome, AC = 1, AN = 183146, AF = 5.46012e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+402	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+403	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+404	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+405	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+406	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+407	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S407: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+408	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+409	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+410	E	E>D	E>D (exome, AC = 1, AN = 183070, AF = 5.46239e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+411	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+412	K	K>E	K>E (exome, AC = 1, AN = 183091, AF = 5.46176e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+413	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+414	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+415	T	T>A	T>A (exome, AC = 3, AN = 183104, AF = 1.63841e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+416	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+417	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+418	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+419	F	F>L	F>L (exome, AC = 1, AN = 183160, AF = 5.45971e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+420	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+421	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+422	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+423	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+424	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+425	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+426	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+427	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+428	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+429	P	P>L	P>L (exome, AC = 1, AN = 183243, AF = 5.45723e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+430	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+431	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+432	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+433	Y	Y>H	Y>H (exome, AC = 1, AN = 183289, AF = 5.45586e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+434	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+435	K	K>T	K>T (exome, AC = 1, AN = 183317, AF = 5.45503e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+436	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+437	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+438	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+439	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+440	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+441	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+442	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+443	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+444	R	R>C; R>H; R>L	R>C (exome, AC = 31, AN = 183294, AF = 0.000169127); R>H (exome, AC = 1, AN = 183259, AF = 5.45676e-06); R>L (exome, AC = 1, AN = 183259, AF = 5.45676e-06); R>C (genome, AC = 3, AN = 21895, AF = 0.000137018)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+445	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+446	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+447	F	F>L; F>C	F>L (exome, AC = 1, AN = 183268, AF = 5.45649e-06); F>C (exome, AC = 1, AN = 183260, AF = 5.45673e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+448	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+449	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+450	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+451	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+452	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+453	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+454	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+455	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+456	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+457	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+458	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+459	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+460	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+461	N	N>D; N>S; N>I	N>D (exome, AC = 1, AN = 182851, AF = 5.46893e-06); N>S (exome, AC = 4, AN = 182865, AF = 2.18741e-05); N>I (exome, AC = 4, AN = 182865, AF = 2.18741e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+462	E	E>D	E>D (exome, AC = 2, AN = 182820, AF = 1.09397e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+463	K	K>E	K>E (exome, AC = 1, AN = 182804, AF = 5.47034e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+464	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+465	S	S>G; S>N	S>G (exome, AC = 1, AN = 182681, AF = 5.47402e-06); S>N (exome, AC = 1, AN = 182644, AF = 5.47513e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+466	R	R>Q	R>Q (exome, AC = 1, AN = 182513, AF = 5.47906e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+467	H	H>R	H>R (exome, AC = 1, AN = 182529, AF = 5.47858e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+468	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+469	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+470	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+471	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+472	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+473	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+474	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+475	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+476	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+477	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+478	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+479	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S479: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+480	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+481	S	S>C	S>C (exome, AC = 4, AN = 181630, AF = 2.20228e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+482	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+483	R	R>G	R>G (exome, AC = 1, AN = 181843, AF = 5.49925e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+484	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+485	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+486	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+487	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+488	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+489	H	H>R	H>R (exome, AC = 1, AN = 182570, AF = 5.47735e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+490	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+491	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+492	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+493	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+494	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+495	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+496	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+497	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+498	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+499	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+500	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+501	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+502	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+503	E	E>D	E>D (exome, AC = 1, AN = 183150, AF = 5.46001e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+504	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+505	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+506	A	A>T	A>T (exome, AC = 1, AN = 183162, AF = 5.45965e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+507	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+508	I	I>T	I>T (exome, AC = 20, AN = 183248, AF = 0.000109142); I>T (genome, AC = 3, AN = 21809, AF = 0.000137558)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+509	A	A>V	A>V (exome, AC = 2, AN = 183201, AF = 1.0917e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+510	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+511	P	P>A	P>A (exome, AC = 1, AN = 183272, AF = 5.45637e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+512	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+513	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+514	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+515	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+516	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+517	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+518	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+519	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+520	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+521	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+522	L	L>V	L>V (exome, AC = 2, AN = 183420, AF = 1.09039e-05); L>V (genome, AC = 2, AN = 21786, AF = 9.18021e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+523	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+524	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+525	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+526	S	S>F	S>F (exome, AC = 1, AN = 183418, AF = 5.45203e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+527	P	P>S	P>S (genome, AC = 1, AN = 21802, AF = 4.58674e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+528	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+529	S	S>T; S>I	S>T (exome, AC = 3, AN = 183375, AF = 1.63599e-05); S>I (exome, AC = 1, AN = 183375, AF = 5.45331e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+530	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+531	T	T>A	T>A (exome, AC = 1, AN = 183370, AF = 5.45345e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+532	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+533	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+534	R	R>G	R>G (exome, AC = 1, AN = 183360, AF = 5.45375e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+535	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+536	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+537	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+538	T	T>M	T>M (exome, AC = 1, AN = 183321, AF = 5.45491e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+539	R	R>T	R>T (exome, AC = 4, AN = 183315, AF = 2.18204e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+540	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+541	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+542	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+543	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+544	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+545	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+546	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+547	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+548	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+549	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+550	R	R>Q	R>Q (exome, AC = 5, AN = 183226, AF = 2.72887e-05); R>Q (genome, AC = 1, AN = 21958, AF = 4.55415e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+551	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+552	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+553	G	G>V	G>V (exome, AC = 1, AN = 183255, AF = 5.45688e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+554	T	T>M	T>M (exome, AC = 1, AN = 183228, AF = 5.45768e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+555	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+556	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+557	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+558	R	R>C; R>H	R>C (exome, AC = 3, AN = 183248, AF = 1.63713e-05); R>H (exome, AC = 4, AN = 183217, AF = 2.1832e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+559	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+560	T	T>A	T>A (exome, AC = 1, AN = 183276, AF = 5.45625e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+561	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+562	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+563	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+564	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+565	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+566	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+567	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+568	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+569	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+570	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+571	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+572	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+573	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+574	P	P>L	P>L (exome, AC = 9, AN = 183199, AF = 4.91269e-05); P>L (genome, AC = 2, AN = 21971, AF = 9.10291e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+575	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+576	H	H>P	H>P (exome, AC = 1, AN = 183229, AF = 5.45765e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+577	M	M>V; M>T; M>I	M>V (exome, AC = 1, AN = 183233, AF = 5.45753e-06); M>T (exome, AC = 5, AN = 183229, AF = 2.72883e-05); M>I (exome, AC = 1, AN = 183233, AF = 5.45753e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+578	D	D>G	D>G (exome, AC = 1, AN = 183229, AF = 5.45765e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+579	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+580	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+581	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+582	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+583	H	H>Y	H>Y (exome, AC = 1, AN = 183248, AF = 5.45709e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+584	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+585	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+586	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+587	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+588	P	P>S	P>S (exome, AC = 1, AN = 183203, AF = 5.45843e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+589	H	none	none	H>H	H>H (HGMD, phenotype = Rett syndrome)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+590	E	E>K	E>K (exome, AC = 7, AN = 183181, AF = 3.82136e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+591	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+592	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+593	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+594	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+595	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+596	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+597	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+598	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+599	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+600	S	S>R	S>R (exome, AC = 1, AN = 183223, AF = 5.45783e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+601	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+602	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+603	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+604	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+605	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+606	Q	Q>R	Q>R (exome, AC = 1, AN = 183247, AF = 5.45712e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+607	R	R>H	R>H (genome, AC = 1, AN = 21777, AF = 4.592e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+608	P	P>S; P>L	P>S (exome, AC = 1, AN = 183231, AF = 5.45759e-06); P>L (exome, AC = 1, AN = 183238, AF = 5.45738e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+609	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+610	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+611	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+612	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+613	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+614	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+615	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+616	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+617	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+618	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+619	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+620	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+621	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+622	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+623	K	K>N	K>N (exome, AC = 1, AN = 183107, AF = 5.46129e-06); K>N (genome, AC = 1, AN = 21793, AF = 4.58863e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+624	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+625	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+626	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+627	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+628	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+629	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+630	S	S>N	S>N (exome, AC = 1, AN = 182980, AF = 5.46508e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+631	I	I>T	I>T (exome, AC = 6, AN = 182969, AF = 3.27924e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+632	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+633	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+634	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+635	M	M>I	M>I (exome, AC = 1, AN = 182843, AF = 5.46917e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+636	A	A>S	A>S (exome, AC = 1, AN = 182858, AF = 5.46872e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+637	A	A>G	A>G (exome, AC = 3, AN = 182792, AF = 1.64121e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+638	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+639	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+640	N	N>S	N>S (exome, AC = 1, AN = 182657, AF = 5.47474e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+641	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+642	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+643	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+644	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+645	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+646	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+647	P	P>T	P>T (genome, AC = 1, AN = 21650, AF = 4.61894e-05)	P>L	P>L (HGMD, phenotype = Autism spectrum disorder)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+648	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+649	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+650	G	G>E	G>E (exome, AC = 1, AN = 182768, AF = 5.47142e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+651	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+652	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+653	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+654	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+655	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+656	E	E>Q	E>Q (exome, AC = 1, AN = 183190, AF = 5.45881e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+657	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+658	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+659	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+660	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+661	R	R>I	R>I (exome, AC = 1, AN = 183307, AF = 5.45533e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+662	S	S>P	S>P (exome, AC = 3, AN = 183306, AF = 1.63661e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+663	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+664	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+665	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+666	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+667	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+668	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+669	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+670	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+671	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+672	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+673	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+674	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+675	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+676	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+677	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+678	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+679	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+680	K	K>N	K>N (exome, AC = 1, AN = 182832, AF = 5.4695e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+681	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+682	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+683	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+684	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+685	V	V>M	V>M (exome, AC = 1, AN = 183345, AF = 5.4542e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+686	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+687	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+688	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+689	P	P>R	P>R (genome, AC = 1, AN = 21882, AF = 4.56997e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+690	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+691	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+692	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+693	D	D>N	D>N (exome, AC = 1, AN = 183365, AF = 5.4536e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+694	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+695	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+696	A	A>T	A>T (exome, AC = 3, AN = 183354, AF = 1.63618e-05); A>T (genome, AC = 2, AN = 21893, AF = 9.13534e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+697	P	P>A	P>A (exome, AC = 1, AN = 183364, AF = 5.45363e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+698	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+699	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+700	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+701	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+702	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+703	L	L>V	L>V (exome, AC = 1, AN = 183390, AF = 5.45286e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+704	Y	Y>S	Y>S (exome, AC = 1, AN = 183388, AF = 5.45292e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+705	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+706	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+707	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+708	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+709	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+710	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+711	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+712	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+713	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+714	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+715	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+716	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+717	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+718	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+719	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+720	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S720: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+721	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+722	R	R>C	R>C (exome, AC = 2, AN = 183114, AF = 1.09222e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+723	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+724	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+725	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+726	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+727	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+728	H	H>R	H>R (exome, AC = 1, AN = 183320, AF = 5.45494e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+729	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+730	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+731	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+732	V	V>M	V>M (exome, AC = 1, AN = 183337, AF = 5.45444e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+733	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+734	T	T>A	T>A (exome, AC = 5, AN = 183371, AF = 2.72671e-05); T>A (genome, AC = 2, AN = 21362, AF = 9.36242e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+735	R	R>G	R>G (exome, AC = 1, AN = 183394, AF = 5.45274e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+736	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+737	S	S>P	S>P (exome, AC = 1, AN = 183430, AF = 5.45167e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+738	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+739	L	L>V	L>V (exome, AC = 1, AN = 183443, AF = 5.45128e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+740	P	P>T; P>A	P>T (exome, AC = 1, AN = 183427, AF = 5.45176e-06); P>A (exome, AC = 1, AN = 183427, AF = 5.45176e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+741	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+742	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+743	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+744	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+745	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+746	G	G>A	G>A (genome, AC = 1, AN = 21555, AF = 4.63929e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+747	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+748	N	N>S	N>S (exome, AC = 9, AN = 183342, AF = 4.90886e-05); N>S (genome, AC = 2, AN = 21585, AF = 9.26569e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+749	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+750	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+751	K	K>R	K>R (exome, AC = 1, AN = 183354, AF = 5.45393e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+752	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+753	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+754	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+755	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+756	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+757	D	D>N	D>N (exome, AC = 2, AN = 183254, AF = 1.09138e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+758	P	P>S	P>S (exome, AC = 2, AN = 183153, AF = 1.09198e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+759	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+760	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+761	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S761: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+762	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+763	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+764	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+765	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+766	S	S>C	S>C (exome, AC = 1, AN = 176953, AF = 5.65122e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+767	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+768	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+769	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+770	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+771	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+772	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+773	E	E>G	E>G (exome, AC = 1, AN = 179674, AF = 5.56564e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+774	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+775	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+776	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+777	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+778	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+779	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+780	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+781	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+782	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+783	M	M>L	M>L (exome, AC = 2, AN = 177383, AF = 1.1275e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+784	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+785	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+786	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+787	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+788	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+789	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+790	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+791	Q	Q>P	Q>P (exome, AC = 5337, AN = 170666, AF = 0.0312716); Q>P (genome, AC = 680, AN = 21980, AF = 0.0309372)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+792	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+793	V	V>I; V>A	V>I (exome, AC = 2, AN = 182876, AF = 1.09364e-05); V>A (exome, AC = 1, AN = 182886, AF = 5.46789e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+794	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+795	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+796	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+797	D	D>N; D>H	D>N (exome, AC = 51, AN = 182916, AF = 0.000278817); D>H (exome, AC = 1, AN = 182916, AF = 5.46699e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+798	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+799	P	P>A	P>A (exome, AC = 1, AN = 182987, AF = 5.46487e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+800	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+801	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+802	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+803	T	T>M	T>M (exome, AC = 2, AN = 182917, AF = 1.09339e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+804	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+805	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+806	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+807	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+808	I	I>V	I>V (exome, AC = 1, AN = 182888, AF = 5.46783e-06); I>V (genome, AC = 1, AN = 21586, AF = 4.63263e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+809	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+810	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+811	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+812	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+813	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+814	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+815	S	S>I	S>I (exome, AC = 1, AN = 182775, AF = 5.47121e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+816	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+817	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+818	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+819	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+820	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+821	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+822	R	R>C; R>H	R>C (exome, AC = 2, AN = 182628, AF = 1.09512e-05); R>H (exome, AC = 1, AN = 182596, AF = 5.47657e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+823	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+824	E	E>K	E>K (exome, AC = 1, AN = 182681, AF = 5.47402e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+825	K	K>N	K>N (exome, AC = 1, AN = 182673, AF = 5.47426e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+826	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+827	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+828	D	D>H	D>H (exome, AC = 4, AN = 182662, AF = 2.18984e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+829	L	L>V; L>P	L>V (exome, AC = 1, AN = 182668, AF = 5.47441e-06); L>P (exome, AC = 1, AN = 182663, AF = 5.47456e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+830	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+831	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+832	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+833	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+834	Q	Q>H	Q>H (genome, AC = 1, AN = 21889, AF = 4.5685e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+835	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+836	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+837	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+838	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+839	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+840	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+841	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+842	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+843	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+844	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+845	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+846	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+847	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+848	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+849	S	S>L	S>L (genome, AC = 1, AN = 21996, AF = 4.54628e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+850	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+851	H	H>N; H>R	H>N (exome, AC = 4, AN = 183455, AF = 2.18037e-05); H>R (exome, AC = 1, AN = 183447, AF = 5.45117e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+852	P	P>L	P>L (exome, AC = 2, AN = 183464, AF = 1.09013e-05); P>L (genome, AC = 4, AN = 21982, AF = 0.000181967)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+853	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+854	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+855	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+856	D	D>V	D>V (exome, AC = 2, AN = 183486, AF = 1.09e-05); D>V (genome, AC = 1, AN = 21949, AF = 4.55602e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+857	P	P>L	P>L (exome, AC = 1, AN = 183488, AF = 5.44995e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+858	R	R>C; R>H	R>C (exome, AC = 7, AN = 183479, AF = 3.81515e-05); R>H (exome, AC = 1, AN = 183483, AF = 5.4501e-06); R>H (genome, AC = 1, AN = 21927, AF = 4.56059e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+859	F	F>Y	F>Y (exome, AC = 1, AN = 183489, AF = 5.44992e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+860	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+861	P	P>S	P>S (exome, AC = 1, AN = 183485, AF = 5.45004e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+862	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+863	T	T>A	T>A (exome, AC = 2, AN = 183492, AF = 1.08997e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+864	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+865	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+866	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+867	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+868	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+869	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+870	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+871	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+872	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+873	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+874	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+875	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+876	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+877	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+878	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+879	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+880	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+881	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+882	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+883	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+884	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+885	G	G>R	G>R (exome, AC = 1, AN = 183311, AF = 5.45521e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+886	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+887	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+888	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+889	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+890	R	R>W; R>Q	R>W (exome, AC = 1, AN = 183183, AF = 5.45902e-06); R>Q (exome, AC = 2, AN = 183171, AF = 1.09188e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+891	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+892	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+893	P	P>S	P>S (exome, AC = 14, AN = 182994, AF = 7.65052e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+894	A	A>T	A>T (exome, AC = 10, AN = 182820, AF = 5.46986e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+895	P	P>L	P>L (exome, AC = 2, AN = 182799, AF = 1.0941e-05)	P>L	P>L (HGMD, phenotype = CDKL5 disorder without epilepsy)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+896	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+897	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+898	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+899	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+900	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+901	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+902	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+903	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+904	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+905	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+906	G	G>S	G>S (exome, AC = 2, AN = 181627, AF = 1.10116e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+907	G	G>R; G>V	G>R (exome, AC = 1, AN = 181634, AF = 5.50558e-06); G>V (exome, AC = 2, AN = 181635, AF = 1.10111e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+908	C	C>Y	C>Y (genome, AC = 1, AN = 21962, AF = 4.55332e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+909	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+910	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+911	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+912	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+913	Q	Q>R; Q>H	Q>R (exome, AC = 2, AN = 181644, AF = 1.10105e-05); Q>H (exome, AC = 2, AN = 181642, AF = 1.10107e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+914	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+915	H	H>R	H>R (exome, AC = 1, AN = 181641, AF = 5.50536e-06); H>R (genome, AC = 1, AN = 21968, AF = 4.55208e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+916	H	H>R	H>R (exome, AC = 1, AN = 181643, AF = 5.5053e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+917	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+918	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+919	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+920	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+921	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+922	R	R>S	R>S (exome, AC = 4, AN = 181640, AF = 2.20216e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+923	R	R>S; R>C; R>H	R>S (exome, AC = 4, AN = 181639, AF = 2.20217e-05); R>C (exome, AC = 11, AN = 181639, AF = 6.05597e-05); R>H (exome, AC = 2, AN = 181633, AF = 1.10112e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+924	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+925	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+926	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+927	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+928	T	T>P; T>M	T>P (exome, AC = 1, AN = 181635, AF = 5.50555e-06); T>M (exome, AC = 2, AN = 181634, AF = 1.10112e-05); T>M (genome, AC = 1, AN = 21876, AF = 4.57122e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+929	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+930	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+931	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+932	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+933	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+934	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+935	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+936	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+937	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+938	C	C>S	C>S (genome, AC = 2, AN = 21953, AF = 9.11037e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+939	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+940	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+941	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+942	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+943	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+944	P	P>T	P>T (exome, AC = 11, AN = 183490, AF = 5.99488e-05); P>T (genome, AC = 1, AN = 21895, AF = 4.56725e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+945	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+946	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+947	P	P>L	P>L (exome, AC = 1, AN = 183497, AF = 5.44968e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+948	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+949	V	V>I	V>I (exome, AC = 3, AN = 183493, AF = 1.63494e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+950	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+951	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+952	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+953	A	A>S	A>S (exome, AC = 2, AN = 183508, AF = 1.08987e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+954	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+955	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+956	R	R>C; R>H; R>L	R>C (exome, AC = 1, AN = 183509, AF = 5.44932e-06); R>H (exome, AC = 8, AN = 183499, AF = 4.3597e-05); R>L (exome, AC = 6, AN = 183499, AF = 3.26977e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+957	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+958	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+959	S	S>P; S>C	S>P (exome, AC = 1, AN = 183502, AF = 5.44953e-06); S>C (exome, AC = 1, AN = 183501, AF = 5.44956e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+960	S	S>N; S>T	S>N (exome, AC = 2, AN = 183507, AF = 1.08988e-05); S>T (exome, AC = 2, AN = 183507, AF = 1.08988e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+961	P	P>A	P>A (genome, AC = 1, AN = 21979, AF = 4.5498e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+962	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+963	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+964	Y	Y>H	Y>H (exome, AC = 4, AN = 183504, AF = 2.17979e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+965	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+966	V	V>I; V>A	V>I (exome, AC = 6, AN = 183481, AF = 3.27009e-05); V>A (exome, AC = 1, AN = 183491, AF = 5.44986e-06)	V>I	V>I (HGMD, phenotype = Rett syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+967	L	L>V	L>V (exome, AC = 1, AN = 183490, AF = 5.44989e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+968	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+969	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+970	R	R>Q	R>Q (exome, AC = 6, AN = 183455, AF = 3.27056e-05); R>Q (genome, AC = 2, AN = 21972, AF = 9.10249e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+971	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+972	T	T>I	T>I (exome, AC = 1, AN = 183442, AF = 5.45131e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+973	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+974	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+975	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+976	P	P>L	P>L (exome, AC = 8, AN = 183387, AF = 4.36236e-05); P>L (genome, AC = 1, AN = 21978, AF = 4.55e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+977	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+978	L	L>R	L>R (exome, AC = 5, AN = 183424, AF = 2.72592e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+979	Q	Q>E	Q>E (exome, AC = 2, AN = 183411, AF = 1.09045e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+980	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+981	R	R>G; R>Q; R>P	R>G (exome, AC = 2, AN = 183367, AF = 1.09071e-05); R>Q (exome, AC = 2, AN = 183360, AF = 1.09075e-05); R>Q (genome, AC = 1, AN = 21991, AF = 4.54731e-05); R>P (genome, AC = 2, AN = 21991, AF = 9.09463e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+982	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+983	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+984	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+985	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+986	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+987	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+988	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+989	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+990	T	T>I	T>I (exome, AC = 2, AN = 183058, AF = 1.09255e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+991	Q	Q>R	Q>R (genome, AC = 1, AN = 22008, AF = 4.5438e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+992	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+993	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+994	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+995	F	F>C; F>L	F>C (exome, AC = 2, AN = 180978, AF = 1.10511e-05); F>L (exome, AC = 1, AN = 181050, AF = 5.52334e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+996	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+997	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+998	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+999	V	V>M; V>L; V>A	V>M (exome, AC = 1548, AN = 181957, AF = 0.0085075); V>L (exome, AC = 1, AN = 181957, AF = 5.4958e-06); V>A (exome, AC = 1, AN = 182185, AF = 5.48893e-06); V>M (genome, AC = 637, AN = 21585, AF = 0.0295112); V>A (genome, AC = 1, AN = 21652, AF = 4.61851e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1000	R	R>K	R>K (exome, AC = 1, AN = 182360, AF = 5.48366e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1001	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1002	V	V>I	V>I (exome, AC = 5, AN = 182521, AF = 2.73941e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1003	M	M>I	M>I (exome, AC = 1, AN = 182651, AF = 5.47492e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1004	R	R>S	R>S (exome, AC = 3, AN = 182720, AF = 1.64186e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1005	E	E>K	E>K (genome, AC = 1, AN = 21680, AF = 4.61255e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1006	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1007	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1008	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1009	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1010	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1011	A	A>T; A>V	A>T (exome, AC = 1, AN = 182892, AF = 5.46771e-06); A>V (exome, AC = 2, AN = 182861, AF = 1.09373e-05)	A>V	A>V (HGMD, phenotype = Rett syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1012	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1013	V	V>I	V>I (exome, AC = 1, AN = 182886, AF = 5.46789e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1014	N	N>K	N>K (exome, AC = 1, AN = 182887, AF = 5.46786e-06); N>K (genome, AC = 1, AN = 21842, AF = 4.57834e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1015	Q	Q>E	Q>E (exome, AC = 2, AN = 182878, AF = 1.09363e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1016	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1017	A	A>V	A>V (exome, AC = 3, AN = 182790, AF = 1.64123e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1018	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1019	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1020	T	T>K	T>K (exome, AC = 9, AN = 182799, AF = 4.92344e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1021	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1022	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1023	E	E>Q; E>G	E>Q (exome, AC = 1, AN = 182651, AF = 5.47492e-06); E>G (exome, AC = 3, AN = 182634, AF = 1.64263e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1024	N	N>S	N>S (exome, AC = 1, AN = 182587, AF = 5.47684e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1025	A	A>E	A>E (exome, AC = 1, AN = 182121, AF = 5.49085e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1026	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1027	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1028	T	T>M	T>M (exome, AC = 4, AN = 181765, AF = 2.20064e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1029	G	G>S; G>V	G>S (exome, AC = 2, AN = 181691, AF = 1.10077e-05); G>V (exome, AC = 1, AN = 181501, AF = 5.50961e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1030	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

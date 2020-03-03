@@ -1,0 +1,456 @@
+Amino Acid Index	Amino Acid	Population Mutation	Population Mutation (details)	Pathogenic Mutation	Pathogenic Mutation (details)	Bond Detail	Accessible Surface Area	Relative Accessible Surface Area	8-class DSSP Secondary Structure Properties	3-class DSSP Secondary Structure Properties	Exposure	Physiochemical Property	Acetylation Detail	Methylation Detail	O.GalNAc Detail	O.GclNAc Detail	Phosphorylation Detail	Sumoylation Detail	Ubiquitination Detail	Active Site	Metal Binding Site	binding Site	Site	Zinc Finger	Dna Binding	Nucleotide Phosphate Binding	Calcium Binding	Region	Repeat	Coiled Coil	Topological Domain	Peptide	Modified Residue	Motif	Domain	Intramembrane	Propetide	Lipidation	Glycosylation	Cross Links	Disulfide Bond	Transit Peptide	Transmembrane	Signal Peptide	Functional Site	Functional Binding Region	Sequence Motif Region	Modular Domain	Molecular Processing	Modified Residues
+1	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+2	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+3	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+4	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+5	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+6	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+7	M	M>V; M>I	M>V (exome, AC = 22, AN = 251448, AF = 8.74932e-05); M>I (exome, AC = 3, AN = 251450, AF = 1.19308e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+8	T	T>S	T>S (exome, AC = 163, AN = 251434, AF = 0.000648281); T>S (genome, AC = 5, AN = 31394, AF = 0.000159266)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+9	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+10	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+11	I	I>N	I>N (exome, AC = 1, AN = 251464, AF = 3.97671e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+12	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+13	L	L>V	L>V (exome, AC = 1, AN = 251460, AF = 3.97678e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+14	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+15	L	L>F	L>F (exome, AC = 9, AN = 251458, AF = 3.57913e-05); L>F (genome, AC = 4, AN = 31394, AF = 0.000127413)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+16	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+17	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+18	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+19	S	S>A; S>C	S>A (exome, AC = 1, AN = 251480, AF = 3.97646e-06); S>C (exome, AC = 1, AN = 251476, AF = 3.97652e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+20	I	I>L	I>L (exome, AC = 1, AN = 251472, AF = 3.97659e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+21	V	V>M	V>M (exome, AC = 19, AN = 251462, AF = 7.55581e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+22	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1-S22: signal peptide 1-22	-	-	-	-	signal peptide	-
+23	Q	Q>R	Q>R (exome, AC = 6, AN = 251466, AF = 2.38601e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+24	P	P>L	P>L (exome, AC = 10, AN = 251450, AF = 3.97693e-05); P>L (genome, AC = 1, AN = 31396, AF = 3.18512e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+25	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+26	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+27	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+28	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+29	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+30	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+31	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+32	P	P>L	P>L (exome, AC = 1, AN = 251444, AF = 3.97703e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+33	I	I>V	I>V (exome, AC = 1, AN = 251454, AF = 3.97687e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+34	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+35	A	A>V	A>V (exome, AC = 1, AN = 251392, AF = 3.97785e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+36	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+37	L	L>P; L>F	L>P (exome, AC = 1, AN = 250628, AF = 3.98998e-06); L>F (genome, AC = 1, AN = 31408, AF = 3.1839e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+38	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+39	S	S>N; S>R	S>N (exome, AC = 1, AN = 250868, AF = 3.98616e-06); S>R (exome, AC = 9, AN = 250880, AF = 3.58737e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+40	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+41	D	D>N	D>N (exome, AC = 3, AN = 251120, AF = 1.19465e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+42	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+43	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+44	K	K>N	K>N (exome, AC = 1, AN = 251238, AF = 3.98029e-06); K>N (genome, AC = 1, AN = 31402, AF = 3.18451e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+45	R	R>C; R>H; R>P	R>C (exome, AC = 11, AN = 251208, AF = 4.37884e-05); R>H (exome, AC = 11, AN = 251230, AF = 4.37846e-05); R>C (genome, AC = 2, AN = 31402, AF = 6.36902e-05); R>P (genome, AC = 1, AN = 31402, AF = 3.18451e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+46	G	G>S; G>V	G>S (exome, AC = 2, AN = 251254, AF = 7.96007e-06); G>V (exome, AC = 1, AN = 251244, AF = 3.98019e-06); G>S (genome, AC = 1, AN = 31402, AF = 3.18451e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+47	G	G>D	G>D (exome, AC = 2, AN = 251290, AF = 7.95893e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+48	H	H>Y	H>Y (exome, AC = 2, AN = 251330, AF = 7.95767e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+49	K	K>R	K>R (exome, AC = 1, AN = 251370, AF = 3.9782e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+50	A	A>V	A>V (exome, AC = 1, AN = 251368, AF = 3.97823e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+51	C	C>Y	C>Y (exome, AC = 1, AN = 251384, AF = 3.97798e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	C51: Interchain (with T subunit) left;C51: Interchain (with T subunit) right	-	-	-	-	-	region	-	-	disulfide bond
+52	C	C>Y	C>Y (exome, AC = 5, AN = 251390, AF = 1.98894e-05); C>Y (genome, AC = 1, AN = 31404, AF = 3.18431e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	C52: Interchain (with T subunit) left;C52: Interchain (with T subunit) right	-	-	-	-	-	region	-	-	disulfide bond
+53	L	none	none	none	none	-	29	0.14400000000000002	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+54	L	none	none	none	none	-	2	0.01	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+55	T	T>A; T>K; T>M	T>A (exome, AC = 2, AN = 251396, AF = 7.95558e-06); T>K (exome, AC = 2, AN = 251418, AF = 7.95488e-06); T>M (genome, AC = 2, AN = 31388, AF = 6.37186e-05)	none	none	-	0	0	loop	coils	core	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+56	P	P>S; P>L	P>S (exome, AC = 1, AN = 251424, AF = 3.97735e-06); P>L (exome, AC = 54, AN = 251426, AF = 0.000214775); P>L (genome, AC = 2, AN = 31402, AF = 6.36902e-05)	none	none	-	0	0	loop	coils	core	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+57	P	P>R	P>R (exome, AC = 1, AN = 251440, AF = 3.97709e-06)	none	none	-	0	0	loop	coils	core	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+58	P	P>S; P>L	P>S (exome, AC = 1, AN = 251456, AF = 3.97684e-06); P>L (exome, AC = 1, AN = 251458, AF = 3.97681e-06)	none	none	-	0	0	loop	coils	core	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+59	P	P>S	P>S (exome, AC = 9, AN = 251452, AF = 3.57921e-05)	P>S; P>Q	P>S (ClinVar, phenotype = Endplate acetylcholinesterase deficiency); P>Q (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	0	0	loop	coils	core	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+60	P	none	none	none	none	-	3.5	0.022000000000000002	loop	coils	core	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+61	L	none	none	none	none	-	7.5	0.037000000000000005	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+62	F	none	none	none	none	-	6	0.025	loop	coils	core	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+63	P	P>T	P>T (exome, AC = 1, AN = 251458, AF = 3.97681e-06)	none	none	-	5	0.031	loop	coils	core	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+64	P	P>Q	P>Q (exome, AC = 2, AN = 251450, AF = 7.95387e-06)	none	none	-	10	0.063	loop	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+65	P	P>L	P>L (exome, AC = 1, AN = 251442, AF = 3.97706e-06)	none	none	-	2	0.013000000000000001	loop	coils	core	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+66	F	none	none	none	none	-	102.5	0.42700000000000005	loop	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+67	F	none	none	none	none	-	40.5	0.16899999999999998	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C51-F67: PRAD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+68	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+69	G	G>S	G>S (exome, AC = 1, AN = 251436, AF = 3.97716e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+70	G	G>V	G>V (exome, AC = 1, AN = 251432, AF = 3.97722e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+71	R	R>Q	R>Q (exome, AC = 9, AN = 251430, AF = 3.57953e-05); R>Q (genome, AC = 1, AN = 31402, AF = 3.18451e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+72	S	S>G; S>N	S>G (exome, AC = 3, AN = 251436, AF = 1.19315e-05); S>N (exome, AC = 1, AN = 251428, AF = 3.97728e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+73	P	P>L	P>L (exome, AC = 8, AN = 251424, AF = 3.18188e-05); P>L (genome, AC = 1, AN = 31402, AF = 3.18451e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+74	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+75	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+76	S	S>P	S>P (genome, AC = 2, AN = 31378, AF = 6.37389e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+77	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+78	D	D>V	D>V (genome, AC = 1, AN = 31378, AF = 3.18695e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+79	M	M>L; M>R; M>K	M>L (exome, AC = 2, AN = 250400, AF = 7.98722e-06); M>R (exome, AC = 1, AN = 250394, AF = 3.99371e-06); M>K (genome, AC = 1, AN = 31388, AF = 3.18593e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+80	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+81	N	N>D; N>S	N>D (exome, AC = 3, AN = 250480, AF = 1.1977e-05); N>S (exome, AC = 3, AN = 250510, AF = 1.19756e-05); N>D (genome, AC = 1, AN = 31386, AF = 3.18613e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+82	L	L>P	L>P (exome, AC = 1, AN = 250576, AF = 3.99081e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+83	M	M>R; M>I	M>R (exome, AC = 1, AN = 250608, AF = 3.9903e-06); M>I (exome, AC = 1, AN = 250568, AF = 3.99093e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+84	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+85	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+86	L	L>P	L>P (exome, AC = 1, AN = 250634, AF = 3.98988e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+87	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+88	T	T>I	T>I (exome, AC = 1, AN = 250646, AF = 3.98969e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+89	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+90	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+91	S	S>Y	S>Y (genome, AC = 1, AN = 31392, AF = 3.18552e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+92	P	P>L	P>L (exome, AC = 1, AN = 250424, AF = 3.99323e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+93	C	C>R	C>R (exome, AC = 1, AN = 250528, AF = 3.99157e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C93: Interchain left;C93: Interchain right	-	-	-	-	-	-	-	-	disulfide bond
+94	M	M>T; M>I	M>T (exome, AC = 1, AN = 250446, AF = 3.99288e-06); M>I (exome, AC = 6, AN = 250382, AF = 2.39634e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+95	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+96	G	G>S	G>S (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+97	S	S>T; S>L	S>T (exome, AC = 1, AN = 250222, AF = 3.99645e-06); S>L (exome, AC = 8, AN = 250058, AF = 3.19926e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+98	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+99	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+100	S	S>Y	S>Y (genome, AC = 1, AN = 31396, AF = 3.18512e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+101	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+102	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+103	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+104	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+105	G	G>S	G>S (exome, AC = 2, AN = 248686, AF = 8.04227e-06); G>S (genome, AC = 2, AN = 31392, AF = 6.37105e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+106	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+107	Q	Q>E	Q>E (exome, AC = 1, AN = 248334, AF = 4.02683e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+108	G	G>C	G>C (exome, AC = 1, AN = 251432, AF = 3.97722e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+109	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+110	P	P>L	P>L (exome, AC = 3, AN = 251438, AF = 1.19314e-05); P>L (genome, AC = 2, AN = 31398, AF = 6.36983e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+111	G	G>E	G>E (exome, AC = 2, AN = 251444, AF = 7.95406e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+112	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+113	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+114	G	G>V	G>V (exome, AC = 1, AN = 251450, AF = 3.97693e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+115	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+116	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+117	G	G>E	G>E (exome, AC = 2, AN = 251460, AF = 7.95355e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+118	P	P>S	P>S (exome, AC = 1, AN = 251464, AF = 3.97671e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+119	K	K>M	K>M (exome, AC = 3, AN = 251458, AF = 1.19304e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+120	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+121	E	E>A	E>A (exome, AC = 1, AN = 251460, AF = 3.97678e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+122	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+123	G	G>R; G>A	G>R (exome, AC = 1, AN = 251364, AF = 3.97829e-06); G>A (exome, AC = 4, AN = 251372, AF = 1.59127e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+124	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+125	L	L>F	L>F (exome, AC = 1, AN = 251364, AF = 3.97829e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+126	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+127	R	R>G; R>Q	R>G (exome, AC = 11, AN = 251370, AF = 4.37602e-05); R>Q (exome, AC = 9, AN = 251368, AF = 3.58041e-05); R>G (genome, AC = 5, AN = 31388, AF = 0.000159297); R>Q (genome, AC = 2, AN = 31380, AF = 6.37349e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+128	P	P>A; P>L	P>A (exome, AC = 3, AN = 251362, AF = 1.1935e-05); P>L (exome, AC = 1, AN = 251358, AF = 3.97839e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+129	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+130	R	R>G; R>K	R>G (exome, AC = 1, AN = 251360, AF = 3.97836e-06); R>K (exome, AC = 6, AN = 251362, AF = 2.387e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R130-R133: Heparan sulfate proteoglycan binding	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+131	K	K>E; K>M	K>E (exome, AC = 62, AN = 251354, AF = 0.000246664); K>M (exome, AC = 1, AN = 251348, AF = 3.97855e-06); K>E (genome, AC = 6, AN = 31390, AF = 0.000191144)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R130-R133: Heparan sulfate proteoglycan binding	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+132	G	G>D	G>D (exome, AC = 1, AN = 231282, AF = 4.32373e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R130-R133: Heparan sulfate proteoglycan binding	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+133	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R130-R133: Heparan sulfate proteoglycan binding	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+134	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+135	G	G>A	G>A (exome, AC = 1, AN = 231970, AF = 4.3109e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+136	P	P>S; P>L	P>S (exome, AC = 7, AN = 232814, AF = 3.00669e-05); P>L (genome, AC = 2, AN = 31392, AF = 6.37105e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+137	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+138	G	G>D	G>D (exome, AC = 1, AN = 234204, AF = 4.26978e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+139	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+140	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+141	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+142	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+143	P	P>H	P>H (exome, AC = 2, AN = 236580, AF = 8.4538e-06); P>H (genome, AC = 1, AN = 31396, AF = 3.18512e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+144	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+145	P	P>S	P>S (exome, AC = 1, AN = 235756, AF = 4.24167e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+146	I	I>V	I>V (exome, AC = 1, AN = 235794, AF = 4.24099e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+147	G	G>S; G>D	G>S (exome, AC = 6, AN = 234612, AF = 2.55741e-05); G>D (exome, AC = 4, AN = 234054, AF = 1.70901e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+148	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+149	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+150	G	G>D	G>D (exome, AC = 1, AN = 229362, AF = 4.35992e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+151	P	P>T	P>T (exome, AC = 1, AN = 228984, AF = 4.36712e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+152	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+153	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+154	P	P>L	P>L (exome, AC = 1, AN = 225452, AF = 4.43553e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+155	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+156	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+157	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+158	K	K>T	K>T (genome, AC = 1, AN = 31378, AF = 3.18695e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+159	G	G>A	G>A (exome, AC = 5, AN = 222924, AF = 2.24292e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+160	D	D>N; D>G	D>N (exome, AC = 3, AN = 224866, AF = 1.33413e-05); D>G (exome, AC = 1, AN = 224904, AF = 4.44634e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+161	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+162	G	G>C	G>C (exome, AC = 16, AN = 230066, AF = 6.95453e-05); G>C (genome, AC = 1, AN = 31394, AF = 3.18532e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+163	M	M>T	M>T (exome, AC = 1, AN = 231704, AF = 4.31585e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+164	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+165	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+166	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+167	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+168	G	G>E	G>E (exome, AC = 1, AN = 231578, AF = 4.3182e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+169	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+170	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+171	G	G>R	G>R (exome, AC = 1, AN = 230528, AF = 4.33787e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+172	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+173	M	M>V	M>V (exome, AC = 7, AN = 228750, AF = 3.06011e-05); M>V (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+174	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+175	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+176	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+177	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+178	Y	Y>S	Y>S (exome, AC = 1, AN = 251374, AF = 3.97814e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+179	P	P>S	P>S (exome, AC = 1, AN = 251378, AF = 3.97807e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+180	G	G>V	G>V (exome, AC = 1, AN = 251388, AF = 3.97791e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+181	S	S>Y	S>Y (exome, AC = 1, AN = 251392, AF = 3.97785e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+182	R	R>G	R>G (exome, AC = 1, AN = 251390, AF = 3.97788e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+183	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+184	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+185	K	K>E	K>E (exome, AC = 1, AN = 251360, AF = 3.97836e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+186	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+187	S	S>C	S>C (exome, AC = 1, AN = 251406, AF = 3.97763e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+188	R	R>T	R>T (exome, AC = 1, AN = 251418, AF = 3.97744e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+189	G	G>S	G>S (exome, AC = 1, AN = 251430, AF = 3.97725e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+190	E	E>G	E>G (exome, AC = 4, AN = 251436, AF = 1.59086e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+191	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+192	G	G>S	G>S (genome, AC = 1, AN = 31390, AF = 3.18573e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+193	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+194	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+195	G	G>D; G>S	G>D (exome, AC = 2, AN = 251446, AF = 7.95399e-06); G>S (genome, AC = 1, AN = 31388, AF = 3.18593e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+196	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+197	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+198	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+199	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+200	K	K>E	K>E (exome, AC = 1, AN = 251458, AF = 3.97681e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+201	G	G>S	G>S (exome, AC = 2, AN = 251328, AF = 7.95773e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+202	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+203	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+204	G	G>R	G>R (exome, AC = 3, AN = 251284, AF = 1.19387e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+205	F	F>Y	F>Y (exome, AC = 1, AN = 251324, AF = 3.97893e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+206	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+207	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+208	M	M>V	M>V (exome, AC = 1, AN = 251320, AF = 3.97899e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+209	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+210	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+211	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+212	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+213	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+214	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+215	M	M>V; M>I	M>V (exome, AC = 1, AN = 251458, AF = 3.97681e-06); M>I (exome, AC = 1, AN = 251460, AF = 3.97678e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+216	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+217	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+218	K	K>E	K>E (exome, AC = 1, AN = 251456, AF = 3.97684e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+219	G	G>D	G>D (exome, AC = 1, AN = 251452, AF = 3.9769e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+220	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+221	P	P>L	P>L (exome, AC = 1, AN = 251450, AF = 3.97693e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+222	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+223	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+224	A	A>S	A>S (exome, AC = 1, AN = 251468, AF = 3.97665e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+225	G	G>E; G>A	G>E (exome, AC = 1, AN = 251478, AF = 3.97649e-06); G>A (genome, AC = 1, AN = 31396, AF = 3.18512e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+226	H	H>R	H>R (exome, AC = 1, AN = 251472, AF = 3.97659e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+227	R	R>G; R>Q	R>G (exome, AC = 2, AN = 251472, AF = 7.95317e-06); R>Q (exome, AC = 1, AN = 251476, AF = 3.97652e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+228	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+229	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+230	T	T>A; T>S	T>A (exome, AC = 1, AN = 251478, AF = 3.97649e-06); T>S (genome, AC = 1, AN = 31388, AF = 3.18593e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+231	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+232	R	R>G; R>K	R>G (exome, AC = 2, AN = 251480, AF = 7.95292e-06); R>K (exome, AC = 2, AN = 251480, AF = 7.95292e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+233	P	P>Q	P>Q (exome, AC = 1, AN = 251476, AF = 3.97652e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+234	G	G>E	G>E (exome, AC = 1, AN = 251480, AF = 3.97646e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+235	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K235-K238: Heparan sulfate proteoglycan binding	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+236	R	R>Q	R>Q (exome, AC = 9, AN = 251484, AF = 3.57876e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K235-K238: Heparan sulfate proteoglycan binding	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+237	G	G>D	G>D (exome, AC = 1, AN = 251484, AF = 3.9764e-06)	G>D	G>D (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K235-K238: Heparan sulfate proteoglycan binding	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+238	K	K>R	K>R (exome, AC = 3, AN = 251484, AF = 1.19292e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K235-K238: Heparan sulfate proteoglycan binding	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	region	domain	-	-
+239	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+240	G	G>V	G>V (exome, AC = 1, AN = 248098, AF = 4.03067e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+241	Q	E>K	E>K (exome, AC = 1, AN = 248116, AF = 4.03037e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+242	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+243	G	G>R	G>R (exome, AC = 3, AN = 248126, AF = 1.20906e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+244	D	D>N; D>G	D>N (exome, AC = 1, AN = 248188, AF = 4.0292e-06); D>G (exome, AC = 1, AN = 248186, AF = 4.02924e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+245	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+246	G	G>A	G>A (exome, AC = 85, AN = 248182, AF = 0.000342491); G>A (genome, AC = 6, AN = 31404, AF = 0.000191058)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+247	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+248	M	M>I	M>I (exome, AC = 1, AN = 248104, AF = 4.03057e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+249	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+250	P	P>L; P>S	P>L (exome, AC = 3, AN = 248142, AF = 1.20899e-05); P>S (genome, AC = 1, AN = 31394, AF = 3.18532e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+251	P	P>R	P>R (genome, AC = 1, AN = 31406, AF = 3.1841e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+252	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+253	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+254	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+255	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+256	P	P>L	P>L (exome, AC = 8, AN = 248066, AF = 3.22495e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+257	S	S>A; S>F	S>A (exome, AC = 4, AN = 248032, AF = 1.6127e-05); S>F (exome, AC = 1, AN = 248002, AF = 4.03223e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+258	G	G>S	G>S (genome, AC = 1, AN = 31390, AF = 3.18573e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+259	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+260	P	P>R	P>R (exome, AC = 1, AN = 247902, AF = 4.03385e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+261	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+262	R	R>C; R>H	R>C (exome, AC = 3, AN = 247750, AF = 1.2109e-05); R>H (exome, AC = 13, AN = 247666, AF = 5.249e-05); R>H (genome, AC = 2, AN = 31380, AF = 6.37349e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+263	P	P>Q; P>L	P>Q (exome, AC = 1, AN = 247530, AF = 4.03991e-06); P>L (genome, AC = 1, AN = 31378, AF = 3.18695e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+264	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+265	P	P>T; P>L	P>T (exome, AC = 1, AN = 247356, AF = 4.04276e-06); P>L (exome, AC = 4, AN = 247416, AF = 1.61671e-05); P>L (genome, AC = 1, AN = 31368, AF = 3.18796e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+266	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+267	G	G>V	G>V (exome, AC = 1, AN = 247316, AF = 4.04341e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+268	P	P>T	P>T (exome, AC = 1, AN = 247424, AF = 4.04165e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+269	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G96-P269: Collagen-like 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+270	P	P>S	P>S (exome, AC = 7, AN = 247510, AF = 2.82817e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+271	A	A>S; A>V	A>S (exome, AC = 1, AN = 247474, AF = 4.04083e-06); A>V (exome, AC = 12, AN = 247430, AF = 4.84986e-05); A>V (genome, AC = 5, AN = 31396, AF = 0.000159256)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+272	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+273	Q	Q>R; Q>H	Q>R (exome, AC = 1, AN = 251436, AF = 3.97716e-06); Q>H (exome, AC = 2, AN = 251436, AF = 7.95431e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+274	L	L>F	L>F (exome, AC = 2, AN = 251436, AF = 7.95431e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+275	I	I>V; I>T	I>V (exome, AC = 8, AN = 251440, AF = 3.18167e-05); I>T (genome, AC = 1, AN = 31404, AF = 3.18431e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+276	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+277	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+278	P	P>H	P>H (exome, AC = 1, AN = 251466, AF = 3.97668e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+279	K	K>Q	K>Q (exome, AC = 1, AN = 251476, AF = 3.97652e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+280	G	G>A	G>A (exome, AC = 1, AN = 251470, AF = 3.97662e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+281	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+282	R	R>G	R>G (exome, AC = 1, AN = 251472, AF = 3.97659e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+283	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+284	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+285	P	P>A	P>A (exome, AC = 1, AN = 251472, AF = 3.97659e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+286	G	G>R	G>R (exome, AC = 3, AN = 251480, AF = 1.19294e-05); G>R (genome, AC = 3, AN = 31392, AF = 9.55657e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+287	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+288	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+289	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+290	R	R>K	R>K (exome, AC = 7, AN = 251480, AF = 2.78352e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+291	C	C>G	C>G (exome, AC = 2, AN = 251480, AF = 7.95292e-06); C>G (genome, AC = 1, AN = 31394, AF = 3.18532e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G277-C291: Collagen-like 2	-	-	-	-	-	C291: Interchain left;C291: Interchain right	-	-	-	-	-	-	domain	-	disulfide bond
+292	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+293	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C293: Interchain left;C293: Interchain right	-	-	-	-	-	-	-	-	disulfide bond
+294	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+295	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+296	T	T>S	T>S (exome, AC = 1, AN = 251480, AF = 3.97646e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+297	M	M>V; M>I	M>V (exome, AC = 2, AN = 251480, AF = 7.95292e-06); M>I (exome, AC = 1, AN = 251476, AF = 3.97652e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+298	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+299	V	V>M	V>M (exome, AC = 1, AN = 251468, AF = 3.97665e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+300	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+301	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+302	P	P>A	P>A (exome, AC = 1, AN = 251482, AF = 3.97643e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+303	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+304	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+305	G	G>R; G>V	G>R (exome, AC = 4, AN = 251476, AF = 1.59061e-05); G>V (exome, AC = 1, AN = 251470, AF = 3.97662e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+306	E	E>D	E>D (exome, AC = 3, AN = 251472, AF = 1.19298e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+307	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+308	V	V>M	V>M (exome, AC = 236, AN = 251472, AF = 0.000938474); V>M (genome, AC = 42, AN = 31390, AF = 0.00133801)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+309	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+310	G	G>R	G>R (exome, AC = 1, AN = 251472, AF = 3.97659e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+311	P	P>L	P>L (exome, AC = 1, AN = 251474, AF = 3.97655e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+312	S	S>R; S>G	S>R (exome, AC = 3, AN = 251474, AF = 1.19297e-05); S>G (genome, AC = 1557, AN = 31382, AF = 0.0496144)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+313	S	S>T	S>T (exome, AC = 1, AN = 251472, AF = 3.97659e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+314	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+315	R	R>Q	R>Q (exome, AC = 12, AN = 251468, AF = 4.77198e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+316	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+317	P	P>A	P>A (exome, AC = 1, AN = 251466, AF = 3.97668e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+318	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+319	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+320	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+321	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+322	V	none	none	V>D	V>D (ClinVar, phenotype = Congenital myasthenic syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+323	N	N>Y; N>K	N>Y (exome, AC = 2, AN = 251398, AF = 7.95551e-06); N>K (exome, AC = 3, AN = 251394, AF = 1.19335e-05); N>K (genome, AC = 1, AN = 31366, AF = 3.18817e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+324	N	N>H	N>H (exome, AC = 1, AN = 251398, AF = 3.97776e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+325	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+326	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+327	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+328	L	L>I	L>I (exome, AC = 5, AN = 251430, AF = 1.98863e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+329	E	E>K; E>D	E>K (exome, AC = 1, AN = 251434, AF = 3.97719e-06); E>D (exome, AC = 1, AN = 251456, AF = 3.97684e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+330	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+331	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+332	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+333	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+334	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+335	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+336	A	A>T	A>T (exome, AC = 1, AN = 251468, AF = 3.97665e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+337	I	none	none	I>T	I>T (ClinVar, phenotype = not provided); I>T (ClinVar, phenotype = Congenital myasthenic syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+338	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+339	F	F>L	F>L (exome, AC = 2, AN = 251472, AF = 7.95317e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+340	R	R>C; R>H	R>C (exome, AC = 21, AN = 251458, AF = 8.3513e-05); R>H (exome, AC = 7, AN = 251474, AF = 2.78359e-05); R>C (genome, AC = 2, AN = 31398, AF = 6.36983e-05); R>H (genome, AC = 2, AN = 31396, AF = 6.37024e-05)	R>H	R>H (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+341	R	none	none	R>G	R>G (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+342	D	D>N; D>E	D>N (exome, AC = 2, AN = 251478, AF = 7.95298e-06); D>E (exome, AC = 3, AN = 251472, AF = 1.19298e-05)	D>E	D>E (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+343	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+344	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+345	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+346	L	L>M; L>P	L>M (exome, AC = 1, AN = 251458, AF = 3.97681e-06); L>P (exome, AC = 3, AN = 251456, AF = 1.19305e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+347	Y	Y>H	Y>H (exome, AC = 4, AN = 251454, AF = 1.59075e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+348	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+349	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+350	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+351	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+352	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+353	G	G>A	G>A (exome, AC = 1, AN = 251418, AF = 3.97744e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+354	W	W>C	W>C (exome, AC = 1, AN = 251382, AF = 3.97801e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+355	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+356	P	P>R	P>R (exome, AC = 6, AN = 251374, AF = 2.38688e-05); P>R (genome, AC = 1, AN = 31380, AF = 3.18674e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+357	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+358	Q	Q>E; Q>R	Q>E (exome, AC = 16, AN = 251372, AF = 6.36507e-05); Q>R (exome, AC = 1, AN = 251358, AF = 3.97839e-06); Q>E (genome, AC = 3, AN = 31380, AF = 9.56023e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+359	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+360	T	T>N	T>N (exome, AC = 2, AN = 251116, AF = 7.96445e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+361	P	P>S; P>L	P>S (exome, AC = 255, AN = 251092, AF = 0.00101556); P>L (exome, AC = 1, AN = 251100, AF = 3.98248e-06); P>S (genome, AC = 16, AN = 31382, AF = 0.000509846)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+362	F	F>S; F>L	F>S (exome, AC = 1, AN = 251198, AF = 3.98092e-06); F>L (exome, AC = 1, AN = 251200, AF = 3.98089e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+363	Y	Y>H; Y>C	Y>H (exome, AC = 2, AN = 251190, AF = 7.9621e-06); Y>C (exome, AC = 1, AN = 251162, AF = 3.98149e-06); Y>H (genome, AC = 3, AN = 31374, AF = 9.56206e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+364	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+365	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+366	D	D>N; D>A	D>N (exome, AC = 1, AN = 251224, AF = 3.98051e-06); D>A (exome, AC = 1, AN = 251242, AF = 3.98023e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+367	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+368	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+369	A	A>V	A>V (exome, AC = 1, AN = 251218, AF = 3.98061e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+370	D	D>N	D>N (exome, AC = 363, AN = 251238, AF = 0.00144485); D>N (genome, AC = 183, AN = 31400, AF = 0.00582803)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+371	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+372	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+373	G	G>S	G>S (exome, AC = 5, AN = 251226, AF = 1.99024e-05); G>S (genome, AC = 1, AN = 31378, AF = 3.18695e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+374	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+375	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+376	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+377	D	D>G	D>G (exome, AC = 1, AN = 251272, AF = 3.97975e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+378	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+379	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+380	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+381	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+382	P	P>L	P>L (exome, AC = 1, AN = 251256, AF = 3.98e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+383	G	G>R	G>R (exome, AC = 1, AN = 251250, AF = 3.9801e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+384	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+385	E	E>Q; E>D	E>Q (exome, AC = 2, AN = 251266, AF = 7.95969e-06); E>D (exome, AC = 12, AN = 251268, AF = 4.77578e-05); E>D (genome, AC = 5, AN = 31390, AF = 0.000159286)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+386	C	C>S; C>Y	C>S (exome, AC = 3, AN = 251258, AF = 1.19399e-05); C>Y (genome, AC = 1, AN = 31388, AF = 3.18593e-05)	C>S	C>S (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+387	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+388	D	D>N	D>N (exome, AC = 1, AN = 251264, AF = 3.97988e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+389	G	G>S	G>S (exome, AC = 1, AN = 251236, AF = 3.98032e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+390	N	none	none	N>S	N>S (ClinVar, phenotype = Congenital myasthenic syndrome)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+391	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+392	D	D>N; D>Y	D>N (exome, AC = 6, AN = 251244, AF = 2.38812e-05); D>Y (genome, AC = 1, AN = 31386, AF = 3.18613e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+393	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+394	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+395	D	none	none	D>N	D>N (ClinVar, phenotype = Congenital myasthenic syndrome with vocal cord paralysis)	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+396	D	D>N	D>N (exome, AC = 5, AN = 251248, AF = 1.99007e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+397	C	none	none	C>S	C>S (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+398	I	I>L	I>L (exome, AC = 1, AN = 251250, AF = 3.9801e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+399	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+400	C	none	none	C>Y	C>Y (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+401	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+402	R	R>H	R>H (exome, AC = 11, AN = 239168, AF = 4.59928e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+403	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+404	Y	Y>C	Y>C (exome, AC = 3, AN = 242486, AF = 1.23718e-05)	Y>D	Y>D (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+405	C	C>F	C>F (exome, AC = 2, AN = 243506, AF = 8.21335e-06)	C>F	C>F (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+406	G	G>V	G>V (exome, AC = 1, AN = 244312, AF = 4.09313e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+407	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+408	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+409	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+410	R	R>W; R>Q	R>W (exome, AC = 7, AN = 245856, AF = 2.8472e-05); R>Q (exome, AC = 1, AN = 245968, AF = 4.06557e-06); R>W (genome, AC = 1, AN = 31370, AF = 3.18776e-05)	R>W; R>W; R>Q; R>P	R>W (ClinVar, phenotype = Endplate acetylcholinesterase deficiency,not provided); R>W (ClinVar, phenotype = Endplate acetylcholinesterase deficiency); R>Q (ClinVar, phenotype = Endplate acetylcholinesterase deficiency); R>P (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+411	H	H>Q	H>Q (exome, AC = 2, AN = 247098, AF = 8.09395e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+412	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+413	G	G>S	G>S (exome, AC = 1, AN = 247320, AF = 4.04334e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+414	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+415	E	none	none	E>G	E>G (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+416	D	D>G	D>G (exome, AC = 2, AN = 247962, AF = 8.06575e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+417	C	none	none	C>Y	C>Y (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+418	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+419	G	G>S	G>S (exome, AC = 1, AN = 248024, AF = 4.03187e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+420	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+421	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+422	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+423	G	G>V	G>V (genome, AC = 1, AN = 31326, AF = 3.19224e-05)	G>V	G>V (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+424	Y	Y>N	Y>N (genome, AC = 2, AN = 31356, AF = 6.37836e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+425	L	L>V	L>V (exome, AC = 1, AN = 247586, AF = 4.039e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+426	T	T>K	T>K (exome, AC = 129, AN = 247330, AF = 0.00052157)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+427	C	none	none	C>R	C>R (ClinVar, phenotype = not provided)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+428	E	E>K	E>K (exome, AC = 2, AN = 246350, AF = 8.11853e-06); E>K (genome, AC = 2, AN = 31336, AF = 6.38244e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+429	T	T>N	T>N (exome, AC = 1, AN = 245616, AF = 4.0714e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+430	Y	Y>H; Y>S	Y>H (exome, AC = 3, AN = 245450, AF = 1.22224e-05); Y>S (exome, AC = 10, AN = 245298, AF = 4.07667e-05); Y>S (genome, AC = 1, AN = 31294, AF = 3.1955e-05)	Y>S	Y>S (ClinVar, phenotype = Endplate acetylcholinesterase deficiency); Y>S (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+431	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+432	P	P>L	P>L (exome, AC = 1, AN = 243714, AF = 4.10317e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+433	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+434	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+435	Y	Y>C	Y>C (exome, AC = 1, AN = 250892, AF = 3.98578e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+436	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+437	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+438	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+439	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+440	C	none	none	C>R	C>R (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+441	T	T>A	T>A (exome, AC = 7, AN = 251198, AF = 2.78665e-05); T>A (genome, AC = 1, AN = 31380, AF = 3.18674e-05)	T>A	T>A (ClinVar, phenotype = Endplate acetylcholinesterase deficiency,not provided); T>A (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+442	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+443	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+444	C	none	none	C>Y	C>Y (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+445	Y	Y>C	Y>C (exome, AC = 1, AN = 251324, AF = 3.97893e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+446	I	I>L; I>M	I>L (exome, AC = 1, AN = 251344, AF = 3.97861e-06); I>M (exome, AC = 8, AN = 251324, AF = 3.18314e-05); I>M (genome, AC = 4, AN = 31384, AF = 0.000127453)	I>T	I>T (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+447	D	D>N	D>N (exome, AC = 10, AN = 251334, AF = 3.97877e-05); D>N (genome, AC = 1, AN = 31390, AF = 3.18573e-05)	D>H	D>H (ClinVar, phenotype = Congenital myasthenic syndrome)	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+448	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+449	T	T>A; T>M	T>A (exome, AC = 1, AN = 251354, AF = 3.97845e-06); T>M (exome, AC = 4, AN = 251368, AF = 1.59129e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+450	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+451	C	C>Y	C>Y (exome, AC = 1, AN = 251380, AF = 3.97804e-06)	C>S	C>S (ClinVar, phenotype = Endplate acetylcholinesterase deficiency)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+452	R	R>C; R>H	R>C (exome, AC = 4, AN = 251386, AF = 1.59118e-05); R>H (exome, AC = 17, AN = 251378, AF = 6.76272e-05); R>H (genome, AC = 1, AN = 31396, AF = 3.18512e-05)	R>C	R>C (ClinVar, phenotype = Congenital myasthenic syndrome)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+453	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+454	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+455	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
