@@ -1,0 +1,964 @@
+Amino Acid Index	Amino Acid	Population Mutation	Population Mutation (details)	Pathogenic Mutation	Pathogenic Mutation (details)	Bond Detail	Accessible Surface Area	Relative Accessible Surface Area	8-class DSSP Secondary Structure Properties	3-class DSSP Secondary Structure Properties	Exposure	Physiochemical Property	Acetylation Detail	Methylation Detail	O.GalNAc Detail	O.GclNAc Detail	Phosphorylation Detail	Sumoylation Detail	Ubiquitination Detail	Active Site	Metal Binding Site	binding Site	Site	Zinc Finger	Dna Binding	Nucleotide Phosphate Binding	Calcium Binding	Region	Repeat	Coiled Coil	Topological Domain	Peptide	Modified Residue	Motif	Domain	Intramembrane	Propetide	Lipidation	Glycosylation	Cross Links	Disulfide Bond	Transit Peptide	Transmembrane	Signal Peptide	Functional Site	Functional Binding Region	Sequence Motif Region	Modular Domain	Molecular Processing	Modified Residues
+1	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2	A	A>T	A>T (exome, AC = 1, AN = 179951, AF = 5.55707e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+3	V	V>A	V>A (exome, AC = 3, AN = 180203, AF = 1.66479e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+4	A	A>V	A>V (exome, AC = 2, AN = 180378, AF = 1.10878e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+5	P	P>S; P>L	P>S (exome, AC = 1, AN = 180618, AF = 5.53655e-06); P>L (exome, AC = 4, AN = 180619, AF = 2.21461e-05); P>L (genome, AC = 1, AN = 21898, AF = 4.56663e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+6	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+7	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+8	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+9	G	G>W; G>A	G>W (exome, AC = 1, AN = 181051, AF = 5.52331e-06); G>A (exome, AC = 1, AN = 181116, AF = 5.52132e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+10	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+11	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+12	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+13	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+14	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+15	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+16	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+17	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+18	Q	Q>K	Q>K (exome, AC = 3, AN = 181244, AF = 1.65523e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+19	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+20	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+21	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+22	V	V>L; V>A	V>L (exome, AC = 15, AN = 181158, AF = 8.28006e-05); V>A (exome, AC = 6, AN = 181144, AF = 3.31228e-05); V>L (genome, AC = 1, AN = 22000, AF = 4.54545e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+23	A	A>P; A>D	A>P (exome, AC = 1, AN = 181106, AF = 5.52163e-06); A>D (exome, AC = 1, AN = 181125, AF = 5.52105e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+24	V	V>I	V>I (genome, AC = 1, AN = 21935, AF = 4.55892e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+25	E	E>K	E>K (exome, AC = 1, AN = 181088, AF = 5.52218e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+26	G	G>E	G>E (exome, AC = 2, AN = 181117, AF = 1.10426e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+27	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+28	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+29	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+30	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+31	S	S>L	S>L (exome, AC = 1, AN = 180973, AF = 5.52569e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+32	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+33	S	S>R; S>T	S>R (exome, AC = 1, AN = 180967, AF = 5.52587e-06); S>T (exome, AC = 1, AN = 180800, AF = 5.53097e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+34	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+35	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+36	G	G>D; G>A	G>D (exome, AC = 2, AN = 180608, AF = 1.10737e-05); G>A (exome, AC = 2, AN = 180608, AF = 1.10737e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+37	C	C>Y	C>Y (exome, AC = 46, AN = 180508, AF = 0.000254836); C>Y (genome, AC = 17, AN = 21938, AF = 0.000774911)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+38	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+39	R	R>K; R>S	R>K (exome, AC = 1, AN = 180032, AF = 5.55457e-06); R>S (exome, AC = 1, AN = 180072, AF = 5.55333e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+40	E	E>K; E>V	E>K (exome, AC = 1, AN = 179921, AF = 5.55799e-06); E>V (exome, AC = 3, AN = 179812, AF = 1.66841e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+41	R	R>L	R>L (exome, AC = 1, AN = 179005, AF = 5.58644e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+42	T	T>M	T>M (exome, AC = 1, AN = 178464, AF = 5.60337e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+43	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+44	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+45	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+46	T	T>A; T>M	T>A (exome, AC = 2, AN = 175385, AF = 1.14035e-05); T>M (exome, AC = 54, AN = 174904, AF = 0.000308741); T>M (genome, AC = 2, AN = 21836, AF = 9.15919e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+47	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+48	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+49	A	A>V	A>V (exome, AC = 1, AN = 172628, AF = 5.7928e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+50	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+51	P	P>L	P>L (exome, AC = 16, AN = 171109, AF = 9.35076e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+52	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+53	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+54	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+55	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+56	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+57	A	A>V	A>V (exome, AC = 1, AN = 160847, AF = 6.21709e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+58	V	V>A	V>A (exome, AC = 3, AN = 159127, AF = 1.88529e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+59	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+60	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+61	A	A>V	A>V (exome, AC = 1, AN = 149860, AF = 6.67289e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+62	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+63	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+64	V	V>A	V>A (exome, AC = 6, AN = 147431, AF = 4.0697e-05); V>A (genome, AC = 2, AN = 21310, AF = 9.38527e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+65	T	T>A	T>A (exome, AC = 2, AN = 149419, AF = 1.33852e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+66	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+67	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+68	R	R>K	R>K (exome, AC = 1, AN = 150540, AF = 6.64275e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+69	E	E>Q	E>Q (exome, AC = 1, AN = 151102, AF = 6.61805e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+70	P	P>L	P>L (exome, AC = 1, AN = 150733, AF = 6.63425e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+71	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+72	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+73	E	E>K; E>G	E>K (exome, AC = 1, AN = 151139, AF = 6.61643e-06); E>G (exome, AC = 1, AN = 150613, AF = 6.63953e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+74	E	E>K	E>K (exome, AC = 2, AN = 151557, AF = 1.31964e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+75	L	none	none	none	none	-	132	0.657	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	4mel.A.202/46.649;4mel.B.202/47.194	-	-	-	4mel.A.225/50.825;4mel.B.225/52.907	-	4mel.A.64/22.279;4mel.B.64/22.14	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+76	P	none	none	none	none	-	53	0.33299999999999996	loop	coils	Medium-buried	Special	4mel.A.202/43.395;4mel.B.202/44.159	-	-	-	4mel.A.225/48.092;4mel.B.225/50.411	-	4mel.A.64/22.49;4mel.B.64/22.389	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+77	G	none	none	none	none	-	37.5	0.32899999999999996	loop	coils	Medium-buried	Special	4mel.A.202/42.241;4mel.B.202/42.738	-	-	-	4mel.A.225/47.159;4mel.B.225/49.402	-	4mel.A.64/22.364;4mel.B.64/22.103	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+78	L	none	none	none	none	-	20	0.1	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4mel.A.202/40.572;4mel.B.202/40.578	-	-	-	4mel.A.225/44.894;4mel.B.225/46.904	-	4mel.A.64/19.304;4mel.B.64/19.001	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+79	D	D>A	D>A (exome, AC = 2, AN = 152006, AF = 1.31574e-05)	none	none	-	107.5	0.557	alpha-helix	Helices	Medium-exposed	Negatively Charged & Polar	4mel.A.202/37.244;4mel.B.202/37.447	-	-	-	4mel.A.225/42.143;4mel.B.225/44.323	-	4mel.A.64/20.602;4mel.B.64/20.288	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+80	S	none	none	none	none	-	60	0.387	alpha-helix	Helices	Medium-buried	Neutral & Polar	4mel.A.202/37.602;4mel.B.202/37.934	-	-	-	4mel.A.225/42.569;4mel.B.225/44.61	-	4mel.A.64/21.158;4mel.B.64/20.918	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+81	Q	none	none	none	none	-	2.5	0.011000000000000001	alpha-helix	Helices	core	Neutral & Polar	4mel.A.202/38.258;4mel.B.202/38.079	-	-	-	4mel.A.225/42.217;4mel.B.225/43.873	-	4mel.A.64/17.623;4mel.B.64/17.338	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+82	W	none	none	none	none	-	68.5	0.24	alpha-helix	Helices	buried	Aromatic & Hydrophobic	4mel.A.202/35.432;4mel.B.202/35.115	-	-	-	4mel.A.225/39.192;4mel.B.225/40.945	-	4mel.A.64/16.273;4mel.B.64/15.885	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+83	R	none	none	none	none	-	164	0.599	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	4mel.A.202/32.815;4mel.B.202/32.852	-	-	-	4mel.A.225/37.329;4mel.B.225/39.279	-	4mel.A.64/19.016;4mel.B.64/18.715	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+84	Q	none	none	none	none	-	42.5	0.18899999999999997	alpha-helix	Helices	buried	Neutral & Polar	4mel.A.202/34.329;4mel.B.202/34.308	-	-	-	4mel.A.225/38.434;4mel.B.225/40.078	-	4mel.A.64/18.618;4mel.B.64/18.251	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+85	I	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4mel.A.202/34.091;4mel.B.202/33.534	-	-	-	4mel.A.225/37.091;4mel.B.225/38.42	-	4mel.A.64/14.972;4mel.B.64/14.689	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+86	E	none	none	none	none	-	33.5	0.15	alpha-helix	Helices	buried	NegativelyCharged & Polar	4mel.A.202/30.798;4mel.B.202/30.189	-	-	-	4mel.A.225/33.857;4mel.B.225/35.419	-	4mel.A.64/15.367;4mel.B.64/15.163	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+87	N	none	none	none	none	-	44	0.226	bend	coils	buried	Neutral & Polar	4mel.A.202/28.448;4mel.B.202/28.257	-	-	-	4mel.A.225/32.431;4mel.B.225/34.176	-	4mel.A.64/18.954;4mel.B.64/18.766	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+88	G	none	none	none	none	-	46.5	0.408	bend	coils	Medium-buried	Special	4mel.A.202/25.954;4mel.B.202/25.687	-	-	-	4mel.A.225/29.666;4mel.B.225/31.217	-	4mel.A.64/20.422;4mel.B.64/20.239	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+89	E	none	none	none	none	-	116	0.52	bend	coils	Medium-exposed	NegativelyCharged & Polar	4mel.A.202/27.222;4mel.B.202/27.089	-	-	-	4mel.A.225/30.843;4mel.B.225/32.055	-	4mel.A.64/22.016;4mel.B.64/21.751	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+90	S	none	none	none	none	-	39	0.252	bend	coils	Medium-buried	Neutral & Polar	4mel.A.202/30.642;4mel.B.202/30.554	-	-	-	4mel.A.225/34.345;4mel.B.225/35.602	-	4mel.A.64/20.533;4mel.B.64/20.265	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+91	G	none	none	none	none	-	0	0	bend	coils	core	Special	4mel.A.202/31.235;4mel.B.202/30.789	-	-	-	4mel.A.225/34.02;4mel.B.225/35.297	-	4mel.A.64/16.796;4mel.B.64/16.524	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+92	R	none	none	none	none	-	72.5	0.265	turn	coils	Medium-buried	Positively Charged & Polar	4mel.A.202/30.394;4mel.B.202/29.49	-	-	-	4mel.A.225/32.099;4mel.B.225/33.249	-	4mel.A.64/14.154;4mel.B.64/13.879	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+93	E	E>K	E>K (exome, AC = 2, AN = 134481, AF = 1.4872e-05); E>K (genome, AC = 1, AN = 21742, AF = 4.59939e-05)	none	none	-	121	0.5429999999999999	turn	coils	Medium-exposed	NegativelyCharged & Polar	4mel.A.202/26.606;4mel.B.202/25.769	-	-	-	4mel.A.225/28.624;4mel.B.225/29.922	-	4mel.A.64/16.973;4mel.B.64/16.769	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+94	R	none	none	none	none	-	61.5	0.22399999999999998	loop	coils	buried	Positively Charged & Polar	4mel.A.202/26.958;4mel.B.202/26.197	-	-	-	4mel.A.225/28.858;4mel.B.225/29.758	-	4mel.A.64/18.941;4mel.B.64/18.754	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+95	P	none	none	none	none	-	80	0.503	loop	coils	Medium-exposed	Special	4mel.A.202/25.127;4mel.B.202/24.078	-	-	-	4mel.A.225/26.075;4mel.B.225/26.662	-	4mel.A.64/20.783;4mel.B.64/20.741	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+96	L	none	none	none	none	B:53:LEU-N/3.4-A:147:GLN;B:53:LEU-N/3.76-A:147:GLN;B:53:LEU-N/3.88-A:147:GLN;B:53:LEU-N/3.61-A:147:GLN;B:53:LEU-N/3.4-A:147:GLN;B:53:LEU-N/2.75-A:147:GLN;B:53:LEU-N/3.88-A:149:VAL	60.5	0.301	loop	coils	Medium-buried	Aliphatic & Hydrophobic	4mel.A.202/27.66;4mel.B.202/26.23	-	-	-	4mel.A.152/27.235;4mel.B.225/27.263	-	4mel.A.64/20.417;4mel.B.64/20.424	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+97	R	none	none	none	none	-	135	0.493	loop	coils	Medium-buried	Positively Charged & Polar	4mel.A.202/28.718;4mel.B.202/27.888	-	-	-	4mel.A.152/28.422;4mel.B.225/28.782	-	4mel.A.64/23.431;4mel.B.64/23.22	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+98	A	none	none	none	none	-	51	0.395	turn	coils	Medium-buried	Aliphatic & Hydrophobic	4mel.A.202/31.491;4mel.B.202/30.504	-	-	-	4mel.A.152/29.312;4mel.B.152/29.924	-	4mel.A.64/24.846;4mel.B.64/24.638	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+99	G	none	none	none	none	-	43	0.377	turn	coils	Medium-buried	Special	4mel.A.202/34.85;4mel.B.202/34.082	-	-	-	4mel.A.152/33.05;4mel.B.152/33.538	-	4mel.A.64/24.604;4mel.B.64/24.422	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+100	E	none	none	none	none	-	29	0.13	loop	coils	buried	NegativelyCharged & Polar	4mel.A.202/34.182;4mel.B.202/33.394	-	-	-	4mel.A.152/33.854;4mel.B.225/34.35	-	4mel.A.64/21.793;4mel.B.64/21.698	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+101	S	S>N	S>N (exome, AC = 2, AN = 116611, AF = 1.7151e-05)	none	none	-	18.5	0.11900000000000001	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	4mel.A.202/36.767;4mel.B.202/35.736	-	-	-	4mel.A.152/36.001;4mel.B.225/36.658	-	4mel.A.64/19.013;4mel.B.64/18.876	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+102	W	none	none	none	none	-	10.5	0.037000000000000005	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	4mel.A.202/36.336;4mel.B.202/35.064	-	-	-	4mel.A.152/35.596;4mel.B.225/36.196	-	4mel.A.64/15.256;4mel.B.64/15.128	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+103	F	none	none	none	none	-	13.5	0.055999999999999994	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	4mel.A.202/39.125;4mel.B.202/37.724	-	-	-	4mel.A.152/38.268;4mel.B.225/38.924	-	4mel.A.64/12.606;4mel.B.64/12.439	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+104	L	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4mel.A.202/40.106;4mel.B.202/38.343	-	-	-	4mel.A.152/38.564;4mel.B.225/39.277	-	4mel.A.64/9.158;4mel.B.64/9.033	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+105	V	V>L	V>L (exome, AC = 2, AN = 174191, AF = 1.14816e-05); V>L (genome, AC = 16, AN = 21832, AF = 0.000732869)	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4mel.A.202/41.123;4mel.B.202/39.499	-	-	-	4mel.A.152/40.52;4mel.B.225/41.106	-	4mel.A.64/6.361;4mel.B.64/6.27	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+106	E	E>K	E>K (exome, AC = 3, AN = 174711, AF = 1.71712e-05)	none	none	-	21	0.094	beta-sheet	beta-strand/sheet	buried	NegativelyCharged & Polar	4mel.A.202/42.84;4mel.B.202/40.968	-	-	-	4mel.A.152/41.412;4mel.B.225/42.221	-	4mel.A.64/3.816;4mel.B.64/3.805	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+107	K	none	none	none	none	-	44.5	0.18899999999999997	alpha-helix	Helices	buried	Positively Charged & Polar	4mel.A.202/40.902;4mel.B.202/38.879	-	-	-	4mel.A.152/39.859;4mel.B.225/40.467	-	4mel.A.64/0.0;4mel.B.64/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+108	H	none	none	none	none	-	137.5	0.614	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	4mel.A.202/43.472;4mel.B.202/41.683	-	-	-	4mel.A.225/42.906;4mel.B.225/43.665	-	4mel.A.64/3.814;4mel.B.64/3.802	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+109	W	none	none	none	none	-	17	0.06	alpha-helix	Helices	buried	Aromatic & Hydrophobic	4mel.A.202/44.137;4mel.B.202/42.573	-	-	-	4mel.A.225/44.307;4mel.B.225/45.091	-	4mel.A.64/5.594;4mel.B.64/5.501	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+110	Y	none	none	none	none	-	6	0.023	alpha-helix	Helices	core	Aromatic & Hydrophobic	4mel.A.202/40.471;4mel.B.202/38.986	-	-	-	4mel.A.225/41.031;4mel.B.225/41.931	-	4mel.A.64/5.303;4mel.B.64/5.079	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+111	K	none	none	none	none	-	91.5	0.38799999999999996	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	4mel.A.202/40.101;4mel.B.202/38.8	-	-	-	4mel.A.225/40.627;4mel.B.225/42.03	-	4mel.A.64/6.171;4mel.B.64/6.196	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+112	Q	none	none	none	none	-	89.5	0.39799999999999996	alpha-helix	Helices	Medium-buried	Neutral & Polar	4mel.A.202/43.26;4mel.B.202/42.224	-	-	-	4mel.A.225/44.239;4mel.B.225/45.756	-	4mel.A.64/8.615;4mel.B.64/8.577	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+113	W	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aromatic & Hydrophobic	4mel.A.202/41.862;4mel.B.202/41.067	-	-	-	4mel.A.225/43.572;4mel.B.225/45.134	-	4mel.A.64/9.919;4mel.B.64/9.792	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+114	E	none	none	none	none	-	35	0.157	alpha-helix	Helices	buried	NegativelyCharged & Polar	4mel.A.202/38.771;4mel.B.202/37.988	-	-	-	4mel.A.225/40.685;4mel.B.225/42.467	-	4mel.A.64/10.525;4mel.B.64/10.33	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+115	A	none	none	none	none	-	46.5	0.36	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	4mel.A.202/41.136;4mel.B.202/40.411	-	-	-	4mel.A.225/43.077;4mel.B.225/45.049	-	4mel.A.64/12.325;4mel.B.64/12.178	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+116	Y	none	none	none	none	-	13	0.049	alpha-helix	Helices	core	Aromatic & Hydrophobic	4mel.A.202/43.254;4mel.B.202/42.674	-	-	-	4mel.A.225/45.771;4mel.B.225/47.666	-	4mel.A.64/14.213;4mel.B.64/14.113	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+117	V	none	none	none	none	-	10	0.057	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4mel.A.202/40.534;4mel.B.202/40.096	-	-	-	4mel.A.225/43.744;4mel.B.225/45.649	-	4mel.A.64/15.396;4mel.B.64/15.151	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+118	Q	none	none	none	none	-	113	0.502	turn	coils	Medium-exposed	Neutral & Polar	4mel.A.202/38.847;4mel.B.202/38.299	-	-	-	4mel.A.225/42.124;4mel.B.225/44.161	-	4mel.A.64/16.316;4mel.B.64/16.002	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+119	G	G>R	G>R (exome, AC = 1, AN = 178941, AF = 5.58843e-06)	none	none	-	51.5	0.452	turn	coils	Medium-buried	Special	4mel.A.202/42.344;4mel.B.202/41.793	-	-	-	4mel.A.225/45.557;4mel.B.225/47.613	-	4mel.A.64/17.829;4mel.B.64/17.489	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+120	G	none	none	none	none	-	71.5	0.627	turn	coils	Medium-exposed	Special	4mel.A.202/42.923;4mel.B.202/42.803	-	-	-	4mel.A.225/47.038;4mel.B.225/49.358	-	4mel.A.64/21.193;4mel.B.64/20.842	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+121	D	none	none	none	none	-	73	0.37799999999999995	loop	coils	Medium-buried	Negatively Charged & Polar	4mel.A.202/46.292;4mel.B.202/46.159	-	-	-	4mel.A.225/50.229;4mel.B.225/52.43	-	4mel.A.64/21.641;4mel.B.64/21.379	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+122	Q	Q>R	Q>R (exome, AC = 3, AN = 178635, AF = 1.6794e-05)	none	none	-	113	0.502	bend	coils	Medium-exposed	Neutral & Polar	4mel.A.202/47.332;4mel.B.202/47.264	-	-	-	4mel.A.225/51.2;4mel.B.225/53.251	-	4mel.A.64/21.098;4mel.B.64/20.88	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+123	D	none	none	none	none	-	145.5	0.754	bend	coils	exposed	Negatively Charged & Polar	4mel.A.202/50.831;4mel.B.202/50.766	-	-	-	4mel.A.225/54.339;4mel.B.225/56.456	-	4mel.A.64/22.16;4mel.B.64/22.171	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+124	S	none	none	none	none	-	39.5	0.255	loop	coils	Medium-buried	Neutral & Polar	4mel.A.202/49.763;4mel.B.202/49.795	-	-	-	4mel.A.225/52.705;4mel.B.225/55.15	-	4mel.A.64/20.001;4mel.B.64/20.291	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+125	S	S>C; S>N	S>C (exome, AC = 2, AN = 178139, AF = 1.12272e-05); S>N (exome, AC = 2, AN = 177914, AF = 1.12414e-05)	none	none	-	122	0.787	turn	coils	exposed	Neutral & Polar	4mel.A.202/51.32;4mel.B.202/51.132	-	-	-	4mel.A.225/53.478;4mel.B.225/55.771	-	4mel.A.64/18.497;4mel.B.64/18.94	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+126	T	none	none	none	none	-	43.5	0.253	turn	coils	Medium-buried	Neutral & Polar	4mel.A.202/47.946;4mel.B.202/47.59	-	-	-	4mel.A.225/49.822;4mel.B.225/52.019	-	4mel.A.64/14.988;4mel.B.64/15.454	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+127	F	none	none	none	none	-	98	0.408	loop	coils	Medium-buried	Aromatic & Hydrophobic	4mel.A.202/48.398;4mel.B.202/47.858	-	-	-	4mel.A.225/50.48;4mel.B.225/52.268	-	4mel.A.64/15.044;4mel.B.64/15.343	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+128	P	none	none	none	none	-	24	0.151	loop	coils	buried	Special	4mel.A.202/47.399;4mel.B.202/46.413	-	-	-	4mel.A.225/48.808;4mel.B.225/50.121	-	4mel.A.64/11.869;4mel.B.64/12.055	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+129	G	none	none	none	none	-	18	0.158	loop	coils	buried	Special	4mel.A.202/49.808;4mel.B.202/48.784	-	-	-	4mel.A.225/51.373;4mel.B.225/52.392	-	4mel.A.64/14.331;4mel.B.64/14.337	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+130	C	none	none	none	none	-	55.5	0.332	bend	coils	Medium-buried	Special	4mel.A.202/49.853;4mel.B.202/48.67	-	-	-	4mel.A.225/51.009;4mel.B.225/51.677	-	4mel.A.64/13.925;4mel.B.64/13.819	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+131	I	none	none	none	none	-	0	0	beta-strand	beta-strand/sheet	core	Aliphatic & Hydrophobic	4mel.A.202/47.176;4mel.B.202/45.844	-	-	-	4mel.A.225/47.808;4mel.B.225/48.339	-	4mel.A.64/10.871;4mel.B.64/10.731	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+132	N	none	none	none	none	-	63	0.32299999999999995	loop	coils	Medium-buried	Neutral & Polar	4mel.A.202/48.599;4mel.B.202/47.084	-	-	-	4mel.A.152/48.016;4mel.B.225/48.783	-	4mel.A.64/9.899;4mel.B.64/9.958	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+133	N	N>S	N>S (exome, AC = 1, AN = 174664, AF = 5.72528e-06)	none	none	-	1	0.005	loop	coils	core	Neutral & Polar	4mel.A.202/47.321;4mel.B.202/45.499	-	-	-	4mel.A.152/45.395;4mel.B.225/46.4	-	4mel.A.64/8.802;4mel.B.64/8.775	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+134	A	none	none	none	none	-	36.5	0.28300000000000003	310-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	4mel.A.202/50.591;4mel.B.202/48.705	-	-	-	4mel.A.152/47.705;4mel.B.152/48.809	-	4mel.A.64/11.185;4mel.B.64/11.401	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+135	T	none	none	none	none	-	81.5	0.474	310-helix	Helices	Medium-buried	Neutral & Polar	4mel.A.202/49.118;4mel.B.202/47.208	-	-	-	4mel.A.152/45.338;4mel.B.152/46.696	-	4mel.A.64/9.687;4mel.B.64/10.033	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+136	L	none	none	none	none	-	2.5	0.012	310-helix	Helices	core	Aliphatic & Hydrophobic	4mel.A.202/46.946;4mel.B.202/44.943	-	-	-	4mel.A.152/42.755;4mel.B.152/43.794	-	4mel.A.64/9.763;4mel.B.64/9.995	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+137	F	none	none	none	none	-	12.5	0.052000000000000005	beta-strand	beta-strand/sheet	buried	Aromatic & Hydrophobic	4mel.A.202/49.93;4mel.B.202/47.918	-	-	-	4mel.A.152/45.096;4mel.B.152/45.846	-	4mel.A.64/13.456;4mel.B.64/13.688	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+138	Q	Q>K	Q>K (exome, AC = 1, AN = 169413, AF = 5.90273e-06)	none	none	-	78.5	0.349	bend	coils	Medium-buried	Neutral & Polar	4mel.A.202/51.968;4mel.B.202/49.97	-	-	-	4mel.A.152/45.729;4mel.B.152/46.547	-	4mel.A.64/16.212;4mel.B.64/16.519	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+139	D	none	none	none	none	-	45	0.233	loop	coils	buried	Negatively Charged & Polar	4mel.A.202/54.849;4mel.B.202/52.824	-	-	-	4mel.A.152/49.036;4mel.B.152/49.585	-	4mel.A.64/18.535;4mel.B.64/18.835	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+140	E	E>K	E>K (exome, AC = 1, AN = 179465, AF = 5.57212e-06)	none	none	-	110	0.493	bend	coils	Medium-buried	NegativelyCharged & Polar	4mel.A.202/56.191;4mel.B.202/54.14	-	-	-	4mel.A.152/51.569;4mel.B.152/52.034	-	4mel.A.64/18.683;4mel.B.64/19.013	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+141	I	none	none	none	none	-	136.5	0.693	bend	coils	Medium-exposed	Aliphatic & Hydrophobic	4mel.A.202/58.219;4mel.B.202/56.05	-	-	-	4mel.A.152/53.239;4mel.B.152/53.3	-	4mel.A.64/22.007;4mel.B.64/22.274	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+142	N	none	none	none	none	-	114	0.585	bend	coils	Medium-exposed	Neutral & Polar	4mel.A.202/55.746;4mel.B.202/53.601	-	-	-	4mel.A.152/50.388;4mel.B.152/50.114	-	4mel.A.64/21.579;4mel.B.64/21.869	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+143	W	none	none	none	none	-	72.5	0.254	loop	coils	Medium-buried	Aromatic & Hydrophobic	4mel.A.202/52.563;4mel.B.202/50.393	-	-	-	4mel.A.152/47.911;4mel.B.152/47.827	-	4mel.A.64/17.856;4mel.B.64/18.141	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+144	R	R>H	R>H (exome, AC = 9, AN = 180260, AF = 4.99279e-05); R>H (genome, AC = 1, AN = 21843, AF = 4.57813e-05)	none	none	B:101:ARG-N/3.71-A:155:GLU;B:101:ARG-N/3.48-A:155:GLU;B:101:ARG-N/3.81-A:155:GLU	65.5	0.239	loop	coils	buried	Positively Charged & Polar	4mel.A.202/50.911;4mel.B.202/48.525	-	-	-	4mel.A.152/45.071;4mel.B.152/44.844	-	4mel.A.64/17.872;4mel.B.64/17.96	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+145	L	none	none	none	none	B:102:LEU-N/3.49-A:151:VAL;B:102:LEU-N/3.74-A:151:VAL;B:102:LEU-N/3.75-A:152:TYR	18	0.09	beta-strand	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4mel.A.202/47.575;4mel.B.202/45.096	-	-	-	4mel.A.152/41.914;4mel.B.152/41.87	-	4mel.A.64/14.75;4mel.B.64/14.891	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+146	K	none	none	none	none	B:103:LYS-N/3.43-A:152:TYR;B:103:LYS-N/3.8-A:152:TYR;B:103:LYS-N/3.24-A:152:TYR	78	0.331	loop	coils	Medium-buried	Positively Charged & Polar	4mel.A.202/47.63;4mel.B.202/44.961	-	-	-	4mel.A.152/41.147;4mel.B.152/41.359	-	4mel.A.64/14.09;4mel.B.64/14.126	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+147	E	E>K	E>K (exome, AC = 1, AN = 180949, AF = 5.52642e-06)	none	none	B:104:GLU-N/3.56-A:152:TYR;B:104:GLU-N/3.83-A:152:TYR;B:104:GLU-N/3.73-A:152:TYR;B:104:GLU-N/3.25-A:152:TYR;B:104:GLU-N/3.26-A:152:TYR	134.5	0.603	bend	coils	Medium-exposed	NegativelyCharged & Polar	4mel.A.202/45.86;4mel.B.202/42.871	-	-	-	4mel.A.152/38.121;4mel.B.152/38.118	-	4mel.A.64/15.53;4mel.B.64/15.476	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+148	G	none	none	none	none	B:105:GLY-H/2.67-A:152:TYR;B:105:GLY-N/3.46-A:152:TYR;B:105:GLY-N/2.67-A:152:TYR;B:105:GLY-N/3.57-A:152:TYR;B:105:GLY-N/3.67-A:152:TYR	67	0.588	bend	coils	Medium-exposed	Special	4mel.A.202/43.438;4mel.B.202/40.236	-	-	-	4mel.A.152/35.394;4mel.B.152/35.56	-	4mel.A.64/14.728;4mel.B.64/14.786	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+149	L	none	none	none	none	A:106:LEU-H/3.25-B:152:TYR;B:106:LEU-H/3.0-A:152:TYR;B:106:LEU-N/3.0-A:152:TYR;B:106:LEU-N/3.54-A:152:TYR;B:106:LEU-N/3.34-A:152:TYR;B:106:LEU-N/3.17-A:152:TYR	18.5	0.092	loop	coils	buried	Aliphatic & Hydrophobic	4mel.A.202/41.894;4mel.B.202/39.072	-	-	-	4mel.A.152/35.643;4mel.B.152/36.357	-	4mel.A.64/11.045;4mel.B.64/11.007	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+150	V	none	none	none	none	-	76.5	0.44	loop	coils	Medium-buried	Aliphatic & Hydrophobic	4mel.A.202/38.297;4mel.B.202/35.348	-	-	-	4mel.A.152/32.599;4mel.B.152/33.526	-	4mel.A.64/10.419;4mel.B.64/10.469	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+151	E	none	none	none	none	-	106	0.475	beta-strand	beta-strand/sheet	Medium-buried	NegativelyCharged & Polar	4mel.A.202/35.674;4mel.B.202/33.247	-	-	-	4mel.A.152/31.81;4mel.B.225/33.09	-	4mel.A.64/9.066;4mel.B.64/8.746	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+152	G	none	none	none	none	-	35.5	0.311	turn	coils	Medium-buried	Special	4mel.A.202/35.076;4mel.B.202/32.688	-	-	-	4mel.A.152/32.599;4mel.B.225/33.504	-	4mel.A.64/7.318;4mel.B.64/7.161	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+153	E	E>K	E>K (exome, AC = 2, AN = 181366, AF = 1.10274e-05)	none	none	-	129.5	0.581	turn	coils	Medium-exposed	NegativelyCharged & Polar	4mel.A.202/38.388;4mel.B.202/35.644	-	-	-	4mel.A.152/34.784;4mel.B.225/35.878	-	4mel.A.64/6.695;4mel.B.64/6.762	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+154	D	none	none	none	none	-	54.5	0.282	turn	coils	Medium-buried	Negatively Charged & Polar	4mel.A.202/41.076;4mel.B.202/38.435	-	-	-	4mel.A.152/37.395;4mel.B.225/38.449	-	4mel.A.64/5.423;4mel.B.64/5.491	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+155	Y	Y>C	Y>C (exome, AC = 1, AN = 181551, AF = 5.50809e-06)	none	none	B:112:TYR-N/3.49-A:151:VAL	13	0.049	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	4mel.A.202/39.476;4mel.B.202/37.305	-	-	-	4mel.A.152/37.044;4mel.B.225/37.924	-	4mel.A.64/4.78;4mel.B.64/4.575	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+156	V	none	none	none	none	-	6.5	0.037000000000000005	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4mel.A.202/36.527;4mel.B.202/34.776	-	-	-	4mel.A.152/35.621;4mel.B.225/36.242	-	4mel.A.64/6.231;4mel.B.64/5.92	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+157	L	none	none	none	none	-	11	0.055	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4mel.A.202/35.193;4mel.B.202/33.507	-	-	-	4mel.A.152/34.613;4mel.B.225/34.984	-	4mel.A.64/9.878;4mel.B.64/9.581	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+158	L	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4mel.A.202/35.308;4mel.B.202/34.027	-	-	-	4mel.A.225/36.005;4mel.B.225/36.453	-	4mel.A.64/11.941;4mel.B.64/11.591	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+159	P	none	none	none	none	-	2.5	0.016	beta-sheet	beta-strand/sheet	core	Special	4mel.A.202/34.457;4mel.B.202/33.427	-	-	-	4mel.A.225/35.656;4mel.B.225/36.035	-	4mel.A.64/15.746;4mel.B.64/15.388	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+160	A	none	none	none	none	-	37.5	0.29100000000000004	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	4mel.A.202/37.489;4mel.B.202/36.686	-	-	-	4mel.A.225/38.916;4mel.B.225/39.234	-	4mel.A.64/17.787;4mel.B.64/17.32	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+161	A	none	none	none	none	-	41.5	0.322	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	4mel.A.202/37.064;4mel.B.202/36.576	-	-	-	4mel.A.225/39.592;4mel.B.225/40.234	-	4mel.A.64/18.982;4mel.B.64/18.523	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+162	A	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4mel.A.202/36.781;4mel.B.202/36.115	-	-	-	4mel.A.225/39.192;4mel.B.225/40.014	-	4mel.A.64/15.858;4mel.B.64/15.435	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+163	W	none	none	none	none	-	8	0.027999999999999997	alpha-helix	Helices	core	Aromatic & Hydrophobic	4mel.A.202/39.63;4mel.B.202/38.745	-	-	-	4mel.A.225/41.197;4mel.B.225/41.79	-	4mel.A.64/14.389;4mel.B.64/14.015	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+164	H	none	none	none	none	-	130.5	0.583	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	4mel.A.202/41.797;4mel.B.202/41.146	-	-	-	4mel.A.225/43.928;4mel.B.225/44.54	-	4mel.A.64/17.785;4mel.B.64/17.411	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+165	Y	none	none	none	none	-	98	0.373	alpha-helix	Helices	Medium-buried	Aromatic & Hydrophobic	4mel.A.202/41.225;4mel.B.202/40.692	-	-	-	4mel.A.225/44.108;4mel.B.225/44.957	-	4mel.A.64/17.866;4mel.B.64/17.349	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+166	L	none	none	none	none	-	0.5	0.002	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4mel.A.202/42.214;4mel.B.202/41.487	-	-	-	4mel.A.225/44.461;4mel.B.225/45.333	-	4mel.A.64/14.642;4mel.B.64/14.157	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+167	V	none	none	none	none	-	42.5	0.244	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4mel.A.202/45.29;4mel.B.202/44.558	-	-	-	4mel.A.225/47.191;4mel.B.225/47.904	-	4mel.A.64/16.223;4mel.B.64/15.819	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+168	S	none	none	none	none	-	79	0.51	alpha-helix	Helices	Medium-exposed	Neutral & Polar	4mel.A.202/46.2;4mel.B.202/45.711	-	-	-	4mel.A.225/48.942;4mel.B.225/49.755	-	4mel.A.64/19.521;4mel.B.64/19.165	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+169	W	none	none	none	none	-	36.5	0.128	alpha-helix	Helices	buried	Aromatic & Hydrophobic	4mel.A.202/45.949;4mel.B.202/45.491	-	-	-	4mel.A.225/48.902;4mel.B.225/50.001	-	4mel.A.64/18.275;4mel.B.64/18.061	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+170	Y	none	none	none	none	-	17	0.065	turn	coils	buried	Aromatic & Hydrophobic	4mel.A.202/47.357;4mel.B.202/46.609	-	-	-	4mel.A.225/49.59;4mel.B.225/50.574	-	4mel.A.64/15.949;4mel.B.64/15.757	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+171	G	none	none	none	none	-	19.5	0.171	loop	coils	buried	Special	4mel.A.202/48.877;4mel.B.202/48.046	-	-	-	4mel.A.225/50.625;4mel.B.225/51.337	-	4mel.A.64/16.737;4mel.B.64/16.446	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+172	L	none	none	none	none	-	37	0.184	beta-strand	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4mel.A.202/49.069;4mel.B.202/47.918	-	-	-	4mel.A.225/49.962;4mel.B.225/50.352	-	4mel.A.64/15.185;4mel.B.64/15.006	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+173	E	E>Q	E>Q (genome, AC = 1, AN = 21927, AF = 4.56059e-05)	none	none	-	63	0.28300000000000003	loop	coils	Medium-buried	NegativelyCharged & Polar	4mel.A.202/51.955;4mel.B.202/50.495	-	-	-	4mel.A.152/52.059;4mel.B.225/52.457	-	4mel.A.64/15.563;4mel.B.64/15.29	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+174	H	H>Y	H>Y (exome, AC = 7, AN = 181331, AF = 3.86034e-05); H>Y (genome, AC = 3, AN = 21890, AF = 0.000137049)	none	none	-	180.5	0.8059999999999999	turn	coils	exposed	Positively Charged & Polar	4mel.A.202/55.027;4mel.B.202/53.899	-	-	-	4mel.A.152/54.728;4mel.B.225/55.763	-	4mel.A.64/19.054;4mel.B.64/19.023	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+175	G	none	none	none	none	-	48.5	0.425	turn	coils	Medium-buried	Special	4mel.A.202/55.745;4mel.B.202/54.115	-	-	-	4mel.A.152/54.159;4mel.B.152/54.999	-	4mel.A.64/19.817;4mel.B.64/18.817	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+176	Q	none	none	none	none	-	18	0.08	loop	coils	buried	Neutral & Polar	4mel.A.202/52.177;4mel.B.202/50.58	-	-	-	4mel.A.152/50.384;4mel.B.152/51.233	-	4mel.A.64/16.701;4mel.B.64/16.199	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+177	P	none	none	none	none	-	47	0.29600000000000004	loop	coils	Medium-buried	Special	4mel.A.202/49.981;4mel.B.202/48.829	-	-	-	4mel.A.152/48.039;4mel.B.152/49.044	-	4mel.A.64/17.211;4mel.B.64/17.074	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+178	P	none	none	none	none	-	69.5	0.43700000000000006	loop	coils	Medium-buried	Special	4mel.A.202/46.282;4mel.B.202/45.119	-	-	-	4mel.A.152/45.039;4mel.B.152/45.944	-	4mel.A.64/15.256;4mel.B.64/15.142	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+179	I	none	none	none	none	-	6.5	0.033	loop	coils	core	Aliphatic & Hydrophobic	4mel.A.202/44.191;4mel.B.202/42.693	-	-	-	4mel.A.152/41.797;4mel.B.152/42.594	-	4mel.A.64/13.731;4mel.B.64/13.53	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+180	E	none	none	none	none	-	89	0.39899999999999997	beta-sheet	beta-strand/sheet	Medium-buried	NegativelyCharged & Polar	4mel.A.202/42.007;4mel.B.202/40.484	-	-	-	4mel.A.152/39.707;4mel.B.152/40.28	-	4mel.A.64/15.971;4mel.B.64/15.607	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+181	R	R>C; R>H	R>C (exome, AC = 3, AN = 180690, AF = 1.6603e-05); R>H (exome, AC = 1, AN = 180511, AF = 5.53983e-06)	none	none	A:138:ARG-H/2.61-B:151:VAL;B:138:ARG-H/2.82-A:151:VAL;B:138:ARG-N/3.87-A:149:VAL;B:138:ARG-N/3.43-A:150:GLU;B:138:ARG-N/3.62-A:150:GLU;B:138:ARG-N/3.19-A:150:GLU;B:138:ARG-N/3.85-A:151:VAL;B:138:ARG-N/3.87-A:151:VAL;B:138:ARG-N/3.86-A:151:VAL;B:138:ARG-N/3.71-A:151:VAL;B:138:ARG-N/3.39-A:151:VAL;B:138:ARG-N/2.82-A:151:VAL;B:138:ARG-N/3.88-A:151:VAL;B:138:ARG-N/3.76-A:153:PRO	45.5	0.166	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	4mel.A.202/39.694;4mel.B.202/37.941	-	-	-	4mel.A.152/36.339;4mel.B.152/36.704	-	4mel.A.64/17.067;4mel.B.64/16.639	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+182	K	none	none	none	none	B:139:LYS-N/3.79-A:148:LYS;B:139:LYS-N/3.44-A:149:VAL;B:139:LYS-N/3.61-A:149:VAL;B:139:LYS-N/2.85-A:150:GLU;B:139:LYS-N/3.85-A:150:GLU;B:139:LYS-N/3.86-A:150:GLU	105.5	0.447	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	4mel.A.202/37.231;4mel.B.202/35.62	-	-	-	4mel.A.152/34.057;4mel.B.152/34.343	-	4mel.A.64/19.699;4mel.B.64/19.28	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+183	V	none	none	none	none	B:140:VAL-N/3.85-A:147:GLN;B:140:VAL-N/3.85-A:148:LYS;B:140:VAL-N/3.32-A:148:LYS;B:140:VAL-N/3.53-A:148:LYS;B:140:VAL-N/3.77-A:148:LYS;B:140:VAL-N/3.6-A:149:VAL	4.5	0.026000000000000002	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4mel.A.202/33.811;4mel.B.202/32.089	-	-	-	4mel.A.152/30.385;4mel.B.152/30.818	-	4mel.A.64/20.717;4mel.B.64/20.439	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+184	I	none	none	none	none	A:141:ILE-H/3.08-B:148:LYS;B:141:ILE-H/2.8-A:148:LYS;B:141:ILE-N/3.75-A:146:ILE;B:141:ILE-N/3.35-A:147:GLN;B:141:ILE-N/3.65-A:147:GLN;B:141:ILE-N/3.01-A:148:LYS;B:141:ILE-N/2.8-A:148:LYS;B:141:ILE-N/3.85-A:148:LYS;B:141:ILE-N/3.52-A:148:LYS;B:141:ILE-N/3.51-A:148:LYS;B:141:ILE-N/3.22-A:150:GLU;B:141:ILE-N/3.56-A:173:SER;B:141:ILE-N/3.74-A:175:THR	21	0.107	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4mel.A.202/33.985;4mel.B.202/32.109	-	-	-	4mel.A.152/28.715;4mel.B.152/28.786	-	4mel.A.64/23.669;4mel.B.64/23.516	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P76-I184: DUSP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+185	E	none	none	none	none	B:142:GLU-N/3.86-A:146:ILE;B:142:GLU-N/3.83-A:146:ILE	104.5	0.469	beta-sheet	beta-strand/sheet	Medium-buried	NegativelyCharged & Polar	4mel.A.202/31.59;4mel.B.202/29.727	-	-	-	4mel.A.152/25.491;4mel.B.152/25.566	-	4mel.A.64/26.204;4mel.B.64/26.22	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+186	L	L>M	L>M (exome, AC = 1, AN = 183175, AF = 5.45926e-06)	none	none	A:143:LEU-H/3.27-B:146:ILE;B:143:LEU-H/2.88-A:146:ILE;B:143:LEU-N/3.79-A:145:ASN;B:143:LEU-N/3.49-A:145:ASN;B:143:LEU-N/3.81-A:145:ASN;B:143:LEU-N/3.3-A:145:ASN;B:143:LEU-N/2.88-A:146:ILE;B:143:LEU-N/3.64-A:146:ILE;B:143:LEU-N/3.27-A:146:ILE;B:143:LEU-N/3.78-A:146:ILE;B:143:LEU-N/3.64-A:146:ILE;B:143:LEU-N/3.74-A:146:ILE	46	0.22899999999999998	loop	coils	buried	Aliphatic & Hydrophobic	4mel.A.202/31.986;4mel.B.202/29.916	-	-	-	4mel.A.152/23.517;4mel.B.152/23.464	-	4mel.A.64/26.558;4mel.B.64/26.717	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+187	P	none	none	none	none	-	55.5	0.349	loop	coils	Medium-buried	Special	4mel.A.202/32.51;4mel.B.202/30.844	-	-	-	4mel.A.152/22.311;4mel.B.152/22.167	-	4mel.A.64/30.235;4mel.B.64/30.368	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+188	N	none	none	none	none	B:145:ASN-H/3.34-A:143:LEU;B:145:ASN-H/2.62-A:145:ASN;A:145:ASN-H/3.3-B:143:LEU;A:145:ASN-H/2.61-B:145:ASN;B:145:ASN-N/3.84-A:143:LEU;B:145:ASN-N/3.55-A:143:LEU;B:145:ASN-N/3.86-A:143:LEU;B:145:ASN-N/3.34-A:143:LEU;B:145:ASN-N/3.53-A:145:ASN;B:145:ASN-N/3.39-A:145:ASN;B:145:ASN-N/3.24-A:145:ASN;B:145:ASN-N/3.36-A:145:ASN;B:145:ASN-N/3.54-A:145:ASN;B:145:ASN-N/2.62-A:145:ASN;B:145:ASN-N/3.18-A:145:ASN;B:145:ASN-N/2.61-A:145:ASN;B:145:ASN-N/3.34-A:145:ASN	59.5	0.305	loop	coils	Medium-buried	Neutral & Polar	4mel.A.202/29.745;4mel.B.202/28.307	-	-	-	4mel.A.152/18.925;4mel.B.152/18.711	-	4mel.A.202/29.745;4mel.B.202/28.307	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+189	I	none	none	none	none	B:146:ILE-N/3.27-A:143:LEU;B:146:ILE-N/3.47-A:143:LEU;B:146:ILE-N/3.71-A:143:LEU;B:146:ILE-N/3.83-A:143:LEU	99.5	0.505	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	4mel.A.202/29.777;4mel.B.202/28.156	-	-	-	4mel.A.152/16.626;4mel.B.152/16.533	-	4mel.A.202/29.777;4mel.B.202/28.156	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+190	Q	none	none	none	none	B:147:GLN-H/3.12-A:142:GLU;A:147:GLN-H/2.75-B:53:LEU;B:147:GLN-N/3.6-A:53:LEU;B:147:GLN-N/3.35-A:53:LEU;B:147:GLN-N/3.8-A:53:LEU;B:147:GLN-N/3.64-A:53:LEU;B:147:GLN-N/3.63-A:53:LEU;B:147:GLN-N/3.39-A:55:ALA;B:147:GLN-N/3.75-A:55:ALA;B:147:GLN-N/3.72-A:55:ALA;B:147:GLN-N/3.67-A:140:VAL;B:147:GLN-N/3.79-A:142:GLU;B:147:GLN-N/3.53-A:142:GLU;B:147:GLN-N/3.4-A:142:GLU;B:147:GLN-N/3.7-A:142:GLU;B:147:GLN-N/3.12-A:142:GLU	61.5	0.273	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	4mel.A.202/29.421;4mel.B.202/28.492	-	-	-	4mel.A.152/14.588;4mel.B.152/14.5	-	4mel.A.202/29.421;4mel.B.202/28.492	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+191	K	none	none	none	none	A:148:LYS-H/3.01-B:141:ILE;B:148:LYS-N/3.48-A:140:VAL;B:148:LYS-N/3.78-A:140:VAL;B:148:LYS-N/3.61-A:140:VAL;B:148:LYS-N/3.08-A:141:ILE;B:148:LYS-N/3.48-A:141:ILE;B:148:LYS-N/3.53-A:141:ILE;B:148:LYS-N/3.84-A:141:ILE	121.5	0.515	beta-sheet	beta-strand/sheet	Medium-exposed	Positively Charged & Polar	4mel.A.202/27.795;4mel.B.202/26.735	-	-	-	4mel.A.152/11.228;4mel.B.152/11.075	-	4mel.A.202/27.795;4mel.B.202/26.735	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+192	V	none	none	none	none	B:149:VAL-N/3.85-A:53:LEU;B:149:VAL-N/3.72-A:114:LEU;B:149:VAL-N/3.87-A:138:ARG;B:149:VAL-N/3.87-A:139:LYS;B:149:VAL-N/3.88-A:139:LYS	10	0.057	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4mel.A.202/27.038;4mel.B.202/26.621	-	-	-	4mel.A.152/8.877;4mel.B.152/8.802	-	4mel.A.202/27.038;4mel.B.202/26.621	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+193	E	none	none	none	none	B:150:GLU-H/2.98-A:139:LYS;A:150:GLU-H/2.85-B:139:LYS;B:150:GLU-N/3.42-A:138:ARG;B:150:GLU-N/3.55-A:138:ARG;B:150:GLU-N/3.12-A:138:ARG;B:150:GLU-N/2.98-A:139:LYS;B:150:GLU-N/3.79-A:139:LYS;B:150:GLU-N/3.59-A:139:LYS;B:150:GLU-N/3.75-A:141:ILE;B:150:GLU-N/3.62-A:141:ILE;B:150:GLU-N/3.29-A:141:ILE	21	0.094	beta-sheet	beta-strand/sheet	buried	NegativelyCharged & Polar	4mel.A.202/23.33;4mel.B.202/23.179	-	-	-	4mel.A.152/5.505;4mel.B.152/5.601	-	4mel.A.202/23.33;4mel.B.202/23.179	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+194	V	none	none	none	none	B:151:VAL-N/3.83-A:102:LEU;B:151:VAL-N/3.53-A:112:TYR;B:151:VAL-N/3.77-A:138:ARG;B:151:VAL-N/3.73-A:138:ARG;B:151:VAL-N/3.82-A:138:ARG;B:151:VAL-N/3.33-A:138:ARG;B:151:VAL-N/3.86-A:138:ARG;B:151:VAL-N/3.52-A:138:ARG;B:151:VAL-N/2.61-A:138:ARG;B:151:VAL-N/3.6-A:138:ARG;B:151:VAL-N/3.74-A:138:ARG	14.5	0.083	bend	coils	buried	Aliphatic & Hydrophobic	4mel.A.202/23.711;4mel.B.202/23.524	-	-	-	4mel.A.152/3.806;4mel.B.152/3.804	-	4mel.A.202/23.711;4mel.B.202/23.524	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+195	Y	none	none	none	none	B:152:TYR-H/2.29-A:103:LYS;A:152:TYR-H/3.24-B:103:LYS;B:152:TYR-N/3.76-A:102:LEU;B:152:TYR-N/3.32-A:103:LYS;B:152:TYR-N/3.15-A:103:LYS;B:152:TYR-N/3.12-A:103:LYS;B:152:TYR-N/2.29-A:103:LYS;B:152:TYR-N/3.76-A:104:GLU;B:152:TYR-N/3.68-A:104:GLU;B:152:TYR-N/3.68-A:104:GLU;B:152:TYR-N/3.36-A:104:GLU;B:152:TYR-N/3.64-A:104:GLU;B:152:TYR-N/3.83-A:105:GLY;B:152:TYR-N/3.52-A:105:GLY;B:152:TYR-N/3.25-A:106:LEU;B:152:TYR-N/3.79-A:106:LEU;B:152:TYR-N/3.26-A:106:LEU;B:152:TYR-N/3.39-A:106:LEU;B:152:TYR-N/3.69-A:106:LEU	77	0.293	bend	coils	Medium-buried	Aromatic & Hydrophobic	4mel.A.202/20.058;4mel.B.202/19.885	-	-	-	4mel.A.152/0.0;4mel.B.152/0.0	-	4mel.A.202/20.058;4mel.B.202/19.885	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+196	P	P>S	P>S (exome, AC = 1, AN = 183451, AF = 5.45105e-06); P>S (genome, AC = 2, AN = 21912, AF = 9.12742e-05)	none	none	-	28.5	0.179	loop	coils	buried	Special	4mel.A.202/17.896;4mel.B.202/17.979	-	-	-	4mel.A.152/3.843;4mel.B.152/3.819	-	4mel.A.202/17.896;4mel.B.202/17.979	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+197	V	none	none	none	none	-	3	0.017	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4mel.A.202/14.108;4mel.B.202/14.184	-	-	-	4mel.A.225/5.16;4mel.B.225/4.42	-	4mel.A.202/14.108;4mel.B.202/14.184	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+198	E	none	none	none	none	-	49	0.22	beta-sheet	beta-strand/sheet	buried	NegativelyCharged & Polar	4mel.A.202/13.599;4mel.B.202/13.539	-	-	-	4mel.A.225/4.655;4mel.B.225/4.235	-	4mel.A.202/13.599;4mel.B.202/13.539	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+199	L	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4mel.A.202/10.632;4mel.B.202/10.588	-	-	-	4mel.A.225/5.859;4mel.B.225/5.611	-	4mel.A.202/10.632;4mel.B.202/10.588	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+200	L	none	none	none	none	-	46	0.22899999999999998	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4mel.A.202/10.442;4mel.B.202/10.205	-	-	-	4mel.A.225/8.647;4mel.B.225/8.504	-	4mel.A.202/10.442;4mel.B.202/10.205	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+201	L	none	none	none	none	-	1	0.005	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4mel.A.202/10.901;4mel.B.202/10.942	-	-	-	4mel.A.225/11.811;4mel.B.225/11.689	-	4mel.A.202/10.901;4mel.B.202/10.942	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+202	V	none	none	none	none	-	1	0.006	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4mel.A.202/10.762;4mel.B.202/10.742	-	-	-	4mel.A.233/11.193;4mel.B.233/11.295	-	4mel.A.202/10.762;4mel.B.202/10.742	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+203	R	R>W; R>Q	R>W (exome, AC = 1, AN = 183451, AF = 5.45105e-06); R>Q (exome, AC = 3, AN = 183443, AF = 1.63539e-05)	none	none	-	51.5	0.188	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	4mel.A.202/12.621;4mel.B.202/12.53	-	-	-	4mel.A.233/7.817;4mel.B.233/8.039	-	4mel.A.202/12.621;4mel.B.202/12.53	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+204	H	none	none	none	none	-	56.5	0.252	bend	coils	Medium-buried	Positively Charged & Polar	4mel.A.202/12.389	-	-	-	4mel.A.233/7.117	-	4mel.A.202/12.389	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+205	N	N>S	N>S (genome, AC = 1, AN = 21920, AF = 4.56204e-05)	none	none	-	106	0.544	bend	coils	Medium-exposed	Neutral & Polar	4mel.A.202/15.795;4mel.B.202/15.107	-	-	-	4mel.A.233/8.296;4mel.B.233/9.194	-	4mel.A.202/15.795;4mel.B.202/15.107	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+206	D	none	none	none	none	-	62.5	0.324	loop	coils	Medium-buried	Negatively Charged & Polar	4mel.A.202/15.289;4mel.B.202/14.512	-	-	-	4mel.A.233/11.281;4mel.B.233/11.963	-	4mel.A.202/15.289;4mel.B.202/14.512	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+207	L	none	none	none	none	-	105	0.522	bend	coils	Medium-exposed	Aliphatic & Hydrophobic	4mel.A.202/12.241;4mel.B.202/11.316	-	-	-	4mel.A.233/13.018;4mel.B.233/13.452	-	4mel.A.202/12.241;4mel.B.202/11.316	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+208	G	G>S	G>S (exome, AC = 1, AN = 183436, AF = 5.45149e-06)	none	none	-	63	0.5529999999999999	bend	coils	Medium-exposed	Special	4mel.A.202/14.863;4mel.B.202/13.822	-	-	-	4mel.A.233/16.117;4mel.B.233/16.389	-	4mel.A.202/14.863;4mel.B.202/13.822	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+209	K	none	none	none	none	-	133.5	0.5660000000000001	bend	coils	Medium-exposed	Positively Charged & Polar	4mel.A.202/16.112;4mel.B.202/15.304	-	-	-	4mel.A.233/15.026;4mel.B.233/15.288	-	4mel.A.202/16.112;4mel.B.202/15.304	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+210	S	S>F	S>F (exome, AC = 2, AN = 183424, AF = 1.09037e-05)	none	none	-	52.5	0.33899999999999997	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	4mel.A.202/14.08;4mel.B.202/13.563	-	-	-	4mel.A.225/14.577;4mel.B.225/13.876	-	4mel.A.202/14.08;4mel.B.202/13.563	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+211	H	none	none	none	none	-	65.5	0.292	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	4mel.A.202/15.237;4mel.B.202/14.874	-	-	-	4mel.A.225/13.494;4mel.B.225/12.726	-	4mel.A.202/15.237;4mel.B.202/14.874	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+212	T	T>A	T>A (exome, AC = 4, AN = 183397, AF = 2.18106e-05); T>A (genome, AC = 4, AN = 21888, AF = 0.000182749)	none	none	-	78	0.45299999999999996	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	4mel.A.202/14.835;4mel.B.202/14.692	-	-	-	4mel.A.225/10.357;4mel.B.225/9.697	-	4mel.A.202/14.835;4mel.B.202/14.692	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+213	V	none	none	none	none	-	24.5	0.141	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4mel.A.202/15.582;4mel.B.202/15.645	-	-	-	4mel.A.225/10.256;4mel.B.225/9.691	-	4mel.A.202/15.582;4mel.B.202/15.645	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+214	Q	Q>E; Q>H	Q>E (exome, AC = 2, AN = 183317, AF = 1.09101e-05); Q>H (exome, AC = 1, AN = 183315, AF = 5.45509e-06)	none	none	-	111.5	0.496	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	4mel.A.202/16.423;4mel.B.202/16.707	-	-	-	4mel.A.225/8.897;4mel.B.225/8.464	-	4mel.A.202/16.423;4mel.B.202/16.707	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+215	F	none	none	none	none	-	9	0.037000000000000005	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	4mel.A.202/16.068;4mel.B.202/16.317	-	-	-	4mel.A.152/9.581;4mel.B.225/8.978	-	4mel.A.202/16.068;4mel.B.202/16.317	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+216	S	none	none	none	none	-	15.5	0.1	loop	coils	buried	Neutral & Polar	4mel.A.202/17.898;4mel.B.202/18.106	-	-	-	4mel.A.152/8.504;4mel.B.152/8.605	-	4mel.A.202/17.898;4mel.B.202/18.106	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+217	H	none	none	none	none	-	59	0.263	turn	coils	Medium-buried	Positively Charged & Polar	4mel.A.202/16.901;4mel.B.202/17.075	-	-	-	4mel.A.152/9.268;4mel.B.152/9.101	-	4mel.A.202/16.901;4mel.B.202/17.075	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+218	T	none	none	none	none	B:175:THR-N/3.82-A:141:ILE;B:175:THR-N/3.84-A:141:ILE;B:175:THR-N/3.55-A:142:GLU	54.5	0.317	turn	coils	Medium-buried	Neutral & Polar	4mel.A.202/19.32;4mel.B.202/19.366	-	-	-	4mel.A.152/12.265;4mel.B.152/12.3	-	4mel.A.202/19.32;4mel.B.202/19.366	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+219	D	none	none	none	none	-	42	0.218	loop	coils	buried	Negatively Charged & Polar	4mel.A.202/17.991;4mel.B.202/17.99	-	-	-	4mel.A.152/13.479;4mel.B.225/13.432	-	4mel.A.202/17.991;4mel.B.202/17.99	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+220	S	S>P	S>P (exome, AC = 1, AN = 183112, AF = 5.46114e-06)	none	none	-	40	0.258	beta-strand	beta-strand/sheet	Medium-buried	Neutral & Polar	4mel.A.202/17.26;4mel.B.202/17.168	-	-	-	4mel.A.225/16.013;4mel.B.225/15.259	-	4mel.A.202/17.26;4mel.B.202/17.168	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+221	I	I>V	I>V (exome, AC = 3, AN = 183091, AF = 1.63853e-05)	none	none	-	5	0.025	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4mel.A.202/14.217;4mel.B.202/14.381	-	-	-	4mel.A.225/15.155;4mel.B.225/14.676	-	4mel.A.202/14.217;4mel.B.202/14.381	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+222	G	none	none	none	none	-	5	0.044000000000000004	alpha-helix	Helices	core	Special	4mel.A.202/16.895;4mel.B.202/17.285	-	-	-	4mel.A.233/15.758;4mel.B.233/15.458	-	4mel.A.202/16.895;4mel.B.202/17.285	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+223	L	none	none	none	none	-	59.5	0.29600000000000004	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	4mel.A.202/17.789;4mel.B.202/17.85	-	-	-	4mel.A.225/17.068;4mel.B.225/16.013	-	4mel.A.202/17.789;4mel.B.202/17.85	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+224	V	none	none	none	none	-	3	0.017	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4mel.A.202/14.342;4mel.B.202/14.444	-	-	-	4mel.A.225/14.15;4mel.B.225/13.522	-	4mel.A.202/14.342;4mel.B.202/14.444	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+225	L	L>S	L>S (exome, AC = 1, AN = 178539, AF = 5.60102e-06)	none	none	-	45.5	0.226	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	4mel.A.202/14.751;4mel.B.202/15.228	-	-	-	4mel.A.233/11.92;4mel.B.233/11.599	-	4mel.A.202/14.751;4mel.B.202/15.228	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+226	R	R>C; R>L	R>C (exome, AC = 3, AN = 178495, AF = 1.68072e-05); R>L (exome, AC = 1, AN = 178539, AF = 5.60102e-06); R>C (genome, AC = 1, AN = 21947, AF = 4.55643e-05)	none	none	-	148	0.54	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	4mel.A.202/18.24;4mel.B.202/18.702	-	-	-	4mel.A.233/13.319;4mel.B.233/13.242	-	4mel.A.202/18.24;4mel.B.202/18.702	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+227	T	none	none	none	none	-	30	0.174	alpha-helix	Helices	buried	Neutral & Polar	4mel.A.202/17.275;4mel.B.202/17.714	-	-	-	4mel.A.233/14.626;4mel.B.233/14.517	-	4mel.A.202/17.275;4mel.B.202/17.714	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+228	A	none	none	none	none	-	2	0.016	alpha-helix	Helices	core	Aliphatic & Hydrophobic	4mel.A.202/15.012;4mel.B.202/15.549	-	-	-	4mel.A.233/11.511;4mel.B.233/11.292	-	4mel.A.202/15.012;4mel.B.202/15.549	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+229	R	none	none	none	none	-	55.5	0.203	alpha-helix	Helices	buried	Positively Charged & Polar	4mel.A.202/17.949;4mel.B.202/18.434	-	-	-	4mel.A.233/10.252;4mel.B.233/10.041	-	4mel.A.202/17.949;4mel.B.202/18.434	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+230	E	none	none	none	none	-	95	0.426	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	4mel.A.202/20.412;4mel.B.202/20.979	-	-	-	4mel.A.233/13.715;4mel.B.233/13.558	-	4mel.A.202/20.412;4mel.B.202/20.979	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+231	R	R>W; R>Q	R>W (exome, AC = 2, AN = 180879, AF = 1.10571e-05); R>Q (exome, AC = 4, AN = 181145, AF = 2.20818e-05); R>Q (genome, AC = 2, AN = 21896, AF = 9.13409e-05)	none	none	-	72.5	0.265	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	4mel.A.202/18.93;4mel.B.202/19.466	-	-	-	4mel.A.233/14.191;4mel.B.233/14.05	-	4mel.A.202/18.93;4mel.B.202/19.466	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+232	F	none	none	none	none	-	27.5	0.115	turn	coils	buried	Aromatic & Hydrophobic	4mel.A.202/18.531;4mel.B.202/18.963	-	-	-	4mel.A.233/11.23;4mel.B.233/11.216	-	4mel.A.202/18.531;4mel.B.202/18.963	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+233	L	none	none	none	none	-	147.5	0.7340000000000001	turn	coils	Medium-exposed	Aliphatic & Hydrophobic	4mel.A.202/21.817;4mel.B.202/22.35	-	-	-	4mel.A.233/12.1;4mel.B.233/12.171	-	4mel.A.202/21.817;4mel.B.202/22.35	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+234	V	none	none	none	none	-	17	0.098	loop	coils	buried	Aliphatic & Hydrophobic	4mel.A.202/21.214;4mel.B.202/21.565	-	-	-	4mel.A.233/9.012;4mel.B.233/9.081	-	4mel.A.202/21.214;4mel.B.202/21.565	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+235	E	E>D	E>D (exome, AC = 3, AN = 182025, AF = 1.64813e-05)	none	none	-	96	0.43	loop	coils	Medium-buried	NegativelyCharged & Polar	4mel.A.202/24.346;4mel.B.202/24.574	-	-	-	4mel.A.233/10.516;4mel.B.233/10.606	-	4mel.A.202/24.346;4mel.B.202/24.574	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+236	P	none	none	none	none	-	119.5	0.752	turn	coils	exposed	Special	4mel.A.202/24.666;4mel.B.202/24.684	-	-	-	4mel.A.233/11.152;4mel.B.233/11.188	-	4mel.A.202/24.666;4mel.B.202/24.684	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+237	Q	none	none	none	none	-	151	0.6709999999999999	turn	coils	Medium-exposed	Neutral & Polar	4mel.A.202/25.917;4mel.B.202/25.892	-	-	-	4mel.A.233/10.631;4mel.B.233/10.654	-	4mel.A.202/25.917;4mel.B.202/25.892	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+238	E	none	none	none	none	-	58.5	0.262	bend	coils	Medium-buried	NegativelyCharged & Polar	4mel.A.202/22.554;4mel.B.202/22.548	-	-	-	4mel.A.233/6.849;4mel.B.233/6.86	-	4mel.A.202/22.554;4mel.B.202/22.548	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+239	D	none	none	none	none	-	70	0.363	loop	coils	Medium-buried	Negatively Charged & Polar	4mel.A.202/20.051;4mel.B.202/20.12	-	-	-	4mel.A.233/5.413;4mel.B.233/5.56	-	4mel.A.202/20.051;4mel.B.202/20.12	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+240	T	none	none	none	none	-	25.5	0.14800000000000002	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	4mel.A.202/16.439;4mel.B.202/16.43	-	-	-	4mel.A.233/4.584;4mel.B.233/4.487	-	4mel.A.202/16.439;4mel.B.202/16.43	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+241	R	R>Q	R>Q (exome, AC = 5, AN = 182942, AF = 2.73311e-05)	R>Q	R>Q (ClinVar, phenotype = Abnormality of brain morphology)	-	86.5	0.316	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	4mel.A.202/13.527;4mel.B.202/13.409	-	-	-	4mel.A.233/6.714;4mel.B.233/6.595	-	4mel.A.202/13.527;4mel.B.202/13.409	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+242	L	none	none	none	none	-	6	0.03	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4mel.A.202/10.23;4mel.B.202/10.093	-	-	-	4mel.A.233/9.306;4mel.B.233/9.139	-	4mel.A.202/10.23;4mel.B.202/10.093	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+243	W	none	none	none	none	-	61	0.214	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	4mel.A.202/6.758;4mel.B.202/6.652	-	-	-	4mel.A.233/11.161;4mel.B.233/11.159	-	4mel.A.202/6.758;4mel.B.202/6.652	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+244	A	none	none	none	none	-	4	0.031	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4mel.A.202/3.799;4mel.B.202/3.78	-	-	-	4mel.A.225/12.306;4mel.B.225/11.939	-	4mel.A.202/3.799;4mel.B.202/3.78	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+245	K	none	none	none	none	-	61.5	0.261	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	4mel.A.202/0.0;4mel.B.202/0.0	-	-	-	4mel.A.225/11.56;4mel.B.225/11.627	-	4mel.A.202/0.0;4mel.B.202/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	K245: N6-acetyllysine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+246	N	none	none	none	none	-	35	0.179	loop	coils	buried	Neutral & Polar	4mel.A.202/3.806;4mel.B.202/3.799	-	-	-	4mel.A.225/10.723;4mel.B.225/11.185	-	4mel.A.202/3.806;4mel.B.202/3.799	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+247	S	none	none	none	none	-	61	0.39399999999999996	turn	coils	Medium-buried	Neutral & Polar	4mel.A.202/6.338;4mel.B.202/6.417	-	-	-	4mel.A.225/9.944;4mel.B.225/11.193	-	4mel.A.202/6.338;4mel.B.202/6.417	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+248	E	none	none	none	none	-	172	0.7709999999999999	turn	coils	exposed	NegativelyCharged & Polar	4mel.A.202/7.002;4mel.B.202/7.171	-	-	-	4mel.A.225/11.835;4mel.B.225/13.001	-	4mel.A.202/7.002;4mel.B.202/7.171	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+249	G	G>A	G>A (genome, AC = 1, AN = 21888, AF = 4.56871e-05)	none	none	-	49.5	0.434	turn	coils	Medium-buried	Special	4mel.A.202/6.498;4mel.B.202/6.588	-	-	-	4mel.A.225/14.832;4mel.B.225/15.601	-	4mel.A.202/6.498;4mel.B.202/6.588	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+250	S	none	none	none	none	-	72	0.465	loop	coils	Medium-buried	Neutral & Polar	4mel.A.202/5.743;4mel.B.202/5.889	-	-	-	4mel.A.225/15.239;4mel.B.225/15.906	-	4mel.A.202/5.743;4mel.B.202/5.889	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+251	L	none	none	none	none	-	108	0.537	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	4mel.A.202/4.488;4mel.B.202/4.777	-	-	-	4mel.A.225/15.668;4mel.B.225/16.062	-	4mel.A.202/4.488;4mel.B.202/4.777	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+252	D	none	none	none	none	-	88	0.456	beta-sheet	beta-strand/sheet	Medium-buried	Negatively Charged & Polar	4mel.A.202/6.235;4mel.B.202/6.169	-	-	-	4mel.A.225/16.21;4mel.B.225/15.9	-	4mel.A.202/6.235;4mel.B.202/6.169	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+253	R	none	none	none	none	-	64	0.23399999999999999	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	4mel.A.202/8.528;4mel.B.202/8.764	-	-	-	4mel.A.233/13.934;4mel.B.233/13.912	-	4mel.A.202/8.528;4mel.B.202/8.764	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+254	L	none	none	none	none	-	22	0.109	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4mel.A.202/9.866;4mel.B.202/10.192	-	-	-	4mel.A.233/13.926;4mel.B.233/13.876	-	4mel.A.202/9.866;4mel.B.202/10.192	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+255	Y	Y>C	Y>C (exome, AC = 1, AN = 183448, AF = 5.45114e-06)	none	none	-	184.5	0.7020000000000001	loop	coils	Medium-exposed	Aromatic & Hydrophobic	4mel.A.202/13.553;4mel.B.202/13.82	-	-	-	4mel.A.233/14.022;4mel.B.233/14.085	-	4mel.A.202/13.553;4mel.B.202/13.82	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+256	D	none	none	none	none	-	61.5	0.319	loop	coils	Medium-buried	Negatively Charged & Polar	4mel.A.202/15.224;4mel.B.202/15.519	-	-	-	4mel.A.233/16.949;4mel.B.233/16.771	-	4mel.A.202/15.224;4mel.B.202/15.519	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+257	T	T>S	T>S (exome, AC = 1, AN = 183438, AF = 5.45143e-06)	none	none	-	59	0.34299999999999997	bend	coils	Medium-buried	Neutral & Polar	4mel.A.202/16.589;4mel.B.202/16.465	-	-	-	4mel.A.233/16.477;4mel.B.233/16.146	-	4mel.A.202/16.589;4mel.B.202/16.465	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+258	H	none	none	none	none	-	161.5	0.721	bend	coils	Medium-exposed	Positively Charged & Polar	4mel.A.202/18.921;4mel.B.202/18.965	-	-	-	4mel.A.233/20.269;4mel.B.233/19.913	-	4mel.A.202/18.921;4mel.B.202/18.965	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+259	I	I>T	I>T (exome, AC = 1, AN = 183431, AF = 5.45164e-06)	none	none	-	51	0.259	bend	coils	Medium-buried	Aliphatic & Hydrophobic	4mel.A.202/17.028;4mel.B.202/17.104	-	-	-	4mel.A.225/17.998;4mel.B.225/17.386	-	4mel.A.202/17.028;4mel.B.202/17.104	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+260	T	T>M	T>M (exome, AC = 5, AN = 183430, AF = 2.72584e-05)	none	none	-	21	0.122	beta-strand	beta-strand/sheet	buried	Neutral & Polar	4mel.A.202/16.376;4mel.B.202/16.351	-	-	-	4mel.A.225/15.056;4mel.B.225/14.347	-	4mel.A.202/16.376;4mel.B.202/16.351	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+261	V	none	none	none	none	-	0.5	0.003	bend	coils	core	Aliphatic & Hydrophobic	4mel.A.202/13.533;4mel.B.202/13.363	-	-	-	4mel.A.225/11.268;4mel.B.225/10.63	-	4mel.A.202/13.533;4mel.B.202/13.363	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+262	L	none	none	none	none	B:219:LEU-N/3.88-A:144:PRO;B:219:LEU-N/3.51-A:144:PRO	83.5	0.415	310-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	4mel.A.202/14.952;4mel.B.202/14.821	-	-	-	4mel.A.225/11.777;4mel.B.225/11.141	-	4mel.A.202/14.952;4mel.B.202/14.821	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+263	D	D>G	D>G (exome, AC = 1, AN = 183421, AF = 5.45194e-06)	none	none	-	103	0.534	310-helix	Helices	Medium-exposed	Negatively Charged & Polar	4mel.A.202/14.731;4mel.B.202/14.933	-	-	-	4mel.A.225/14.466;4mel.B.225/14.096	-	4mel.A.202/14.731;4mel.B.202/14.933	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+264	A	A>V	A>V (exome, AC = 1, AN = 183357, AF = 5.45384e-06)	none	none	-	21.5	0.16699999999999998	310-helix	Helices	buried	Aliphatic & Hydrophobic	4mel.A.202/10.929;4mel.B.202/11.293	-	-	-	4mel.A.225/12.327;4mel.B.225/12.278	-	4mel.A.202/10.929;4mel.B.202/11.293	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+265	A	none	none	none	none	-	77	0.597	turn	coils	Medium-exposed	Aliphatic & Hydrophobic	4mel.A.202/10.293;4mel.B.202/10.767	-	-	-	4mel.A.225/10.267;4mel.B.225/10.287	-	4mel.A.202/10.293;4mel.B.202/10.767	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+266	L	none	none	none	none	-	16.5	0.08199999999999999	loop	coils	buried	Aliphatic & Hydrophobic	4mel.A.202/8.739;4mel.B.202/8.908	-	-	-	4mel.A.225/7.036;4mel.B.225/7.068	-	4mel.A.202/8.739;4mel.B.202/8.908	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+267	E	E>V	E>V (genome, AC = 1, AN = 21788, AF = 4.58968e-05)	none	none	-	133	0.596	loop	coils	Medium-exposed	NegativelyCharged & Polar	4mel.A.202/9.908;4mel.B.202/10.074	-	-	-	4mel.A.225/3.808;4mel.B.225/3.791	-	4mel.A.202/9.908;4mel.B.202/10.074	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+268	T	T>I	T>I (exome, AC = 3, AN = 183338, AF = 1.63632e-05); T>I (genome, AC = 2, AN = 21827, AF = 9.16296e-05)	none	none	-	76.5	0.445	turn	coils	Medium-buried	Neutral & Polar	4mel.A.202/11.56;4mel.B.202/11.627	-	-	-	4mel.A.225/0.0;4mel.B.225/0.0	-	4mel.A.202/11.56;4mel.B.202/11.627	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+269	G	none	none	none	none	-	51.5	0.452	turn	coils	Medium-buried	Special	4mel.A.202/10.16;4mel.B.202/10.132	-	-	-	4mel.A.225/3.797;4mel.B.225/3.797	-	4mel.A.202/10.16;4mel.B.202/10.132	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+270	Q	none	none	none	none	-	21.5	0.096	loop	coils	buried	Neutral & Polar	4mel.A.202/6.457;4mel.B.202/6.447	-	-	-	4mel.A.225/5.52;4mel.B.225/5.566	-	4mel.A.202/6.457;4mel.B.202/6.447	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+271	L	none	none	none	none	-	37	0.184	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4mel.A.202/5.167;4mel.B.202/5.262	-	-	-	4mel.A.225/8.942;4mel.B.225/8.931	-	4mel.A.202/5.167;4mel.B.202/5.262	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+272	I	I>V	I>V (exome, AC = 1, AN = 183386, AF = 5.45298e-06)	none	none	-	4	0.02	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4mel.A.202/6.077;4mel.B.202/6.324	-	-	-	4mel.A.225/11.053;4mel.B.225/10.844	-	4mel.A.202/6.077;4mel.B.202/6.324	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+273	I	none	none	none	none	-	23.5	0.11900000000000001	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	4mel.A.202/7.576;4mel.B.202/7.646	-	-	-	4mel.A.233/9.846;4mel.B.233/9.787	-	4mel.A.202/7.576;4mel.B.202/7.646	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+274	M	none	none	none	none	-	1.5	0.006999999999999999	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	4mel.A.202/11.036;4mel.B.202/11.138	-	-	-	4mel.A.233/6.766;4mel.B.233/6.625	-	4mel.A.202/11.036;4mel.B.202/11.138	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+275	E	none	none	none	none	-	4	0.018000000000000002	beta-sheet	beta-strand/sheet	core	NegativelyCharged & Polar	4mel.A.202/12.919;4mel.B.202/12.898	-	-	-	4mel.A.233/3.815;4mel.B.233/3.802	-	4mel.A.202/12.919;4mel.B.202/12.898	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+276	T	T>S	T>S (exome, AC = 1, AN = 183379, AF = 5.45319e-06)	none	none	-	12	0.07	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	4mel.A.202/16.728;4mel.B.202/16.691	-	-	-	4mel.A.233/0.0;4mel.B.233/0.0	-	4mel.A.202/16.728;4mel.B.202/16.691	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+277	R	R>C	R>C (exome, AC = 1, AN = 183363, AF = 5.45366e-06)	none	none	-	103.5	0.37799999999999995	loop	coils	Medium-buried	Positively Charged & Polar	4mel.A.202/19.223;4mel.B.202/19.201	-	-	-	4mel.A.233/3.814;4mel.B.233/3.8	-	4mel.A.202/19.223;4mel.B.202/19.201	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+278	K	none	none	none	none	-	84.5	0.358	loop	coils	Medium-buried	Positively Charged & Polar	4mel.A.202/21.598;4mel.B.202/21.677	-	-	-	4mel.A.233/6.445;4mel.B.233/6.412	-	4mel.A.202/21.598;4mel.B.202/21.677	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+279	K	none	none	none	none	-	103.5	0.439	turn	coils	Medium-buried	Positively Charged & Polar	4mel.A.202/25.377;4mel.B.202/25.425	-	-	-	4mel.A.233/9.6;4mel.B.233/9.533	-	4mel.A.202/25.377;4mel.B.202/25.425	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+280	D	none	none	none	none	-	127.5	0.6609999999999999	turn	coils	Medium-exposed	Negatively Charged & Polar	4mel.A.202/25.775;4mel.B.202/25.918	-	-	-	4mel.A.233/11.424;4mel.B.233/11.414	-	4mel.A.202/25.775;4mel.B.202/25.918	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+281	G	none	none	none	none	-	34	0.298	bend	coils	Medium-buried	Special	4mel.A.202/24.37;4mel.B.202/24.263	-	-	-	4mel.A.233/10.06;4mel.B.233/10.003	-	4mel.A.202/24.37;4mel.B.202/24.263	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+282	T	none	none	none	none	-	52	0.302	loop	coils	Medium-buried	Neutral & Polar	4mel.A.202/21.468;4mel.B.202/21.589	-	-	-	4mel.A.233/9.181;4mel.B.233/9.274	-	4mel.A.202/21.468;4mel.B.202/21.589	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+283	W	none	none	none	none	-	23.5	0.08199999999999999	loop	coils	buried	Aromatic & Hydrophobic	4mel.A.202/17.695;4mel.B.202/17.816	-	-	-	4mel.A.233/6.982;4mel.B.233/6.936	-	4mel.A.202/17.695;4mel.B.202/17.816	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+284	P	none	none	none	none	-	52.5	0.33	turn	coils	Medium-buried	Special	4mel.A.202/16.182;4mel.B.202/16.52	-	-	-	4mel.A.233/7.763;4mel.B.233/7.265	-	4mel.A.202/16.182;4mel.B.202/16.52	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+285	S	S>R	S>R (exome, AC = 2, AN = 183356, AF = 1.09077e-05)	none	none	-	78.5	0.506	turn	coils	Medium-exposed	Neutral & Polar	4mel.A.202/14.282;4mel.B.202/14.055	-	-	-	4mel.A.233/10.167;4mel.B.233/9.57	-	4mel.A.202/14.282;4mel.B.202/14.055	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+286	A	A>T	A>T (exome, AC = 4, AN = 183347, AF = 2.18166e-05)	none	none	-	71.5	0.5539999999999999	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	4mel.A.202/17.594;4mel.B.202/17.013	-	-	-	4mel.A.233/11.654;4mel.B.233/11.616	-	4mel.A.202/17.594;4mel.B.202/17.013	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+287	Q	none	none	none	none	-	186.5	0.8290000000000001	loop	coils	exposed	Neutral & Polar	4mel.A.202/20.006;4mel.B.202/19.401	-	-	-	4mel.A.233/13.357;4mel.B.233/12.703	-	4mel.A.202/20.006;4mel.B.202/19.401	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+288	L	L>M	L>M (exome, AC = 1, AN = 183374, AF = 5.45334e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+289	H	H>Y	H>Y (genome, AC = 1, AN = 22077, AF = 4.5296e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+290	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+291	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+292	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+293	N	N>D; N>S	N>D (exome, AC = 1, AN = 182832, AF = 5.4695e-06); N>S (exome, AC = 1, AN = 182801, AF = 5.47043e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+294	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+295	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+296	S	S>L	S>L (exome, AC = 3, AN = 182710, AF = 1.64195e-05); S>L (genome, AC = 1, AN = 21911, AF = 4.56392e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+297	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+298	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+299	D	D>Y	D>Y (exome, AC = 1, AN = 182799, AF = 5.47049e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+300	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+301	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+302	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+303	K	K>R; K>N	K>R (exome, AC = 2, AN = 182644, AF = 1.09503e-05); K>N (genome, AC = 1, AN = 21968, AF = 4.55208e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+304	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+305	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+306	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+307	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+308	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+309	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+310	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+311	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+312	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+313	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+314	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+315	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+316	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+317	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+318	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	C318: Nucleophile	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	active site	-	-	domain	-	-
+319	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+320	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+321	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+322	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+323	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+324	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+325	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+326	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+327	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+328	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+329	N	N>S	N>S (exome, AC = 1, AN = 173766, AF = 5.75487e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+330	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+331	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+332	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+333	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+334	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+335	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+336	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+337	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+338	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+339	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+340	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+341	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+342	Y	Y>H	Y>H (exome, AC = 1, AN = 182493, AF = 5.47966e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+343	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+344	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+345	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+346	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+347	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+348	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+349	R	R>C; R>H	R>C (exome, AC = 1, AN = 182956, AF = 5.4658e-06); R>H (exome, AC = 5, AN = 182890, AF = 2.73388e-05); R>C (genome, AC = 1, AN = 21886, AF = 4.56913e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+350	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+351	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+352	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+353	G	G>S	G>S (exome, AC = 1, AN = 183047, AF = 5.46308e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+354	M	M>L	M>L (exome, AC = 1, AN = 183057, AF = 5.46278e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+355	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+356	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+357	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+358	I	I>M	I>M (exome, AC = 2, AN = 182898, AF = 1.09351e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+359	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+360	E	E>D	E>D (exome, AC = 1, AN = 182802, AF = 5.4704e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+361	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+362	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+363	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+364	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+365	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+366	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+367	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+368	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+369	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+370	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+371	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+372	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+373	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+374	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+375	R	R>C; R>H	R>C (exome, AC = 1, AN = 177665, AF = 5.62857e-06); R>H (exome, AC = 2, AN = 176759, AF = 1.13148e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+376	S	S>C	S>C (exome, AC = 1, AN = 176688, AF = 5.65969e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+377	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+378	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+379	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+380	H	H>R	H>R (exome, AC = 4, AN = 174961, AF = 2.28622e-05); H>R (genome, AC = 1, AN = 21885, AF = 4.56934e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+381	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+382	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+383	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+384	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+385	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+386	V	V>I	V>I (exome, AC = 1, AN = 166954, AF = 5.98967e-06); V>I (genome, AC = 1, AN = 21920, AF = 4.56204e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+387	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+388	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+389	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+390	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+391	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+392	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+393	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+394	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+395	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+396	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+397	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+398	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+399	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+400	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+401	S	S>C	S>C (exome, AC = 1, AN = 178584, AF = 5.59961e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+402	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+403	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+404	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+405	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+406	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+407	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+408	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+409	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+410	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+411	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+412	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+413	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+414	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+415	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+416	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+417	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+418	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+419	V	V>L	V>L (exome, AC = 1, AN = 180720, AF = 5.53342e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+420	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+421	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+422	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+423	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+424	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+425	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+426	E	E>Q	E>Q (exome, AC = 1, AN = 175744, AF = 5.69009e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+427	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+428	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+429	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+430	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+431	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+432	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+433	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+434	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+435	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+436	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+437	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+438	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+439	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+440	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+441	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+442	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+443	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+444	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+445	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+446	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+447	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+448	R	R>W	R>W (exome, AC = 3, AN = 178863, AF = 1.67726e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+449	R	R>Q	R>Q (exome, AC = 2, AN = 179306, AF = 1.11541e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+450	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+451	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+452	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+453	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+454	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+455	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+456	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+457	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+458	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+459	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+460	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+461	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+462	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+463	K	K>E; K>R	K>E (exome, AC = 1, AN = 180850, AF = 5.52944e-06); K>R (exome, AC = 3, AN = 180930, AF = 1.6581e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+464	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+465	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+466	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+467	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+468	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+469	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+470	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+471	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+472	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+473	N	N>S	N>S (exome, AC = 1, AN = 181781, AF = 5.50112e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+474	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+475	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+476	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+477	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+478	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+479	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+480	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+481	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+482	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+483	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+484	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+485	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+486	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+487	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+488	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+489	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+490	I	I>V	I>V (exome, AC = 6, AN = 182755, AF = 3.28308e-05); I>V (genome, AC = 3, AN = 22007, AF = 0.00013632)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+491	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+492	H	H>L	H>L (exome, AC = 1, AN = 182797, AF = 5.47055e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+493	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+494	R	R>T	R>T (exome, AC = 1, AN = 182722, AF = 5.47279e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+495	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+496	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+497	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+498	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+499	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+500	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+501	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+502	P	P>S	P>S (exome, AC = 1, AN = 182471, AF = 5.48032e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+503	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+504	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+505	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+506	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+507	R	R>C; R>H	R>C (exome, AC = 1, AN = 181654, AF = 5.50497e-06); R>H (exome, AC = 1, AN = 180975, AF = 5.52563e-06); R>C (genome, AC = 1, AN = 22027, AF = 4.53988e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+508	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+509	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+510	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+511	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+512	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+513	R	R>W	R>W (exome, AC = 1, AN = 183296, AF = 5.45566e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+514	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+515	V	V>M	V>M (exome, AC = 2, AN = 183203, AF = 1.09169e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+516	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+517	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+518	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+519	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+520	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+521	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+522	I	I>M	I>M (exome, AC = 1, AN = 183449, AF = 5.45111e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+523	S	S>L	S>L (exome, AC = 3, AN = 183437, AF = 1.63544e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+524	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+525	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+526	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+527	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+528	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+529	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+530	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+531	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+532	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+533	T	T>M	T>M (exome, AC = 1, AN = 183404, AF = 5.45244e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+534	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+535	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+536	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+537	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+538	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+539	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+540	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+541	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+542	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+543	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+544	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+545	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+546	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+547	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+548	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+549	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+550	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+551	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+552	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+553	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+554	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+555	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+556	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+557	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+558	E	E>K	E>K (exome, AC = 1, AN = 182846, AF = 5.46908e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+559	P	P>L	P>L (genome, AC = 1, AN = 21964, AF = 4.5529e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+560	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+561	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+562	S	S>G	S>G (exome, AC = 4, AN = 182718, AF = 2.18917e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+563	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+564	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+565	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+566	R	R>C	R>C (exome, AC = 1, AN = 182473, AF = 5.48026e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+567	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+568	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+569	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+570	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+571	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+572	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+573	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+574	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+575	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+576	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+577	R	R>H	R>H (exome, AC = 2, AN = 183206, AF = 1.09167e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+578	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+579	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+580	A	A>V	A>V (exome, AC = 1, AN = 183312, AF = 5.45518e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+581	I	I>V	I>V (exome, AC = 2, AN = 183373, AF = 1.09067e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+582	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+583	G	G>S	G>S (exome, AC = 16, AN = 183390, AF = 8.72458e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+584	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+585	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+586	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+587	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+588	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+589	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+590	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+591	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+592	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+593	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+594	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+595	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+596	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+597	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+598	T	T>N	T>N (genome, AC = 1, AN = 21213, AF = 4.71409e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+599	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+600	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+601	R	R>C; R>H	R>C (exome, AC = 3, AN = 183472, AF = 1.63513e-05); R>H (exome, AC = 2, AN = 183487, AF = 1.09e-05); R>C (genome, AC = 1, AN = 21312, AF = 4.69219e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+602	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+603	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+604	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+605	N	N>S	N>S (exome, AC = 1, AN = 183492, AF = 5.44983e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+606	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+607	Y	Y>S	Y>S (exome, AC = 1, AN = 183488, AF = 5.44995e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+608	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+609	G	G>S	G>S (exome, AC = 2, AN = 183475, AF = 1.09007e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+610	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+611	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+612	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+613	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+614	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+615	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+616	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+617	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+618	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+619	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+620	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+621	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+622	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+623	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+624	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+625	R	R>C	R>C (exome, AC = 1, AN = 183295, AF = 5.45569e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+626	F	F>V	F>V (exome, AC = 1, AN = 183300, AF = 5.45554e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+627	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+628	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+629	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+630	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+631	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+632	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+633	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+634	V	V>I	V>I (exome, AC = 1, AN = 182578, AF = 5.47711e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+635	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+636	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+637	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+638	R	R>Q	R>Q (exome, AC = 2, AN = 181452, AF = 1.10222e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+639	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+640	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+641	R	R>C	R>C (exome, AC = 1, AN = 183017, AF = 5.46397e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+642	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+643	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+644	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+645	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+646	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+647	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+648	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S648: Phosphoserine	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	modified_residue
+649	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+650	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+651	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+652	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+653	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+654	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+655	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+656	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+657	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+658	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+659	D	D>N	D>N (exome, AC = 5, AN = 174460, AF = 2.86599e-05); D>N (genome, AC = 3, AN = 21444, AF = 0.000139899)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+660	D	D>V	D>V (exome, AC = 1, AN = 174278, AF = 5.73796e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+661	E	E>K	E>K (exome, AC = 2, AN = 174109, AF = 1.14871e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+662	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+663	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+664	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+665	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+666	D	D>Y	D>Y (exome, AC = 1, AN = 173567, AF = 5.76146e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+667	V	V>I	V>I (exome, AC = 4, AN = 173979, AF = 2.29913e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+668	P	P>L	P>L (exome, AC = 1, AN = 174549, AF = 5.72905e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+669	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+670	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+671	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+672	T	T>A	T>A (exome, AC = 1, AN = 175966, AF = 5.68292e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+673	G	G>E	G>E (exome, AC = 2, AN = 176263, AF = 1.13467e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+674	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+675	S	S>N	S>N (exome, AC = 1, AN = 176971, AF = 5.65064e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+676	L	L>F	L>F (exome, AC = 4, AN = 177327, AF = 2.25572e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+677	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+678	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+679	P	P>L; P>A	P>L (exome, AC = 1, AN = 179107, AF = 5.58325e-06); P>A (genome, AC = 1, AN = 21421, AF = 4.66832e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+680	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+681	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+682	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+683	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+684	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+685	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+686	P	P>S	P>S (exome, AC = 1, AN = 180299, AF = 5.54634e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+687	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+688	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+689	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+690	V	V>I	V>I (exome, AC = 261, AN = 181154, AF = 0.00144076); V>I (genome, AC = 104, AN = 20997, AF = 0.00495309)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+691	T	T>M	T>M (exome, AC = 21, AN = 181307, AF = 0.000115826); T>M (genome, AC = 2, AN = 20968, AF = 9.53834e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+692	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+693	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+694	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+695	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+696	F	F>L	F>L (exome, AC = 6, AN = 182230, AF = 3.29254e-05); F>L (genome, AC = 2, AN = 21293, AF = 9.39276e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+697	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+698	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+699	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+700	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+701	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+702	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+703	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+704	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+705	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+706	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+707	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+708	P	P>T; P>L	P>T (exome, AC = 1, AN = 182874, AF = 5.46825e-06); P>L (exome, AC = 1, AN = 182887, AF = 5.46786e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+709	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+710	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+711	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+712	R	R>Q	R>Q (exome, AC = 4, AN = 183133, AF = 2.1842e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+713	R	R>H	R>H (exome, AC = 2, AN = 183145, AF = 1.09203e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+714	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+715	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+716	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+717	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+718	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+719	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+720	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+721	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+722	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+723	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+724	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+725	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+726	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+727	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+728	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+729	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+730	R	R>H	R>H (exome, AC = 1, AN = 183271, AF = 5.4564e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+731	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+732	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+733	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S733: Phosphoserine	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	modified_residue
+734	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+735	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+736	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+737	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+738	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+739	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+740	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+741	P	P>L	P>L (exome, AC = 1, AN = 182651, AF = 5.47492e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+742	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+743	I	I>V	I>V (exome, AC = 1, AN = 182713, AF = 5.47306e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+744	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+745	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+746	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+747	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+748	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+749	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+750	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+751	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+752	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+753	K	K>R	K>R (exome, AC = 1, AN = 182374, AF = 5.48324e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+754	R	R>H	R>H (exome, AC = 7, AN = 182168, AF = 3.84261e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+755	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+756	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+757	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+758	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+759	V	V>I	V>I (exome, AC = 2, AN = 181305, AF = 1.10311e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+760	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+761	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+762	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+763	G	G>A	G>A (exome, AC = 1, AN = 181867, AF = 5.49852e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+764	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+765	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+766	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+767	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+768	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+769	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+770	V	V>I	V>I (exome, AC = 14, AN = 182877, AF = 7.65542e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+771	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+772	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+773	V	V>M	V>M (exome, AC = 1, AN = 183031, AF = 5.46356e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+774	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+775	K	K>Q	K>Q (exome, AC = 4, AN = 183083, AF = 2.1848e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+776	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+777	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+778	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+779	V	V>M	V>M (exome, AC = 1, AN = 183070, AF = 5.46239e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+780	R	R>W; R>Q	R>W (exome, AC = 2, AN = 183014, AF = 1.09281e-05); R>Q (exome, AC = 2, AN = 183071, AF = 1.09247e-05); R>Q (genome, AC = 1, AN = 21909, AF = 4.56433e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+781	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+782	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+783	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+784	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+785	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+786	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+787	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+788	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+789	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+790	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+791	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+792	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+793	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+794	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+795	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+796	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+797	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+798	N	N>D; N>K	N>D (exome, AC = 1, AN = 181526, AF = 5.50885e-06); N>K (exome, AC = 1, AN = 181153, AF = 5.5202e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+799	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+800	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+801	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+802	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+803	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+804	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+805	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+806	K	K>R	K>R (exome, AC = 3, AN = 182191, AF = 1.64662e-05); K>R (genome, AC = 1, AN = 21279, AF = 4.69947e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+807	Q	Q>R	Q>R (exome, AC = 1, AN = 182420, AF = 5.48186e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+808	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+809	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+810	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+811	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+812	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+813	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+814	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+815	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+816	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+817	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+818	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+819	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+820	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+821	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+822	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+823	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+824	L	L>V	L>V (exome, AC = 1, AN = 183417, AF = 5.45206e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+825	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+826	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+827	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+828	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+829	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+830	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+831	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+832	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+833	Y	Y>S	Y>S (exome, AC = 1, AN = 183454, AF = 5.45096e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+834	T	T>S	T>S (exome, AC = 3, AN = 183449, AF = 1.63533e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+835	K	K>M	K>M (exome, AC = 1, AN = 183449, AF = 5.45111e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+836	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+837	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+838	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+839	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+840	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+841	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+842	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+843	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+844	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+845	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+846	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+847	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+848	P	P>L	P>L (genome, AC = 1, AN = 21304, AF = 4.69395e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+849	I	I>V	I>V (exome, AC = 1, AN = 183262, AF = 5.45667e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+850	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+851	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+852	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+853	D	D>E	D>E (exome, AC = 1, AN = 183434, AF = 5.45155e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+854	F	F>L	F>L (genome, AC = 1, AN = 21701, AF = 4.60808e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+855	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+856	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+857	F	F>L	F>L (exome, AC = 1, AN = 183441, AF = 5.45134e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+858	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+859	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+860	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+861	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+862	Q	Q>R	Q>R (exome, AC = 4, AN = 183409, AF = 2.18092e-05); Q>R (genome, AC = 1, AN = 21722, AF = 4.60363e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+863	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+864	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+865	S	S>T; S>L	S>T (exome, AC = 1, AN = 183338, AF = 5.45441e-06); S>L (exome, AC = 60, AN = 183334, AF = 0.000327272); S>L (genome, AC = 2, AN = 21547, AF = 9.28203e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+866	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+867	P	P>L	P>L (exome, AC = 5, AN = 183242, AF = 2.72863e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+868	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+869	L	L>M	L>M (exome, AC = 1, AN = 183201, AF = 5.45849e-06); L>M (genome, AC = 1, AN = 21516, AF = 4.6477e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+870	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+871	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+872	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+873	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+874	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+875	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+876	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+877	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+878	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+879	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+880	H	H>P	H>P (genome, AC = 1, AN = 21459, AF = 4.66005e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+881	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+882	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+883	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+884	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+885	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+886	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+887	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+888	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	H888: Proton acceptor	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	active site	-	-	domain	-	-
+889	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+890	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+891	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+892	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+893	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+894	C	C>Y	C>Y (exome, AC = 12, AN = 183460, AF = 6.54094e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+895	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+896	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+897	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+898	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+899	G	G>D	G>D (exome, AC = 1, AN = 183499, AF = 5.44962e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+900	Q	Q>R	Q>R (exome, AC = 3, AN = 183512, AF = 1.63477e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+901	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+902	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+903	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+904	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+905	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+906	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+907	N	N>I	N>I (exome, AC = 2, AN = 183513, AF = 1.08984e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+908	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+909	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+910	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+911	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+912	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+913	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+914	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+915	N	N>S	N>S (exome, AC = 9, AN = 183483, AF = 4.90509e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+916	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+917	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+918	E	E>K	E>K (exome, AC = 1, AN = 183434, AF = 5.45155e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+919	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+920	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+921	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+922	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+923	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+924	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+925	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+926	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+927	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+928	Q	Q>K	Q>K (exome, AC = 4, AN = 180548, AF = 2.21548e-05); Q>K (genome, AC = 1, AN = 20906, AF = 4.78332e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+929	R	R>C	R>C (exome, AC = 1, AN = 180640, AF = 5.53587e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+930	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C309-Q930: USP	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+931	D	D>V	D>V (exome, AC = 1, AN = 180462, AF = 5.54133e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+932	V	V>M	V>M (exome, AC = 4, AN = 180343, AF = 2.218e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+933	A	A>V	A>V (exome, AC = 1, AN = 180469, AF = 5.54112e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+934	R	R>Q	R>Q (exome, AC = 9, AN = 180241, AF = 4.99331e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+935	R	R>C; R>L	R>C (exome, AC = 1, AN = 180386, AF = 5.54367e-06); R>L (exome, AC = 1, AN = 180249, AF = 5.54788e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+936	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+937	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+938	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+939	P	P>L	P>L (exome, AC = 1, AN = 179044, AF = 5.58522e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+940	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+941	G	G>S	G>S (exome, AC = 6, AN = 176910, AF = 3.39156e-05); G>S (genome, AC = 2, AN = 20146, AF = 9.92753e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+942	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+943	S	S>C	S>C (exome, AC = 4, AN = 176968, AF = 2.2603e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+944	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+945	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+946	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+947	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+948	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S948: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+949	P	P>S	P>S (exome, AC = 1, AN = 173596, AF = 5.7605e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+950	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+951	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+952	S	S>I	S>I (exome, AC = 3, AN = 168018, AF = 1.78552e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+953	S	S>F	S>F (exome, AC = 2, AN = 165746, AF = 1.20667e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+954	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+955	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+956	S	S>G	S>G (exome, AC = 1, AN = 158134, AF = 6.32375e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+957	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+958	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+959	F	F>L	F>L (exome, AC = 5, AN = 147026, AF = 3.40076e-05); F>L (genome, AC = 2, AN = 19189, AF = 0.000104226)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+960	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+961	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+962	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+963	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

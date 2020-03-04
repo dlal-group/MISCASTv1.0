@@ -1,0 +1,503 @@
+Amino Acid Index	Amino Acid	Population Mutation	Population Mutation (details)	Pathogenic Mutation	Pathogenic Mutation (details)	Bond Detail	Accessible Surface Area	Relative Accessible Surface Area	8-class DSSP Secondary Structure Properties	3-class DSSP Secondary Structure Properties	Exposure	Physiochemical Property	Acetylation Detail	Methylation Detail	O.GalNAc Detail	O.GclNAc Detail	Phosphorylation Detail	Sumoylation Detail	Ubiquitination Detail	Active Site	Metal Binding Site	binding Site	Site	Zinc Finger	Dna Binding	Nucleotide Phosphate Binding	Calcium Binding	Region	Repeat	Coiled Coil	Topological Domain	Peptide	Modified Residue	Motif	Domain	Intramembrane	Propetide	Lipidation	Glycosylation	Cross Links	Disulfide Bond	Transit Peptide	Transmembrane	Signal Peptide	Functional Site	Functional Binding Region	Sequence Motif Region	Modular Domain	Molecular Processing	Modified Residues
+1	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+3	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+4	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+5	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+6	M	M>V	M>V (exome, AC = 8, AN = 183053, AF = 4.37032e-05)	M>V; M>I	M>V (ClinVar, phenotype = Wiskott-Aldrich syndrome); M>I (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+7	G	G>A	G>A (genome, AC = 1, AN = 21753, AF = 4.59707e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+8	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+9	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+10	P	none	none	P>S	P>S (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+11	G	G>R	G>R (exome, AC = 1, AN = 183146, AF = 5.46012e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+12	G	G>A	G>A (exome, AC = 14, AN = 183315, AF = 7.63713e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+13	R	R>Q	R>Q (exome, AC = 2, AN = 183342, AF = 1.09086e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+14	G	G>E	G>E (exome, AC = 1, AN = 183360, AF = 5.45375e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+15	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+16	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+17	A	A>V	A>V (exome, AC = 2, AN = 183396, AF = 1.09054e-05); A>V (genome, AC = 1, AN = 21606, AF = 4.62834e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+18	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+19	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+20	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+21	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+22	I	I>V	I>V (exome, AC = 1, AN = 183472, AF = 5.45042e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+23	P	P>R	P>R (exome, AC = 1, AN = 183464, AF = 5.45066e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+24	S	none	none	S>P; S>F	S>P (ClinVar, phenotype = Wiskott-Aldrich syndrome); S>F (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+25	T	T>I	T>I (exome, AC = 1, AN = 183471, AF = 5.45045e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+26	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+27	L	none	none	L>F	L>F (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+28	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+29	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+30	H	H>R	H>R (exome, AC = 1, AN = 183443, AF = 5.45128e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+31	E	none	none	E>K; E>K; E>G; E>D	E>K (ClinVar, phenotype = Severe congenital neutropenia X-linked,Thrombocytopenia, X-linked,Wiskott-Aldrich syndrome,not provided); E>K (ClinVar, phenotype = Wiskott-Aldrich syndrome); E>G (ClinVar, phenotype = Wiskott-Aldrich syndrome); E>D (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+32	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+33	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+34	R	R>Q	R>Q (exome, AC = 3, AN = 183380, AF = 1.63595e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+35	L	none	none	L>H	L>H (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+36	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+37	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+38	M	M>R; M>I	M>R (exome, AC = 1, AN = 183311, AF = 5.45521e-06); M>I (exome, AC = 2, AN = 183268, AF = 1.0913e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+39	L	L>P	L>P (exome, AC = 1, AN = 183291, AF = 5.45581e-06)	L>P	L>P (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+40	G	none	none	G>V	G>V (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+41	R	none	none	R>G	R>G (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+42	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+43	C	none	none	C>Y; C>W	C>Y (ClinVar, phenotype = Wiskott-Aldrich syndrome); C>W (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+44	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+45	T	none	none	T>M; T>K; T>M	T>M (ClinVar, phenotype = Thrombocytopenia, X-linked); T>K (ClinVar, phenotype = Wiskott-Aldrich syndrome); T>M (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+46	L	none	none	L>P	L>P (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+47	A	none	none	A>D	A>D (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+48	T	none	none	T>I	T>I (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+49	A	none	none	A>V	A>V (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+50	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+51	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+52	Q	none	none	Q>H	Q>H (ClinVar, phenotype = Thrombocytopaenia)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+53	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+54	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+55	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+56	A	none	none	A>V; A>T; A>V	A>V (ClinVar, phenotype = Thrombocytopenia, X-linked); A>T (ClinVar, phenotype = Thrombocytopaenia); A>V (ClinVar, phenotype = Thrombocytopaenia)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+57	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+58	P	none	none	P>R; P>A; P>L; P>R	P>R (ClinVar, phenotype = Thrombocytopenia, X-linked, intermittent); P>A (ClinVar, phenotype = Wiskott-Aldrich syndrome); P>L (ClinVar, phenotype = Wiskott-Aldrich syndrome); P>R (ClinVar, phenotype = Thrombocytopaenia)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+59	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+60	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+61	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+62	E	E>Q	E>Q (exome, AC = 2, AN = 183076, AF = 1.09244e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+63	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+64	W	none	none	W>R	W>R (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+65	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+66	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+67	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+68	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+69	C	C>S	C>S (exome, AC = 6, AN = 182935, AF = 3.27985e-05); C>S (genome, AC = 1, AN = 21808, AF = 4.58547e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+70	G	none	none	G>W; G>R	G>W (ClinVar, phenotype = Wiskott-Aldrich syndrome); G>R (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+71	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+72	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+73	C	none	none	C>R; C>Y	C>R (ClinVar, phenotype = Wiskott-Aldrich syndrome); C>Y (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+74	F	none	none	F>S	F>S (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+75	V	V>M	V>M (exome, AC = 1, AN = 182289, AF = 5.48579e-06)	V>M	V>M (ClinVar, phenotype = Thrombocytopenia, X-linked,not provided); V>M (ClinVar, phenotype = Thrombocytopaenia)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+76	K	none	none	K>T	K>T (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+77	D	none	none	D>H; D>G	D>H (ClinVar, phenotype = Wiskott-Aldrich syndrome); D>G (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+78	N	N>K	N>K (genome, AC = 1, AN = 21718, AF = 4.60448e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+79	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+80	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+81	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+82	S	none	none	S>P; S>P; S>F	S>P (ClinVar, phenotype = Wiskott-Aldrich syndrome, attenuated); S>P (ClinVar, phenotype = Wiskott-Aldrich syndrome); S>F (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+83	Y	none	none	Y>C	Y>C (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+84	F	none	none	F>L	F>L (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+85	I	none	none	I>T	I>T (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+86	R	none	none	R>L; R>H; R>S; R>C; R>G; R>P; R>H; R>L	R>L (ClinVar, phenotype = Wiskott-Aldrich syndrome); R>H (ClinVar, phenotype = Severe congenital neutropenia X-linked,Thrombocytopenia, X-linked,Wiskott-Aldrich syndrome,Wiskott-Aldrich syndrome,not provided); R>S (ClinVar, phenotype = Wiskott-Aldrich syndrome); R>C (ClinVar, phenotype = Thrombocytopaenia); R>G (ClinVar, phenotype = Wiskott-Aldrich syndrome); R>P (ClinVar, phenotype = Wiskott-Aldrich syndrome); R>H (ClinVar, phenotype = Wiskott-Aldrich syndrome); R>L (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+87	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+88	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+89	G	G>S; G>D	G>S (exome, AC = 3, AN = 173960, AF = 1.72453e-05); G>D (exome, AC = 9, AN = 172825, AF = 5.20758e-05); G>D (genome, AC = 2, AN = 21443, AF = 9.32705e-05)	G>D	G>D (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+90	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+91	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+92	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+93	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+94	R	R>Q	R>Q (exome, AC = 1, AN = 153884, AF = 6.4984e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+95	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+96	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+97	W	none	none	W>C	W>C (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+98	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+99	Q	none	none	Q>R	Q>R (ClinVar, phenotype = Thrombocytopaenia)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+100	E	none	none	E>D	E>D (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+101	L	L>V	L>V (exome, AC = 1, AN = 160956, AF = 6.21288e-06)	L>P	L>P (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+102	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+103	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+104	Q	Q>E	Q>E (exome, AC = 1, AN = 162759, AF = 6.14405e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+105	L	L>F	L>F (exome, AC = 4, AN = 162939, AF = 2.45491e-05)	L>P	L>P (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+106	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+107	Y	none	none	Y>H; Y>S; Y>C	Y>H (ClinVar, phenotype = Wiskott-Aldrich syndrome); Y>S (ClinVar, phenotype = Wiskott-Aldrich syndrome); Y>C (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+108	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+109	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+110	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+111	T	none	none	T>P	T>P (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+112	P	P>H	P>H (exome, AC = 1, AN = 162216, AF = 6.16462e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+113	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+114	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+115	H	none	none	H>Y	H>Y (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+116	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+117	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+118	A	A>G; A>T	A>G (exome, AC = 1, AN = 155886, AF = 6.41494e-06); A>T (genome, AC = 2, AN = 21772, AF = 9.18611e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+119	G	none	none	G>R; G>E	G>R (ClinVar, phenotype = Wiskott-Aldrich syndrome); G>E (ClinVar, phenotype = Thrombocytopaenia)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+120	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+121	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+122	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+123	Q	none	none	Q>K	Q>K (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+124	A	A>V	A>V (exome, AC = 1, AN = 127681, AF = 7.83202e-06)	A>E	A>E (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+125	G	none	none	G>R; G>R; G>E	G>R (ClinVar, phenotype = Wiskott-Aldrich syndrome); G>R (ClinVar, phenotype = Wiskott-Aldrich syndrome); G>E (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+126	L	none	none	L>P	L>P (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+127	N	none	none	N>K	N>K (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+128	F	none	none	F>L; F>S	F>L (ClinVar, phenotype = Wiskott-Aldrich syndrome); F>S (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+129	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+130	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+131	E	E>K	E>K (exome, AC = 344, AN = 132777, AF = 0.00259081); E>K (genome, AC = 65, AN = 21915, AF = 0.00296601)	E>K	E>K (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+132	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+133	E	none	none	E>K; E>D; E>D	E>K (ClinVar, phenotype = Wiskott-Aldrich syndrome); E>D (ClinVar, phenotype = Wiskott-Aldrich syndrome); E>D (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+134	A	none	none	A>T; A>V	A>T (ClinVar, phenotype = Wiskott-Aldrich syndrome); A>V (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+135	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+136	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+137	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+138	R	R>Q	R>Q (exome, AC = 61, AN = 135281, AF = 0.000450913); R>Q (genome, AC = 15, AN = 21743, AF = 0.000689877)	R>P	R>P (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+139	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+140	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+141	V	V>M	V>M (exome, AC = 2, AN = 138026, AF = 1.449e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+142	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+143	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+144	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+145	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+146	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+147	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+148	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L39-R148: WH1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+149	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+150	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+151	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+152	Q	Q>R	Q>R (exome, AC = 1, AN = 155886, AF = 6.41494e-06); Q>R (genome, AC = 1, AN = 21800, AF = 4.58716e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+153	S	S>I; S>R	S>I (exome, AC = 1, AN = 157175, AF = 6.36233e-06); S>R (exome, AC = 1, AN = 157166, AF = 6.3627e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+154	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+155	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+156	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+157	R	R>S; R>C; R>H; R>P	R>S (exome, AC = 2, AN = 183321, AF = 1.09098e-05); R>C (exome, AC = 2, AN = 183321, AF = 1.09098e-05); R>H (exome, AC = 5, AN = 183309, AF = 2.72763e-05); R>P (exome, AC = 4, AN = 183309, AF = 2.18211e-05); R>H (genome, AC = 1, AN = 21734, AF = 4.60109e-05); R>P (genome, AC = 2, AN = 21734, AF = 9.20217e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+158	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+159	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+160	P	P>R	P>R (exome, AC = 1, AN = 183357, AF = 5.45384e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+161	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+162	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+163	P	P>S	P>S (genome, AC = 1, AN = 21740, AF = 4.59982e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+164	T	T>P; T>K	T>P (exome, AC = 10, AN = 183379, AF = 5.45319e-05); T>K (exome, AC = 1, AN = 183404, AF = 5.45244e-06); T>P (genome, AC = 1, AN = 21711, AF = 4.60596e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+165	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+166	A	A>P	A>P (exome, AC = 1, AN = 183431, AF = 5.45164e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+167	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+168	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+169	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+170	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+171	R	R>K	R>K (exome, AC = 4, AN = 183302, AF = 2.18219e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+172	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+173	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+174	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+175	P	P>L	P>L (exome, AC = 4, AN = 183269, AF = 2.18258e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+176	P	P>S; P>L	P>S (exome, AC = 1, AN = 183268, AF = 5.45649e-06); P>L (exome, AC = 1, AN = 183273, AF = 5.45634e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+177	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+178	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+179	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+180	H	H>N	H>N (exome, AC = 186, AN = 183265, AF = 0.00101492); H>N (genome, AC = 14, AN = 22064, AF = 0.000634518)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+181	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+182	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+183	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+184	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+185	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+186	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+187	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+188	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+189	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+190	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+191	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+192	P	P>L	P>L (exome, AC = 5, AN = 183188, AF = 2.72944e-05); P>L (genome, AC = 1, AN = 21900, AF = 4.56621e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+193	L	L>F	L>F (exome, AC = 2, AN = 183208, AF = 1.09166e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+194	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+195	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+196	G	G>R	G>R (exome, AC = 1, AN = 183288, AF = 5.45589e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+197	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+198	A	A>G; A>V	A>G (exome, AC = 1, AN = 183278, AF = 5.45619e-06); A>V (exome, AC = 5, AN = 183278, AF = 2.7281e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+199	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+200	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+201	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+202	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+203	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+204	N	N>S	N>S (genome, AC = 1, AN = 21945, AF = 4.55685e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+205	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+206	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+207	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+208	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+209	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+210	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+211	R	R>Q	R>Q (exome, AC = 1, AN = 183330, AF = 5.45464e-06); R>Q (genome, AC = 1, AN = 21990, AF = 4.54752e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+212	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+213	R	R>H	R>H (exome, AC = 2, AN = 183292, AF = 1.09116e-05); R>H (genome, AC = 1, AN = 21959, AF = 4.55394e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+214	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+215	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+216	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+217	A	A>E	A>E (exome, AC = 1, AN = 183216, AF = 5.45804e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+218	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+219	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+220	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+221	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S221: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+222	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+223	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+224	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+225	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+226	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+227	R	R>C; R>H	R>C (exome, AC = 1, AN = 181764, AF = 5.50164e-06); R>H (exome, AC = 1, AN = 181411, AF = 5.51234e-06); R>C (genome, AC = 1, AN = 21958, AF = 4.55415e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+228	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+229	G	G>V	G>V (exome, AC = 1, AN = 180505, AF = 5.54001e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+230	K	none	none	none	none	-	238	1.008	loop	coils	exposed	Positively Charged & Polar	-	-	-	-	1cee.B.5/11.498	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+231	K	none	none	none	none	-	60	0.254	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	1cee.B.5/9.602	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+232	K	none	none	none	none	-	119	0.504	loop	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	1cee.B.5/6.392	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+233	I	none	none	none	none	-	6	0.03	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.5/3.744	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+234	S	none	none	none	none	-	50	0.32299999999999995	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	1cee.B.5/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+235	K	none	none	none	none	-	124	0.525	turn	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	1cee.B.5/3.804	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+236	A	A>T	A>T (exome, AC = 3, AN = 175366, AF = 1.71071e-05)	A>G	A>G (ClinVar, phenotype = Thrombocytopenia, X-linked); A>G (ClinVar, phenotype = Thrombocytopaenia)	-	94	0.7290000000000001	turn	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.5/5.175	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+237	D	none	none	none	none	-	48	0.249	turn	coils	buried	Negatively Charged & Polar	-	-	-	-	1cee.B.5/4.911	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+238	I	none	none	none	none	-	1	0.005	bend	coils	core	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.5/7.072	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I238-G251: CRIB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+239	G	none	none	none	none	-	25	0.21899999999999997	loop	coils	buried	Special	-	-	-	-	1cee.B.5/9.979	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I238-G251: CRIB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+240	A	none	none	none	none	-	64	0.496	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.5/13.199	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I238-G251: CRIB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+241	P	none	none	none	none	-	20	0.126	loop	coils	buried	Special	-	-	-	-	1cee.B.5/15.058	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I238-G251: CRIB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+242	S	S>C	S>C (exome, AC = 14, AN = 165459, AF = 8.46131e-05)	none	none	-	133.5	0.861	loop	coils	exposed	Neutral & Polar	-	-	-	-	1cee.B.5/18.181;2k42.A.53/18.636;1ej5.A.50/24.88;1t84.A.50/16.642	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I238-G251: CRIB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+243	G	none	none	none	none	-	66	0.579	loop	coils	Medium-exposed	Special	-	-	-	-	1cee.B.5/20.192;2k42.A.53/17.193;1ej5.A.50/22.094;1t84.A.50/13.938	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I238-G251: CRIB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+244	F	none	none	none	none	-	111.5	0.465	loop	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	1cee.B.5/21.952;2k42.A.53/13.481;1ej5.A.50/20.155;1t84.A.50/12.298	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I238-G251: CRIB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+245	K	none	none	none	none	-	165.5	0.701	loop	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	1cee.B.5/23.66;2k42.A.53/13.053;1ej5.A.50/16.559;1t84.A.50/14.042	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I238-G251: CRIB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+246	H	H>Q	H>Q (genome, AC = 1, AN = 21653, AF = 4.6183e-05)	none	none	-	98.5	0.44	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	1cee.B.53/21.871;2k42.A.53/9.609;1ej5.A.50/14.063;1t84.A.50/13.589	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I238-G251: CRIB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+247	V	none	none	none	none	-	68	0.391	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.53/20.54;2k42.A.53/10.007;1ej5.A.50/11.575;1t84.A.50/13.217	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I238-G251: CRIB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+248	S	none	none	none	none	-	39	0.252	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	1cee.B.53/17.56;2k42.A.53/7.739;1ej5.A.50/9.187;1t84.A.50/14.903	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I238-G251: CRIB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+249	H	none	none	none	none	-	153.5	0.685	turn	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	1cee.B.53/16.633;2k42.A.53/9.685;1ej5.A.50/10.229;1t84.A.50/14.268	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I238-G251: CRIB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+250	V	none	none	none	none	-	20	0.115	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.48/14.891;2k42.A.53/8.302;1ej5.A.50/7.367;1t84.A.50/10.639	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I238-G251: CRIB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+251	G	none	none	none	none	-	46	0.40399999999999997	loop	coils	Medium-buried	Special	-	-	-	-	1cee.B.53/15.627;2k42.A.53/10.37;1ej5.A.50/9.395;1t84.A.50/10.414	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I238-G251: CRIB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+252	W	none	none	none	none	-	48.5	0.17	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	1cee.B.48/14.647;2k42.A.49/7.842;1ej5.A.50/7.531;1t84.A.50/7.728	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+253	D	none	none	none	none	-	61	0.316	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	1cee.B.53/16.173;2k42.A.44/8.373;1ej5.A.46/8.274;1t84.A.50/9.223	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+254	P	none	none	none	none	-	79.5	0.5	turn	coils	Medium-exposed	Special	-	-	-	-	1cee.B.48/16.731;2k42.A.49/8.102;1ej5.A.46/7.252;1t84.A.46/8.823	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+255	Q	Q>H	Q>H (exome, AC = 8, AN = 170641, AF = 4.68821e-05)	none	none	-	159.5	0.7090000000000001	turn	coils	Medium-exposed	Neutral & Polar	-	-	-	-	1cee.B.53/16.385;2k42.A.44/8.313;1ej5.A.41/8.363;1t84.A.46/9.583	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+256	N	none	none	none	none	-	113.5	0.5820000000000001	turn	coils	Medium-exposed	Neutral & Polar	-	-	-	-	1cee.B.53/12.736;2k42.A.44/5.257;1ej5.A.41/5.807;1t84.A.46/8.527	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+257	G	none	none	none	none	-	5.5	0.048	loop	coils	core	Special	-	-	-	-	1cee.B.48/12.175;2k42.A.44/3.868;1ej5.A.41/4.13;1t84.A.46/5.134	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+258	F	none	none	none	none	-	18	0.075	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	1cee.B.48/11.778;2k42.A.44/5.311;1ej5.A.41/5.278;1t84.A.46/6.067	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+259	D	D>N	D>N (exome, AC = 1, AN = 168845, AF = 5.92259e-06)	D>D	D>D (ClinVar, phenotype = Immunodeficiency, primary)	-	72.5	0.376	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	1cee.B.53/11.197;2k42.A.44/6.981;1ej5.A.41/7.383;1t84.A.41/8.616	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+260	V	none	none	none	none	-	28.5	0.16399999999999998	turn	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.53/11.037;2k42.A.44/7.618;1ej5.A.41/7.366;1t84.A.41/8.093	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+261	N	N>K	N>K (exome, AC = 1, AN = 163382, AF = 6.12063e-06)	none	none	-	129.5	0.664	turn	coils	Medium-exposed	Neutral & Polar	-	-	-	-	1cee.B.53/10.795;2k42.A.44/10.826;1ej5.A.41/9.805;1t84.A.41/10.571	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+262	N	none	none	none	none	-	117.5	0.603	bend	coils	Medium-exposed	Neutral & Polar	-	-	-	-	1cee.B.53/13.297;2k42.A.44/11.985;1ej5.A.41/11.993;1t84.A.41/12.908	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+263	L	none	none	none	none	-	18.5	0.092	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.53/13.658;2k42.A.44/10.63;1ej5.A.41/11.507;1t84.A.41/12.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+264	D	none	none	none	none	-	44	0.228	loop	coils	buried	Negatively Charged & Polar	-	-	-	-	1cee.B.48/15.55;2k42.A.53/12.961;1ej5.A.50/13.002;1t84.A.36/14.509	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+265	P	P>R	P>R (exome, AC = 1, AN = 168569, AF = 5.93229e-06)	none	none	-	89.5	0.563	alpha-helix	Helices	Medium-exposed	Special	-	-	-	-	1cee.B.48/15.68;2k42.A.39/13.052;1ej5.A.36/14.344;1t84.A.36/14.298	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+266	D	none	none	none	none	-	57.5	0.298	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	1cee.B.48/14.839;2k42.A.39/13.93;1ej5.A.50/13.722;1t84.A.36/14.81	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+267	L	none	none	none	none	-	5	0.025	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.48/12.413;2k42.A.53/10.468;1ej5.A.50/9.969;1t84.A.50/12.327	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+268	R	R>W; R>Q	R>W (exome, AC = 7, AN = 170372, AF = 4.10866e-05); R>Q (exome, AC = 4, AN = 170899, AF = 2.34056e-05); R>W (genome, AC = 1, AN = 21784, AF = 4.59053e-05)	none	none	-	118.5	0.43200000000000005	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	1cee.B.48/10.752;2k42.A.39/8.827;1ej5.A.36/10.028;1t84.A.36/9.706	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+269	S	none	none	none	none	-	51	0.32899999999999996	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	1cee.B.48/9.651;2k42.A.39/10.356;1ej5.A.36/10.723;1t84.A.36/10.573	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+270	L	none	none	L>P	L>P (ClinVar, phenotype = Severe congenital neutropenia X-linked); L>P (ClinVar, phenotype = Neutropaenia, severe congenital, X-linked)	-	1.5	0.006999999999999999	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.48/9.08;2k42.A.39/10.328;1ej5.A.36/10.805;1t84.A.36/11.007	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+271	F	none	none	none	none	-	2	0.008	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	1cee.B.48/7.23;2k42.A.39/6.892;1ej5.A.36/7.312;1t84.A.36/7.336	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+272	S	none	none	S>P	S>P (ClinVar, phenotype = Severe congenital neutropenia X-linked); S>P (ClinVar, phenotype = Neutropaenia, severe congenital, X-linked)	-	75.5	0.48700000000000004	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	1cee.B.48/4.499;2k42.A.39/5.843;1ej5.A.36/6.639;1t84.A.36/6.819	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+273	R	none	none	none	none	-	106	0.387	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	1cee.B.48/4.949;2k42.A.39/9.033;1ej5.A.36/9.776;1t84.A.36/10.034	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+274	A	none	none	none	none	-	13	0.10099999999999999	turn	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.48/5.846;2k42.A.39/8.638;1ej5.A.36/8.859;1t84.A.36/9.477	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+275	G	none	none	none	none	-	49.5	0.434	turn	coils	Medium-buried	Special	-	-	-	-	1cee.B.48/5.438;2k42.A.39/6.043;1ej5.A.36/6.34;1t84.A.36/6.861	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+276	I	none	none	none	none	-	12	0.061	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.48/3.79;2k42.A.39/3.792;1ej5.A.36/3.804;1t84.A.36/3.805	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+277	S	none	none	none	none	-	63.5	0.41	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	1cee.B.48/0.0;2k42.A.39/0.0;1ej5.A.36/0.0;1t84.A.36/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+278	E	none	none	none	none	-	118.5	0.531	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	1cee.B.48/3.786;2k42.A.39/3.816;1ej5.A.36/3.804;1t84.A.36/3.803	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+279	A	A>D	A>D (exome, AC = 1, AN = 175322, AF = 5.70379e-06)	none	none	-	52.5	0.40700000000000003	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.48/5.209;2k42.A.44/5.164;1ej5.A.41/5.173;1t84.A.41/5.166	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+280	Q	none	none	none	none	-	40	0.17800000000000002	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	1cee.B.53/6.232;2k42.A.39/5.214;1ej5.A.41/5.313;1t84.A.41/5.588	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+281	L	none	none	none	none	-	9	0.045	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.53/3.804;2k42.A.44/3.775;1ej5.A.41/3.804;1t84.A.41/3.809	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+282	T	T>A	T>A (exome, AC = 1, AN = 176982, AF = 5.65029e-06)	none	none	-	74.5	0.433	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	1cee.B.53/0.0;2k42.A.44/0.0;1ej5.A.41/0.0;1t84.A.41/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+283	D	none	none	D>E	D>E (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	73.5	0.381	bend	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	1cee.B.53/3.796;2k42.A.44/3.803;1ej5.A.41/3.817;1t84.A.41/3.803	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+284	A	none	none	none	none	-	62	0.48100000000000004	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	1cee.B.53/5.806;2k42.A.48/5.517;1ej5.A.46/5.0;1t84.A.46/4.944	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+285	E	E>K; E>Q	E>K (exome, AC = 1, AN = 179581, AF = 5.56852e-06); E>Q (exome, AC = 1, AN = 179581, AF = 5.56852e-06)	none	none	-	131.5	0.59	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	1cee.B.57/3.805;2k42.A.48/3.788;1ej5.A.45/3.805;1t84.A.45/3.804	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+286	T	none	none	none	none	-	15.5	0.09	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	1cee.B.57/0.0;2k42.A.48/0.0;1ej5.A.45/0.0;1t84.A.45/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+287	S	none	none	none	none	-	2.5	0.016	alpha-helix	Helices	core	Neutral & Polar	-	-	-	-	1cee.B.58/0.0;2k42.A.49/0.0;1ej5.A.46/0.0;1t84.A.46/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+288	K	none	none	none	none	-	114	0.483	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	1cee.B.58/3.803;2k42.A.49/3.803;1ej5.A.46/3.804;1t84.A.46/3.804	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+289	L	none	none	none	none	-	32	0.159	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	2k42.A.53/5.303;1ej5.A.45/5.299;1t84.A.45/4.68	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+290	I	none	none	I>T	I>T (ClinVar, phenotype = Neutropaenia, severe congenital, X-linked)	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	2k42.A.53/3.797;1ej5.A.50/3.817;1t84.A.50/3.802	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+291	Y	none	none	none	none	-	39	0.14800000000000002	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	2k42.A.53/0.0;1ej5.A.50/0.0;1t84.A.50/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Y291: Phosphotyrosine by FYN and HCK	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+292	D	none	none	none	none	-	65	0.337	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	2k42.A.53/3.804;1ej5.A.50/3.808;1t84.A.50/3.805	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+293	F	none	none	none	none	-	4	0.017	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	2k42.A.53/5.12;1ej5.A.50/5.204;1t84.A.50/5.107	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+294	I	none	none	I>T	I>T (ClinVar, phenotype = Severe congenital neutropenia X-linked); I>T (ClinVar, phenotype = Neutropaenia, severe congenital, X-linked)	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	2k42.A.53/5.005;1ej5.A.50/5.138;1t84.A.50/5.303	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+295	E	none	none	none	none	-	49	0.22	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	2k42.A.53/6.117;1ej5.A.50/6.903;1t84.A.50/5.499	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+296	D	D>N	D>N (exome, AC = 2, AN = 181669, AF = 1.1009e-05)	none	none	-	95	0.49200000000000005	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	2k42.A.53/8.417;1ej5.A.50/9.223;1t84.A.50/7.99	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+297	Q	none	none	none	none	-	45	0.2	turn	coils	buried	Neutral & Polar	-	-	-	-	2k42.A.53/10.366;1ej5.A.50/10.031;1t84.A.50/9.532	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+298	G	none	none	none	none	-	53	0.465	turn	coils	Medium-buried	Special	-	-	-	-	2k42.A.53/10.811;1ej5.A.50/11.33;1t84.A.50/10.935	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+299	G	none	none	none	none	-	5	0.044000000000000004	alpha-helix	coils	core	Special	-	-	-	-	2k42.A.53/8.805;1ej5.A.50/8.751;1t84.A.50/9.771	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+300	L	none	none	none	none	-	26	0.129	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	2k42.A.53/9.146;1ej5.A.50/8.563;1t84.A.50/9.762	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+301	E	E>D	E>D (exome, AC = 12, AN = 181747, AF = 6.60258e-05); E>D (genome, AC = 3, AN = 21464, AF = 0.000139769)	none	none	-	116	0.52	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	2k42.A.53/12.799;1ej5.A.50/12.305;1t84.A.50/13.429	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+302	A	none	none	none	none	-	22	0.171	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	2k42.A.53/12.433;1ej5.A.50/12.42;1t84.A.50/13.785	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+303	V	none	none	none	none	-	2	0.011000000000000001	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	2k42.A.53/10.921;1ej5.A.50/10.725;1t84.A.50/13.232	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+304	R	R>G; R>W	R>G (exome, AC = 1, AN = 181467, AF = 5.51064e-06); R>W (exome, AC = 1, AN = 181467, AF = 5.51064e-06)	none	none	-	91	0.332	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	2k42.A.53/13.333;1ej5.A.50/13.207;1t84.A.50/15.884	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+305	Q	none	none	none	none	-	114	0.507	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	2k42.A.53/16.011;1ej5.A.50/15.668;1t84.A.50/18.419	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+306	E	E>K	E>K (exome, AC = 1, AN = 181460, AF = 5.51086e-06)	none	none	-	24	0.10800000000000001	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	2k42.A.53/15.363;1ej5.A.50/15.581;1t84.A.50/17.677	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+307	M	M>V	M>V (exome, AC = 1, AN = 181269, AF = 5.51666e-06)	M>V	M>V (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	30	0.134	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	2k42.A.53/16.404;1ej5.A.50/15.579;1t84.A.50/17.846	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+308	R	none	none	none	none	-	179	0.653	turn	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	2k42.A.53/19.751;1ej5.A.50/18.891;1t84.A.50/21.151	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+309	R	R>H	R>H (exome, AC = 1, AN = 180366, AF = 5.54428e-06)	none	none	-	207	0.755	alpha-helix	coils	exposed	Positively Charged & Polar	-	-	-	-	2k42.A.53/19.744;1ej5.A.50/20.16;1t84.A.50/22.431	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+310	Q	none	none	none	none	-	98	0.436	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	2k42.A.53/17.993;1ej5.A.50/19.391;1t84.A.50/21.066	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+311	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+312	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+313	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+314	P	P>L	P>L (exome, AC = 4, AN = 172146, AF = 2.32361e-05); P>L (genome, AC = 2, AN = 21449, AF = 9.32444e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+315	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+316	P	P>T	P>T (exome, AC = 2, AN = 169590, AF = 1.17931e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+317	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+318	P	P>L	P>L (genome, AC = 1, AN = 21347, AF = 4.6845e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+319	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+320	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+321	R	R>Q	R>Q (exome, AC = 2, AN = 164967, AF = 1.21236e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+322	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+323	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+324	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+325	Q	Q>H	Q>H (genome, AC = 1, AN = 21098, AF = 4.73979e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+326	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+327	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+328	R	R>W; R>Q	R>W (exome, AC = 2, AN = 150189, AF = 1.33166e-05); R>Q (exome, AC = 2, AN = 149301, AF = 1.33958e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+329	P	P>A	P>A (exome, AC = 1, AN = 148596, AF = 6.72966e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+330	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+331	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+332	V	V>A	V>A (exome, AC = 697, AN = 145484, AF = 0.0047909); V>A (genome, AC = 88, AN = 20663, AF = 0.00425882)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+333	G	G>A; G>V	G>A (exome, AC = 1, AN = 143501, AF = 6.96859e-06); G>V (exome, AC = 1, AN = 143501, AF = 6.96859e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+334	G	G>D	G>D (exome, AC = 4, AN = 143353, AF = 2.79031e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+335	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+336	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+337	G	G>S	G>S (exome, AC = 1, AN = 139774, AF = 7.15441e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G337-P346: GRSGPLPPXP motif 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+338	R	R>H; R>L	R>H (exome, AC = 1, AN = 139513, AF = 7.16779e-06); R>L (exome, AC = 1, AN = 139513, AF = 7.16779e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G337-P346: GRSGPLPPXP motif 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+339	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G337-P346: GRSGPLPPXP motif 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+340	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G337-P346: GRSGPLPPXP motif 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+341	P	P>L	P>L (exome, AC = 1, AN = 134420, AF = 7.43937e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G337-P346: GRSGPLPPXP motif 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+342	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G337-P346: GRSGPLPPXP motif 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+343	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G337-P346: GRSGPLPPXP motif 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+344	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G337-P346: GRSGPLPPXP motif 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+345	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G337-P346: GRSGPLPPXP motif 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+346	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G337-P346: GRSGPLPPXP motif 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+347	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+348	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+349	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+350	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+351	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+352	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+353	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+354	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+355	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+356	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+357	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+358	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+359	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+360	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+361	P	P>T	P>T (exome, AC = 24, AN = 86641, AF = 0.000277005); P>T (genome, AC = 3, AN = 20445, AF = 0.000146735)	P>T	P>T (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+362	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+363	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+364	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+365	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+366	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+367	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+368	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+369	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+370	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+371	P	P>L	P>L (exome, AC = 1, AN = 93503, AF = 1.06948e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+372	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+373	P	P>L	P>L (exome, AC = 1, AN = 99972, AF = 1.00028e-05)	P>S	P>S (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+374	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+375	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+376	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G376-P385: GRSGPLPPXP motif 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+377	R	R>C	R>C (exome, AC = 2, AN = 105862, AF = 1.88925e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G376-P385: GRSGPLPPXP motif 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+378	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G376-P385: GRSGPLPPXP motif 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+379	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G376-P385: GRSGPLPPXP motif 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+380	P	P>R	P>R (exome, AC = 1, AN = 107984, AF = 9.26063e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G376-P385: GRSGPLPPXP motif 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+381	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G376-P385: GRSGPLPPXP motif 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+382	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G376-P385: GRSGPLPPXP motif 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+383	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G376-P385: GRSGPLPPXP motif 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+384	P	P>S	P>S (exome, AC = 3, AN = 106856, AF = 2.80752e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G376-P385: GRSGPLPPXP motif 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+385	P	P>L	P>L (exome, AC = 1, AN = 107500, AF = 9.30233e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G376-P385: GRSGPLPPXP motif 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+386	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+387	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+388	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+389	G	G>D	G>D (exome, AC = 2, AN = 107813, AF = 1.85506e-05); G>D (genome, AC = 1, AN = 20485, AF = 4.88162e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+390	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+391	P	P>L	P>L (exome, AC = 1, AN = 106639, AF = 9.37743e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+392	P	P>L	P>L (exome, AC = 5, AN = 107389, AF = 4.65597e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+393	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+394	P	P>L	P>L (exome, AC = 9, AN = 106321, AF = 8.46493e-05); P>L (genome, AC = 5, AN = 21070, AF = 0.000237304)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+395	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+396	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+397	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+398	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+399	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+400	P	P>A	P>A (exome, AC = 1, AN = 99594, AF = 1.00408e-05); P>A (genome, AC = 1, AN = 21378, AF = 4.67771e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+401	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+402	P	P>L	P>L (exome, AC = 1, AN = 101648, AF = 9.83787e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+403	P	P>L	P>L (exome, AC = 3, AN = 102209, AF = 2.93516e-05); P>L (genome, AC = 1, AN = 21412, AF = 4.67028e-05)	P>L	P>L (ClinVar, phenotype = Thrombocytopaenia)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+404	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+405	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+406	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+407	G	G>R	G>R (exome, AC = 4, AN = 108483, AF = 3.68721e-05); G>R (exome, AC = 1, AN = 108483, AF = 9.21803e-06); G>R (genome, AC = 1, AN = 21365, AF = 4.68055e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+408	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+409	G	G>E	G>E (exome, AC = 1, AN = 112811, AF = 8.86438e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+410	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+411	A	A>D; A>V	A>D (exome, AC = 1, AN = 116264, AF = 8.60111e-06); A>V (exome, AC = 1, AN = 116264, AF = 8.60111e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+412	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+413	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+414	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+415	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+416	P	P>L	P>L (exome, AC = 1, AN = 129795, AF = 7.70446e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+417	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+418	A	A>S; A>V	A>S (exome, AC = 7, AN = 135040, AF = 5.18365e-05); A>V (exome, AC = 9, AN = 135925, AF = 6.6213e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+419	L	L>V; L>M	L>V (exome, AC = 1, AN = 137648, AF = 7.26491e-06); L>M (genome, AC = 1, AN = 21699, AF = 4.60851e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+420	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+421	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+422	A	A>G	A>G (exome, AC = 1, AN = 145345, AF = 6.88018e-06)	A>S	A>S (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+423	G	G>R	G>R (exome, AC = 5, AN = 147622, AF = 3.38703e-05); G>R (exome, AC = 2, AN = 147622, AF = 1.35481e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+424	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+425	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+426	A	A>S	A>S (exome, AC = 57, AN = 154538, AF = 0.000368841); A>S (genome, AC = 29, AN = 21572, AF = 0.00134434)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+427	P	P>L	P>L (exome, AC = 3, AN = 157292, AF = 1.90728e-05); P>L (genome, AC = 5, AN = 21597, AF = 0.000231514)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+428	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+429	G	G>R	G>R (exome, AC = 1, AN = 159038, AF = 6.28781e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+430	G	G>A	G>A (exome, AC = 1, AN = 160220, AF = 6.24142e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+431	R	R>W	R>W (exome, AC = 1, AN = 160503, AF = 6.23041e-06)	none	none	-	148	0.54	loop	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+432	G	none	none	none	none	-	44	0.386	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+433	A	none	none	none	none	-	57	0.442	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+434	L	L>F	L>F (exome, AC = 1, AN = 165205, AF = 6.05309e-06)	none	none	-	5	0.025	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+435	L	none	none	none	none	-	9	0.045	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+436	D	D>Y	D>Y (exome, AC = 1, AN = 166387, AF = 6.01008e-06)	none	none	-	89	0.461	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+437	Q	none	none	none	none	-	48	0.213	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+438	I	none	none	none	none	-	2	0.01	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+439	R	none	none	none	none	-	99	0.361	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+440	Q	none	none	none	none	-	171	0.76	alpha-helix	Helices	exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+441	G	none	none	none	none	-	43	0.377	loop	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+442	I	none	none	none	none	-	65	0.33	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+443	Q	none	none	none	none	-	174	0.773	loop	coils	exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+444	L	none	none	none	none	-	34	0.16899999999999998	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+445	N	none	none	none	none	-	102	0.523	beta-strand	beta-strand/sheet	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+446	K	none	none	none	none	-	185	0.784	loop	coils	exposed	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+447	T	none	none	none	none	-	74	0.43	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	G430-T447: WH2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+448	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+449	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+450	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+451	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+452	E	E>D	E>D (exome, AC = 1, AN = 165906, AF = 6.02751e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+453	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+454	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+455	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+456	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+457	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+458	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+459	P	none	none	P>S	P>S (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+460	P	P>S; P>L	P>S (exome, AC = 603, AN = 175583, AF = 0.00343427); P>L (exome, AC = 1, AN = 175473, AF = 5.69888e-06); P>S (genome, AC = 51, AN = 21666, AF = 0.00235392)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+461	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	1ej5.A.36/20.086;1t84.A.36/20.697	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+462	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	1ej5.A.36/18.359;1t84.A.36/19.753	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+463	S	S>L	S>L (exome, AC = 5, AN = 177047, AF = 2.82411e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	1ej5.A.36/15.996;1t84.A.36/16.177	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+464	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	1ej5.A.36/18.541;1t84.A.36/17.582	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+465	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	1ej5.A.50/16.964;1t84.A.50/18.114	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+466	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	1ej5.A.50/13.214;1t84.A.50/14.461	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+467	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	1ej5.A.50/13.218;1t84.A.36/13.816	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+468	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	1ej5.A.50/15.251;1t84.A.50/15.627	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+469	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	1ej5.A.50/12.914;1t84.A.50/12.824	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+470	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	1ej5.A.50/9.924;1t84.A.50/10.161	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+471	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	1ej5.A.36/12.186;1t84.A.36/12.381	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+472	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	1ej5.A.45/12.706;1t84.A.50/13.305	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+473	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	1ej5.A.45/9.718;1t84.A.50/9.859	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+474	M	M>I	M>I (exome, AC = 2, AN = 177817, AF = 1.12475e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	1ej5.A.45/7.715;1t84.A.45/9.349	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+475	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	1ej5.A.45/10.183;1t84.A.45/12.385	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+476	K	none	none	K>E	K>E (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	1ej5.A.45/9.255;1t84.A.45/11.329	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+477	R	none	none	R>K	R>K (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	1ej5.A.45/7.486;1t84.A.45/8.818	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+478	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	1ej5.A.45/11.154;1t84.A.45/11.542	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+479	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	1ej5.A.98/10.96;1t84.A.98/9.995	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+480	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	1ej5.A.45/7.948;1t84.A.98/6.595	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+481	I	none	none	I>N	I>N (ClinVar, phenotype = Thrombocytopenia, X-linked, intermittent); I>N (ClinVar, phenotype = Thrombocytopaenia)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	1ej5.A.98/5.43;1t84.A.98/6.236	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+482	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	1ej5.A.98/3.796;1t84.A.98/3.801	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+483	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	1ej5.A.98/0.0;1t84.A.98/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S483: Phosphoserine by CK2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+484	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	1ej5.A.99/0.0;1t84.A.99/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S484: Phosphoserine by CK2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+485	D	none	none	D>G	D>G (ClinVar, phenotype = Wiskott-Aldrich syndrome)	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	1ej5.A.99/3.804;1t84.A.99/3.802	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+486	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	1ej5.A.99/6.053;1t84.A.98/4.902	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+487	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	1ej5.A.99/8.937;1t84.A.98/8.608	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+488	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	1ej5.A.99/9.22;1t84.A.98/11.257	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+489	D	D>G	D>G (exome, AC = 2, AN = 183234, AF = 1.0915e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	1ej5.A.99/11.94;1t84.A.98/14.672	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+490	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	1ej5.A.99/13.513;1t84.A.98/16.918	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+491	A	A>T	A>T (exome, AC = 4, AN = 183288, AF = 2.18236e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	1ej5.A.99/16.687;1t84.A.98/19.244	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+492	G	G>S	G>S (exome, AC = 1, AN = 183298, AF = 5.4556e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	1ej5.A.99/18.899;1t84.A.98/21.472	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+493	D	D>N	D>N (exome, AC = 4, AN = 183271, AF = 2.18256e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+494	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+495	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+496	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+497	D	D>Y; D>E	D>Y (exome, AC = 1, AN = 183312, AF = 5.45518e-06); D>E (exome, AC = 1, AN = 183300, AF = 5.45554e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+498	D	none	none	none	none	-	76.5	0.396	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+499	E	none	none	none	none	-	48.5	0.217	loop	coils	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+500	W	none	none	none	none	-	19.5	0.068	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+501	D	none	none	none	none	-	152.5	0.79	loop	coils	exposed	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+502	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
