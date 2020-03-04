@@ -1,0 +1,587 @@
+Amino Acid Index	Amino Acid	Population Mutation	Population Mutation (details)	Pathogenic Mutation	Pathogenic Mutation (details)	Bond Detail	Accessible Surface Area	Relative Accessible Surface Area	8-class DSSP Secondary Structure Properties	3-class DSSP Secondary Structure Properties	Exposure	Physiochemical Property	Acetylation Detail	Methylation Detail	O.GalNAc Detail	O.GclNAc Detail	Phosphorylation Detail	Sumoylation Detail	Ubiquitination Detail	Active Site	Metal Binding Site	binding Site	Site	Zinc Finger	Dna Binding	Nucleotide Phosphate Binding	Calcium Binding	Region	Repeat	Coiled Coil	Topological Domain	Peptide	Modified Residue	Motif	Domain	Intramembrane	Propetide	Lipidation	Glycosylation	Cross Links	Disulfide Bond	Transit Peptide	Transmembrane	Signal Peptide	Functional Site	Functional Binding Region	Sequence Motif Region	Modular Domain	Molecular Processing	Modified Residues
+1	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2	A	A>T	A>T (exome, AC = 14, AN = 240134, AF = 5.83008e-05); A>T (genome, AC = 2, AN = 31372, AF = 6.37511e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+3	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+4	S	S>T; S>P	S>T (exome, AC = 1, AN = 240864, AF = 4.15172e-06); S>P (exome, AC = 2, AN = 240864, AF = 8.30344e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+5	G	G>V	G>V (exome, AC = 1, AN = 240588, AF = 4.15648e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+6	V	V>M; V>L	V>M (exome, AC = 1, AN = 240344, AF = 4.1607e-06); V>L (exome, AC = 1, AN = 240344, AF = 4.1607e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+7	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+8	K	K>R	K>R (exome, AC = 1, AN = 240650, AF = 4.15541e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+9	S	S>N	S>N (genome, AC = 1, AN = 31364, AF = 3.18837e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+10	S	S>G	S>G (exome, AC = 3, AN = 240572, AF = 1.24703e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+11	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+12	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+13	K	K>T	K>T (exome, AC = 1, AN = 239586, AF = 4.17387e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+14	T	T>S; T>N	T>S (exome, AC = 1, AN = 239560, AF = 4.17432e-06); T>N (exome, AC = 1, AN = 239660, AF = 4.17258e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+15	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+16	K	K>R	K>R (exome, AC = 3, AN = 239334, AF = 1.25348e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+17	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+18	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+19	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+20	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+21	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+22	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+23	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+24	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+25	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+26	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+27	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+28	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+29	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+30	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+31	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+32	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+33	V	V>I; V>F	V>I (exome, AC = 1, AN = 241460, AF = 4.14147e-06); V>F (exome, AC = 2, AN = 241460, AF = 8.28295e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+34	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+35	N	N>S	N>S (exome, AC = 1, AN = 241986, AF = 4.13247e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+36	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+37	M	M>R	M>R (exome, AC = 6, AN = 240836, AF = 2.49132e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+38	R	R>Q	R>Q (exome, AC = 1, AN = 240248, AF = 4.16237e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+39	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+40	Q	Q>R	Q>R (exome, AC = 1, AN = 239236, AF = 4.17997e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+41	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+42	T	T>M	T>M (exome, AC = 4, AN = 251122, AF = 1.59285e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+43	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+44	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+45	D	D>H; D>E	D>H (exome, AC = 1, AN = 251238, AF = 3.98029e-06); D>E (exome, AC = 2, AN = 251262, AF = 7.95982e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+46	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+47	I	I>M	I>M (exome, AC = 20, AN = 251284, AF = 7.95912e-05); I>M (genome, AC = 7, AN = 31386, AF = 0.000223029)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+48	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+49	M	M>V	M>V (exome, AC = 1, AN = 251300, AF = 3.97931e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+50	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+51	Q	Q>R	Q>R (exome, AC = 1, AN = 251316, AF = 3.97905e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+52	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+53	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+54	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+55	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+56	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+57	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+58	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+59	R	R>H	R>H (exome, AC = 1, AN = 251334, AF = 3.97877e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+60	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+61	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+62	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+63	A	A>D	A>D (genome, AC = 1, AN = 31386, AF = 3.18613e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+64	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+65	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+66	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+67	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+68	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+69	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+70	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+71	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+72	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+73	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+74	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+75	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+76	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+77	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+78	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+79	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+80	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+81	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+82	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+83	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+84	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+85	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+86	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+87	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+88	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+89	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+90	A	A>V	A>V (exome, AC = 1, AN = 251354, AF = 3.97845e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+91	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+92	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+93	D	D>E	D>E (exome, AC = 1, AN = 251348, AF = 3.97855e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+94	I	I>S	I>S (exome, AC = 1, AN = 251350, AF = 3.97852e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+95	I	I>T	I>T (exome, AC = 1, AN = 251344, AF = 3.97861e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+96	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+97	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+98	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+99	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+100	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+101	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+102	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+103	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+104	T	T>S	T>S (exome, AC = 1, AN = 251246, AF = 3.98016e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+105	A	A>G	A>G (exome, AC = 1, AN = 251186, AF = 3.98111e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+106	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+107	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+108	S	S>A	S>A (exome, AC = 5, AN = 251050, AF = 1.99164e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+109	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+110	N	N>K	N>K (exome, AC = 1, AN = 251122, AF = 3.98213e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+111	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C44-S111: BTB	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+112	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+113	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+114	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+115	Q	Q>L	Q>L (exome, AC = 1, AN = 251200, AF = 3.98089e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+116	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+117	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+118	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+119	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+120	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+121	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+122	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+123	Q	Q>P	Q>P (exome, AC = 1, AN = 251202, AF = 3.98086e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+124	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+125	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+126	I	I>F	I>F (exome, AC = 1, AN = 251206, AF = 3.9808e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+127	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+128	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+129	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+130	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+131	K	K>R	K>R (exome, AC = 1, AN = 251250, AF = 3.9801e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+132	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+133	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+134	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+135	D	D>G	D>G (exome, AC = 1, AN = 251254, AF = 3.98004e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+136	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+137	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+138	K	K>Q	K>Q (exome, AC = 1, AN = 251248, AF = 3.98013e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+139	E	E>G	E>G (exome, AC = 3, AN = 251256, AF = 1.194e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+140	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+141	V	none	none	V>A	V>A (ClinVar, phenotype = Retinitis pigmentosa); V>A (ClinVar, phenotype = Retinal disease)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+142	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+143	A	A>V	A>V (exome, AC = 1, AN = 251218, AF = 3.98061e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+144	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+145	N	none	none	N>D	N>D (ClinVar, phenotype = Retinitis pigmentosa); N>D (ClinVar, phenotype = Retinitis pigmentosa)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+146	C	C>F	C>F (exome, AC = 1, AN = 251170, AF = 3.98137e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+147	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+148	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+149	I	I>L	I>L (exome, AC = 1, AN = 251130, AF = 3.982e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+150	S	none	none	S>N	S>N (ClinVar, phenotype = Retinitis pigmentosa 42); S>N (ClinVar, phenotype = Retinitis pigmentosa)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+151	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+152	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+153	A	none	none	A>T; A>V	A>T (ClinVar, phenotype = Retinitis pigmentosa 42); A>V (ClinVar, phenotype = Retinitis pigmentosa 42,not provided); A>T (ClinVar, phenotype = Retinitis pigmentosa); A>V (ClinVar, phenotype = Retinitis pigmentosa)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+154	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+155	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+156	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+157	D	D>H	D>H (exome, AC = 1, AN = 251344, AF = 3.97861e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+158	C	C>F	C>F (exome, AC = 1, AN = 251356, AF = 3.97842e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+159	P	P>S	P>S (exome, AC = 2, AN = 251372, AF = 7.95634e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+160	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+161	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+162	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+163	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+164	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+165	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+166	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+167	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+168	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+169	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+170	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+171	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+172	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+173	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+174	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+175	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+176	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+177	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+178	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+179	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+180	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+181	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+182	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+183	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+184	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+185	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+186	D	D>N	D>N (exome, AC = 1, AN = 251398, AF = 3.97776e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+187	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+188	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+189	R	R>Q	R>Q (exome, AC = 1, AN = 251410, AF = 3.97757e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+190	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+191	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+192	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+193	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+194	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+195	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+196	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+197	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+198	T	T>A	T>A (exome, AC = 1, AN = 251374, AF = 3.97814e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+199	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+200	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+201	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+202	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+203	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+204	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+205	D	D>V	D>V (exome, AC = 1, AN = 251294, AF = 3.9794e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+206	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+207	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+208	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+209	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+210	A	A>V	A>V (exome, AC = 2, AN = 251414, AF = 7.95501e-06); A>V (genome, AC = 1, AN = 31402, AF = 3.18451e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+211	A	A>V	A>V (exome, AC = 1, AN = 251414, AF = 3.9775e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+212	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+213	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+214	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+215	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+216	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+217	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+218	D	D>N	D>N (exome, AC = 1, AN = 251416, AF = 3.97747e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+219	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+220	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+221	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+222	R	R>C; R>H	R>C (exome, AC = 3, AN = 251418, AF = 1.19323e-05); R>H (exome, AC = 3, AN = 251406, AF = 1.19329e-05); R>H (genome, AC = 2, AN = 31388, AF = 6.37186e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+223	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+224	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+225	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+226	M	M>I	M>I (exome, AC = 1, AN = 251422, AF = 3.97738e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+227	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+228	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+229	I	I>T	I>T (exome, AC = 2, AN = 251416, AF = 7.95494e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+230	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+231	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+232	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+233	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+234	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+235	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+236	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+237	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+238	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+239	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+240	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+241	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+242	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+243	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+244	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+245	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+246	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+247	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+248	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	C146-Q248: BACK	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+249	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+250	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+251	P	P>T	P>T (exome, AC = 2, AN = 251272, AF = 7.9595e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+252	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+253	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+254	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+255	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+256	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+257	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+258	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+259	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+260	L	L>V	L>V (exome, AC = 1, AN = 251014, AF = 3.98384e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+261	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+262	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+263	V	V>M	V>M (exome, AC = 1, AN = 250816, AF = 3.98699e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+264	I	I>M	I>M (genome, AC = 1, AN = 31406, AF = 3.1841e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+265	S	S>I	S>I (exome, AC = 1, AN = 251234, AF = 3.98035e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+266	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+267	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+268	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+269	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+270	H	H>R	H>R (exome, AC = 2, AN = 251264, AF = 7.95976e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+271	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+272	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+273	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+274	P	P>A	P>A (exome, AC = 1, AN = 251224, AF = 3.98051e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+275	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+276	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+277	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+278	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+279	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+280	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+281	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+282	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+283	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+284	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+285	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+286	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+287	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+288	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+289	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+290	K	none	none	none	none	-	129	0.547	loop	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ii7.A.550/23.666	-	3ii7.A.504/29.97	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+291	H	none	none	none	none	-	124	0.5539999999999999	loop	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ii7.A.550/20.737	-	3ii7.A.504/27.664	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+292	D	none	none	none	none	-	66	0.342	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ii7.A.550/20.413	-	3ii7.A.504/29.279	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+293	Y	none	none	none	none	-	100	0.38	beta-sheet	beta-strand/sheet	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.550/17.875	-	3ii7.A.504/27.242	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+294	R	R>H	R>H (exome, AC = 3, AN = 251318, AF = 1.19371e-05)	none	none	-	46	0.168	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	3ii7.A.550/18.483	-	3ii7.A.517/25.452	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+295	I	I>V	I>V (exome, AC = 1, AN = 251338, AF = 3.97871e-06)	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/17.517	-	3ii7.A.517/22.237	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+296	A	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/17.431	-	3ii7.A.517/23.28	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+297	L	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/14.873	-	3ii7.A.517/21.209	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+298	F	none	none	none	none	-	8	0.033	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.520/15.808	-	3ii7.A.517/23.068	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+299	G	none	none	none	none	-	6	0.053	loop	coils	buried	Special	-	-	-	-	3ii7.A.520/15.284	-	3ii7.A.517/22.526	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+300	G	none	none	none	none	-	7	0.061	loop	coils	buried	Special	-	-	-	-	3ii7.A.520/18.604	-	3ii7.A.517/26.031	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+301	S	none	none	none	none	-	48	0.31	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.520/22.095	-	3ii7.A.517/29.078	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+302	Q	none	none	none	none	-	120	0.5329999999999999	bend	coils	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+303	P	none	none	none	none	-	103	0.648	turn	coils	Medium-exposed	Special	-	-	-	-	3ii7.A.520/23.302	-	3ii7.A.517/28.569	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+304	Q	none	none	none	none	-	104	0.462	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.520/20.998	-	3ii7.A.517/25.859	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+305	S	none	none	none	none	-	9	0.057999999999999996	bend	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+306	C	none	none	none	none	-	2	0.012	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	3ii7.A.520/18.624	-	3ii7.A.517/24.828	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+307	R	none	none	none	none	-	64	0.23399999999999999	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	3ii7.A.520/19.213	-	3ii7.A.517/24.431	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+308	Y	none	none	none	none	-	24	0.091	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.520/19.886	-	3ii7.A.517/24.59	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+309	F	F>S	F>S (exome, AC = 1, AN = 251282, AF = 3.97959e-06)	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.520/18.861	-	3ii7.A.517/22.34	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+310	N	N>Y	N>Y (exome, AC = 1, AN = 251260, AF = 3.97994e-06)	none	none	-	14	0.07200000000000001	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	3ii7.A.550/18.507	-	3ii7.A.517/24.534	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+311	P	none	none	none	none	-	13	0.08199999999999999	turn	coils	buried	Special	-	-	-	-	3ii7.A.550/15.029	-	3ii7.A.517/22.857	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+312	K	none	none	none	none	-	187	0.792	turn	coils	exposed	Positively Charged & Polar	-	-	-	-	3ii7.A.550/16.77	-	3ii7.A.517/26.188	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+313	D	none	none	none	none	-	97	0.503	turn	coils	Medium-exposed	Negatively Charged & Polar	-	-	-	-	3ii7.A.550/19.406	-	3ii7.A.517/26.362	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+314	Y	none	none	none	none	-	84	0.319	turn	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.550/18.488	-	3ii7.A.517/22.934	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+315	S	S>T	S>T (exome, AC = 5, AN = 251364, AF = 1.98915e-05); S>T (genome, AC = 1, AN = 31392, AF = 3.18552e-05)	none	none	-	37	0.239	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	3ii7.A.550/21.782	-	3ii7.A.517/24.827	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+316	W	none	none	none	none	-	48	0.168	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.520/21.17	-	3ii7.A.517/24.134	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+317	T	none	none	none	none	-	74	0.43	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.520/23.337	-	3ii7.A.517/27.254	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+318	D	none	none	none	none	-	74	0.38299999999999995	beta-sheet	beta-strand/sheet	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ii7.A.520/23.323	-	3ii7.A.517/28.177	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+319	I	none	none	none	none	-	9	0.046	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/23.337	-	3ii7.A.517/29.227	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+320	R	none	none	none	none	-	188	0.6859999999999999	loop	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ii7.A.520/25.3	-	3ii7.A.517/31.662	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+321	C	none	none	none	none	-	22	0.132	loop	coils	buried	Special	-	-	-	-	3ii7.A.520/23.819	-	3ii7.A.517/30.967	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+322	P	none	none	none	none	-	90	0.5660000000000001	loop	coils	Medium-exposed	Special	-	-	-	-	3ii7.A.370/24.056	-	3ii7.A.413/31.987	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+323	F	none	none	none	none	-	48	0.2	bend	coils	buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.370/20.675	-	3ii7.A.413/29.269	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+324	E	none	none	none	none	-	140	0.628	loop	coils	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	3ii7.A.370/20.672	-	3ii7.A.517/29.405	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+325	K	none	none	none	none	-	93	0.39399999999999996	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	3ii7.A.520/17.752	-	3ii7.A.517/25.813	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+326	R	R>Q	R>Q (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	31	0.113	loop	coils	buried	Positively Charged & Polar	-	-	-	-	3ii7.A.370/15.998	-	3ii7.A.413/25.181	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+327	R	none	none	none	none	-	137	0.5	beta-strand	beta-strand/sheet	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ii7.A.520/14.543	-	3ii7.A.517/23.294	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+328	D	none	none	none	none	-	85	0.44	bend	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ii7.A.520/12.436	-	3ii7.A.517/21.532	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+329	A	A>G	A>G (exome, AC = 1, AN = 251436, AF = 3.97716e-06)	none	none	-	15	0.11599999999999999	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/12.779	-	3ii7.A.413/19.946	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+330	A	none	none	none	none	-	8	0.062	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/13.646	-	3ii7.A.413/18.256	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+331	C	none	none	none	none	-	15	0.09	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	3ii7.A.370/15.814	-	3ii7.A.413/18.978	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+332	V	none	none	none	none	-	7	0.04	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+333	F	none	none	none	none	-	41	0.171	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.370/20.305	-	3ii7.A.413/19.969	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+334	W	none	none	none	none	-	84	0.295	beta-sheet	beta-strand/sheet	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.370/21.144	-	3ii7.A.413/19.251	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+335	D	none	none	none	none	-	116	0.601	turn	coils	Medium-exposed	Negatively Charged & Polar	-	-	-	-	3ii7.A.370/24.16	-	3ii7.A.413/21.996	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+336	N	none	none	none	none	-	42	0.215	turn	coils	buried	Neutral & Polar	-	-	-	-	3ii7.A.370/25.064	-	3ii7.A.413/24.632	-	-	-	-	-	-	-	-	-	R294-N336: Kelch 1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+337	V	none	none	none	none	-	7	0.04	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/21.6	-	3ii7.A.413/22.531	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+338	V	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/19.715	-	3ii7.A.413/21.846	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+339	Y	none	none	none	none	-	14	0.053	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.370/15.955	-	3ii7.A.413/19.069	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+340	I	none	none	none	none	-	13	0.066	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/14.495	-	3ii7.A.413/19.845	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+341	L	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/10.748	-	3ii7.A.413/17.28	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+342	G	none	none	none	none	-	0	0	loop	coils	core	Special	-	-	-	-	3ii7.A.370/8.534	-	3ii7.A.413/17.107	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+343	G	none	none	none	none	-	0	0	loop	coils	core	Special	-	-	-	-	3ii7.A.370/10.739	-	3ii7.A.413/20.2	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+344	S	none	none	none	none	-	9	0.057999999999999996	beta-strand	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+345	Q	none	none	none	none	-	62	0.276	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.370/15.486	-	3ii7.A.413/26.728	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+346	L	none	none	none	none	-	158	0.7859999999999999	bend	coils	exposed	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/16.434	-	3ii7.A.413/28.472	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+347	F	none	none	none	none	-	166	0.6920000000000001	bend	coils	Medium-exposed	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.370/12.857	-	3ii7.A.413/25.186	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+348	P	none	none	none	none	-	65	0.409	beta-strand	beta-strand/sheet	Medium-buried	Special	-	-	-	-	3ii7.A.370/9.345	-	3ii7.A.413/21.44	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+349	I	none	none	none	none	-	12	0.061	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/9.657	-	3ii7.A.413/21.006	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+350	K	none	none	none	none	-	150	0.636	loop	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ii7.A.370/8.002	-	3ii7.A.413/18.923	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+351	R	none	none	none	none	-	86	0.314	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	3ii7.A.370/10.87	-	3ii7.A.413/19.98	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+352	M	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/11.946	-	3ii7.A.413/18.824	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+353	D	none	none	none	none	-	3	0.016	beta-sheet	beta-strand/sheet	core	Negatively Charged & Polar	-	-	-	-	3ii7.A.370/15.602	-	3ii7.A.413/22.035	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+354	C	C>R	C>R (exome, AC = 1, AN = 251396, AF = 3.97779e-06)	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	3ii7.A.370/17.992	-	3ii7.A.413/22.339	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+355	Y	none	none	none	none	-	5	0.019	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.370/21.503	-	3ii7.A.413/25.278	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+356	N	none	none	none	none	-	20	0.10300000000000001	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	3ii7.A.370/24.108	-	3ii7.A.413/26.429	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+357	V	none	none	none	none	-	14	0.08	turn	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/26.521	-	3ii7.A.413/28.398	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+358	V	none	none	none	none	-	81	0.466	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/29.526	-	3ii7.A.413/30.674	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+359	K	none	none	none	none	-	156	0.6609999999999999	turn	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ii7.A.370/29.388	-	3ii7.A.413/31.702	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+360	D	none	none	none	none	-	61	0.316	turn	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ii7.A.370/28.338	-	3ii7.A.413/31.8	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+361	S	none	none	none	none	-	48	0.31	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.370/25.989	-	3ii7.A.413/30.292	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+362	W	none	none	none	none	-	47	0.165	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.370/22.476	-	3ii7.A.413/27.688	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+363	Y	none	none	none	none	-	80	0.304	beta-sheet	beta-strand/sheet	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.370/20.16	-	3ii7.A.413/25.517	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+364	S	none	none	none	none	-	50	0.32299999999999995	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.370/16.621	-	3ii7.A.413/22.905	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+365	K	none	none	none	none	-	71	0.301	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	3ii7.A.370/14.09	-	3ii7.A.413/19.737	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+366	L	none	none	none	none	-	138	0.687	beta-sheet	beta-strand/sheet	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/10.68	-	3ii7.A.413/17.667	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+367	G	none	none	none	none	-	5	0.044000000000000004	loop	coils	core	Special	-	-	-	-	3ii7.A.370/8.152	-	3ii7.A.413/15.47	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+368	P	none	none	none	none	-	4	0.025	loop	coils	core	Special	-	-	-	-	3ii7.A.370/5.281	-	3ii7.A.413/12.273	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+369	P	none	none	none	none	-	72	0.45299999999999996	bend	coils	Medium-buried	Special	-	-	-	-	3ii7.A.370/3.833	-	3ii7.A.413/11.998	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+370	T	none	none	none	none	-	33	0.192	bend	coils	buried	Neutral & Polar	-	-	-	-	3ii7.A.370/0.0	-	3ii7.A.413/12.672	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+371	P	none	none	none	none	-	29	0.182	loop	coils	buried	Special	-	-	-	-	3ii7.A.370/3.803	-	3ii7.A.413/15.665	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+372	R	none	none	R>Q	R>Q (ClinVar, phenotype = Cold-induced sweating syndrome 1,Cold-induced sweating syndrome 3); R>Q (ClinVar, phenotype = Crisponi syndrome/cold-induced sweating syndrome 1-like)	-	3	0.011000000000000001	loop	coils	core	Positively Charged & Polar	-	-	-	-	3ii7.A.370/6.232	-	3ii7.A.413/16.222	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+373	D	none	none	none	none	-	29	0.15	beta-strand	beta-strand/sheet	buried	Negatively Charged & Polar	-	-	-	-	3ii7.A.370/9.952	-	3ii7.A.413/18.569	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+374	S	none	none	none	none	-	21	0.135	bend	coils	buried	Neutral & Polar	-	-	-	-	3ii7.A.370/12.483	-	3ii7.A.413/18.528	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+375	L	none	none	none	none	-	10	0.05	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/10.59	-	3ii7.A.413/14.916	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+376	A	A>G	A>G (exome, AC = 1, AN = 251420, AF = 3.97741e-06)	none	none	-	9	0.07	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/13.128	-	3ii7.A.413/14.583	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+377	A	none	none	none	none	-	15	0.11599999999999999	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/13.62	-	3ii7.A.413/13.595	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+378	C	none	none	none	none	-	10	0.06	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	3ii7.A.415/15.406	-	3ii7.A.413/14.11	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+379	A	none	none	none	none	-	14	0.109	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.415/16.748	-	3ii7.A.413/14.093	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+380	A	none	none	none	none	-	3	0.023	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.415/16.906	-	3ii7.A.413/13.762	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+381	E	E>K	E>K (exome, AC = 1, AN = 251434, AF = 3.97719e-06)	none	none	-	144	0.6459999999999999	turn	coils	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	3ii7.A.415/19.284	-	3ii7.A.413/15.178	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+382	G	none	none	none	none	-	13	0.114	turn	coils	buried	Special	-	-	-	-	3ii7.A.415/19.701	-	3ii7.A.413/15.065	-	-	-	-	-	-	-	-	-	V337-G382: Kelch 2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+383	K	none	none	none	none	-	75	0.318	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	3ii7.A.415/16.172	-	3ii7.A.413/11.628	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+384	I	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/14.374	-	3ii7.A.413/11.658	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+385	Y	Y>H	Y>H (exome, AC = 1, AN = 251424, AF = 3.97735e-06)	none	none	-	11	0.042	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.415/11.617	-	3ii7.A.413/9.118	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+386	T	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Neutral & Polar	-	-	-	-	3ii7.A.370/9.995	-	3ii7.A.413/9.765	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+387	S	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Neutral & Polar	-	-	-	-	3ii7.A.415/8.33	-	3ii7.A.413/9.789	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+388	G	none	none	none	none	-	0	0	loop	coils	core	Special	-	-	-	-	3ii7.A.415/8.796	-	3ii7.A.413/11.968	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+389	G	none	none	none	none	-	0	0	loop	coils	core	Special	-	-	-	-	3ii7.A.370/9.867	-	3ii7.A.413/15.148	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+390	S	none	none	none	none	-	28	0.18100000000000002	beta-strand	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	3ii7.A.370/9.79	-	3ii7.A.413/17.319	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+391	E	none	none	none	none	-	88	0.395	beta-strand	beta-strand/sheet	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ii7.A.370/8.416	-	3ii7.A.413/18.261	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+392	V	none	none	none	none	-	134	0.77	turn	coils	exposed	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.370/11.379	-	3ii7.A.413/21.703	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+393	G	none	none	none	none	-	87	0.763	turn	coils	exposed	Special	-	-	-	-	3ii7.A.370/13.329	-	3ii7.A.413/22.103	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+394	N	none	none	none	none	-	78	0.4	beta-strand	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.370/12.493	-	3ii7.A.413/19.549	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+395	S	none	none	none	none	-	50	0.32299999999999995	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.418/12.321	-	3ii7.A.413/20.393	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+396	A	none	none	none	none	-	1	0.008	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.418/9.121	-	3ii7.A.413/16.919	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+397	L	none	none	none	none	-	19	0.095	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.418/8.198	-	3ii7.A.413/13.266	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+398	Y	none	none	none	none	-	109	0.414	loop	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+399	L	none	none	none	none	-	31	0.154	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.415/5.133	-	3ii7.A.413/7.962	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+400	F	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.415/5.244	-	3ii7.A.413/5.442	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+401	E	E>K	E>K (genome, AC = 1, AN = 31392, AF = 3.18552e-05)	none	none	-	4	0.018000000000000002	beta-sheet	beta-strand/sheet	core	NegativelyCharged & Polar	-	-	-	-	3ii7.A.370/8.447	-	3ii7.A.413/5.518	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+402	C	none	none	none	none	-	4	0.024	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	3ii7.A.370/11.115	-	3ii7.A.413/7.013	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+403	Y	Y>C	Y>C (exome, AC = 1, AN = 251434, AF = 3.97719e-06)	none	none	-	6	0.023	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.370/12.279	-	3ii7.A.413/10.332	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+404	D	D>Y	D>Y (exome, AC = 2, AN = 251428, AF = 7.95456e-06)	none	none	-	24	0.124	beta-sheet	beta-strand/sheet	buried	Negatively Charged & Polar	-	-	-	-	3ii7.A.370/15.846	-	3ii7.A.413/11.923	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+405	T	none	none	none	none	-	30	0.174	turn	coils	buried	Neutral & Polar	-	-	-	-	3ii7.A.370/17.757	-	3ii7.A.413/15.473	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+406	R	none	none	none	none	-	205	0.748	turn	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ii7.A.370/20.595	-	3ii7.A.413/17.166	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+407	T	none	none	none	none	-	67	0.39	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.370/18.99	-	3ii7.A.413/16.109	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+408	E	none	none	none	none	-	109	0.489	turn	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ii7.A.370/16.166	-	3ii7.A.413/15.722	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+409	S	none	none	none	none	-	36	0.23199999999999998	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	3ii7.A.370/13.677	-	3ii7.A.413/12.778	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+410	W	none	none	none	none	-	48	0.168	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.370/10.449	-	3ii7.A.413/9.686	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+411	H	none	none	none	none	-	84	0.375	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	3ii7.A.370/11.037	-	3ii7.A.413/6.317	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+412	T	none	none	none	none	-	95	0.552	beta-sheet	beta-strand/sheet	Medium-exposed	Neutral & Polar	-	-	-	-	3ii7.A.415/8.421	-	3ii7.A.413/3.802	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+413	K	none	none	none	none	-	45	0.191	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	3ii7.A.415/6.268	-	3ii7.A.413/0.0	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+414	P	none	none	none	none	-	50	0.314	loop	coils	Medium-buried	Special	-	-	-	-	3ii7.A.415/3.772	-	3ii7.A.413/3.804	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+415	S	none	none	none	none	-	64	0.413	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.415/0.0	-	3ii7.A.413/6.268	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+416	M	none	none	none	none	-	5	0.022000000000000002	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.415/3.8	-	3ii7.A.413/9.221	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+417	L	none	none	none	none	-	87	0.433	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.418/3.869	-	3ii7.A.413/12.329	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+418	T	none	none	none	none	-	34	0.198	bend	coils	buried	Neutral & Polar	-	-	-	-	3ii7.A.418/0.0	-	3ii7.A.413/14.466	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+419	Q	none	none	none	none	-	44	0.196	loop	coils	buried	Neutral & Polar	-	-	-	-	3ii7.A.418/3.763	-	3ii7.A.413/14.177	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+420	R	R>C; R>H	R>C (exome, AC = 2, AN = 251472, AF = 7.95317e-06); R>H (exome, AC = 6, AN = 251474, AF = 2.38593e-05); R>H (genome, AC = 1, AN = 31404, AF = 3.18431e-05)	R>C	R>C (ClinVar, phenotype = Cold-induced sweating syndrome 1,Cold-induced sweating syndrome 3); R>C (ClinVar, phenotype = Crisponi/cold-induced sweating syndrome 1-like syndrome)	-	0	0	loop	coils	core	Positively Charged & Polar	-	-	-	-	3ii7.A.418/6.332	-	3ii7.A.413/15.816	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+421	C	none	none	C>S	C>S (ClinVar, phenotype = Cold-induced sweating syndrome 1,Cold-induced sweating syndrome 3); C>S (ClinVar, phenotype = Crisponi/cold-induced sweating syndrome 1-like syndrome)	-	6	0.036000000000000004	beta-strand	beta-strand/sheet	core	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+422	S	none	none	none	none	-	23	0.14800000000000002	bend	coils	buried	Neutral & Polar	-	-	-	-	3ii7.A.520/10.08	-	3ii7.A.517/18.194	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+423	H	none	none	none	none	-	14	0.062	loop	coils	buried	Positively Charged & Polar	-	-	-	-	3ii7.A.418/11.05	-	3ii7.A.413/18.054	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+424	G	none	none	none	none	-	9	0.079	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	3ii7.A.520/11.769	-	3ii7.A.413/18.043	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+425	M	none	none	none	none	-	17	0.076	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.418/13.4	-	3ii7.A.413/15.315	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+426	V	none	none	none	none	-	20	0.115	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.415/16.214	-	3ii7.A.504/16.396	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+427	E	none	none	none	none	-	65	0.29100000000000004	beta-sheet	beta-strand/sheet	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ii7.A.415/16.76	-	3ii7.A.504/15.373	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+428	A	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/16.354	-	3ii7.A.504/12.116	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+429	N	N>S	N>S (exome, AC = 1, AN = 251480, AF = 3.97646e-06); N>S (genome, AC = 1, AN = 31408, AF = 3.1839e-05)	none	none	-	117	0.6	turn	coils	Medium-exposed	Neutral & Polar	-	-	-	-	3ii7.A.550/18.334	-	3ii7.A.504/11.95	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+430	G	G>S	G>S (exome, AC = 1, AN = 251484, AF = 3.9764e-06)	none	none	-	12	0.105	turn	coils	buried	Special	-	-	-	-	3ii7.A.415/17.9	-	3ii7.A.504/14.555	-	-	-	-	-	-	-	-	-	K383-G430: Kelch 3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+431	L	none	none	none	none	-	46	0.22899999999999998	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.415/15.006	-	3ii7.A.504/13.176	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+432	I	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.415/12.715	-	3ii7.A.413/12.602	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+433	Y	Y>C	Y>C (exome, AC = 2, AN = 251476, AF = 7.95305e-06)	none	none	-	12	0.046	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.418/12.725	-	3ii7.A.504/13.809	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+434	V	V>I	V>I (exome, AC = 1, AN = 251482, AF = 3.97643e-06)	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+435	C	none	none	none	none	-	2	0.012	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	3ii7.A.418/9.927	-	3ii7.A.504/16.847	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+436	G	none	none	none	none	-	0	0	loop	coils	core	Special	-	-	-	-	3ii7.A.418/9.851	-	3ii7.A.517/18.072	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+437	G	none	none	none	none	-	0	0	loop	coils	core	Special	-	-	-	-	3ii7.A.418/9.963	-	3ii7.A.517/18.161	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+438	S	none	none	none	none	-	16	0.10300000000000001	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	3ii7.A.418/9.779	-	3ii7.A.517/19.599	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+439	L	none	none	none	none	-	31	0.154	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.418/8.895	-	3ii7.A.413/20.544	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+440	G	none	none	none	none	-	31	0.272	bend	coils	Medium-buried	Special	-	-	-	-	3ii7.A.418/12.007	-	3ii7.A.413/23.228	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+441	N	none	none	none	none	-	95	0.48700000000000004	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.418/15.557	-	3ii7.A.517/23.238	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+442	N	N>S	N>S (exome, AC = 1, AN = 251450, AF = 3.97693e-06)	none	none	-	156	0.8	turn	coils	exposed	Neutral & Polar	-	-	-	-	3ii7.A.520/15.91	-	3ii7.A.517/20.355	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+443	V	none	none	none	none	-	138	0.7929999999999999	turn	coils	exposed	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.418/19.262	-	3ii7.A.517/22.825	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+444	S	none	none	none	none	-	102	0.6579999999999999	turn	coils	Medium-exposed	Neutral & Polar	-	-	-	-	3ii7.A.418/16.723	-	3ii7.A.517/24.677	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+445	G	none	none	none	none	-	26	0.228	loop	coils	buried	Special	-	-	-	-	3ii7.A.418/13.393	-	3ii7.A.517/22.874	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+446	R	none	none	none	none	-	149	0.544	beta-sheet	beta-strand/sheet	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ii7.A.418/12.277	-	3ii7.A.517/20.305	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+447	V	none	none	none	none	-	23	0.132	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.418/11.765	-	3ii7.A.517/17.618	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+448	L	none	none	none	none	-	3	0.015	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.418/9.364	-	3ii7.A.517/19.175	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+449	N	N>D	N>D (exome, AC = 1, AN = 251220, AF = 3.98057e-06)	none	none	-	61	0.313	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+450	S	none	none	none	none	-	14	0.09	loop	coils	buried	Neutral & Polar	-	-	-	-	3ii7.A.418/8.255	-	3ii7.A.504/17.554	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+451	C	none	none	none	none	-	3	0.018000000000000002	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	3ii7.A.418/9.106	-	3ii7.A.504/14.723	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+452	E	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	NegativelyCharged & Polar	-	-	-	-	3ii7.A.418/8.572	-	3ii7.A.504/14.53	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+453	V	none	none	none	none	-	15	0.086	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.415/11.351	-	3ii7.A.504/13.333	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+454	Y	none	none	none	none	-	1	0.004	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.415/9.57	-	3ii7.A.413/10.146	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+455	D	none	none	none	none	-	53	0.275	beta-sheet	beta-strand/sheet	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ii7.A.415/12.241	-	3ii7.A.413/11.179	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+456	P	P>A	P>A (exome, AC = 2, AN = 250636, AF = 7.9797e-06)	none	none	-	31	0.195	turn	coils	buried	Special	-	-	-	-	3ii7.A.415/12.382	-	3ii7.A.413/9.367	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+457	A	none	none	none	none	-	90	0.698	turn	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.415/15.061	-	3ii7.A.413/12.003	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+458	T	none	none	none	none	-	81	0.47100000000000003	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.415/13.207	-	3ii7.A.413/11.255	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+459	E	none	none	none	none	-	87	0.39	turn	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ii7.A.415/9.645	-	3ii7.A.413/7.503	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+460	T	none	none	none	none	-	67	0.39	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.415/8.916	-	3ii7.A.413/9.389	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+461	W	W>C	W>C (exome, AC = 2, AN = 251384, AF = 7.95596e-06)	none	none	-	18	0.063	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.415/7.889	-	3ii7.A.413/10.451	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+462	T	none	none	none	none	-	72	0.419	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.418/10.809	-	3ii7.A.413/14.267	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+463	E	none	none	none	none	-	88	0.395	beta-sheet	beta-strand/sheet	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ii7.A.418/9.382	-	3ii7.A.504/14.65	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+464	L	none	none	none	none	-	28	0.139	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.418/11.985	-	3ii7.A.504/11.505	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+465	C	none	none	none	none	-	39	0.23399999999999999	loop	coils	buried	Special	-	-	-	-	3ii7.A.418/13.847	-	3ii7.A.504/11.596	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+466	P	P>S	P>S (exome, AC = 1, AN = 251412, AF = 3.97753e-06)	none	none	-	61	0.384	loop	coils	Medium-buried	Special	-	-	-	-	3ii7.A.418/12.31	-	3ii7.A.504/14.599	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+467	M	M>V	M>V (exome, AC = 4, AN = 251428, AF = 1.59091e-05)	none	none	-	3	0.013000000000000001	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.418/14.43	-	3ii7.A.504/15.138	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+468	I	I>T; I>M	I>T (exome, AC = 1, AN = 251424, AF = 3.97735e-06); I>M (exome, AC = 1, AN = 251438, AF = 3.97712e-06)	none	none	-	88	0.447	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.418/17.441	-	3ii7.A.504/17.032	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+469	E	none	none	none	none	-	52	0.233	bend	coils	buried	NegativelyCharged & Polar	-	-	-	-	3ii7.A.520/14.482	-	3ii7.A.517/14.383	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+470	A	A>V	A>V (exome, AC = 2, AN = 251416, AF = 7.95494e-06)	none	none	-	25	0.19399999999999998	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/13.416	-	3ii7.A.517/15.287	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+471	R	none	none	none	none	-	0	0	loop	coils	core	Positively Charged & Polar	-	-	-	-	3ii7.A.520/9.817	-	3ii7.A.517/13.28	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+472	K	none	none	none	none	-	30	0.127	beta-strand	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	3ii7.A.520/7.978	-	3ii7.A.517/14.002	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+473	N	none	none	none	none	-	45	0.231	bend	coils	buried	Neutral & Polar	-	-	-	-	3ii7.A.520/5.054	-	3ii7.A.517/12.914	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+474	H	H>Q	H>Q (exome, AC = 1, AN = 251418, AF = 3.97744e-06)	none	none	-	14	0.062	loop	coils	buried	Positively Charged & Polar	-	-	-	-	3ii7.A.520/6.087	-	3ii7.A.517/11.766	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+475	G	G>R	G>R (exome, AC = 2, AN = 251406, AF = 7.95526e-06)	none	none	-	6	0.053	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	3ii7.A.520/8.162	-	3ii7.A.517/13.289	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+476	L	none	none	none	none	-	22	0.109	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/11.772	-	3ii7.A.517/16.531	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+477	V	V>L	V>L (exome, AC = 1, AN = 251422, AF = 3.97738e-06)	none	none	-	12	0.069	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/11.21	-	3ii7.A.504/16.227	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+478	F	none	none	none	none	-	54	0.225	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.550/10.744	-	3ii7.A.504/13.412	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+479	V	none	none	none	none	-	12	0.069	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/7.884	-	3ii7.A.504/13.453	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+480	K	none	none	none	none	-	128	0.542	turn	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ii7.A.550/9.43	-	3ii7.A.504/11.653	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+481	D	none	none	none	none	-	74	0.38299999999999995	turn	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ii7.A.550/11.017	-	3ii7.A.504/7.896	-	-	-	-	-	-	-	-	-	L431-D481: Kelch 4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+482	K	none	none	none	none	-	54	0.22899999999999998	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+483	I	none	none	none	none	-	3	0.015	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/10.795	-	3ii7.A.504/11.102	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+484	F	none	none	none	none	-	4	0.017	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.550/9.298	-	3ii7.A.504/14.077	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+485	A	A>V	A>V (exome, AC = 2, AN = 251414, AF = 7.95501e-06)	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/11.845	-	3ii7.A.517/14.174	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+486	V	none	none	none	none	-	1	0.006	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/9.32	-	3ii7.A.517/10.761	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+487	G	G>R; G>D	G>R (exome, AC = 1, AN = 251404, AF = 3.97766e-06); G>D (exome, AC = 1, AN = 251404, AF = 3.97766e-06)	none	none	-	0	0	loop	coils	core	Special	-	-	-	-	3ii7.A.520/7.102	-	3ii7.A.517/7.689	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+488	G	none	none	none	none	-	1	0.009000000000000001	loop	coils	core	Special	-	-	-	-	3ii7.A.520/4.673	-	3ii7.A.517/8.806	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+489	Q	Q>R	Q>R (exome, AC = 1, AN = 251404, AF = 3.97766e-06)	none	none	-	41	0.182	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	3ii7.A.520/6.654	-	3ii7.A.517/9.424	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+490	N	N>S	N>S (exome, AC = 4, AN = 251410, AF = 1.59103e-05)	none	none	-	26	0.133	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	3ii7.A.520/10.194	-	3ii7.A.517/12.383	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+491	G	G>V	G>V (exome, AC = 4, AN = 251386, AF = 1.59118e-05)	none	none	-	66	0.579	turn	coils	Medium-exposed	Special	-	-	-	-	3ii7.A.520/13.123	-	3ii7.A.517/14.752	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+492	L	none	none	none	none	-	173	0.861	turn	coils	exposed	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/13.745	-	3ii7.A.517/12.897	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+493	G	none	none	none	none	-	30	0.263	beta-sheet	beta-strand/sheet	Medium-buried	Special	-	-	-	-	3ii7.A.520/10.59	-	3ii7.A.517/9.608	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+494	G	none	none	none	none	-	19	0.16699999999999998	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	3ii7.A.520/7.706	-	3ii7.A.517/6.325	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+495	L	none	none	none	none	-	13	0.065	beta-strand	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/8.578	-	3ii7.A.517/5.602	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+496	D	none	none	none	none	-	51	0.264	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ii7.A.520/10.004	-	3ii7.A.517/4.311	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+497	N	none	none	none	none	-	29	0.149	loop	coils	buried	Neutral & Polar	-	-	-	-	3ii7.A.520/12.066	-	3ii7.A.517/8.071	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+498	V	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/11.244	-	3ii7.A.517/10.931	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+499	E	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	NegativelyCharged & Polar	-	-	-	-	3ii7.A.550/11.163	-	3ii7.A.517/14.549	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+500	Y	Y>N	Y>N (exome, AC = 1, AN = 251466, AF = 3.97668e-06)	none	none	-	29	0.11	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.550/10.223	-	3ii7.A.504/11.809	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+501	Y	none	none	none	none	-	7	0.027000000000000003	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.550/12.911	-	3ii7.A.504/8.804	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+502	D	none	none	none	none	-	25	0.13	beta-sheet	beta-strand/sheet	buried	Negatively Charged & Polar	-	-	-	-	3ii7.A.550/13.147	-	3ii7.A.504/5.514	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+503	I	none	none	none	none	-	42	0.213	turn	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/15.436	-	3ii7.A.504/3.809	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+504	K	K>R	K>R (exome, AC = 1, AN = 251464, AF = 3.97671e-06)	none	none	-	193	0.818	turn	coils	exposed	Positively Charged & Polar	-	-	-	-	3ii7.A.550/17.125	-	3ii7.A.504/0.0	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+505	L	none	none	none	none	-	93	0.46299999999999997	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/17.912	-	3ii7.A.504/3.831	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+506	N	none	none	none	none	-	70	0.359	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.418/18.557	-	3ii7.A.504/5.788	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+507	E	E>K	E>K (genome, AC = 2, AN = 31412, AF = 6.36699e-05)	none	none	-	88	0.395	beta-sheet	beta-strand/sheet	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ii7.A.550/17.139	-	3ii7.A.504/8.204	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+508	W	none	none	none	none	-	17	0.06	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.550/14.976	-	3ii7.A.504/10.697	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+509	K	none	none	none	none	-	60	0.254	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	3ii7.A.550/13.083	-	3ii7.A.504/12.551	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+510	M	M>T	M>T (exome, AC = 1, AN = 251460, AF = 3.97678e-06)	none	none	-	78	0.348	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/12.281	-	3ii7.A.517/15.656	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+511	V	none	none	none	none	-	29	0.16699999999999998	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/9.258	-	3ii7.A.517/14.968	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+512	S	none	none	none	none	-	41	0.265	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.550/9.85	-	3ii7.A.517/12.766	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+513	P	P>L	P>L (exome, AC = 1, AN = 251460, AF = 3.97678e-06)	none	none	-	66	0.415	loop	coils	Medium-buried	Special	-	-	-	-	3ii7.A.550/11.986	-	3ii7.A.517/8.981	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+514	M	none	none	none	none	-	3	0.013000000000000001	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/12.376	-	3ii7.A.517/7.116	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+515	P	none	none	none	none	-	83	0.522	bend	coils	Medium-exposed	Special	-	-	-	-	3ii7.A.520/13.988	-	3ii7.A.517/6.92	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+516	W	none	none	none	none	-	38	0.133	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.520/10.873	-	3ii7.A.517/3.814	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+517	K	none	none	none	none	-	117	0.496	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	3ii7.A.520/9.176	-	3ii7.A.517/0.0	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+518	G	none	none	none	none	-	2	0.018000000000000002	beta-strand	beta-strand/sheet	core	Special	-	-	-	-	3ii7.A.520/6.068	-	3ii7.A.517/3.789	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+519	V	V>I	V>I (exome, AC = 1, AN = 251472, AF = 3.97659e-06)	none	none	-	23	0.132	bend	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/3.836	-	3ii7.A.517/7.134	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+520	T	none	none	none	none	-	18	0.105	loop	coils	buried	Neutral & Polar	-	-	-	-	3ii7.A.520/0.0	-	3ii7.A.517/9.176	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+521	V	none	none	none	none	-	7	0.04	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+522	K	none	none	none	none	-	36	0.153	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+523	C	none	none	none	none	-	14	0.084	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+524	A	none	none	none	none	-	5	0.039	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/12.411	-	3ii7.A.517/17.563	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+525	A	none	none	none	none	-	21	0.163	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/9.664	-	3ii7.A.517/19.397	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+526	V	V>I	V>I (exome, AC = 1, AN = 251480, AF = 3.97646e-06)	none	none	-	24	0.138	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/10.713	-	3ii7.A.504/21.648	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+527	G	G>A	G>A (exome, AC = 1, AN = 251474, AF = 3.97655e-06)	none	none	-	64	0.561	turn	coils	Medium-exposed	Special	-	-	-	-	3ii7.A.550/9.323	-	3ii7.A.504/20.058	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+528	S	none	none	none	none	-	48	0.31	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	I483-S528: Kelch 5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+529	I	I>T	I>T (exome, AC = 5, AN = 251478, AF = 1.98825e-05)	none	none	-	32	0.162	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/6.039	-	3ii7.A.517/19.334	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+530	V	none	none	none	none	-	1	0.006	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/7.24	-	3ii7.A.517/16.309	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+531	Y	none	none	none	none	-	14	0.053	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.550/10.702	-	3ii7.A.517/15.136	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+532	V	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/10.245	-	3ii7.A.517/12.007	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+533	L	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/11.091	-	3ii7.A.517/13.928	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+534	A	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/8.347	-	3ii7.A.517/12.262	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+535	G	none	none	none	none	-	0	0	loop	coils	core	Special	-	-	-	-	3ii7.A.520/5.147	-	3ii7.A.517/9.512	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+536	F	none	none	none	none	-	77	0.321	beta-strand	beta-strand/sheet	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.520/5.172	-	3ii7.A.517/9.376	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+537	Q	none	none	none	none	-	71	0.316	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.520/6.881	-	3ii7.A.517/6.736	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+538	G	none	none	none	none	-	40	0.35100000000000003	bend	coils	Medium-buried	Special	-	-	-	-	3ii7.A.520/8.414	-	3ii7.A.517/9.195	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+539	V	none	none	none	none	-	138	0.7929999999999999	bend	coils	exposed	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/11.419	-	3ii7.A.517/11.476	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+540	G	none	none	none	none	-	37	0.325	bend	coils	Medium-buried	Special	-	-	-	-	3ii7.A.520/9.942	-	3ii7.A.517/10.388	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+541	R	none	none	none	none	-	128	0.467	beta-strand	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	3ii7.A.520/9.292	-	3ii7.A.517/10.172	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+542	L	none	none	none	none	-	5	0.025	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/9.538	-	3ii7.A.517/9.094	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+543	G	none	none	none	none	-	35	0.307	loop	coils	Medium-buried	Special	-	-	-	-	3ii7.A.520/13.245	-	3ii7.A.517/11.987	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+544	H	none	none	none	none	-	71	0.317	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	3ii7.A.520/14.574	-	3ii7.A.517/12.996	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+545	I	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/13.643	-	3ii7.A.517/13.046	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+546	L	none	none	none	none	-	3	0.015	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/12.726	-	3ii7.A.517/11.575	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+547	E	none	none	none	none	-	21	0.094	beta-sheet	beta-strand/sheet	buried	NegativelyCharged & Polar	-	-	-	-	3ii7.A.550/9.497	-	3ii7.A.517/14.357	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+548	Y	Y>C	Y>C (exome, AC = 1, AN = 251482, AF = 3.97643e-06)	none	none	-	4	0.015	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.550/5.98	-	3ii7.A.517/14.746	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+549	N	none	none	none	none	-	51	0.262	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.550/3.826	-	3ii7.A.517/18.271	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+550	T	T>S; T>I	T>S (exome, AC = 45, AN = 251478, AF = 0.000178942); T>S (genome, AC = 1, AN = 31402, AF = 3.18451e-05); T>I (genome, AC = 1, AN = 31402, AF = 3.18451e-05)	none	none	-	19	0.11	turn	coils	buried	Neutral & Polar	-	-	-	-	3ii7.A.550/0.0	-	3ii7.A.504/17.125	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+551	E	none	none	none	none	-	115	0.516	turn	coils	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	3ii7.A.550/3.835	-	3ii7.A.504/17.554	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+552	T	none	none	none	none	-	77	0.44799999999999995	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.550/5.7	-	3ii7.A.504/20.205	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+553	D	none	none	none	none	-	57	0.295	turn	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ii7.A.550/5.157	-	3ii7.A.517/17.517	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+554	K	none	none	none	none	-	91	0.386	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	3ii7.A.550/7.248	-	3ii7.A.517/16.023	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+555	W	none	none	none	none	-	33	0.11599999999999999	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.550/8.929	-	3ii7.A.517/13.019	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+556	V	none	none	none	none	-	82	0.47100000000000003	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/11.879	-	3ii7.A.517/13.587	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+557	A	none	none	none	none	-	59	0.457	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/14.802	-	3ii7.A.517/12.275	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+558	N	none	none	none	none	-	28	0.14400000000000002	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	3ii7.A.550/16.219	-	3ii7.A.517/15.613	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+559	S	none	none	none	none	-	86	0.555	beta-sheet	beta-strand/sheet	Medium-exposed	Neutral & Polar	-	-	-	-	3ii7.A.550/19.921	-	3ii7.A.517/16.654	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+560	K	none	none	none	none	-	182	0.7709999999999999	beta-sheet	beta-strand/sheet	exposed	Positively Charged & Polar	-	-	-	-	3ii7.A.550/21.128	-	3ii7.A.517/19.724	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+561	V	none	none	none	none	-	12	0.069	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/19.062	-	3ii7.A.517/18.347	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+562	R	R>H	R>H (exome, AC = 2, AN = 251478, AF = 7.95298e-06)	none	none	-	172	0.628	beta-sheet	beta-strand/sheet	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ii7.A.520/16.761	-	3ii7.A.517/16.75	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+563	A	none	none	none	none	-	10	0.078	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/13.234	-	3ii7.A.517/14.598	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+564	F	none	none	none	none	-	3	0.013000000000000001	loop	coils	core	Aromatic & Hydrophobic	-	-	-	-	3ii7.A.520/12.992	-	3ii7.A.517/16.533	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+565	P	none	none	none	none	-	66	0.415	bend	coils	Medium-buried	Special	-	-	-	-	3ii7.A.520/13.015	-	3ii7.A.517/16.662	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+566	V	none	none	none	none	-	26	0.149	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/11.784	-	3ii7.A.517/17.477	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+567	T	none	none	none	none	-	32	0.18600000000000003	turn	coils	buried	Neutral & Polar	-	-	-	-	3ii7.A.520/8.01	-	3ii7.A.517/14.255	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+568	S	none	none	none	none	-	75	0.484	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ii7.A.520/8.549	-	3ii7.A.517/16.548	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+569	C	none	none	none	none	-	3	0.018000000000000002	loop	coils	core	Special	-	-	-	-	3ii7.A.520/10.836	-	3ii7.A.517/18.544	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+570	L	none	none	none	none	-	29	0.14400000000000002	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/12.118	-	3ii7.A.517/20.175	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+571	I	none	none	none	none	-	33	0.168	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.520/12.637	-	3ii7.A.517/19.666	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+572	C	none	none	none	none	-	14	0.084	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	3ii7.A.520/15.509	-	3ii7.A.517/22.04	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+573	V	V>I	V>I (exome, AC = 2, AN = 251478, AF = 7.95298e-06)	none	none	-	47	0.27	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/17.162	-	3ii7.A.517/23.693	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+574	V	V>A	V>A (exome, AC = 1, AN = 251478, AF = 3.97649e-06)	none	none	-	1	0.006	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ii7.A.550/20.133	-	3ii7.A.413/25.899	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+575	D	none	none	none	none	-	19	0.098	beta-sheet	beta-strand/sheet	buried	Negatively Charged & Polar	-	-	-	-	3ii7.A.550/21.031	-	3ii7.A.413/27.614	-	-	-	-	-	-	-	-	-	V530-D575: Kelch 6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	repeat	-	-	-
+576	T	none	none	none	none	-	37	0.215	loop	coils	buried	Neutral & Polar	-	-	-	-	3ii7.A.550/24.051	-	3ii7.A.413/30.327	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+577	C	none	none	none	none	-	87	0.521	loop	coils	Medium-exposed	Special	-	-	-	-	3ii7.A.550/25.453	-	3ii7.A.413/31.386	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+578	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+579	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+580	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+581	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+582	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+583	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+584	L	L>V	L>V (exome, AC = 2, AN = 251322, AF = 7.95792e-06); L>V (genome, AC = 1, AN = 31390, AF = 3.18573e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+585	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+586	T	T>P; T>I	T>P (exome, AC = 1, AN = 251256, AF = 3.98e-06); T>I (exome, AC = 3, AN = 251190, AF = 1.19432e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

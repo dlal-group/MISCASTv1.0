@@ -1,0 +1,391 @@
+Amino Acid Index	Amino Acid	Population Mutation	Population Mutation (details)	Pathogenic Mutation	Pathogenic Mutation (details)	Bond Detail	Accessible Surface Area	Relative Accessible Surface Area	8-class DSSP Secondary Structure Properties	3-class DSSP Secondary Structure Properties	Exposure	Physiochemical Property	Acetylation Detail	Methylation Detail	O.GalNAc Detail	O.GclNAc Detail	Phosphorylation Detail	Sumoylation Detail	Ubiquitination Detail	Active Site	Metal Binding Site	binding Site	Site	Zinc Finger	Dna Binding	Nucleotide Phosphate Binding	Calcium Binding	Region	Repeat	Coiled Coil	Topological Domain	Peptide	Modified Residue	Motif	Domain	Intramembrane	Propetide	Lipidation	Glycosylation	Cross Links	Disulfide Bond	Transit Peptide	Transmembrane	Signal Peptide	Functional Site	Functional Binding Region	Sequence Motif Region	Modular Domain	Molecular Processing	Modified Residues
+1	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2	M	M>V	M>V (exome, AC = 4, AN = 250240, AF = 1.59847e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+3	Q	Q>K	Q>K (exome, AC = 1, AN = 250258, AF = 3.99588e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+4	S	S>N	S>N (exome, AC = 2, AN = 250286, AF = 7.99086e-06); S>N (genome, AC = 1, AN = 31402, AF = 3.18451e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+5	A	A>T	A>T (exome, AC = 1, AN = 250292, AF = 3.99533e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+6	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+7	V	V>L	V>L (exome, AC = 1, AN = 250450, AF = 3.99281e-06); V>L (genome, AC = 1, AN = 31402, AF = 3.18451e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+8	P	P>H; P>L	P>H (exome, AC = 3, AN = 250540, AF = 1.19741e-05); P>L (exome, AC = 1, AN = 250540, AF = 3.99138e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+9	A	A>V	A>V (exome, AC = 3, AN = 250620, AF = 1.19703e-05); A>V (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+10	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+11	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+12	A	A>T	A>T (exome, AC = 1, AN = 250668, AF = 3.98934e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+13	V	V>I	V>I (exome, AC = 45, AN = 250698, AF = 0.000179499); V>I (genome, AC = 2, AN = 31396, AF = 6.37024e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+14	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+15	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+16	L	L>F	L>F (exome, AC = 1, AN = 250660, AF = 3.98947e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+17	P	P>L	P>L (exome, AC = 1, AN = 250634, AF = 3.98988e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+18	E	E>G	E>G (exome, AC = 1, AN = 250728, AF = 3.98839e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+19	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+20	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+21	G	G>S; G>R	G>S (exome, AC = 10, AN = 250668, AF = 3.98934e-05); G>R (exome, AC = 10, AN = 250668, AF = 3.98934e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+22	V	V>A	V>A (exome, AC = 3, AN = 250664, AF = 1.19682e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+23	P	P>Q; P>R; P>L; P>A	P>Q (exome, AC = 1, AN = 250574, AF = 3.99084e-06); P>R (exome, AC = 2, AN = 250574, AF = 7.98167e-06); P>L (exome, AC = 1, AN = 250574, AF = 3.99084e-06); P>A (genome, AC = 1, AN = 31382, AF = 3.18654e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+24	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+25	Q	Q>P	Q>P (exome, AC = 1, AN = 250488, AF = 3.99221e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+26	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+27	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+28	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+29	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+30	C	R>C	R>C (exome, AC = 27, AN = 250690, AF = 0.000107703); R>C (genome, AC = 7, AN = 31402, AF = 0.000222916)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+31	A	R>H	R>H (exome, AC = 11, AN = 250714, AF = 4.38747e-05); R>H (genome, AC = 1, AN = 31402, AF = 3.18451e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+32	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+33	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+34	N	N>S; P>A	N>S (exome, AC = 1, AN = 250972, AF = 3.98451e-06); P>A (exome, AC = 1, AN = 250986, AF = 3.98429e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+35	Q	P>R	P>R (exome, AC = 1, AN = 250998, AF = 3.9841e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+36	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+37	I	P>S	P>S (exome, AC = 2, AN = 251088, AF = 7.96533e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+38	L	G>R; P>L	G>R (exome, AC = 1, AN = 251118, AF = 3.98219e-06); P>L (genome, AC = 1, AN = 31410, AF = 3.1837e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+39	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+40	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+41	F	H>Y	H>Y (exome, AC = 10, AN = 251212, AF = 3.9807e-05); H>Y (genome, AC = 1, AN = 31406, AF = 3.1841e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+42	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+43	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+44	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+45	V	V>A	V>A (exome, AC = 1, AN = 251236, AF = 3.98032e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+46	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+47	D	D>G	D>G (exome, AC = 1, AN = 251264, AF = 3.97988e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+48	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+49	H	H>R	H>R (exome, AC = 32, AN = 251300, AF = 0.000127338)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+50	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+51	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+52	S	L>F	L>F (exome, AC = 1, AN = 251308, AF = 3.97918e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+53	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+54	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+55	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+56	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+57	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+58	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+59	D	R>K	R>K (exome, AC = 2, AN = 251354, AF = 7.95691e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+60	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+61	Q	Q>R; D>H	Q>R (exome, AC = 1, AN = 251366, AF = 3.97826e-06); D>H (exome, AC = 2, AN = 251362, AF = 7.95665e-06); D>H (genome, AC = 1, AN = 31414, AF = 3.18329e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+62	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+63	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+64	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+65	A	A>V; G>R; A>E	A>V (exome, AC = 8, AN = 251344, AF = 3.18289e-05); G>R (exome, AC = 13, AN = 251358, AF = 5.17191e-05); A>E (genome, AC = 1, AN = 31410, AF = 3.1837e-05)	A>V	A>V (ClinVar, phenotype = Pituitary hormone deficiency)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+66	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+67	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+68	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+69	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+70	S	S>C	S>C (exome, AC = 3, AN = 251356, AF = 1.19353e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S70: Phosphoserine	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	modified_residue
+71	R	R>K	R>K (exome, AC = 3, AN = 251358, AF = 1.19352e-05); R>K (genome, AC = 2, AN = 31408, AF = 6.3678e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+72	A	A>V; W>R	A>V (exome, AC = 1, AN = 251342, AF = 3.97864e-06); W>R (exome, AC = 4, AN = 251346, AF = 1.59143e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+73	G	G>R; E>K	G>R (exome, AC = 3, AN = 251336, AF = 1.19362e-05); E>K (exome, AC = 1, AN = 251336, AF = 3.97874e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+74	S	R>G; R>C	R>G (exome, AC = 3, AN = 251290, AF = 1.19384e-05); R>C (exome, AC = 5, AN = 251290, AF = 1.98973e-05); R>G (genome, AC = 2, AN = 31406, AF = 6.36821e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+75	V	R>H; V>D	R>H (exome, AC = 21, AN = 251292, AF = 8.35681e-05); V>D (exome, AC = 1, AN = 251312, AF = 3.97912e-06); R>H (genome, AC = 3, AN = 31410, AF = 9.5511e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+76	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+77	C	C>F	C>F (exome, AC = 1, AN = 251260, AF = 3.97994e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+78	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+79	E	G>R	G>R (exome, AC = 8, AN = 251148, AF = 3.18537e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+80	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+81	F	L>F	L>F (exome, AC = 3, AN = 251046, AF = 1.195e-05); L>F (genome, AC = 1, AN = 31410, AF = 3.1837e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+82	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+83	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+84	R	R>C; A>T	R>C (exome, AC = 14, AN = 250748, AF = 5.58329e-05); A>T (exome, AC = 12, AN = 250840, AF = 4.78393e-05); R>C (genome, AC = 2, AN = 31354, AF = 6.37877e-05); A>T (genome, AC = 2, AN = 31346, AF = 6.3804e-05)	R>C	R>C (ClinVar, phenotype = Pituitary hormone deficiency, combined 4); R>C (ClinVar, phenotype = Pituitary hormone deficiency, combined)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+85	F	S>L	S>L (exome, AC = 18, AN = 250926, AF = 7.17343e-05); S>L (genome, AC = 1, AN = 31354, AF = 3.18939e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+86	G	G>S	G>S (exome, AC = 4, AN = 250924, AF = 1.59411e-05); G>S (genome, AC = 2, AN = 31348, AF = 6.37999e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+87	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	P28-T87: LIM zinc-binding 1	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+88	K	N>T	N>T (exome, AC = 1, AN = 251206, AF = 3.9808e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+89	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+90	T	R>W; R>Q; R>L	R>W (exome, AC = 10, AN = 251200, AF = 3.98089e-05); R>Q (exome, AC = 4, AN = 251234, AF = 1.59214e-05); R>L (exome, AC = 1, AN = 251234, AF = 3.98035e-06); R>W (genome, AC = 2, AN = 31372, AF = 6.37511e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+91	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+92	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+93	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+94	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+95	G	V>L	V>L (exome, AC = 1, AN = 251358, AF = 3.97839e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+96	I	S>F	S>F (exome, AC = 1, AN = 251338, AF = 3.97871e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+97	P	P>S	P>S (exome, AC = 1, AN = 251326, AF = 3.9789e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+98	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+99	T	T>A	T>A (exome, AC = 5, AN = 251396, AF = 1.98889e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+100	Q	R>T	R>T (exome, AC = 1, AN = 251406, AF = 3.97763e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+101	V	none	none	V>A	V>A (ClinVar, phenotype = Pituitary hormone deficiency, combined)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+102	V	V>I	V>I (exome, AC = 2, AN = 251414, AF = 7.95501e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+103	R	R>C; A>T	R>C (exome, AC = 4, AN = 251424, AF = 1.59094e-05); A>T (exome, AC = 1, AN = 251430, AF = 3.97725e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+104	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+105	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+106	Q	R>G	R>G (exome, AC = 2, AN = 251444, AF = 7.95406e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+107	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+108	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+109	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+110	Y	T>A	T>A (exome, AC = 1, AN = 251446, AF = 3.977e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+111	H	T>I	T>I (exome, AC = 6, AN = 251452, AF = 2.38614e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+112	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+113	H	T>A	T>A (exome, AC = 2, AN = 251452, AF = 7.9538e-06); T>A (genome, AC = 1, AN = 31388, AF = 3.18593e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+114	C	A>V	A>V (exome, AC = 1, AN = 251460, AF = 3.97678e-06); A>V (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+115	F	L>S	L>S (exome, AC = 1, AN = 251452, AF = 3.9769e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+116	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+117	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+118	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+119	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+120	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+121	N	T>N	T>N (exome, AC = 1, AN = 251442, AF = 3.97706e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+122	R	R>W; G>S	R>W (exome, AC = 1, AN = 251432, AF = 3.97722e-06); G>S (exome, AC = 10, AN = 251436, AF = 3.97716e-05); G>S (genome, AC = 3, AN = 31394, AF = 9.55597e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+123	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+124	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+125	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+126	T	R>W; R>Q	R>W (exome, AC = 3, AN = 251404, AF = 1.1933e-05); R>Q (exome, AC = 9, AN = 251390, AF = 3.58009e-05)	T>M	T>M (ClinVar, phenotype = Hypopituitarism)	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+127	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+128	D	D>Y; T>R; T>M	D>Y (exome, AC = 1, AN = 251408, AF = 3.9776e-06); T>R (exome, AC = 1, AN = 251396, AF = 3.97779e-06); T>M (exome, AC = 2172, AN = 251396, AF = 0.00863976); T>M (genome, AC = 179, AN = 31384, AF = 0.00570354)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+129	E	E>K; N>H	E>K (exome, AC = 102, AN = 251396, AF = 0.000405734); E>K (genome, AC = 39, AN = 31384, AF = 0.00124267); N>H (genome, AC = 1, AN = 31376, AF = 3.18715e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+130	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+131	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+132	L	L>F	L>F (exome, AC = 1, AN = 251386, AF = 3.97795e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+133	M	W>R; M>I	W>R (exome, AC = 2, AN = 251374, AF = 7.95627e-06); M>I (exome, AC = 13, AN = 251364, AF = 5.17178e-05); W>R (genome, AC = 2, AN = 31376, AF = 6.3743e-05); M>I (genome, AC = 2, AN = 31380, AF = 6.37349e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+134	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+135	D	T>M	T>M (exome, AC = 7, AN = 251342, AF = 2.78505e-05); T>M (genome, AC = 1, AN = 31370, AF = 3.18776e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+136	G	G>R	G>R (exome, AC = 16, AN = 251314, AF = 6.36654e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+137	R	R>W; G>S; G>D	R>W (exome, AC = 2, AN = 251286, AF = 7.95906e-06); G>S (exome, AC = 3, AN = 251294, AF = 1.19382e-05); G>D (exome, AC = 1, AN = 251308, AF = 3.97918e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+138	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+139	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+140	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+141	K	R>G; R>K	R>G (exome, AC = 1, AN = 251258, AF = 3.97997e-06); R>K (exome, AC = 3, AN = 251250, AF = 1.19403e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+142	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+143	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+144	Y	T>A; T>M	T>A (exome, AC = 1, AN = 251164, AF = 3.98146e-06); T>M (exome, AC = 9, AN = 251120, AF = 3.58394e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+145	E	R>K	R>K (exome, AC = 7, AN = 251080, AF = 2.78796e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+146	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+147	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+148	K	S>T	S>T (exome, AC = 1, AN = 250844, AF = 3.98654e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+149	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+150	N	T>R; T>M	T>R (exome, AC = 1, AN = 250414, AF = 3.99339e-06); T>M (exome, AC = 4763, AN = 250414, AF = 0.0190205); T>M (genome, AC = 1146, AN = 31336, AF = 0.0365714)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K88-N150: LIM zinc-binding 2	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+151	D	M>V	M>V (genome, AC = 1, AN = 31362, AF = 3.18857e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+152	D	M>I	M>I (exome, AC = 1, AN = 251370, AF = 3.9782e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+153	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+154	E	E>K	E>K (exome, AC = 3, AN = 251394, AF = 1.19335e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+155	A	L>V	L>V (exome, AC = 1, AN = 251412, AF = 3.97753e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+156	G	E>Q	E>Q (exome, AC = 1, AN = 251406, AF = 3.97763e-06)	none	none	-	127	1.114	loop	coils	exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+157	A	A>T	A>T (exome, AC = 1, AN = 251404, AF = 3.97766e-06)	none	none	-	84	0.6509999999999999	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+158	K	none	none	none	none	-	200	0.847	loop	coils	exposed	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+159	R	R>W; G>V	R>W (exome, AC = 1, AN = 251428, AF = 3.97728e-06); G>V (exome, AC = 2, AN = 251394, AF = 7.95564e-06)	none	none	-	251.5	0.9179999999999999	loop	coils	exposed	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+160	P	none	none	none	none	-	103	0.648	loop	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+161	R	none	none	none	none	-	226.5	0.8270000000000001	loop	coils	exposed	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+162	T	P>R; P>L	P>R (exome, AC = 1, AN = 251444, AF = 3.97703e-06); P>L (exome, AC = 1, AN = 251444, AF = 3.97703e-06); P>R (genome, AC = 1, AN = 31390, AF = 3.18573e-05); P>L (genome, AC = 1, AN = 31390, AF = 3.18573e-05)	none	none	-	71.5	0.41600000000000004	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+163	T	P>L	P>L (exome, AC = 1, AN = 251438, AF = 3.97712e-06)	T>P	T>P (ClinVar, phenotype = Hypopituitarism)	-	106.5	0.619	loop	coils	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+164	I	none	none	none	none	-	57	0.289	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+165	T	none	none	none	none	-	82.5	0.48	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+166	A	P>L	P>L (exome, AC = 2, AN = 251458, AF = 7.95361e-06)	none	none	-	71	0.55	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+167	K	K>E	K>E (exome, AC = 1, AN = 251460, AF = 3.97678e-06)	none	none	-	139	0.589	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+168	Q	none	none	none	none	-	37	0.16399999999999998	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+169	L	none	none	none	none	-	56	0.27899999999999997	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+170	E	W>C	W>C (exome, AC = 1, AN = 251468, AF = 3.97665e-06)	none	none	-	101.5	0.455	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+171	T	none	none	none	none	-	29.5	0.172	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+172	L	none	none	none	none	-	7	0.035	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+173	K	none	none	none	none	-	69	0.292	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+174	N	none	none	none	none	-	95.5	0.49	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+175	A	none	none	none	none	-	25	0.19399999999999998	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+176	Y	none	none	none	none	-	43	0.163	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+177	K	K>E	K>E (exome, AC = 1, AN = 251436, AF = 3.97716e-06)	none	none	-	130.5	0.5529999999999999	turn	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+178	N	none	none	none	none	-	159.5	0.818	turn	coils	exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+179	S	none	none	none	none	-	39.5	0.255	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+180	P	P>S	P>S (exome, AC = 11, AN = 251388, AF = 4.37571e-05)	none	none	-	73.5	0.462	bend	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+181	K	K>R	K>R (exome, AC = 2, AN = 251384, AF = 7.95596e-06)	none	none	-	135	0.5720000000000001	bend	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+182	P	none	none	none	none	-	19.5	0.12300000000000001	loop	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+183	A	none	none	none	none	-	54.5	0.42200000000000004	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+184	R	R>Q	R>Q (exome, AC = 1, AN = 251282, AF = 3.97959e-06)	none	none	-	142.5	0.52	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+185	H	none	none	none	none	-	136.5	0.609	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+186	V	V>M	V>M (exome, AC = 4, AN = 251258, AF = 1.59199e-05); V>M (genome, AC = 1, AN = 31384, AF = 3.18634e-05)	none	none	-	48	0.276	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+187	R	none	none	none	none	-	44.5	0.162	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+188	E	none	none	none	none	-	109	0.489	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+189	Q	none	none	none	none	-	129	0.573	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+190	L	none	none	L>R	L>R (ClinVar, phenotype = Pituitary hormone deficiency, combined 4); L>R (ClinVar, phenotype = Pituitary hormone deficiency, combined)	-	12	0.06	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+191	S	none	none	none	none	-	22	0.142	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+192	S	none	none	none	none	-	98	0.632	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+193	E	E>D	E>D (exome, AC = 1, AN = 250870, AF = 3.98613e-06)	none	none	-	121.5	0.545	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+194	T	T>I	T>I (exome, AC = 2, AN = 250892, AF = 7.97156e-06)	none	none	-	14	0.081	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+195	G	none	none	none	none	-	62.5	0.5479999999999999	loop	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+196	L	none	none	none	none	-	34	0.16899999999999998	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+197	D	D>G	D>G (exome, AC = 1, AN = 250716, AF = 3.98858e-06)	none	none	-	95.5	0.495	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+198	M	none	none	none	none	-	32.5	0.145	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+199	R	none	none	none	none	-	165	0.602	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+200	V	none	none	none	none	-	34	0.195	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+201	V	V>I	V>I (exome, AC = 6, AN = 250214, AF = 2.39795e-05)	none	none	-	2	0.011000000000000001	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+202	Q	none	none	none	none	-	70	0.311	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+203	V	none	none	none	none	-	60.5	0.348	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+204	W	none	none	none	none	-	42.5	0.149	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+205	F	none	none	none	none	-	8.5	0.035	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+206	Q	none	none	none	none	-	76	0.33799999999999997	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+207	N	none	none	none	none	-	102	0.523	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+208	R	R>K; R>S	R>K (exome, AC = 1, AN = 251344, AF = 3.97861e-06); R>S (exome, AC = 1, AN = 251350, AF = 3.97852e-06)	none	none	-	59.5	0.217	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+209	R	none	none	none	none	-	83.5	0.305	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+210	A	none	none	A>P	A>P (ClinVar, phenotype = Pituitary hormone deficiency, combined 4); A>P (ClinVar, phenotype = Pituitary hormone deficiency, combined)	-	57	0.442	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+211	K	none	none	none	none	-	95	0.40299999999999997	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+212	E	none	none	none	none	-	76	0.341	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+213	K	none	none	none	none	-	166	0.703	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+214	R	R>C; R>H; R>L	R>C (exome, AC = 1, AN = 251426, AF = 3.97731e-06); R>H (exome, AC = 1, AN = 251426, AF = 3.97731e-06); R>L (exome, AC = 1, AN = 251426, AF = 3.97731e-06)	none	none	-	174.5	0.637	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+215	L	none	none	none	none	-	127	0.632	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+216	K	none	none	none	none	-	199	0.843	loop	coils	exposed	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	A157-K216: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+217	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+218	D	D>N	D>N (exome, AC = 6, AN = 251444, AF = 2.38622e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+219	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+220	G	G>A	G>A (exome, AC = 10, AN = 251444, AF = 3.97703e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+221	R	R>W; R>Q	R>W (exome, AC = 3, AN = 251426, AF = 1.19319e-05); R>Q (exome, AC = 5, AN = 251420, AF = 1.9887e-05)	R>Q; R>L	R>Q (ClinVar, phenotype = Pituitary hormone deficiency); R>L (ClinVar, phenotype = Multiple congenital anomalies)	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+222	H	H>N	H>N (exome, AC = 1, AN = 251430, AF = 3.97725e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+223	R	R>S; R>C; R>H	R>S (exome, AC = 1, AN = 251440, AF = 3.97709e-06); R>C (exome, AC = 6, AN = 251440, AF = 2.38626e-05); R>H (exome, AC = 3, AN = 251434, AF = 1.19316e-05); R>H (genome, AC = 1, AN = 31252, AF = 3.1998e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+224	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+225	G	G>V	G>V (exome, AC = 1, AN = 251434, AF = 3.97719e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+226	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+227	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+228	Y	Y>C	Y>C (exome, AC = 9, AN = 251414, AF = 3.57975e-05); Y>C (genome, AC = 1, AN = 31240, AF = 3.20102e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+229	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+230	S	S>G; S>N	S>G (exome, AC = 1, AN = 251390, AF = 3.97788e-06); S>N (exome, AC = 3, AN = 251402, AF = 1.19331e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+231	V	V>I	V>I (exome, AC = 3, AN = 251372, AF = 1.19345e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+232	K	K>E	K>E (exome, AC = 4, AN = 251386, AF = 1.59118e-05); K>E (genome, AC = 2, AN = 31202, AF = 6.40985e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+233	R	R>T	R>T (exome, AC = 2, AN = 251364, AF = 7.95659e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+234	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S234: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+235	R	R>W; R>Q; R>P	R>W (exome, AC = 21, AN = 251308, AF = 8.35628e-05); R>Q (exome, AC = 17, AN = 251304, AF = 6.76472e-05); R>P (exome, AC = 1, AN = 251304, AF = 3.97924e-06); R>W (genome, AC = 4, AN = 31164, AF = 0.000128353); R>Q (genome, AC = 1, AN = 31182, AF = 3.20698e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+236	G	G>D	G>D (exome, AC = 1, AN = 251286, AF = 3.97953e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+237	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+238	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S238: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+239	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+240	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+241	E	E>Q	E>Q (exome, AC = 13, AN = 251232, AF = 5.1745e-05); E>Q (genome, AC = 1, AN = 31210, AF = 3.2041e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+242	K	K>E; K>R	K>E (exome, AC = 2, AN = 251222, AF = 7.96109e-06); K>R (exome, AC = 1, AN = 251108, AF = 3.98235e-06); K>R (genome, AC = 1, AN = 31224, AF = 3.20266e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+243	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+244	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+245	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+246	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+247	E	E>V	E>V (exome, AC = 5, AN = 251022, AF = 1.99186e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+248	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+249	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+250	G	G>E	G>E (exome, AC = 1, AN = 250788, AF = 3.98743e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+251	V	V>F; V>A; V>G	V>F (exome, AC = 2, AN = 250644, AF = 7.97944e-06); V>A (exome, AC = 3, AN = 250664, AF = 1.19682e-05); V>G (exome, AC = 1, AN = 250664, AF = 3.9894e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+252	S	S>C	S>C (exome, AC = 1, AN = 250640, AF = 3.98979e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+253	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+254	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+255	E	E>K	E>K (exome, AC = 3, AN = 250386, AF = 1.19815e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+256	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+257	S	S>G	S>G (exome, AC = 1, AN = 250226, AF = 3.99639e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+258	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+259	R	R>G; R>Q	R>G (exome, AC = 4, AN = 249562, AF = 1.60281e-05); R>Q (exome, AC = 14, AN = 249492, AF = 5.6114e-05); R>Q (genome, AC = 3, AN = 31262, AF = 9.59632e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+260	E	E>V; E>D	E>V (exome, AC = 3, AN = 251490, AF = 1.19289e-05); E>D (exome, AC = 3, AN = 251482, AF = 1.19293e-05); E>V (genome, AC = 1, AN = 31400, AF = 3.18471e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+261	D	D>V	D>V (exome, AC = 1, AN = 251490, AF = 3.9763e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+262	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+263	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+264	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+265	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+266	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+267	L	L>P	L>P (exome, AC = 1, AN = 251492, AF = 3.97627e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+268	G	G>S	G>S (exome, AC = 2, AN = 251484, AF = 7.95279e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+269	H	H>N	H>N (exome, AC = 4, AN = 251488, AF = 1.59053e-05); H>N (genome, AC = 1, AN = 31400, AF = 3.18471e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+270	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+271	N	N>K	N>K (exome, AC = 1, AN = 251486, AF = 3.97636e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+272	R	R>T	R>T (exome, AC = 4, AN = 251480, AF = 1.59058e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+273	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+274	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+275	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+276	N	N>T	N>T (exome, AC = 2, AN = 251466, AF = 7.95336e-06); N>T (genome, AC = 1, AN = 31404, AF = 3.18431e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+277	V	V>M	V>M (exome, AC = 4, AN = 251460, AF = 1.59071e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+278	G	G>V	G>V (exome, AC = 1, AN = 251458, AF = 3.97681e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+279	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+280	V	V>I	V>I (exome, AC = 2, AN = 251436, AF = 7.95431e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+281	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+282	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+283	G	G>R	G>R (exome, AC = 14, AN = 251438, AF = 5.56797e-05); G>R (genome, AC = 1, AN = 31404, AF = 3.18431e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+284	Q	Q>H	Q>H (exome, AC = 1, AN = 251424, AF = 3.97735e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+285	L	L>F	L>F (exome, AC = 1, AN = 251410, AF = 3.97757e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+286	M	M>T	M>T (exome, AC = 3, AN = 251414, AF = 1.19325e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+287	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+288	G	G>E	G>E (exome, AC = 1, AN = 251398, AF = 3.97776e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+289	S	S>N; S>R	S>N (exome, AC = 1, AN = 251384, AF = 3.97798e-06); S>R (exome, AC = 1, AN = 251362, AF = 3.97833e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+290	F	F>V; F>S	F>V (exome, AC = 3, AN = 251394, AF = 1.19335e-05); F>S (exome, AC = 1, AN = 251390, AF = 3.97788e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+291	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+292	M	M>K; M>T	M>K (exome, AC = 5, AN = 251398, AF = 1.98888e-05); M>T (exome, AC = 1, AN = 251398, AF = 3.97776e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+293	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+294	G	G>R	G>R (exome, AC = 1, AN = 251342, AF = 3.97864e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+295	T	T>I	T>I (exome, AC = 3, AN = 251352, AF = 1.19355e-05); T>I (genome, AC = 1, AN = 31402, AF = 3.18451e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+296	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+297	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+298	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+299	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+300	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+301	D	D>A	D>A (exome, AC = 1, AN = 251352, AF = 3.97848e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+302	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+303	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+304	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+305	G	G>W	G>W (exome, AC = 2, AN = 251382, AF = 7.95602e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+306	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+307	P	P>S	P>S (exome, AC = 1, AN = 251410, AF = 3.97757e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+308	Y	Y>C	Y>C (exome, AC = 6, AN = 251428, AF = 2.38637e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+309	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+310	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+311	P	P>T; P>R	P>T (exome, AC = 1, AN = 251414, AF = 3.9775e-06); P>R (exome, AC = 1, AN = 251434, AF = 3.97719e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+312	Q	Q>R	Q>R (exome, AC = 1, AN = 251434, AF = 3.97719e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+313	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+314	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+315	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+316	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+317	I	I>V	I>V (exome, AC = 1, AN = 251454, AF = 3.97687e-06); I>V (genome, AC = 1, AN = 31380, AF = 3.18674e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+318	S	S>P; S>L	S>P (exome, AC = 1, AN = 251452, AF = 3.9769e-06); S>L (exome, AC = 7, AN = 251450, AF = 2.78385e-05); S>L (genome, AC = 1, AN = 31400, AF = 3.18471e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+319	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+320	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+321	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+322	S	S>P	S>P (genome, AC = 1, AN = 31388, AF = 3.18593e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+323	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+324	A	A>T	A>T (exome, AC = 32, AN = 251432, AF = 0.000127271)	A>T	A>T (ClinVar, phenotype = Fetal growth restriction, early onset)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+325	P	P>S	P>S (exome, AC = 3, AN = 251438, AF = 1.19314e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+326	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+327	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+328	N	N>S	N>S (exome, AC = 121287, AN = 251416, AF = 0.482416); N>S (genome, AC = 13472, AN = 31296, AF = 0.43047)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+329	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+330	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+331	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+332	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+333	T	T>M	T>M (exome, AC = 11, AN = 251456, AF = 4.37452e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+334	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+335	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+336	S	S>N	S>N (exome, AC = 16, AN = 251456, AF = 6.36294e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+337	N	N>H	N>H (exome, AC = 5, AN = 251476, AF = 1.98826e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+338	L	L>W	L>W (exome, AC = 7, AN = 251468, AF = 2.78365e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+339	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+340	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+341	I	I>T	I>T (exome, AC = 7, AN = 251470, AF = 2.78363e-05); I>T (genome, AC = 3, AN = 31392, AF = 9.55657e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+342	A	A>P; A>V	A>P (exome, AC = 3, AN = 251466, AF = 1.193e-05); A>V (exome, AC = 28, AN = 251446, AF = 0.000111356); A>V (genome, AC = 1, AN = 31376, AF = 3.18715e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+343	H	H>R; H>Q	H>R (exome, AC = 1, AN = 251466, AF = 3.97668e-06); H>Q (exome, AC = 1, AN = 251464, AF = 3.97671e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+344	A	A>T	A>T (exome, AC = 1, AN = 251458, AF = 3.97681e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+345	G	G>R	G>R (exome, AC = 3, AN = 251458, AF = 1.19304e-05); G>R (genome, AC = 1, AN = 31390, AF = 3.18573e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+346	Q	Q>R	Q>R (exome, AC = 1, AN = 251464, AF = 3.97671e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+347	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+348	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+349	S	S>R	S>R (exome, AC = 1, AN = 251440, AF = 3.97709e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+350	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+351	T	T>M	T>M (exome, AC = 54, AN = 251416, AF = 0.000214783); T>M (genome, AC = 5, AN = 31392, AF = 0.000159276)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+352	L	L>P	L>P (exome, AC = 1, AN = 251406, AF = 3.97763e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+353	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+354	A	A>V	A>V (exome, AC = 15, AN = 251302, AF = 5.96891e-05); A>V (genome, AC = 7, AN = 31394, AF = 0.000222973)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+355	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+356	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+357	G	G>R; G>E	G>R (exome, AC = 1, AN = 251220, AF = 3.98057e-06); G>E (exome, AC = 1, AN = 251228, AF = 3.98045e-06); G>E (genome, AC = 1, AN = 31382, AF = 3.18654e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+358	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+359	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+360	T	T>N; T>I	T>N (exome, AC = 1, AN = 251020, AF = 3.98375e-06); T>I (exome, AC = 2, AN = 251020, AF = 7.96749e-06); T>N (genome, AC = 1, AN = 31406, AF = 3.1841e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+361	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+362	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+363	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+364	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+365	T	T>I	T>I (exome, AC = 1, AN = 250436, AF = 3.99304e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+366	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+367	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+368	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+369	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+370	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+371	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+372	P	P>L	P>L (exome, AC = 1, AN = 247744, AF = 4.03642e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+373	D	D>N; D>E	D>N (exome, AC = 8, AN = 247310, AF = 3.23481e-05); D>E (exome, AC = 1, AN = 247164, AF = 4.0459e-06); D>N (genome, AC = 2, AN = 31402, AF = 6.36902e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+374	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+375	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+376	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+377	S	S>C	S>C (exome, AC = 4, AN = 245422, AF = 1.62985e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+378	P	P>S	P>S (exome, AC = 1, AN = 244732, AF = 4.0861e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+379	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+380	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+381	W	W>C	W>C (exome, AC = 1, AN = 240344, AF = 4.1607e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+382	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+383	D	D>N; D>H	D>N (exome, AC = 2, AN = 236062, AF = 8.47235e-06); D>H (exome, AC = 1, AN = 236062, AF = 4.23618e-06); D>H (genome, AC = 1, AN = 31396, AF = 3.18512e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+384	E	E>K	E>K (exome, AC = 2, AN = 235878, AF = 8.47896e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+385	M	M>T; M>I	M>T (exome, AC = 1, AN = 233612, AF = 4.2806e-06); M>I (exome, AC = 1, AN = 233210, AF = 4.28798e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+386	D	D>G; D>E	D>G (exome, AC = 1, AN = 232038, AF = 4.30964e-06); D>E (exome, AC = 3, AN = 230460, AF = 1.30174e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+387	H	H>P; H>R; H>Q	H>P (exome, AC = 14, AN = 230020, AF = 6.08643e-05); H>R (exome, AC = 1, AN = 230020, AF = 4.34745e-06); H>Q (exome, AC = 18, AN = 228516, AF = 7.87691e-05); H>Q (genome, AC = 3, AN = 31398, AF = 9.55475e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+388	P	none	none	P>T	P>T (ClinVar, phenotype = Pituitary hormone deficiency, combined 4)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+389	P	P>T	P>T (exome, AC = 67, AN = 224830, AF = 0.000298003); P>T (genome, AC = 8, AN = 31400, AF = 0.000254777)	P>T	P>T (ClinVar, phenotype = Pituitary hormone deficiency, severe combined)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+390	F	F>V	F>V (exome, AC = 1, AN = 223130, AF = 4.48169e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
