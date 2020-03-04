@@ -1,0 +1,453 @@
+Amino Acid Index	Amino Acid	Population Mutation	Population Mutation (details)	Pathogenic Mutation	Pathogenic Mutation (details)	Bond Detail	Accessible Surface Area	Relative Accessible Surface Area	8-class DSSP Secondary Structure Properties	3-class DSSP Secondary Structure Properties	Exposure	Physiochemical Property	Acetylation Detail	Methylation Detail	O.GalNAc Detail	O.GclNAc Detail	Phosphorylation Detail	Sumoylation Detail	Ubiquitination Detail	Active Site	Metal Binding Site	binding Site	Site	Zinc Finger	Dna Binding	Nucleotide Phosphate Binding	Calcium Binding	Region	Repeat	Coiled Coil	Topological Domain	Peptide	Modified Residue	Motif	Domain	Intramembrane	Propetide	Lipidation	Glycosylation	Cross Links	Disulfide Bond	Transit Peptide	Transmembrane	Signal Peptide	Functional Site	Functional Binding Region	Sequence Motif Region	Modular Domain	Molecular Processing	Modified Residues
+1	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2	A	A>T	A>T (exome, AC = 1, AN = 167888, AF = 5.95635e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+3	A	A>P; A>V	A>P (exome, AC = 1, AN = 168742, AF = 5.92621e-06); A>V (exome, AC = 1, AN = 168192, AF = 5.94559e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+4	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+5	A	A>T; A>V	A>T (exome, AC = 2, AN = 167076, AF = 1.19706e-05); A>V (exome, AC = 2, AN = 166414, AF = 1.20182e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+6	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+7	R	R>W	R>W (exome, AC = 2, AN = 172938, AF = 1.15648e-05); R>W (genome, AC = 1, AN = 31360, AF = 3.18878e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+8	S	S>G	S>G (exome, AC = 1, AN = 174528, AF = 5.72974e-06); S>G (genome, AC = 1, AN = 31390, AF = 3.18573e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+9	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+10	W	W>R	W>R (exome, AC = 18, AN = 181256, AF = 9.93071e-05); W>R (genome, AC = 2, AN = 31396, AF = 6.37024e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+11	C	C>F; C>W	C>F (exome, AC = 5, AN = 156542, AF = 3.19403e-05); C>W (exome, AC = 2, AN = 153432, AF = 1.30351e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+12	R	R>G	R>G (exome, AC = 2, AN = 155978, AF = 1.28223e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+13	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+14	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+15	R	R>W; R>L	R>W (exome, AC = 1, AN = 161766, AF = 6.18177e-06); R>L (exome, AC = 1, AN = 162050, AF = 6.17093e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+16	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+17	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+18	L	L>P	L>P (exome, AC = 4, AN = 251432, AF = 1.59089e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+19	G	G>S	G>S (exome, AC = 3, AN = 251436, AF = 1.19315e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+20	S	S>G	S>G (exome, AC = 145, AN = 251446, AF = 0.000576665); S>G (genome, AC = 16, AN = 31402, AF = 0.000509522)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+21	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+22	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+23	Q	Q>H	Q>H (exome, AC = 1, AN = 251448, AF = 3.97697e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+24	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+25	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+26	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+27	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+28	H	H>R	H>R (exome, AC = 1, AN = 251462, AF = 3.97674e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+29	N	N>S	N>S (exome, AC = 4, AN = 251472, AF = 1.59063e-05); N>S (genome, AC = 2, AN = 31352, AF = 6.37918e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+30	L	L>R	L>R (exome, AC = 8, AN = 251470, AF = 3.18129e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+31	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+32	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+33	G	G>A	G>A (exome, AC = 4, AN = 251452, AF = 1.59076e-05); G>A (genome, AC = 1, AN = 31392, AF = 3.18552e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+34	S	S>L	S>L (exome, AC = 1, AN = 251450, AF = 3.97693e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+35	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+36	Y	Y>C	Y>C (exome, AC = 2, AN = 251444, AF = 7.95406e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+37	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+38	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+39	R	R>C; R>H	R>C (exome, AC = 4, AN = 251390, AF = 1.59115e-05); R>H (exome, AC = 8, AN = 251394, AF = 3.18226e-05); R>H (genome, AC = 2, AN = 31384, AF = 6.37267e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+40	R	R>W; R>Q	R>W (exome, AC = 24, AN = 251364, AF = 9.54791e-05); R>Q (exome, AC = 7, AN = 251348, AF = 2.78498e-05); R>W (genome, AC = 4, AN = 31380, AF = 0.00012747)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+41	P	P>A; P>L	P>A (exome, AC = 1, AN = 251308, AF = 3.97918e-06); P>L (exome, AC = 9, AN = 251218, AF = 3.58255e-05); P>L (genome, AC = 2, AN = 31372, AF = 6.37511e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+42	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+43	G	G>R	G>R (exome, AC = 2, AN = 251196, AF = 7.96191e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+44	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+45	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+46	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+47	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+48	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+49	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+50	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+51	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+52	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+53	S	S>F	S>F (exome, AC = 2, AN = 249900, AF = 8.0032e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+54	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+55	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+56	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+57	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+58	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+59	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+60	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+61	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+62	G	G>S; G>D	G>S (exome, AC = 2101, AN = 251178, AF = 0.00836459); G>D (exome, AC = 1, AN = 251210, AF = 3.98073e-06); G>S (genome, AC = 282, AN = 31382, AF = 0.00898604)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+63	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+64	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+65	D	D>E	D>E (exome, AC = 1, AN = 251386, AF = 3.97795e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+66	N	N>D	N>D (exome, AC = 1, AN = 251390, AF = 3.97788e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+67	V	V>I	V>I (exome, AC = 1, AN = 251374, AF = 3.97814e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+68	K	K>R	K>R (exome, AC = 1892, AN = 251416, AF = 0.00752538); K>R (genome, AC = 219, AN = 31406, AF = 0.00697319)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+69	Q	Q>E	Q>E (exome, AC = 2, AN = 251412, AF = 7.95507e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+70	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+71	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+72	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+73	K	K>E	K>E (exome, AC = 1, AN = 251452, AF = 3.9769e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+74	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+75	K	K>N	K>N (exome, AC = 7, AN = 251462, AF = 2.78372e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+76	E	E>Q	E>Q (exome, AC = 1, AN = 251454, AF = 3.97687e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+77	M	M>T	M>T (exome, AC = 1, AN = 251460, AF = 3.97678e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+78	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+79	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+80	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+81	I	I>T	I>T (exome, AC = 2, AN = 251466, AF = 7.95336e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+82	K	K>N	K>N (exome, AC = 1, AN = 251464, AF = 3.97671e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+83	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+84	F	F>C	F>C (exome, AC = 1, AN = 251468, AF = 3.97665e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+85	R	R>C; R>H	R>C (exome, AC = 2, AN = 251460, AF = 7.95355e-06); R>H (exome, AC = 2, AN = 251464, AF = 7.95342e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+86	D	D>G	D>G (exome, AC = 2, AN = 251468, AF = 7.9533e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+87	E	E>K; E>D	E>K (exome, AC = 6, AN = 251470, AF = 2.38597e-05); E>D (exome, AC = 1, AN = 251478, AF = 3.97649e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+88	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+89	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+90	R	R>K; R>S	R>K (exome, AC = 1, AN = 251476, AF = 3.97652e-06); R>S (exome, AC = 1, AN = 251470, AF = 3.97662e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+91	L	L>V	L>V (exome, AC = 3, AN = 251464, AF = 1.19301e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+92	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+93	E	E>K	E>K (exome, AC = 1, AN = 251472, AF = 3.97659e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+94	S	S>P	S>P (exome, AC = 1, AN = 251478, AF = 3.97649e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+95	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+96	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+97	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+98	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+99	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+100	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+101	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+102	R	R>M	R>M (exome, AC = 1, AN = 251434, AF = 3.97719e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+103	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+104	Y	Y>H	Y>H (exome, AC = 10, AN = 251430, AF = 3.97725e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+105	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+106	T	T>A; T>I	T>A (exome, AC = 8, AN = 248162, AF = 3.2237e-05); T>I (exome, AC = 2, AN = 247854, AF = 8.06927e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+107	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+108	E	E>K; E>D	E>K (exome, AC = 7, AN = 248970, AF = 2.81158e-05); E>D (exome, AC = 2, AN = 249434, AF = 8.01815e-06); E>K (genome, AC = 3, AN = 30942, AF = 9.69556e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+109	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+110	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+111	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+112	V	V>M; V>A	V>M (exome, AC = 4, AN = 250044, AF = 1.59972e-05); V>A (exome, AC = 4, AN = 249922, AF = 1.6005e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+113	R	R>W; R>Q	R>W (exome, AC = 2, AN = 250050, AF = 7.9984e-06); R>Q (exome, AC = 7, AN = 250228, AF = 2.79745e-05); R>Q (genome, AC = 1, AN = 31168, AF = 3.20842e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+114	T	T>M	T>M (exome, AC = 24, AN = 250386, AF = 9.5852e-05); T>M (genome, AC = 1, AN = 31012, AF = 3.22456e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+115	S	S>G	S>G (exome, AC = 2, AN = 250578, AF = 7.98155e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+116	E	E>K; E>D	E>K (exome, AC = 13, AN = 250560, AF = 5.18838e-05); E>D (exome, AC = 1, AN = 250648, AF = 3.98966e-06); E>K (genome, AC = 1, AN = 31162, AF = 3.20904e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+117	V	V>L	V>L (exome, AC = 1, AN = 250642, AF = 3.98975e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+118	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+119	R	R>W; R>Q	R>W (exome, AC = 5, AN = 250678, AF = 1.99459e-05); R>Q (exome, AC = 7, AN = 250616, AF = 2.79312e-05); R>Q (genome, AC = 2, AN = 31274, AF = 6.39509e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+120	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+121	K	K>Q	K>Q (exome, AC = 1, AN = 250760, AF = 3.98788e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+122	L	L>F	L>F (exome, AC = 4, AN = 250672, AF = 1.59571e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+123	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+124	E	E>K	E>K (exome, AC = 3, AN = 250418, AF = 1.198e-05); E>K (genome, AC = 2, AN = 31334, AF = 6.38284e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+125	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+126	T	T>M	T>M (exome, AC = 1, AN = 249720, AF = 4.00449e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+127	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+128	T	T>I	T>I (exome, AC = 2, AN = 249322, AF = 8.02175e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	T128: Phosphothreonine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+129	V	V>M	V>M (exome, AC = 8, AN = 248872, AF = 3.2145e-05); V>M (genome, AC = 1, AN = 31326, AF = 3.19224e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+130	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+131	E	E>D	E>D (exome, AC = 1, AN = 247914, AF = 4.03366e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+132	S	S>R	S>R (exome, AC = 2, AN = 249704, AF = 8.00948e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+133	L	L>F	L>F (exome, AC = 1, AN = 249954, AF = 4.00074e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+134	H	H>Q	H>Q (exome, AC = 1, AN = 250132, AF = 3.99789e-06); H>Q (genome, AC = 1, AN = 31362, AF = 3.18857e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+135	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+136	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+137	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+138	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+139	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+140	D	D>N	D>N (exome, AC = 1, AN = 250726, AF = 3.98842e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+141	L	L>I	L>I (exome, AC = 1, AN = 250792, AF = 3.98737e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+142	G	G>S	G>S (exome, AC = 23, AN = 250862, AF = 9.16839e-05); G>S (genome, AC = 1, AN = 31364, AF = 3.18837e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+143	R	R>W; R>Q	R>W (exome, AC = 2, AN = 250892, AF = 7.97156e-06); R>Q (exome, AC = 2, AN = 250888, AF = 7.97168e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+144	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+145	I	I>T; I>M	I>T (exome, AC = 2, AN = 251020, AF = 7.96749e-06); I>M (exome, AC = 1, AN = 251012, AF = 3.98387e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+146	K	K>R	K>R (exome, AC = 1, AN = 251048, AF = 3.9833e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+147	E	E>K	E>K (exome, AC = 1, AN = 251068, AF = 3.98298e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+148	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+149	V	V>M	V>M (exome, AC = 4, AN = 251036, AF = 1.5934e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+150	E	E>G	E>G (genome, AC = 1, AN = 31362, AF = 3.18857e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+151	E	E>K	E>K (exome, AC = 1, AN = 251072, AF = 3.98292e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+152	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+153	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+154	K	K>R	K>R (exome, AC = 2, AN = 251128, AF = 7.96407e-06); K>R (genome, AC = 1, AN = 31366, AF = 3.18817e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+155	T	T>M	T>M (exome, AC = 11, AN = 251052, AF = 4.38156e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+156	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+157	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+158	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+159	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+160	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+161	E	E>K	E>K (exome, AC = 1, AN = 251068, AF = 3.98298e-06); E>K (genome, AC = 1, AN = 31362, AF = 3.18857e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+162	S	S>L	S>L (exome, AC = 13, AN = 251024, AF = 5.17879e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+163	V	V>L	V>L (exome, AC = 1, AN = 251026, AF = 3.98365e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+164	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+165	K	K>R	K>R (exome, AC = 21, AN = 251122, AF = 8.36247e-05); K>R (genome, AC = 1, AN = 31342, AF = 3.19061e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+166	G	G>S	G>S (exome, AC = 1, AN = 251082, AF = 3.98276e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	G166-T173: ATP	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	-	-	-
+167	G	G>R	G>R (exome, AC = 2, AN = 251082, AF = 7.96553e-06); G>R (genome, AC = 1, AN = 31354, AF = 3.18939e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	G166-T173: ATP	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	-	-	-
+168	E	E>Q	E>Q (exome, AC = 1, AN = 251054, AF = 3.98321e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	G166-T173: ATP	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	-	-	-
+169	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	G166-T173: ATP	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	-	-	-
+170	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	G166-T173: ATP	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	-	-	-
+171	G	G>S; G>D	G>S (exome, AC = 1, AN = 250936, AF = 3.98508e-06); G>D (exome, AC = 8, AN = 250922, AF = 3.18824e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	G166-T173: ATP	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	-	-	-
+172	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	G166-T173: ATP	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	-	-	-
+173	T	T>A	T>A (exome, AC = 1, AN = 250946, AF = 3.98492e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	G166-T173: ATP	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	-	-	-
+174	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+175	A	A>D	A>D (exome, AC = 1, AN = 250772, AF = 3.98769e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+176	F	F>S	F>S (exome, AC = 2, AN = 250844, AF = 7.97308e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+177	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+178	A	A>T	A>T (exome, AC = 1, AN = 250752, AF = 3.988e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+179	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+180	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S180: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+181	Q	Q>H	Q>H (exome, AC = 1, AN = 250726, AF = 3.98842e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+182	G	G>V	G>V (exome, AC = 1, AN = 250496, AF = 3.99208e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+183	V	V>M	V>M (exome, AC = 1, AN = 250486, AF = 3.99224e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+184	E	E>V	E>V (exome, AC = 1, AN = 250582, AF = 3.99071e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+185	S	S>F	S>F (exome, AC = 1, AN = 250612, AF = 3.99023e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+186	V	V>M	V>M (exome, AC = 1, AN = 250548, AF = 3.99125e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+187	K	K>R	K>R (exome, AC = 3, AN = 250692, AF = 1.19669e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+188	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+189	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+190	I	I>V	I>V (genome, AC = 1, AN = 31374, AF = 3.18735e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+191	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+192	D	D>N	D>N (exome, AC = 12, AN = 250838, AF = 4.78396e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+193	S	S>C	S>C (exome, AC = 3, AN = 250870, AF = 1.19584e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+194	V	V>I	V>I (exome, AC = 21, AN = 250864, AF = 8.37107e-05); V>I (genome, AC = 6, AN = 31378, AF = 0.000191217)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+195	L	L>P	L>P (exome, AC = 2, AN = 250904, AF = 7.97118e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+196	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+197	Q	Q>E	Q>E (exome, AC = 1, AN = 250900, AF = 3.98565e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+198	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+199	G	G>R	G>R (exome, AC = 10, AN = 250928, AF = 3.98521e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+200	P	P>A	P>A (exome, AC = 1, AN = 250980, AF = 3.98438e-06); P>A (genome, AC = 1, AN = 31388, AF = 3.18593e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+201	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+202	R	R>W; R>Q	R>W (exome, AC = 1, AN = 250954, AF = 3.98479e-06); R>Q (exome, AC = 1, AN = 250932, AF = 3.98514e-06); R>Q (genome, AC = 1, AN = 31388, AF = 3.18593e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+203	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+204	P	P>H	P>H (exome, AC = 1, AN = 251034, AF = 3.98352e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+205	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+206	R	R>Q	R>Q (exome, AC = 2, AN = 250992, AF = 7.96838e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+207	L	L>F	L>F (exome, AC = 3, AN = 250970, AF = 1.19536e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+208	R	R>W; R>Q	R>W (exome, AC = 1, AN = 250930, AF = 3.98518e-06); R>Q (exome, AC = 10, AN = 250950, AF = 3.98486e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+209	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+210	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+211	T	T>M	T>M (exome, AC = 6, AN = 250990, AF = 2.39053e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+212	E	E>D	E>D (genome, AC = 2, AN = 31366, AF = 6.37633e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+213	F	F>L	F>L (exome, AC = 11, AN = 251058, AF = 4.38146e-05); F>L (genome, AC = 1, AN = 31300, AF = 3.19489e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+214	A	A>V	A>V (exome, AC = 3, AN = 251016, AF = 1.19514e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+215	G	G>E	G>E (exome, AC = 1, AN = 251034, AF = 3.98352e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+216	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+217	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K217: N6-succinyllysine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+218	F	F>L	F>L (exome, AC = 4, AN = 250966, AF = 1.59384e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+219	K	K>E; K>R	K>E (exome, AC = 3, AN = 250960, AF = 1.19541e-05); K>R (exome, AC = 1, AN = 250946, AF = 3.98492e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+220	E	E>K	E>K (genome, AC = 1, AN = 31376, AF = 3.18715e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+221	E	E>K; E>D	E>K (exome, AC = 1, AN = 250908, AF = 3.98552e-06); E>D (exome, AC = 5, AN = 250890, AF = 1.99291e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+222	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+223	V	V>M	V>M (genome, AC = 1, AN = 31388, AF = 3.18593e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+224	F	F>S	F>S (exome, AC = 1, AN = 250840, AF = 3.98661e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+225	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+226	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+227	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+228	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+229	E	E>K; E>A	E>K (exome, AC = 1, AN = 250874, AF = 3.98606e-06); E>A (exome, AC = 1, AN = 250882, AF = 3.98594e-06); E>A (genome, AC = 1, AN = 31296, AF = 3.1953e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+230	A	A>S; A>V	A>S (exome, AC = 1, AN = 250986, AF = 3.98429e-06); A>V (exome, AC = 1, AN = 251004, AF = 3.984e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+231	L	L>V	L>V (exome, AC = 1, AN = 250996, AF = 3.98413e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+232	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+233	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+234	V	V>M	V>M (exome, AC = 6, AN = 251420, AF = 2.38644e-05); V>M (genome, AC = 1, AN = 31324, AF = 3.19244e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+235	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+236	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+237	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+238	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+239	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+240	K	K>R	K>R (exome, AC = 1, AN = 251462, AF = 3.97674e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+241	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+242	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+243	Q	Q>R	Q>R (exome, AC = 2, AN = 251466, AF = 7.95336e-06); Q>R (genome, AC = 1, AN = 31348, AF = 3.19e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+244	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+245	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+246	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+247	D	D>E	D>E (exome, AC = 3, AN = 251474, AF = 1.19297e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+248	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+249	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+250	E	E>D	E>D (exome, AC = 1, AN = 251476, AF = 3.97652e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+251	N	N>S; N>K	N>S (exome, AC = 1, AN = 251476, AF = 3.97652e-06); N>K (exome, AC = 2, AN = 251474, AF = 7.95311e-06); N>K (genome, AC = 779, AN = 31352, AF = 0.0248469)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+252	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+253	V	V>M	V>M (exome, AC = 33, AN = 251470, AF = 0.000131228); V>M (genome, AC = 3, AN = 31370, AF = 9.56328e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+254	V	V>M	V>M (exome, AC = 1, AN = 251466, AF = 3.97668e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+255	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+256	N	N>K	N>K (exome, AC = 1, AN = 251454, AF = 3.97687e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+257	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+258	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+259	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+260	E	E>K; E>A; E>Q	E>K (exome, AC = 1, AN = 251078, AF = 3.98283e-06); E>A (exome, AC = 1, AN = 251118, AF = 3.98219e-06); E>Q (genome, AC = 1, AN = 31378, AF = 3.18695e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+261	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+262	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+263	M	M>I	M>I (exome, AC = 1, AN = 251238, AF = 3.98029e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+264	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+265	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+266	D	D>G	D>G (exome, AC = 2, AN = 251318, AF = 7.95805e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+267	E	E>K	E>K (exome, AC = 4, AN = 251340, AF = 1.59147e-05); E>K (genome, AC = 1, AN = 31380, AF = 3.18674e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+268	S	S>N	S>N (exome, AC = 1, AN = 251372, AF = 3.97817e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+269	D	D>N	D>N (exome, AC = 8, AN = 251380, AF = 3.18243e-05); D>N (genome, AC = 1, AN = 31368, AF = 3.18796e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+270	N	N>S	N>S (exome, AC = 3, AN = 251406, AF = 1.19329e-05)	none	none	-	129	0.662	loop	coils	Medium-exposed	Neutral & Polar	-	-	-	-	2cw9.A.280/16.009	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+271	A	A>V	A>V (exome, AC = 1, AN = 251402, AF = 3.97769e-06)	none	none	-	61	0.473	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/14.862	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+272	F	F>I; F>L	F>I (exome, AC = 7, AN = 251422, AF = 2.78416e-05); F>L (genome, AC = 2, AN = 31384, AF = 6.37267e-05)	none	none	-	105	0.43799999999999994	alpha-helix	Helices	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	2cw9.A.280/12.939	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+273	I	I>F	I>F (genome, AC = 1, AN = 31370, AF = 3.18776e-05)	none	none	-	74	0.376	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/11.092	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+274	R	R>W; R>Q	R>W (exome, AC = 1, AN = 251422, AF = 3.97738e-06); R>Q (exome, AC = 2, AN = 251428, AF = 7.95456e-06)	none	none	-	153	0.5579999999999999	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	2cw9.A.280/10.038	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+275	A	none	none	none	none	-	58	0.45	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/8.932	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+276	S	none	none	none	none	-	12	0.077	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	2cw9.A.280/6.582	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+277	R	R>W; R>Q	R>W (exome, AC = 1, AN = 251438, AF = 3.97712e-06); R>Q (exome, AC = 3, AN = 251444, AF = 1.19311e-05); R>Q (genome, AC = 1, AN = 31378, AF = 3.18695e-05)	none	none	-	134	0.489	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	2cw9.A.280/5.259	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+278	A	A>V; A>S	A>V (exome, AC = 3, AN = 251440, AF = 1.19313e-05); A>S (genome, AC = 1, AN = 31368, AF = 3.18796e-05)	none	none	-	43	0.33299999999999996	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/5.467	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+279	L	none	none	none	none	-	30	0.149	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/3.807	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+280	T	T>M	T>M (exome, AC = 2, AN = 251448, AF = 7.95393e-06)	none	none	-	5	0.028999999999999998	alpha-helix	Helices	core	Neutral & Polar	-	-	-	-	2cw9.A.280/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+281	D	D>G	D>G (exome, AC = 4, AN = 251456, AF = 1.59074e-05)	none	none	-	80	0.415	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	2cw9.A.280/3.806	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+282	K	K>E	K>E (exome, AC = 1, AN = 251458, AF = 3.97681e-06)	none	none	-	131	0.555	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	2cw9.A.280/5.414	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+283	V	none	none	none	none	-	27	0.155	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/5.24	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+284	T	T>I	T>I (exome, AC = 2, AN = 251454, AF = 7.95374e-06); T>I (genome, AC = 1, AN = 31392, AF = 3.18552e-05)	none	none	-	30	0.174	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	2cw9.A.280/6.419	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+285	D	D>N	D>N (exome, AC = 2, AN = 251448, AF = 7.95393e-06)	none	none	-	116	0.601	alpha-helix	Helices	Medium-exposed	Negatively Charged & Polar	-	-	-	-	2cw9.A.280/8.808	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+286	L	none	none	none	none	-	156	0.7759999999999999	alpha-helix	Helices	exposed	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/10.155	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+287	L	none	none	none	none	-	51	0.254	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.292/8.322	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+288	G	none	none	none	none	-	36	0.316	loop	coils	Medium-buried	Special	-	-	-	-	2cw9.A.292/5.442	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+289	G	none	none	none	none	-	50	0.439	loop	coils	Medium-buried	Special	-	-	-	-	2cw9.A.292/5.189	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+290	L	L>V	L>V (exome, AC = 1, AN = 251206, AF = 3.9808e-06)	none	none	-	167	0.831	turn	coils	exposed	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.292/5.756	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+291	F	none	none	none	none	-	134	0.5579999999999999	turn	coils	Medium-exposed	Aromatic & Hydrophobic	-	-	-	-	2cw9.A.292/3.81	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+292	S	none	none	none	none	-	26	0.168	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	2cw9.A.292/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+293	K	none	none	none	none	-	172	0.7290000000000001	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	2cw9.A.292/3.828	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+294	T	none	none	none	none	-	84	0.488	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	2cw9.A.292/5.645	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+295	E	none	none	none	none	-	79	0.354	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	2cw9.A.292/5.093	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+296	M	none	none	none	none	-	25	0.11199999999999999	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+297	S	none	none	none	none	-	71	0.45799999999999996	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	2cw9.A.292/8.542	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+298	E	E>Q	E>Q (exome, AC = 1, AN = 251352, AF = 3.97848e-06)	none	none	-	121	0.5429999999999999	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	2cw9.A.292/9.842	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+299	V	none	none	none	none	-	1	0.006	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.292/10.519	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+300	L	L>F	L>F (exome, AC = 1, AN = 251356, AF = 3.97842e-06)	none	none	-	29	0.14400000000000002	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.292/12.233	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+301	T	T>M	T>M (exome, AC = 1, AN = 251372, AF = 3.97817e-06)	none	none	-	67	0.39	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	2cw9.A.292/14.241	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+302	E	none	none	none	none	-	65	0.29100000000000004	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	2cw9.A.292/15.622	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+303	I	I>N	I>N (exome, AC = 1, AN = 251376, AF = 3.9781e-06)	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/12.992	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+304	L	none	none	none	none	-	71	0.353	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/14.18	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+305	R	R>Q	R>Q (exome, AC = 6, AN = 251350, AF = 2.38711e-05)	none	none	-	172	0.628	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	2cw9.A.435/15.808	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+306	V	V>A	V>A (exome, AC = 5, AN = 251370, AF = 1.9891e-05)	none	none	-	64	0.368	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/12.702	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+307	D	none	none	none	none	-	32	0.166	loop	coils	buried	Negatively Charged & Polar	-	-	-	-	2cw9.A.435/10.555	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+308	P	P>A; P>Q	P>A (exome, AC = 2, AN = 251376, AF = 7.95621e-06); P>Q (exome, AC = 687, AN = 251354, AF = 0.0027332); P>Q (genome, AC = 84, AN = 31314, AF = 0.00268251)	P>Q	P>Q (ClinVar, phenotype = Oncocytic thyroid carcinoma)	-	102	0.642	turn	coils	Medium-exposed	Special	-	-	-	-	2cw9.A.435/13.57	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+309	A	A>T	A>T (exome, AC = 3, AN = 251356, AF = 1.19353e-05)	none	none	-	64	0.496	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/11.977	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+310	F	none	none	none	none	-	28	0.11699999999999999	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	2cw9.A.435/10.518	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+311	D	none	none	none	none	-	60	0.311	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	2cw9.A.435/12.086	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+312	K	none	none	none	none	-	84	0.35600000000000004	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	2cw9.A.435/13.22	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+313	D	none	none	none	none	-	117	0.606	alpha-helix	Helices	Medium-exposed	Negatively Charged & Polar	-	-	-	-	2cw9.A.435/13.849	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+314	R	R>W; R>Q	R>W (exome, AC = 35, AN = 251372, AF = 0.000139236); R>Q (exome, AC = 17, AN = 251374, AF = 6.76283e-05); R>W (genome, AC = 2, AN = 31338, AF = 6.38203e-05)	none	none	-	136	0.496	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	2cw9.A.435/10.599	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+315	F	none	none	none	none	-	5	0.021	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	2cw9.A.435/9.073	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+316	L	none	none	none	none	-	26	0.129	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/11.951	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+317	K	none	none	none	none	-	113	0.479	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	2cw9.A.435/11.447	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+318	Q	Q>H	Q>H (exome, AC = 3, AN = 251366, AF = 1.19348e-05)	none	none	-	38	0.16899999999999998	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	2cw9.A.435/8.113	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+319	C	C>Y	C>Y (exome, AC = 1, AN = 251364, AF = 3.97829e-06)	none	none	-	0	0	pi-helix	Helices	core	Special	-	-	-	-	2cw9.A.435/10.287	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+320	E	none	none	none	none	-	69	0.309	pi-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	2cw9.A.435/13.129	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+321	N	none	none	none	none	-	112	0.574	pi-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	2cw9.A.435/11.881	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+322	D	D>N	D>N (exome, AC = 2, AN = 251310, AF = 7.9583e-06)	none	none	-	52	0.26899999999999996	pi-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	2cw9.A.435/9.629	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+323	I	none	none	none	none	-	3	0.015	pi-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/9.871	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+324	I	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/13.557	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+325	P	none	none	none	none	-	41	0.258	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	2cw9.A.435/15.018	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+326	N	N>S	N>S (exome, AC = 2, AN = 251196, AF = 7.96191e-06)	none	none	-	77	0.395	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	2cw9.A.435/13.859	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+327	V	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/14.802	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+328	L	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/17.947	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+329	E	none	none	none	none	-	70	0.314	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	2cw9.A.435/19.098	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+330	A	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/18.928	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+331	M	M>V	M>V (genome, AC = 1, AN = 31222, AF = 3.20287e-05)	none	none	-	38	0.17	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+332	I	none	none	none	none	-	12	0.061	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/22.86	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+333	S	none	none	none	none	-	31	0.2	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	2cw9.A.435/23.951	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+334	G	none	none	none	none	-	1	0.009000000000000001	turn	coils	core	Special	-	-	-	-	2cw9.A.435/24.391	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+335	E	none	none	none	none	-	76	0.341	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	2cw9.A.435/21.805	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+336	L	none	none	none	none	-	28	0.139	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/21.79	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+337	D	none	none	none	none	-	136	0.705	alpha-helix	Helices	Medium-exposed	Negatively Charged & Polar	-	-	-	-	2cw9.A.435/19.922	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+338	I	I>V	I>V (exome, AC = 1, AN = 251452, AF = 3.9769e-06)	none	none	-	69	0.35	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/16.819	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+339	L	none	none	none	none	-	1	0.005	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/17.237	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+340	K	K>E	K>E (exome, AC = 1, AN = 251442, AF = 3.97706e-06)	none	none	-	131	0.555	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	2cw9.A.435/17.628	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+341	D	D>G	D>G (exome, AC = 1, AN = 251432, AF = 3.97722e-06)	none	none	-	121	0.627	alpha-helix	Helices	Medium-exposed	Negatively Charged & Polar	-	-	-	-	2cw9.A.435/14.206	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+342	W	W>G	W>G (exome, AC = 1, AN = 251426, AF = 3.97731e-06)	none	none	-	51	0.179	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	2cw9.A.435/12.619	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+343	C	none	none	none	none	-	11	0.066	beta-strand	beta-strand/sheet	buried	Special	-	-	-	-	2cw9.A.435/15.134	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+344	Y	Y>C	Y>C (exome, AC = 1, AN = 251358, AF = 3.97839e-06)	none	none	-	39	0.14800000000000002	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	2cw9.A.435/16.626	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+345	E	none	none	none	none	-	174	0.78	alpha-helix	Helices	exposed	NegativelyCharged & Polar	-	-	-	-	2cw9.A.435/20.044	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+346	A	A>V	A>V (exome, AC = 1, AN = 251252, AF = 3.98007e-06)	none	none	-	71	0.55	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/22.466	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+347	T	T>I	T>I (exome, AC = 2, AN = 248098, AF = 8.06133e-06)	none	none	-	16	0.09300000000000001	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	2cw9.A.435/20.509	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+348	Y	none	none	none	none	-	40	0.152	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	2cw9.A.435/20.627	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+349	S	none	none	none	none	-	45	0.29	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	2cw9.A.435/24.332	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+350	Q	Q>E	Q>E (exome, AC = 4, AN = 248780, AF = 1.60785e-05)	none	none	-	147	0.653	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	2cw9.A.435/25.272	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+351	L	none	none	none	none	-	38	0.18899999999999997	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/23.678	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+352	A	none	none	none	none	-	1	0.008	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/24.855	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+353	H	none	none	none	none	-	102	0.455	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	2cw9.A.435/28.518	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+354	P	P>R	P>R (exome, AC = 1, AN = 249588, AF = 4.0066e-06)	none	none	-	74	0.465	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	2cw9.A.280/28.828	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+355	I	I>V	I>V (genome, AC = 1, AN = 31362, AF = 3.18857e-05)	none	none	-	17	0.086	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/27.98	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+356	Q	none	none	none	none	-	91	0.40399999999999997	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	2cw9.A.435/29.683	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+357	Q	none	none	none	none	-	133	0.591	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	2cw9.A.435/32.961	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+358	A	none	none	none	none	-	11	0.085	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/32.699	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+359	K	none	none	none	none	-	100	0.424	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	2cw9.A.435/32.058	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+360	A	none	none	none	none	-	84	0.6509999999999999	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/35.108	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+361	L	L>V	L>V (exome, AC = 1, AN = 250148, AF = 3.99763e-06)	none	none	-	121	0.602	turn	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/37.194	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+362	G	none	none	none	none	-	32	0.281	turn	coils	Medium-buried	Special	-	-	-	-	2cw9.A.435/35.814	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+363	L	L>F	L>F (exome, AC = 1, AN = 250200, AF = 3.9968e-06)	none	none	-	33	0.16399999999999998	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/34.451	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+364	Q	Q>R	Q>R (exome, AC = 1, AN = 250212, AF = 3.99661e-06)	none	none	-	107	0.47600000000000003	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	2cw9.A.435/32.308	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+365	F	none	none	none	none	-	51	0.212	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	2cw9.A.280/29.084	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+366	H	H>Y; H>R	H>Y (exome, AC = 1, AN = 250198, AF = 3.99683e-06); H>R (exome, AC = 1, AN = 250206, AF = 3.99671e-06)	none	none	-	89	0.397	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	2cw9.A.280/28.298	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+367	S	none	none	none	none	-	6	0.039	loop	coils	core	Neutral & Polar	-	-	-	-	2cw9.A.280/24.477	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+368	R	R>C; R>L; R>H	R>C (exome, AC = 4, AN = 250118, AF = 1.59925e-05); R>L (exome, AC = 5, AN = 250098, AF = 1.99922e-05); R>H (exome, AC = 9, AN = 250098, AF = 3.59859e-05); R>H (genome, AC = 1, AN = 31370, AF = 3.18776e-05)	none	none	-	187	0.682	beta-sheet	beta-strand/sheet	Medium-exposed	Positively Charged & Polar	-	-	-	-	2cw9.A.280/22.67	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+369	I	I>F	I>F (exome, AC = 1, AN = 250134, AF = 3.99786e-06)	none	none	-	43	0.218	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/19.315	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+370	L	none	none	none	none	-	105	0.522	beta-sheet	beta-strand/sheet	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/18.626	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+371	D	none	none	none	none	-	75	0.389	beta-sheet	beta-strand/sheet	Medium-buried	Negatively Charged & Polar	-	-	-	-	2cw9.A.280/15.633	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+372	I	I>V; I>T	I>V (exome, AC = 7753, AN = 249788, AF = 0.0310383); I>T (exome, AC = 1, AN = 249974, AF = 4.00042e-06); I>V (genome, AC = 1100, AN = 31350, AF = 0.0350877)	none	none	-	25	0.127	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/12.926	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+373	D	D>A	D>A (exome, AC = 3, AN = 249936, AF = 1.20031e-05)	none	none	-	48	0.249	beta-sheet	beta-strand/sheet	buried	Negatively Charged & Polar	-	-	-	-	2cw9.A.280/10.157	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+374	N	N>S	N>S (exome, AC = 2, AN = 249754, AF = 8.00788e-06)	none	none	-	26	0.133	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	2cw9.A.280/6.903	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+375	V	V>I	V>I (exome, AC = 1, AN = 249576, AF = 4.0068e-06)	none	none	-	24	0.138	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/8.485	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+376	D	D>N; D>G	D>N (exome, AC = 2, AN = 249242, AF = 8.02433e-06); D>G (exome, AC = 1, AN = 249144, AF = 4.01374e-06)	none	none	-	49	0.254	beta-sheet	beta-strand/sheet	Medium-buried	Negatively Charged & Polar	-	-	-	-	2cw9.A.280/7.803	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+377	L	none	none	none	none	-	26	0.129	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/10.099	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+378	A	A>T	A>T (exome, AC = 1, AN = 247562, AF = 4.03939e-06)	none	none	-	13	0.10099999999999999	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.292/9.373	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+379	M	none	none	none	none	-	43	0.192	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+380	G	none	none	none	none	-	1	0.009000000000000001	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	2cw9.A.292/7.41	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+381	K	none	none	none	none	-	74	0.314	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	2cw9.A.292/8.732	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+382	M	M>T	M>T (exome, AC = 1, AN = 248700, AF = 4.02091e-06)	none	none	-	92	0.41100000000000003	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+383	M	M>V; M>I	M>V (exome, AC = 1, AN = 248870, AF = 4.01816e-06); M>I (exome, AC = 1, AN = 248926, AF = 4.01726e-06)	none	none	-	39	0.174	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.292/15.071	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+384	E	none	none	none	none	-	171	0.767	turn	coils	exposed	NegativelyCharged & Polar	-	-	-	-	2cw9.A.292/18.705	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+385	Q	none	none	none	none	-	84	0.373	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	2cw9.A.435/17.663	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+386	G	G>R	G>R (exome, AC = 17, AN = 249326, AF = 6.81838e-05)	none	none	-	8	0.07	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	2cw9.A.435/15.931	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+387	P	P>L	P>L (exome, AC = 4, AN = 249430, AF = 1.60366e-05)	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	2cw9.A.292/14.183	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+388	V	V>M	V>M (exome, AC = 100, AN = 249542, AF = 0.000400734); V>M (genome, AC = 10, AN = 31368, AF = 0.000318796)	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.292/12.813	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+389	L	none	none	none	none	-	1	0.005	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.292/11.809	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+390	I	none	none	none	none	-	15	0.076	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.292/11.644	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+391	I	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/10.453	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+392	T	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Neutral & Polar	-	-	-	-	2cw9.A.280/7.558	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+393	F	F>L	F>L (exome, AC = 1, AN = 250240, AF = 3.99616e-06)	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	2cw9.A.280/7.445	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+394	Q	none	none	none	none	-	5	0.022000000000000002	beta-sheet	beta-strand/sheet	core	Neutral & Polar	-	-	-	-	2cw9.A.280/8.022	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+395	A	none	none	none	none	-	2	0.016	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/11.761	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+396	Q	Q>L	Q>L (exome, AC = 3, AN = 250496, AF = 1.19762e-05)	none	none	-	43	0.191	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	2cw9.A.280/14.543	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+397	L	none	none	none	none	-	3	0.015	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/17.622	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+398	V	none	none	none	none	-	36	0.207	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/21.179	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+399	M	none	none	none	none	-	55	0.24600000000000002	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+400	V	none	none	none	none	-	6	0.034	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/26.498	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+401	V	none	none	none	none	-	4	0.023	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/29.267	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+402	R	R>G	R>G (exome, AC = 1, AN = 250606, AF = 3.99033e-06)	none	none	-	66	0.24100000000000002	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	2cw9.A.280/32.943	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+403	N	none	none	none	none	-	27	0.138	loop	coils	buried	Neutral & Polar	-	-	-	-	2cw9.A.280/36.297	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+404	P	P>S	P>S (exome, AC = 3, AN = 250612, AF = 1.19707e-05)	none	none	-	107	0.6729999999999999	turn	coils	Medium-exposed	Special	-	-	-	-	2cw9.A.280/39.339	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+405	K	K>R	K>R (exome, AC = 1, AN = 250682, AF = 3.98912e-06)	none	none	-	172	0.7290000000000001	turn	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	2cw9.A.280/40.402	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+406	G	G>S	G>S (exome, AC = 1, AN = 250650, AF = 3.98963e-06)	none	none	-	39	0.342	bend	coils	Medium-buried	Special	-	-	-	-	2cw9.A.280/37.31	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+407	E	E>K	E>K (exome, AC = 7, AN = 250646, AF = 2.79278e-05)	none	none	-	110	0.493	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	2cw9.A.280/36.192	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+408	V	none	none	none	none	-	59	0.33899999999999997	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/32.575	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+409	V	none	none	none	none	-	73	0.42	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/32.346	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+410	E	none	none	none	none	-	116	0.52	beta-sheet	beta-strand/sheet	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	2cw9.A.280/28.592	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+411	G	none	none	none	none	-	52	0.456	beta-sheet	beta-strand/sheet	Medium-buried	Special	-	-	-	-	2cw9.A.280/25.596	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+412	D	none	none	none	none	-	72	0.373	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	2cw9.A.280/26.054	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+413	P	P>L	P>L (exome, AC = 3, AN = 250436, AF = 1.19791e-05)	none	none	-	43	0.27	turn	coils	Medium-buried	Special	-	-	-	-	2cw9.A.280/26.867	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+414	D	D>E	D>E (exome, AC = 1, AN = 246494, AF = 4.05689e-06)	none	none	-	147	0.762	turn	coils	exposed	Negatively Charged & Polar	-	-	-	-	2cw9.A.280/26.157	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+415	K	K>R	K>R (exome, AC = 1, AN = 246782, AF = 4.05216e-06)	none	none	-	88	0.373	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	2cw9.A.280/22.722	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+416	V	none	none	none	none	-	73	0.42	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/19.301	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+417	L	none	none	none	none	-	47	0.23399999999999999	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/16.669	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+418	R	R>W; R>Q	R>W (exome, AC = 3, AN = 247152, AF = 1.21383e-05); R>Q (exome, AC = 1, AN = 247326, AF = 4.04325e-06)	none	none	-	80	0.292	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	2cw9.A.280/12.954	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+419	M	M>I	M>I (exome, AC = 1, AN = 247418, AF = 4.04174e-06)	none	none	-	34	0.152	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+420	L	L>V	L>V (exome, AC = 1, AN = 247360, AF = 4.04269e-06)	none	none	-	17	0.085	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/8.187	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+421	Y	none	none	none	none	-	19	0.07200000000000001	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	2cw9.A.280/9.874	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+422	V	V>M	V>M (exome, AC = 9, AN = 247616, AF = 3.63466e-05)	none	none	-	28	0.161	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/10.372	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+423	W	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	2cw9.A.280/13.414	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+424	A	A>G	A>G (exome, AC = 1, AN = 247636, AF = 4.03819e-06)	A>A	A>A (ClinVar, phenotype = Oncocytic thyroid carcinoma)	-	7	0.054000000000000006	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.292/15.06	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+425	L	L>V	L>V (exome, AC = 7, AN = 247730, AF = 2.82566e-05); L>V (genome, AC = 3, AN = 31324, AF = 9.57732e-05)	none	none	-	1	0.005	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/12.889	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+426	C	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	2cw9.A.435/12.706	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+427	R	R>Q	R>Q (exome, AC = 1, AN = 247764, AF = 4.0361e-06)	none	none	-	3	0.011000000000000001	beta-sheet	beta-strand/sheet	core	Positively Charged & Polar	-	-	-	-	2cw9.A.435/10.362	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+428	D	none	none	none	none	-	50	0.259	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	2cw9.A.435/10.987	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+429	Q	none	none	none	none	-	38	0.16899999999999998	turn	coils	buried	Neutral & Polar	-	-	-	-	2cw9.A.435/12.247	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+430	D	D>E	D>E (exome, AC = 2, AN = 247858, AF = 8.06914e-06)	none	none	-	150	0.777	turn	coils	exposed	Negatively Charged & Polar	-	-	-	-	2cw9.A.435/12.69	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+431	E	E>K; E>D	E>K (exome, AC = 1, AN = 247858, AF = 4.03457e-06); E>D (exome, AC = 1, AN = 247870, AF = 4.03437e-06)	none	none	-	53	0.23800000000000002	loop	coils	buried	NegativelyCharged & Polar	-	-	-	-	2cw9.A.435/9.252	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+432	L	L>V; L>P	L>V (exome, AC = 1, AN = 247852, AF = 4.03467e-06); L>P (exome, AC = 1, AN = 247904, AF = 4.03382e-06)	none	none	-	171	0.851	bend	coils	exposed	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/9.139	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+433	N	none	none	none	none	-	68	0.349	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	2cw9.A.435/5.585	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+434	P	none	none	none	none	-	40	0.252	310-helix	Helices	Medium-buried	Special	-	-	-	-	2cw9.A.435/3.811	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+435	Y	none	none	none	none	-	163	0.62	310-helix	Helices	Medium-exposed	Aromatic & Hydrophobic	-	-	-	-	2cw9.A.435/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+436	A	A>T; A>V	A>T (exome, AC = 2, AN = 247616, AF = 8.07702e-06); A>V (exome, AC = 8, AN = 247472, AF = 3.23269e-05); A>T (genome, AC = 2, AN = 31334, AF = 6.38284e-05); A>V (genome, AC = 1, AN = 31338, AF = 3.19101e-05)	none	none	-	43	0.33299999999999996	310-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/3.808	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+437	A	none	none	none	none	-	0	0	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/5.857	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+438	W	none	none	none	none	-	12	0.042	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	2cw9.A.435/7.459	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+439	R	R>W; R>Q	R>W (exome, AC = 1, AN = 246808, AF = 4.05173e-06); R>Q (exome, AC = 1, AN = 246782, AF = 4.05216e-06)	none	none	-	77	0.281	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	2cw9.A.435/10.594	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+440	L	none	none	none	none	-	1	0.005	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/13.864	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+441	L	none	none	none	none	-	27	0.134	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.435/16.66	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+442	D	none	none	none	none	-	96	0.49700000000000005	beta-sheet	beta-strand/sheet	Medium-buried	Negatively Charged & Polar	-	-	-	-	2cw9.A.280/18.673	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+443	I	none	none	none	none	-	38	0.193	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/16.032	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+444	S	S>L	S>L (exome, AC = 1, AN = 245798, AF = 4.06838e-06)	none	none	-	67	0.43200000000000005	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	2cw9.A.280/14.396	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+445	A	A>P	A>P (exome, AC = 1, AN = 245308, AF = 4.07651e-06)	none	none	-	50	0.38799999999999996	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/12.558	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+446	S	none	none	none	none	-	75	0.484	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	2cw9.A.280/12.387	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+447	S	S>G; S>T	S>G (exome, AC = 1, AN = 245020, AF = 4.0813e-06); S>T (exome, AC = 303, AN = 244752, AF = 0.00123799); S>T (genome, AC = 146, AN = 31372, AF = 0.00465383)	none	none	-	59	0.381	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	2cw9.A.280/12.935	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+448	T	T>A	T>A (exome, AC = 1, AN = 244564, AF = 4.08891e-06)	none	none	-	9	0.052000000000000005	loop	coils	buried	Neutral & Polar	-	-	-	-	2cw9.A.280/10.917	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+449	E	none	none	none	none	-	121	0.5429999999999999	turn	coils	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	2cw9.A.280/14.256	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+450	Q	none	none	none	none	-	203	0.902	turn	coils	exposed	Neutral & Polar	-	-	-	-	2cw9.A.280/14.673	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+451	I	none	none	none	none	-	139	0.706	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	2cw9.A.280/11.122	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+452	L	L>I; L>V	L>I (exome, AC = 1, AN = 242704, AF = 4.12025e-06); L>V (genome, AC = 2, AN = 31360, AF = 6.37755e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
