@@ -6,7 +6,7 @@ The dataset in the current version of MISCAST spans 1,330 human genes, with 406,
 
 The variants are mapped from Ensembl transcript to 17,953 human protein 3D structures from Protein Data Bank (https://www.rcsb.org/).
 
-Further, a comprehensive set of per annotations of protein structural, physicochemical, and functional features per residues were collected from multiple resources spanning DSSP, PDBsum, PhosphoSitePlus, PANTHER, UniProt. For the details about feature set annotation and mining, we refer the user to read the documentation page of MISCAST web server.
+Further, a comprehensive set of per annotations of protein structural, physicochemical, and functional features per residues were collected from multiple resources spanning DSSP (https://swift.cmbi.umcn.nl/gv/dssp/), PDBsum (http://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPage.pl?pdbcode=index.html), PhosphoSitePlus (https://www.phosphosite.org/homeAction), PANTHER (http://www.pantherdb.org/panther/ontologies.jsp?), UniProt (https://www.uniprot.org/). For the details about feature set annotation and mining, we refer the user to read the documentation page of MISCAST web server.
 
 All annotation tracks (pathogenic and population missense variants and protein features) were subsequently mapped and displayed in protein sequence and structure in the web server. 
 
