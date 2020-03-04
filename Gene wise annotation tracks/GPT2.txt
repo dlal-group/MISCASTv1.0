@@ -1,0 +1,524 @@
+Amino Acid Index	Amino Acid	Population Mutation	Population Mutation (details)	Pathogenic Mutation	Pathogenic Mutation (details)	Bond Detail	Accessible Surface Area	Relative Accessible Surface Area	8-class DSSP Secondary Structure Properties	3-class DSSP Secondary Structure Properties	Exposure	Physiochemical Property	Acetylation Detail	Methylation Detail	O.GalNAc Detail	O.GclNAc Detail	Phosphorylation Detail	Sumoylation Detail	Ubiquitination Detail	Active Site	Metal Binding Site	binding Site	Site	Zinc Finger	Dna Binding	Nucleotide Phosphate Binding	Calcium Binding	Region	Repeat	Coiled Coil	Topological Domain	Peptide	Modified Residue	Motif	Domain	Intramembrane	Propetide	Lipidation	Glycosylation	Cross Links	Disulfide Bond	Transit Peptide	Transmembrane	Signal Peptide	Functional Site	Functional Binding Region	Sequence Motif Region	Modular Domain	Molecular Processing	Modified Residues
+1	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+3	R	R>Q; R>L	R>Q (exome, AC = 1, AN = 109424, AF = 9.13876e-06); R>L (exome, AC = 25, AN = 109424, AF = 0.000228469); R>L (genome, AC = 56, AN = 31246, AF = 0.00179223)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+4	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+5	A	A>V	A>V (genome, AC = 2, AN = 31230, AF = 6.4041e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+6	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+7	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+8	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+9	R	R>G	R>G (exome, AC = 3, AN = 108502, AF = 2.76493e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+10	R	R>W	R>W (exome, AC = 1, AN = 109034, AF = 9.17145e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+11	G	G>V	G>V (exome, AC = 1, AN = 114046, AF = 8.76839e-06); G>V (genome, AC = 2, AN = 31250, AF = 6.4e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+12	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+13	G	G>D	G>D (exome, AC = 1, AN = 119744, AF = 8.35115e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+14	P	P>R; P>S	P>R (exome, AC = 1, AN = 127092, AF = 7.86832e-06); P>S (genome, AC = 1, AN = 31194, AF = 3.20574e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+15	R	R>G; R>W	R>G (exome, AC = 1, AN = 128596, AF = 7.77629e-06); R>W (exome, AC = 2, AN = 128596, AF = 1.55526e-05); R>W (genome, AC = 1, AN = 31184, AF = 3.20677e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+16	T	T>I	T>I (genome, AC = 2, AN = 31196, AF = 6.41108e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+17	P	P>R	P>R (exome, AC = 2, AN = 144644, AF = 1.38271e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+18	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+19	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+20	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+21	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+22	R	R>G; R>C	R>G (exome, AC = 1, AN = 146846, AF = 6.80986e-06); R>C (exome, AC = 1, AN = 146846, AF = 6.80986e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+23	S	S>R	S>R (exome, AC = 1, AN = 143914, AF = 6.94859e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+24	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+25	S	S>T	S>T (exome, AC = 1, AN = 138980, AF = 7.19528e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+26	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+27	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+28	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+29	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+30	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+31	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+32	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+33	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+34	V	V>M	V>M (exome, AC = 3, AN = 132116, AF = 2.27073e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+35	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+36	K	K>M	K>M (exome, AC = 1, AN = 134422, AF = 7.43926e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+37	V	V>M	V>M (exome, AC = 12, AN = 137624, AF = 8.71941e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+38	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+39	P	P>T	P>T (exome, AC = 1, AN = 138284, AF = 7.23149e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+40	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+41	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+42	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+43	R	R>L	R>L (exome, AC = 1, AN = 140416, AF = 7.1217e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+44	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+45	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+46	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+47	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+48	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+49	T	none	none	none	none	-	82	0.47700000000000004	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.88/35.156	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+50	L	none	none	none	none	-	98	0.488	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/38.881	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+51	E	none	none	none	none	-	125	0.561	beta-sheet	beta-strand/sheet	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	3ihj.A.88/39.244	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+52	S	none	none	none	none	-	39	0.252	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.88/42.915	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+53	M	none	none	none	none	-	116	0.518	beta-sheet	beta-strand/sheet	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/46.117	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+54	N	none	none	none	none	-	146	0.7490000000000001	turn	coils	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.491/47.591	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+55	P	none	none	none	none	-	50	0.314	turn	coils	Medium-buried	Special	-	-	-	-	3ihj.A.491/45.482	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+56	Q	none	none	none	none	-	106	0.47100000000000003	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/43.618	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+57	V	V>M	V>M (exome, AC = 1, AN = 145586, AF = 6.86879e-06)	none	none	-	67	0.385	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/39.845	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+58	K	none	none	none	none	-	131	0.555	beta-sheet	beta-strand/sheet	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ihj.A.491/37.596	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+59	A	none	none	none	none	-	34	0.264	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/34.182	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+60	V	none	none	none	none	-	52	0.299	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/31.946	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+61	E	none	none	none	none	-	104	0.466	beta-sheet	beta-strand/sheet	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/28.882	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+62	Y	none	none	none	none	-	134	0.51	beta-sheet	beta-strand/sheet	Medium-exposed	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/26.349	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+63	A	none	none	none	none	-	13	0.10099999999999999	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/23.79	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+64	V	none	none	none	none	-	94	0.54	beta-sheet	beta-strand/sheet	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/20.59	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+65	R	none	none	none	none	-	128	0.467	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/20.922	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+66	G	none	none	none	none	-	26	0.228	loop	coils	buried	Special	-	-	-	-	3ihj.A.491/17.767	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+67	P	none	none	none	none	-	52	0.327	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	3ihj.A.491/17.211	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+68	I	none	none	none	none	-	16	0.081	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/16.263	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+69	V	none	none	none	none	-	56	0.322	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/17.772	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+70	L	none	none	none	none	-	108	0.537	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/18.027	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+71	K	K>Q	K>Q (genome, AC = 1, AN = 31332, AF = 3.19163e-05)	none	none	-	46	0.195	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.88/15.29	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+72	A	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/12.771	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+73	G	G>S	G>S (exome, AC = 5, AN = 134340, AF = 3.7219e-05)	none	none	-	28	0.24600000000000002	alpha-helix	Helices	buried	Special	-	-	-	-	3ihj.A.88/13.976	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+74	E	none	none	none	none	-	92	0.413	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.88/13.903	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+75	I	none	none	none	none	-	2	0.01	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/10.22	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+76	E	none	none	none	none	-	81	0.363	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.88/9.447	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+77	L	none	none	none	none	-	92	0.45799999999999996	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/11.808	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+78	E	none	none	none	none	-	26	0.11699999999999999	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.88/10.484	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+79	L	none	none	none	none	-	40	0.19899999999999998	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/7.182	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+80	Q	none	none	none	none	-	160	0.711	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.88/9.914	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+81	R	R>W	R>W (exome, AC = 1, AN = 113384, AF = 8.81959e-06)	none	none	-	166	0.606	turn	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ihj.A.88/12.182	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+82	G	none	none	none	none	-	63	0.5529999999999999	turn	coils	Medium-exposed	Special	-	-	-	-	3ihj.A.88/10.061	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+83	I	none	none	none	none	-	69	0.35	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/9.654	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+84	K	none	none	none	none	-	97	0.41100000000000003	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.88/7.997	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+85	K	K>N	K>N (exome, AC = 1, AN = 251388, AF = 3.97791e-06)	none	none	-	62	0.263	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.88/6.478	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+86	P	none	none	none	none	-	106	0.667	bend	coils	Medium-exposed	Special	-	-	-	-	3ihj.A.88/6.965	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+87	F	none	none	none	none	-	11	0.046	bend	coils	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.88/3.781	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+88	T	none	none	none	none	-	126	0.733	bend	coils	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.88/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+89	E	none	none	none	none	-	101	0.45299999999999996	bend	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.88/3.823	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+90	V	none	none	none	none	-	18	0.10300000000000001	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/7.281	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+91	I	none	none	none	none	-	23	0.11699999999999999	beta-strand	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/9.551	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+92	R	R>G	R>G (exome, AC = 1, AN = 251414, AF = 3.9775e-06)	none	none	-	100	0.365	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.88/13.249	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+93	A	none	none	none	none	-	28	0.217	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/15.352	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+94	N	none	none	none	none	-	122	0.626	loop	coils	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.88/18.663	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+95	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+96	G	G>R	G>R (exome, AC = 6, AN = 251412, AF = 2.38652e-05); G>R (genome, AC = 1, AN = 31386, AF = 3.18613e-05)	G>R	G>R (ClinVar, phenotype = Intellectual disability)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+97	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+98	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+99	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+100	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+101	M	M>V; M>T	M>V (exome, AC = 1, AN = 251336, AF = 3.97874e-06); M>T (exome, AC = 1, AN = 251270, AF = 3.97978e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+102	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+103	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+104	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+105	P	none	none	none	none	-	119	0.748	loop	coils	Medium-exposed	Special	-	-	-	-	3ihj.A.88/28.626	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+106	I	none	none	none	none	-	1	0.005	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/32.335	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+107	T	none	none	none	none	-	23	0.134	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	3ihj.A.88/34.21	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+108	F	none	none	none	none	-	3	0.013000000000000001	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.88/37.282	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+109	L	none	none	none	none	-	11	0.055	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/35.648	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+110	R	R>W; R>Q	R>W (exome, AC = 2, AN = 251108, AF = 7.9647e-06); R>Q (exome, AC = 2, AN = 251012, AF = 7.96775e-06); R>Q (genome, AC = 1, AN = 31384, AF = 3.18634e-05)	none	none	-	135	0.493	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.88/33.917	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+111	Q	none	none	none	none	-	32	0.142	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	3ihj.A.88/37.329	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+112	V	V>M	V>M (exome, AC = 1, AN = 251086, AF = 3.9827e-06)	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/39.32	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+113	M	none	none	none	none	-	67	0.299	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/36.796	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+114	A	none	none	none	none	-	37	0.287	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/37.021	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+115	L	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/40.821	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+116	C	none	none	none	none	-	33	0.198	alpha-helix	Helices	buried	Special	-	-	-	-	3ihj.A.88/40.936	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+117	T	none	none	none	none	-	105	0.61	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.88/38.711	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+118	Y	none	none	none	none	-	129	0.49	loop	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.88/40.975	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+119	P	P>A	P>A (exome, AC = 1, AN = 251354, AF = 3.97845e-06)	none	none	-	55	0.34600000000000003	310-helix	Helices	Medium-buried	Special	-	-	-	-	3ihj.A.88/44.386	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+120	N	none	none	none	none	-	107	0.5489999999999999	310-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.88/45.69	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+121	L	none	none	none	none	-	40	0.19899999999999998	310-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/43.77	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+122	L	none	none	none	none	-	28	0.139	310-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/46.483	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+123	D	none	none	none	none	-	144	0.746	310-helix	Helices	Medium-exposed	Negatively Charged & Polar	-	-	-	-	3ihj.A.88/48.476	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+124	S	S>T	S>T (exome, AC = 9, AN = 251378, AF = 3.58027e-05)	none	none	-	21	0.135	loop	coils	buried	Neutral & Polar	-	-	-	-	3ihj.A.88/45.635	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+125	P	P>A	P>A (exome, AC = 1, AN = 251370, AF = 3.9782e-06)	none	none	-	129	0.8109999999999999	bend	coils	exposed	Special	-	-	-	-	3ihj.A.88/45.8	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+126	S	S>N	S>N (exome, AC = 1, AN = 251376, AF = 3.9781e-06); S>N (genome, AC = 1, AN = 31396, AF = 3.18512e-05)	none	none	-	99	0.639	bend	coils	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.88/41.992	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+127	F	none	none	none	none	-	31	0.129	bend	coils	buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.88/42.611	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+128	P	none	none	none	none	-	20	0.126	loop	coils	buried	Special	-	-	-	-	3ihj.A.88/44.471	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+129	E	none	none	none	none	-	96	0.43	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.88/47.413	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+130	D	none	none	none	none	-	9	0.047	alpha-helix	Helices	core	Negatively Charged & Polar	-	-	-	-	3ihj.A.88/46.329	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+131	A	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/43.268	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+132	K	none	none	none	none	-	17	0.07200000000000001	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.88/45.73	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+133	K	K>Q; K>R	K>Q (exome, AC = 2, AN = 251376, AF = 7.95621e-06); K>R (exome, AC = 1, AN = 251372, AF = 3.97817e-06)	none	none	-	82	0.34700000000000003	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.88/48.006	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+134	R	R>C	R>C (exome, AC = 1, AN = 251358, AF = 3.97839e-06)	R>C	R>C (ClinVar, phenotype = Microcephaly, intellectual disability & developmental delay)	-	21	0.077	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.88/45.274	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+135	A	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/44.36	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+136	R	R>W; R>Q	R>W (exome, AC = 3, AN = 251314, AF = 1.19373e-05); R>Q (exome, AC = 4, AN = 251290, AF = 1.59179e-05); R>Q (genome, AC = 1, AN = 31394, AF = 3.18532e-05)	none	none	-	83	0.303	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.88/48.062	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+137	R	R>W; R>Q	R>W (exome, AC = 8, AN = 251272, AF = 3.1838e-05); R>Q (exome, AC = 5, AN = 251270, AF = 1.98989e-05); R>Q (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	44	0.161	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.88/48.772	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+138	I	none	none	none	none	-	7	0.036000000000000004	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/45.813	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+139	L	L>P	L>P (exome, AC = 1, AN = 251224, AF = 3.98051e-06)	none	none	-	64	0.318	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/46.854	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+140	Q	Q>K	Q>K (exome, AC = 30, AN = 251222, AF = 0.000119416); Q>K (genome, AC = 11, AN = 31400, AF = 0.000350318)	none	none	-	161	0.716	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.88/50.448	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+141	A	none	none	none	none	-	33	0.256	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/49.628	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+142	C	none	none	none	none	-	66	0.395	loop	coils	Medium-buried	Special	-	-	-	-	3ihj.A.88/46.487	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+143	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+144	G	G>R	G>R (exome, AC = 1, AN = 249880, AF = 4.00192e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+145	N	N>S	N>S (exome, AC = 1, AN = 249748, AF = 4.00404e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+146	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+147	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+148	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+149	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+150	Y	Y>S	Y>S (exome, AC = 1, AN = 251450, AF = 3.97693e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+151	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+152	A	A>T	A>T (exome, AC = 3, AN = 251472, AF = 1.19298e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+153	S	none	none	S>R	S>R (ClinVar, phenotype = Mental retardation, autosomal recessive 49)	-	106	0.684	loop	coils	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.491/45.625	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+154	Q	none	none	none	none	-	47	0.209	loop	coils	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/42.772	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+155	G	G>C	G>C (exome, AC = 1, AN = 251484, AF = 3.9764e-06)	none	none	-	4	0.035	bend	coils	core	Special	-	-	-	-	3ihj.A.491/43.128	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+156	V	none	none	none	none	-	35	0.201	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/45.788	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+157	N	N>S	N>S (exome, AC = 3, AN = 251488, AF = 1.1929e-05)	none	none	-	91	0.467	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/47.466	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+158	C	none	none	none	none	-	39	0.23399999999999999	alpha-helix	Helices	buried	Special	-	-	-	-	3ihj.A.491/47.59	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+159	I	none	none	none	none	-	1	0.005	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/43.919	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+160	R	R>C; R>H	R>C (exome, AC = 2, AN = 251486, AF = 7.95273e-06); R>H (exome, AC = 1, AN = 251488, AF = 3.97633e-06)	none	none	-	20	0.073	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/42.973	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+161	E	none	none	none	none	-	88	0.395	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/45.254	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+162	D	none	none	none	none	-	38	0.19699999999999998	alpha-helix	Helices	buried	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/43.557	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+163	V	V>M	V>M (exome, AC = 1, AN = 251490, AF = 3.9763e-06)	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/40.111	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+164	A	A>S	A>S (exome, AC = 1, AN = 251486, AF = 3.97636e-06)	none	none	-	4	0.031	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/41.602	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+165	A	none	none	none	none	-	41	0.318	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/43.181	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+166	Y	none	none	none	none	-	23	0.087	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/39.994	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+167	I	I>V; I>N	I>V (exome, AC = 6, AN = 251492, AF = 2.38576e-05); I>N (exome, AC = 1, AN = 251490, AF = 3.9763e-06)	none	none	-	1	0.005	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/38.105	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+168	T	T>I	T>I (exome, AC = 2, AN = 251492, AF = 7.95254e-06)	none	none	-	38	0.221	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/41.023	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+169	R	none	none	none	none	-	112	0.409	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/40.91	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+170	R	none	none	none	none	-	61	0.223	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/37.155	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+171	D	none	none	none	none	-	5	0.026000000000000002	turn	coils	core	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/37.553	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+172	G	G>V	G>V (exome, AC = 1, AN = 251478, AF = 3.97649e-06)	none	none	-	75	0.6579999999999999	turn	coils	Medium-exposed	Special	-	-	-	-	3ihj.A.491/40.468	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+173	G	G>S	G>S (exome, AC = 21, AN = 251476, AF = 8.3507e-05); G>S (genome, AC = 3, AN = 31400, AF = 9.55414e-05)	none	none	-	46	0.40399999999999997	turn	coils	Medium-buried	Special	-	-	-	-	3ihj.A.491/43.091	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+174	V	none	none	none	none	-	23	0.132	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/41.474	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+175	P	P>T	P>T (exome, AC = 1, AN = 251480, AF = 3.97646e-06)	none	none	-	95	0.597	loop	coils	Medium-exposed	Special	-	-	-	-	3ihj.A.491/43.333	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+176	A	A>V	A>V (exome, AC = 1, AN = 251478, AF = 3.97649e-06)	none	none	-	18	0.14	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/41.886	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+177	D	none	none	none	none	-	73	0.37799999999999995	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/43.972	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+178	P	P>R	P>R (genome, AC = 1, AN = 31396, AF = 3.18512e-05)	none	none	-	35	0.22	310-helix	Helices	buried	Special	-	-	-	-	3ihj.A.491/44.166	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+179	D	D>N	D>N (exome, AC = 3, AN = 251480, AF = 1.19294e-05); D>N (genome, AC = 1, AN = 31382, AF = 3.18654e-05)	none	none	-	96	0.49700000000000005	310-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/44.612	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+180	N	none	none	none	none	-	48	0.24600000000000002	310-helix	Helices	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/41.092	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+181	I	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/39.728	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+182	Y	Y>F	Y>F (exome, AC = 34, AN = 251482, AF = 0.000135199)	none	none	-	18	0.068	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/38.798	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+183	L	none	none	none	none	-	11	0.055	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/38.099	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+184	T	T>I	T>I (exome, AC = 1, AN = 251478, AF = 3.97649e-06)	none	none	-	6	0.035	beta-sheet	beta-strand/sheet	core	Neutral & Polar	-	-	-	-	3ihj.A.491/35.538	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+185	T	T>M	T>M (exome, AC = 3, AN = 251480, AF = 1.19294e-05)	none	none	-	42	0.244	bend	coils	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/34.282	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+186	G	none	none	none	none	-	0	0	bend	coils	core	Special	-	-	-	-	3ihj.A.491/30.97	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+187	A	none	none	none	none	-	7	0.054000000000000006	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/28.952	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+188	S	none	none	none	none	-	37	0.239	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/27.513	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+189	D	D>E	D>E (exome, AC = 1, AN = 251454, AF = 3.97687e-06)	none	none	-	27	0.14	alpha-helix	Helices	buried	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/31.088	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+190	G	none	none	none	none	-	0	0	alpha-helix	Helices	core	Special	-	-	-	-	3ihj.A.491/31.531	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+191	I	none	none	none	none	-	3	0.015	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/28.389	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+192	S	none	none	none	none	-	45	0.29	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/29.421	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+193	T	T>M	T>M (exome, AC = 2, AN = 249766, AF = 8.0075e-06)	none	none	-	6	0.035	alpha-helix	Helices	core	Neutral & Polar	-	-	-	-	3ihj.A.491/32.944	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+194	I	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/32.227	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+195	L	none	none	none	none	-	1	0.005	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/29.855	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+196	K	none	none	none	none	-	118	0.5	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ihj.A.491/32.487	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+197	I	I>V	I>V (exome, AC = 1, AN = 250566, AF = 3.99096e-06)	none	none	-	7	0.036000000000000004	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/35.332	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+198	L	none	none	none	none	-	21	0.10400000000000001	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/33.45	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+199	V	V>I	V>I (exome, AC = 26, AN = 250692, AF = 0.000103713)	none	none	-	18	0.10300000000000001	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/32.309	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+200	S	none	none	none	none	-	75	0.484	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/35.034	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+201	G	none	none	none	none	-	42	0.368	loop	coils	Medium-buried	Special	-	-	-	-	3ihj.A.491/36.066	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+202	G	none	none	none	none	-	43	0.377	loop	coils	Medium-buried	Special	-	-	-	-	3ihj.A.491/35.357	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+203	G	G>S	G>S (exome, AC = 1, AN = 250894, AF = 3.98575e-06)	none	none	-	64	0.561	310-helix	Helices	Medium-exposed	Special	-	-	-	-	3ihj.A.491/33.689	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+204	K	none	none	none	none	-	72	0.305	310-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/32.997	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+205	S	none	none	none	none	-	65	0.419	310-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/34.286	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+206	R	R>Q	R>Q (exome, AC = 1, AN = 251120, AF = 3.98216e-06)	none	none	-	57	0.20800000000000002	bend	coils	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/32.042	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+207	T	none	none	none	none	-	4	0.023	beta-sheet	beta-strand/sheet	core	Neutral & Polar	-	-	-	-	3ihj.A.491/30.432	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+208	G	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	3ihj.A.491/26.963	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+209	V	V>E	V>E (exome, AC = 1, AN = 251280, AF = 3.97962e-06)	none	none	-	1	0.006	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/24.905	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+210	M	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/22.274	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+211	I	none	none	none	none	-	2	0.01	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/19.303	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+212	P	none	none	none	none	-	4	0.025	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	3ihj.A.491/16.241	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+213	I	I>M	I>M (exome, AC = 1, AN = 251416, AF = 3.97747e-06)	none	none	-	5	0.025	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/12.538	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+214	P	none	none	none	none	-	3	0.019	bend	coils	core	Special	-	-	-	-	3ihj.A.491/10.918	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+215	Q	none	none	none	none	-	29	0.129	loop	coils	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/13.976	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+216	Y	Y>H	Y>H (exome, AC = 1, AN = 251452, AF = 3.9769e-06); Y>H (genome, AC = 1, AN = 31382, AF = 3.18654e-05)	none	none	-	64	0.243	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/16.531	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+217	P	none	none	none	none	-	53	0.33299999999999996	turn	coils	Medium-buried	Special	-	-	-	-	3ihj.A.491/17.069	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+218	L	none	none	none	none	-	39	0.19399999999999998	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/20.842	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+219	Y	none	none	none	none	-	2	0.008	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/21.223	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+220	S	none	none	none	none	-	24	0.155	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/19.829	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+221	A	none	none	none	none	-	56	0.434	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/21.98	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+222	V	none	none	none	none	-	16	0.092	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/25.016	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+223	I	I>T	I>T (exome, AC = 1, AN = 251482, AF = 3.97643e-06)	none	none	-	3	0.015	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/24.67	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+224	S	S>F	S>F (exome, AC = 1, AN = 251482, AF = 3.97643e-06)	none	none	-	74	0.47700000000000004	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/24.955	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+225	E	E>G	E>G (exome, AC = 1, AN = 251486, AF = 3.97636e-06)	none	none	-	156	0.7	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/27.865	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+226	L	none	none	none	none	-	35	0.174	turn	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/29.597	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+227	D	D>H	D>H (exome, AC = 1, AN = 251478, AF = 3.97649e-06)	none	none	-	117	0.606	turn	coils	Medium-exposed	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+228	A	A>T	A>T (exome, AC = 2, AN = 251484, AF = 7.95279e-06)	none	none	-	11	0.085	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/27.736	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+229	I	I>M	I>M (exome, AC = 1, AN = 251482, AF = 3.97643e-06)	none	none	-	53	0.26899999999999996	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/25.356	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+230	Q	none	none	none	none	-	62	0.276	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/21.819	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+231	V	V>L	V>L (exome, AC = 1, AN = 251482, AF = 3.97643e-06)	none	none	-	10	0.057	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/21.008	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+232	N	none	none	none	none	-	56	0.287	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/17.484	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+233	Y	none	none	none	none	-	2	0.008	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/17.166	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+234	Y	none	none	none	none	-	54	0.205	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/14.106	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+235	L	none	none	none	none	-	14	0.07	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/14.354	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+236	D	none	none	none	none	-	43	0.223	beta-strand	beta-strand/sheet	buried	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/14.466	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+237	E	E>K	E>K (genome, AC = 1, AN = 31392, AF = 3.18552e-05)	none	none	-	29	0.13	310-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/11.79	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+238	E	none	none	none	none	-	183	0.821	310-helix	Helices	exposed	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/14.067	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+239	N	N>S	N>S (exome, AC = 2, AN = 251484, AF = 7.95279e-06)	none	none	-	98	0.503	310-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.491/16.975	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+240	C	C>Y	C>Y (exome, AC = 1, AN = 251472, AF = 3.97659e-06)	none	none	-	43	0.257	turn	coils	Medium-buried	Special	-	-	-	-	3ihj.A.491/16.12	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+241	W	none	none	none	none	-	8	0.027999999999999997	turn	coils	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/14.71	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+242	A	A>V	A>V (exome, AC = 8, AN = 251476, AF = 3.18122e-05)	none	none	-	17	0.132	beta-strand	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/18.156	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+243	L	none	none	none	none	-	9	0.045	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/19.566	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+244	N	none	none	none	none	-	49	0.251	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/20.585	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+245	V	V>M	V>M (exome, AC = 1, AN = 251474, AF = 3.97655e-06)	none	none	-	26	0.149	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/23.71	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+246	N	none	none	none	none	-	100	0.513	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.491/23.567	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+247	E	none	none	none	none	-	14	0.063	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/20.269	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+248	L	L>F	L>F (exome, AC = 3, AN = 251462, AF = 1.19302e-05)	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/22.035	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+249	R	R>W; R>P	R>W (exome, AC = 71, AN = 251452, AF = 0.00028236); R>P (exome, AC = 1, AN = 251454, AF = 3.97687e-06); R>W (genome, AC = 6, AN = 31362, AF = 0.000191314)	none	none	-	60	0.21899999999999997	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/24.98	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+250	R	R>Q; R>W	R>Q (exome, AC = 30, AN = 251456, AF = 0.000119305); R>W (genome, AC = 1, AN = 31366, AF = 3.18817e-05); R>Q (genome, AC = 3, AN = 31368, AF = 9.56389e-05)	none	none	-	141	0.515	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ihj.A.491/23.084	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+251	A	A>V	A>V (exome, AC = 1, AN = 251438, AF = 3.97712e-06)	none	none	-	12	0.09300000000000001	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/21.685	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+252	V	none	none	none	none	-	1	0.006	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/25.18	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+253	Q	Q>E	Q>E (exome, AC = 1, AN = 251434, AF = 3.97719e-06)	none	none	-	114	0.507	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.491/26.889	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+254	E	none	none	none	none	-	93	0.41700000000000004	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/24.78	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+255	A	none	none	none	none	-	4	0.031	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/25.32	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+256	K	K>R	K>R (genome, AC = 1, AN = 31374, AF = 3.18735e-05)	none	none	-	102	0.43200000000000005	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/29.077	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+257	D	none	none	none	none	-	86	0.446	turn	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/29.767	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+258	H	none	none	none	none	-	99	0.442	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/29.061	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+259	C	C>R	C>R (exome, AC = 1, AN = 251284, AF = 3.97956e-06)	none	none	-	3	0.018000000000000002	bend	coils	core	Special	-	-	-	-	3ihj.A.491/29.481	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+260	D	D>N	D>N (exome, AC = 1, AN = 251206, AF = 3.9808e-06)	none	none	-	60	0.311	beta-sheet	beta-strand/sheet	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/31.021	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+261	P	none	none	none	none	-	7	0.044000000000000004	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	3ihj.A.491/28.342	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+262	K	none	none	none	none	-	91	0.386	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/30.198	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+263	V	V>L	V>L (exome, AC = 1, AN = 250944, AF = 3.98495e-06)	none	none	-	1	0.006	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/27.896	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+264	L	L>F	L>F (exome, AC = 3, AN = 250670, AF = 1.19679e-05); L>F (genome, AC = 1, AN = 31392, AF = 3.18552e-05)	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/25.26	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+265	C	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	3ihj.A.491/23.42	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+266	I	none	none	none	none	-	1	0.005	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/22.387	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+267	I	none	none	none	none	-	15	0.076	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/21.003	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+268	N	none	none	none	none	-	1	0.005	bend	coils	core	Neutral & Polar	-	-	-	-	3ihj.A.491/22.381	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+269	P	none	none	none	none	-	1	0.006	bend	coils	core	Special	-	-	-	-	3ihj.A.491/21.536	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+270	G	none	none	none	none	-	2	0.018000000000000002	loop	coils	core	Special	-	-	-	-	3ihj.A.491/18.082	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+271	N	none	none	none	none	-	10	0.051	turn	coils	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/16.376	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+272	P	none	none	P>L	P>L (ClinVar, phenotype = Mental retardation, autosomal recessive 49); P>L (ClinVar, phenotype = Intellectual disability, reduced brain growth & progressive motor symptoms)	-	0	0	turn	coils	core	Special	-	-	-	-	3ihj.A.491/13.641	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+273	T	T>A	T>A (exome, AC = 1, AN = 243544, AF = 4.10603e-06)	none	none	-	5	0.028999999999999998	turn	coils	core	Neutral & Polar	-	-	-	-	3ihj.A.491/13.261	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+274	G	none	none	none	none	-	0	0	loop	coils	core	Special	-	-	-	-	3ihj.A.491/16.622	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+275	Q	none	none	none	none	-	3	0.013000000000000001	loop	coils	core	Neutral & Polar	-	-	-	-	3ihj.A.491/18.032	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+276	V	V>L	V>L (exome, AC = 1, AN = 251488, AF = 3.97633e-06)	none	none	-	9	0.052000000000000005	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/21.658	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+277	Q	none	none	none	none	-	7	0.031	loop	coils	core	Neutral & Polar	-	-	-	-	3ihj.A.491/22.83	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+278	S	none	none	none	none	-	68	0.439	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/25.714	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+279	R	R>K	R>K (exome, AC = 1, AN = 251490, AF = 3.9763e-06); R>K (genome, AC = 2, AN = 31390, AF = 6.37146e-05)	none	none	-	79	0.28800000000000003	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/28.993	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+280	K	K>R; K>N	K>R (exome, AC = 8, AN = 251492, AF = 3.18102e-05); K>N (exome, AC = 1, AN = 251494, AF = 3.97624e-06)	none	none	-	56	0.237	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/29.106	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+281	C	C>Y	C>Y (exome, AC = 1, AN = 251488, AF = 3.97633e-06)	none	none	-	15	0.09	alpha-helix	Helices	buried	Special	-	-	-	-	3ihj.A.491/25.866	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+282	I	I>V; I>R; I>M; I>T	I>V (exome, AC = 3, AN = 251494, AF = 1.19287e-05); I>R (exome, AC = 1, AN = 251494, AF = 3.97624e-06); I>M (exome, AC = 1, AN = 251494, AF = 3.97624e-06); I>T (genome, AC = 1, AN = 31390, AF = 3.18573e-05)	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/27.176	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+283	E	none	none	none	none	-	68	0.305	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/30.299	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+284	D	D>H; D>G	D>H (exome, AC = 1, AN = 251494, AF = 3.97624e-06); D>G (exome, AC = 2, AN = 251494, AF = 7.95248e-06)	none	none	-	92	0.47700000000000004	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/28.723	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+285	V	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/26.966	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+286	I	none	none	none	none	-	1	0.005	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/30.426	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+287	H	H>Y	H>Y (exome, AC = 1, AN = 251494, AF = 3.97624e-06)	none	none	-	70	0.312	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/32.04	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+288	F	F>L	F>L (exome, AC = 1, AN = 251494, AF = 3.97624e-06)	none	none	-	1	0.004	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/29.581	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+289	A	A>T; A>V	A>T (exome, AC = 1, AN = 251492, AF = 3.97627e-06); A>V (exome, AC = 1, AN = 251490, AF = 3.9763e-06)	none	none	-	1	0.008	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/30.233	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+290	W	W>R; W>S	W>R (exome, AC = 1, AN = 251494, AF = 3.97624e-06); W>S (genome, AC = 1, AN = 31392, AF = 3.18552e-05)	none	none	-	103	0.361	alpha-helix	Helices	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/33.982	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+291	E	none	none	none	none	-	82	0.368	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/33.871	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+292	E	none	none	none	none	-	36	0.161	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/32.053	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+293	K	none	none	none	none	-	110	0.466	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/33.919	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+294	L	none	none	none	none	-	6	0.03	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/30.808	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+295	F	none	none	none	none	-	4	0.017	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/31.295	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+296	L	none	none	none	none	-	1	0.005	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/29.033	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+297	L	none	none	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/27.564	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+298	A	A>S	A>S (exome, AC = 1, AN = 251484, AF = 3.9764e-06)	none	none	-	1	0.008	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/26.897	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+299	D	D>V	D>V (exome, AC = 1, AN = 251480, AF = 3.97646e-06)	none	none	-	8	0.040999999999999995	beta-sheet	beta-strand/sheet	core	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/25.081	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+300	E	none	none	none	none	-	2	0.009000000000000001	loop	coils	core	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/26.171	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+301	V	none	none	none	none	-	13	0.075	turn	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/26.221	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+302	Y	none	none	none	none	-	11	0.042	turn	coils	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/24.738	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+303	Q	none	none	none	none	-	9	0.04	turn	coils	core	Neutral & Polar	-	-	-	-	3ihj.A.491/27.328	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+304	D	none	none	none	none	-	43	0.223	turn	coils	buried	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/29.101	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+305	N	none	none	none	none	-	1	0.005	loop	coils	core	Neutral & Polar	-	-	-	-	3ihj.A.491/26.042	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+306	V	none	none	none	none	-	26	0.149	beta-strand	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/25.657	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+307	Y	Y>H	Y>H (exome, AC = 1, AN = 251378, AF = 3.97807e-06)	none	none	-	20	0.076	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/25.51	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+308	S	none	none	none	none	-	23	0.14800000000000002	loop	coils	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/25.039	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+309	P	none	none	none	none	-	127	0.799	turn	coils	exposed	Special	-	-	-	-	3ihj.A.491/28.433	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+310	D	none	none	none	none	-	148	0.767	turn	coils	exposed	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/26.96	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+311	C	C>Y	C>Y (exome, AC = 1, AN = 251400, AF = 3.97772e-06)	none	none	-	28	0.168	loop	coils	buried	Special	-	-	-	-	3ihj.A.491/26.354	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+312	R	none	none	none	none	-	147	0.536	loop	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ihj.A.491/28.418	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+313	F	F>L	F>L (exome, AC = 1, AN = 251420, AF = 3.97741e-06)	none	none	-	22	0.092	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/28.281	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+314	H	none	none	none	none	-	26	0.11599999999999999	loop	coils	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/29.968	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+315	S	S>A	S>A (exome, AC = 1, AN = 251426, AF = 3.97731e-06)	none	none	-	1	0.006	loop	coils	core	Neutral & Polar	-	-	-	-	3ihj.A.491/30.666	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+316	F	F>L	F>L (exome, AC = 19, AN = 251436, AF = 7.55659e-05); F>L (genome, AC = 1, AN = 31394, AF = 3.18532e-05)	none	none	-	1	0.004	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/30.607	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+317	K	K>R	K>R (exome, AC = 3, AN = 251450, AF = 1.19308e-05)	none	none	-	2	0.008	alpha-helix	Helices	core	Positively Charged & Polar	-	-	-	-	3ihj.A.491/34.199	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+318	K	K>R	K>R (exome, AC = 1, AN = 251446, AF = 3.977e-06)	none	none	-	18	0.076	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/35.42	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+319	V	V>M	V>M (exome, AC = 19, AN = 251456, AF = 7.55599e-05); V>M (genome, AC = 3, AN = 31382, AF = 9.55962e-05)	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/33.829	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+320	L	none	none	none	none	-	2	0.01	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/35.113	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+321	Y	Y>D	Y>D (exome, AC = 1, AN = 251460, AF = 3.97678e-06)	none	none	-	79	0.3	alpha-helix	Helices	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/38.59	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+322	E	E>K	E>K (exome, AC = 2, AN = 251450, AF = 7.95387e-06)	none	none	-	93	0.41700000000000004	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/38.585	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+323	M	M>I	M>I (exome, AC = 1, AN = 251454, AF = 3.97687e-06)	none	none	-	19	0.085	turn	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/37.916	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+324	G	G>A; G>E	G>A (exome, AC = 1, AN = 251454, AF = 3.97687e-06); G>E (genome, AC = 21, AN = 31384, AF = 0.000669131)	none	none	-	13	0.114	loop	coils	buried	Special	-	-	-	-	3ihj.A.491/41.299	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+325	P	P>T	P>T (exome, AC = 1, AN = 251454, AF = 3.97687e-06)	none	none	-	81	0.509	alpha-helix	Helices	Medium-exposed	Special	-	-	-	-	3ihj.A.491/42.927	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+326	E	E>K; E>A	E>K (exome, AC = 3, AN = 251444, AF = 1.19311e-05); E>A (exome, AC = 1, AN = 251452, AF = 3.9769e-06)	none	none	-	103	0.462	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/41.957	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+327	Y	none	none	none	none	-	39	0.14800000000000002	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/38.486	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+328	S	none	none	none	none	-	11	0.071	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/39.403	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+329	S	none	none	none	none	-	75	0.484	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/41.949	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+330	N	N>S; N>K	N>S (exome, AC = 3, AN = 251450, AF = 1.19308e-05); N>K (exome, AC = 1, AN = 251434, AF = 3.97719e-06)	none	none	-	95	0.48700000000000004	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/39.702	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+331	V	none	none	none	none	-	7	0.04	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/35.994	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+332	E	none	none	none	none	-	24	0.10800000000000001	loop	coils	buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/35.16	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+333	L	none	none	none	none	-	2	0.01	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/33.073	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+334	A	A>T	A>T (exome, AC = 2, AN = 251354, AF = 7.95691e-06); A>T (genome, AC = 1, AN = 31382, AF = 3.18654e-05)	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/32.194	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+335	S	none	none	none	none	-	4	0.026000000000000002	beta-sheet	beta-strand/sheet	core	Neutral & Polar	-	-	-	-	3ihj.A.491/30.856	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+336	F	none	none	none	none	-	1	0.004	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/29.844	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+337	H	none	none	none	none	-	4	0.018000000000000002	beta-sheet	beta-strand/sheet	core	Positively Charged & Polar	-	-	-	-	3ihj.A.491/30.358	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+338	S	none	none	none	none	-	8	0.052000000000000005	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/30.239	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+339	T	T>I	T>I (exome, AC = 2, AN = 251280, AF = 7.95925e-06)	none	none	-	2	0.012	bend	coils	core	Neutral & Polar	-	-	-	-	3ihj.A.491/31.954	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+340	S	none	none	none	none	-	47	0.303	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/29.012	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+341	K	none	none	none	none	-	55	0.233	bend	coils	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/26.61	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K341: N6-(pyridoxal phosphate)lysine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+342	G	none	none	none	none	-	25	0.21899999999999997	bend	coils	buried	Special	-	-	-	-	3ihj.A.491/27.048	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+343	Y	none	none	none	none	-	41	0.156	turn	coils	buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.88/29.497	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+344	M	none	none	none	none	-	12	0.054000000000000006	turn	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/32.32	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+345	G	none	none	none	none	-	33	0.289	loop	coils	Medium-buried	Special	-	-	-	-	3ihj.A.88/30.21	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+346	E	none	none	none	none	-	22	0.099	loop	coils	buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.88/30.335	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+347	C	none	none	none	none	-	115	0.6890000000000001	bend	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+348	G	none	none	none	none	-	78	0.684	bend	coils	Medium-exposed	Special	-	-	-	-	3ihj.A.88/30.116	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+349	Y	none	none	none	none	-	118	0.449	bend	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.88/33.563	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+350	R	none	none	none	none	-	106	0.387	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/33.941	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+351	G	none	none	none	none	-	1	0.009000000000000001	loop	coils	core	Special	-	-	-	-	3ihj.A.491/34.738	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+352	G	none	none	none	none	-	1	0.009000000000000001	beta-sheet	beta-strand/sheet	core	Special	-	-	-	-	3ihj.A.491/33.433	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+353	Y	none	none	none	none	-	4	0.015	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/34.701	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+354	M	M>V; M>T; M>I	M>V (exome, AC = 1, AN = 251258, AF = 3.97997e-06); M>T (exome, AC = 1, AN = 251290, AF = 3.97947e-06); M>I (exome, AC = 2, AN = 251286, AF = 7.95906e-06)	none	none	-	2	0.009000000000000001	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/34.009	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+355	E	none	none	none	none	-	2	0.009000000000000001	beta-sheet	beta-strand/sheet	core	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/35.856	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+356	V	none	none	none	none	-	3	0.017	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/36.462	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+357	I	none	none	none	none	-	3	0.015	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/38.152	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+358	N	none	none	none	none	-	50	0.256	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/39.763	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+359	L	none	none	none	none	-	30	0.149	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/39.281	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+360	H	none	none	none	none	-	80	0.35700000000000004	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/40.849	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+361	P	none	none	none	none	-	102	0.642	alpha-helix	Helices	Medium-exposed	Special	-	-	-	-	3ihj.A.491/43.935	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+362	E	E>Q	E>Q (exome, AC = 18, AN = 251360, AF = 7.16104e-05); E>Q (genome, AC = 1, AN = 31392, AF = 3.18552e-05)	none	none	-	122	0.547	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/42.738	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+363	I	none	none	none	none	-	17	0.086	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/39.668	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+364	K	K>E	K>E (exome, AC = 1, AN = 251358, AF = 3.97839e-06)	none	none	-	116	0.49200000000000005	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/41.755	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+365	G	G>S; G>A	G>S (exome, AC = 5, AN = 251366, AF = 1.98913e-05); G>A (genome, AC = 1, AN = 31400, AF = 3.18471e-05)	none	none	-	43	0.377	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	3ihj.A.491/44.14	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+366	Q	none	none	none	none	-	93	0.413	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/41.463	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+367	L	L>M	L>M (exome, AC = 1, AN = 251358, AF = 3.97839e-06)	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/40.397	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+368	V	V>E	V>E (exome, AC = 1, AN = 251374, AF = 3.97814e-06)	none	none	-	88	0.506	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/44.035	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+369	K	none	none	none	none	-	139	0.589	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ihj.A.491/44.435	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+370	L	none	none	none	none	-	17	0.085	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/41.177	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+371	L	none	none	none	none	-	38	0.18899999999999997	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/42.302	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+372	S	none	none	none	none	-	83	0.535	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.491/45.891	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+373	V	none	none	none	none	-	91	0.523	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/44.769	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+374	R	R>C; R>H	R>C (exome, AC = 1, AN = 251328, AF = 3.97886e-06); R>H (exome, AC = 13, AN = 251356, AF = 5.17195e-05)	none	none	-	101	0.369	bend	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/42.199	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+375	L	none	none	none	none	-	118	0.5870000000000001	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/43.322	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+376	C	none	none	none	none	-	64	0.38299999999999995	loop	coils	Medium-buried	Special	-	-	-	-	3ihj.A.491/42.597	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+377	P	none	none	none	none	-	14	0.08800000000000001	loop	coils	buried	Special	-	-	-	-	3ihj.A.491/39.67	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+378	P	none	none	none	none	-	73	0.45899999999999996	loop	coils	Medium-buried	Special	-	-	-	-	3ihj.A.88/40.972	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+379	V	V>M	V>M (exome, AC = 1, AN = 251316, AF = 3.97905e-06)	none	none	-	75	0.431	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/42.468	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+380	S	none	none	none	none	-	49	0.316	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.88/39.226	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+381	G	none	none	none	none	-	1	0.009000000000000001	alpha-helix	Helices	core	Special	-	-	-	-	3ihj.A.88/37.875	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+382	Q	none	none	none	none	-	5	0.022000000000000002	alpha-helix	Helices	core	Neutral & Polar	-	-	-	-	3ihj.A.491/40.049	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+383	A	A>D	A>D (exome, AC = 2, AN = 251158, AF = 7.96311e-06)	none	none	-	15	0.11599999999999999	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/41.029	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+384	A	A>T	A>T (exome, AC = 2, AN = 251048, AF = 7.9666e-06)	none	none	-	13	0.10099999999999999	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/37.584	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+385	M	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/37.386	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+386	D	D>E	D>E (exome, AC = 1, AN = 251166, AF = 3.98143e-06)	none	none	-	2	0.01	alpha-helix	Helices	core	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/40.827	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+387	I	none	none	none	none	-	12	0.061	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/39.874	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+388	V	V>A	V>A (exome, AC = 2, AN = 251054, AF = 7.96641e-06)	none	none	-	14	0.08	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/37.086	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+389	V	V>M; V>A	V>M (exome, AC = 2, AN = 251038, AF = 7.96692e-06); V>A (exome, AC = 1, AN = 250968, AF = 3.98457e-06)	none	none	-	0	0	turn	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/38.613	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+390	N	N>K	N>K (genome, AC = 1, AN = 31388, AF = 3.18593e-05)	none	none	-	23	0.11800000000000001	loop	coils	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/41.82	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+391	P	none	none	none	none	-	22	0.138	loop	coils	buried	Special	-	-	-	-	3ihj.A.491/40.948	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+392	P	P>L	P>L (exome, AC = 2, AN = 250566, AF = 7.98193e-06)	none	none	-	4	0.025	loop	coils	core	Special	-	-	-	-	3ihj.A.88/43.654	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+393	V	none	none	none	none	-	59	0.33899999999999997	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/44.925	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+394	A	none	none	none	none	-	78	0.605	turn	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/47.059	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+395	G	none	none	none	none	-	86	0.754	turn	coils	exposed	Special	-	-	-	-	3ihj.A.88/50.32	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+396	E	E>Q	E>Q (exome, AC = 4, AN = 250374, AF = 1.59761e-05)	none	none	-	54	0.242	bend	coils	buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.88/48.153	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+397	E	none	none	none	none	-	133	0.596	turn	coils	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	3ihj.A.88/46.631	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+398	S	none	none	none	none	-	10	0.065	turn	coils	buried	Neutral & Polar	-	-	-	-	3ihj.A.88/42.872	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+399	F	none	none	none	none	-	57	0.237	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.88/43.421	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+400	E	E>Q	E>Q (exome, AC = 148, AN = 248972, AF = 0.000594444); E>Q (genome, AC = 12, AN = 31390, AF = 0.000382287)	none	none	-	116	0.52	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	3ihj.A.88/42.555	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+401	Q	Q>R	Q>R (exome, AC = 2, AN = 246950, AF = 8.09881e-06)	none	none	-	102	0.45299999999999996	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.88/39.218	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+402	F	F>L	F>L (exome, AC = 1, AN = 247630, AF = 4.03828e-06)	none	none	-	24	0.1	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.88/38.211	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+403	S	S>G; S>N	S>G (exome, AC = 2, AN = 246990, AF = 8.09749e-06); S>N (exome, AC = 2, AN = 246924, AF = 8.09966e-06)	none	none	-	36	0.23199999999999998	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	3ihj.A.88/39.136	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+404	R	R>G; R>Q	R>G (exome, AC = 5, AN = 246148, AF = 2.0313e-05); R>Q (exome, AC = 1, AN = 246398, AF = 4.05847e-06)	none	none	-	184	0.672	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ihj.A.88/37.078	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+405	E	none	none	none	none	-	32	0.14300000000000002	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.88/33.941	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+406	K	none	none	none	none	-	6	0.025	alpha-helix	Helices	core	Positively Charged & Polar	-	-	-	-	3ihj.A.88/34.149	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+407	E	E>D	E>D (exome, AC = 1, AN = 251466, AF = 3.97668e-06)	none	none	-	133	0.596	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/34.475	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+408	S	S>L	S>L (exome, AC = 10, AN = 251466, AF = 3.97668e-05); S>L (genome, AC = 2, AN = 31404, AF = 6.36862e-05)	none	none	-	82	0.529	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.88/31.759	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+409	V	none	none	none	none	-	35	0.201	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/29.366	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+410	L	none	none	none	none	-	24	0.11900000000000001	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/29.47	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+411	G	none	none	none	none	-	40	0.35100000000000003	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	3ihj.A.491/30.103	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+412	N	none	none	none	none	-	64	0.32799999999999996	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.88/27.052	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+413	L	none	none	none	none	-	10	0.05	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/25.403	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+414	A	none	none	none	none	-	33	0.256	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/25.296	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+415	K	none	none	none	none	-	118	0.5	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ihj.A.491/25.852	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K415: N6-acetyllysine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+416	K	none	none	none	none	-	9	0.038	alpha-helix	Helices	core	Positively Charged & Polar	-	-	-	-	3ihj.A.491/23.023	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+417	A	none	none	none	none	-	4	0.031	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/20.682	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+418	K	none	none	none	none	-	128	0.542	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ihj.A.491/21.735	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+419	L	none	none	none	none	-	33	0.16399999999999998	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/21.596	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+420	T	T>M	T>M (exome, AC = 8, AN = 251484, AF = 3.18112e-05)	none	none	-	0	0	alpha-helix	Helices	core	Neutral & Polar	-	-	-	-	3ihj.A.491/17.975	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+421	E	none	none	none	none	-	43	0.193	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/16.702	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+422	D	D>Y	D>Y (exome, AC = 59, AN = 251488, AF = 0.000234604); D>Y (genome, AC = 4, AN = 31398, AF = 0.000127397)	none	none	-	66	0.342	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/19.205	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+423	L	none	none	none	none	-	21	0.10400000000000001	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/18.13	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+424	F	F>L	F>L (exome, AC = 1, AN = 251488, AF = 3.97633e-06)	none	none	-	2	0.008	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/14.397	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+425	N	none	none	none	none	-	67	0.344	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/15.6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+426	Q	none	none	none	none	-	136	0.604	turn	coils	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.491/18.066	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+427	V	V>A	V>A (exome, AC = 1, AN = 251488, AF = 3.97633e-06)	none	none	-	6	0.034	bend	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/15.674	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+428	P	P>Q	P>Q (exome, AC = 1, AN = 251492, AF = 3.97627e-06)	none	none	-	103	0.648	turn	coils	Medium-exposed	Special	-	-	-	-	3ihj.A.491/14.422	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+429	G	none	none	none	none	-	24	0.21100000000000002	turn	coils	buried	Special	-	-	-	-	3ihj.A.491/10.826	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+430	I	I>V	I>V (exome, AC = 5, AN = 251494, AF = 1.98812e-05)	none	none	-	10	0.051	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/9.888	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+431	H	none	none	none	none	-	81	0.36200000000000004	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/10.655	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+432	C	none	none	none	none	-	2	0.012	loop	coils	core	Special	-	-	-	-	3ihj.A.491/11.852	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+433	N	N>S	N>S (exome, AC = 1, AN = 251492, AF = 3.97627e-06); N>S (genome, AC = 1, AN = 31392, AF = 3.18552e-05)	none	none	-	16	0.08199999999999999	loop	coils	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/13.724	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+434	P	P>L	P>L (exome, AC = 32, AN = 251494, AF = 0.00012724); P>L (genome, AC = 15, AN = 31394, AF = 0.000477798)	none	none	-	36	0.226	loop	coils	buried	Special	-	-	-	-	3ihj.A.491/17.121	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+435	L	none	none	none	none	-	6	0.03	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/17.785	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+436	Q	Q>P	Q>P (exome, AC = 1, AN = 251492, AF = 3.97627e-06); Q>P (genome, AC = 1, AN = 31404, AF = 3.18431e-05)	none	none	-	22	0.098	loop	coils	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/20.763	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+437	G	none	none	none	none	-	1	0.009000000000000001	beta-strand	beta-strand/sheet	core	Special	-	-	-	-	3ihj.A.491/21.506	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+438	A	none	none	none	none	-	0	0	bend	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/20.972	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+439	M	M>V	M>V (exome, AC = 1, AN = 251490, AF = 3.9763e-06)	none	none	-	26	0.11599999999999999	bend	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/19.727	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+440	Y	none	none	none	none	-	28	0.106	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/15.914	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+441	A	A>T	A>T (exome, AC = 1, AN = 251486, AF = 3.97636e-06)	none	none	-	2	0.016	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/13.292	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+442	F	none	none	none	none	-	3	0.013000000000000001	loop	coils	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/9.649	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+443	P	P>H	P>H (exome, AC = 2, AN = 251486, AF = 7.95273e-06)	none	none	-	0	0	loop	coils	core	Special	-	-	-	-	3ihj.A.491/8.508	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+444	R	R>W; R>Q	R>W (exome, AC = 1, AN = 251484, AF = 3.9764e-06); R>Q (exome, AC = 5, AN = 251482, AF = 1.98821e-05); R>W (genome, AC = 1, AN = 31400, AF = 3.18471e-05)	none	none	-	64	0.23399999999999999	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/5.718	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+445	I	I>L	I>L (exome, AC = 2, AN = 251480, AF = 7.95292e-06)	none	none	-	1	0.005	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/5.421	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+446	F	F>S	F>S (exome, AC = 3, AN = 251478, AF = 1.19295e-05); F>S (genome, AC = 5, AN = 31406, AF = 0.000159205)	none	none	-	94	0.392	loop	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/6.899	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+447	I	none	none	none	none	-	16	0.081	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/7.281	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+448	P	P>L	P>L (exome, AC = 1, AN = 251464, AF = 3.97671e-06)	none	none	-	49	0.308	loop	coils	Medium-buried	Special	-	-	-	-	3ihj.A.491/10.669	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+449	A	A>P; A>V	A>P (exome, AC = 1, AN = 251460, AF = 3.97678e-06); A>V (exome, AC = 1, AN = 251462, AF = 3.97674e-06)	none	none	-	83	0.643	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/11.813	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+450	K	none	none	none	none	-	46	0.195	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/13.837	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+451	A	none	none	none	none	-	1	0.008	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/11.728	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+452	V	V>M	V>M (exome, AC = 102, AN = 251430, AF = 0.00040568); V>M (genome, AC = 9, AN = 31408, AF = 0.000286551)	none	none	-	18	0.10300000000000001	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/10.033	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+453	E	E>K	E>K (exome, AC = 4, AN = 251420, AF = 1.59096e-05); E>K (genome, AC = 1, AN = 31400, AF = 3.18471e-05)	none	none	-	130	0.583	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/13.778	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+454	A	none	none	none	none	-	21	0.163	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/14.561	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+455	A	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/12.097	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+456	Q	Q>E	Q>E (exome, AC = 1, AN = 251292, AF = 3.97943e-06)	none	none	-	114	0.507	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	3ihj.A.491/13.707	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+457	A	none	none	none	none	-	77	0.597	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/17.057	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+458	H	none	none	none	none	-	105	0.469	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/16.548	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+459	Q	Q>E	Q>E (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	171	0.76	turn	coils	exposed	Neutral & Polar	-	-	-	-	3ihj.A.491/15.888	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+460	M	M>V; M>T	M>V (exome, AC = 4, AN = 219480, AF = 1.82249e-05); M>T (exome, AC = 5, AN = 219966, AF = 2.27308e-05)	none	none	-	41	0.183	bend	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/12.49	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+461	A	none	none	none	none	-	44	0.341	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/8.94	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+462	P	P>S	P>S (exome, AC = 1, AN = 231878, AF = 4.31261e-06)	none	none	-	14	0.08800000000000001	alpha-helix	Helices	buried	Special	-	-	-	-	3ihj.A.491/7.077	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+463	D	none	none	none	none	-	1	0.005	alpha-helix	Helices	core	Negatively Charged & Polar	-	-	-	-	3ihj.A.491/5.621	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+464	M	none	none	none	none	-	38	0.17	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/9.141	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+465	F	F>C	F>C (exome, AC = 3, AN = 240662, AF = 1.24656e-05)	none	none	-	3	0.013000000000000001	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/10.751	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+466	Y	none	none	none	none	-	1	0.004	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/9.51	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+467	C	none	none	none	none	-	0	0	alpha-helix	Helices	core	Special	-	-	-	-	3ihj.A.491/10.694	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+468	M	none	none	none	none	-	13	0.057999999999999996	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/13.782	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+469	K	K>N	K>N (exome, AC = 1, AN = 244370, AF = 4.09216e-06)	none	none	-	37	0.157	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/14.681	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+470	L	L>V	L>V (exome, AC = 1, AN = 244808, AF = 4.08483e-06)	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/14.391	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+471	L	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/12.08	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+472	E	none	none	none	none	-	46	0.20600000000000002	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.88/11.886	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+473	E	E>D	E>D (exome, AC = 1, AN = 247086, AF = 4.04717e-06)	none	none	-	62	0.278	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	3ihj.A.88/11.067	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+474	T	none	none	none	none	-	12	0.07	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	3ihj.A.88/9.092	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+475	G	none	none	none	none	-	0	0	loop	coils	core	Special	-	-	-	-	3ihj.A.88/7.859	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+476	I	I>M	I>M (exome, AC = 1, AN = 246966, AF = 4.04914e-06)	none	none	-	4	0.02	beta-strand	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/10.746	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+477	C	none	none	none	none	-	12	0.07200000000000001	loop	coils	buried	Special	-	-	-	-	3ihj.A.88/13.235	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+478	V	none	none	none	none	-	11	0.063	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/13.26	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+479	V	none	none	V>M	V>M (ClinVar, phenotype = Microcephaly, intellectual disability & developmental delay)	-	53	0.305	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/11.517	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+480	P	P>H	P>H (exome, AC = 1, AN = 246316, AF = 4.05983e-06)	none	none	-	8	0.05	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	3ihj.A.491/7.975	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+481	G	G>S	G>S (exome, AC = 1, AN = 246050, AF = 4.06421e-06)	none	none	-	0	0	310-helix	Helices	core	Special	-	-	-	-	3ihj.A.491/6.023	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+482	S	none	none	none	none	-	53	0.342	310-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/7.546	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+483	G	none	none	none	none	-	46	0.40399999999999997	310-helix	Helices	Medium-buried	Special	-	-	-	-	3ihj.A.491/10.761	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+484	F	none	none	none	none	-	11	0.046	turn	coils	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/10.684	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+485	G	none	none	none	none	-	21	0.184	loop	coils	buried	Special	-	-	-	-	3ihj.A.491/9.329	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+486	Q	none	none	none	none	-	31	0.138	loop	coils	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/7.145	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+487	R	none	none	none	none	-	121	0.442	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/8.154	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+488	E	none	none	none	none	-	193	0.865	turn	coils	exposed	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/8.317	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+489	G	G>C	G>C (exome, AC = 1, AN = 238098, AF = 4.19995e-06)	none	none	-	53	0.465	turn	coils	Medium-buried	Special	-	-	-	-	3ihj.A.491/6.818	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+490	T	none	none	none	none	-	17	0.099	loop	coils	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/3.806	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+491	Y	Y>H	Y>H (exome, AC = 1, AN = 234220, AF = 4.26949e-06)	none	none	-	46	0.175	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/0.0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+492	H	none	none	none	none	-	1	0.004	beta-strand	beta-strand/sheet	core	Positively Charged & Polar	-	-	-	-	3ihj.A.491/3.811	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+493	F	F>L	F>L (exome, AC = 3, AN = 226714, AF = 1.32325e-05)	none	none	-	0	0	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/7.175	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+494	R	R>S	R>S (exome, AC = 1, AN = 251388, AF = 3.97791e-06)	none	none	-	39	0.142	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/10.564	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+495	M	none	none	none	none	-	7	0.031	beta-sheet	beta-strand/sheet	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/13.307	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+496	T	none	none	none	none	-	11	0.064	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	3ihj.A.491/16.991	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+497	I	none	none	none	none	-	0	0	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/19.778	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+498	L	none	none	none	none	-	86	0.428	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/20.026	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+499	P	none	none	none	none	-	9	0.057	bend	coils	buried	Special	-	-	-	-	3ihj.A.88/17.053	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+500	P	none	none	none	none	-	88	0.5529999999999999	loop	coils	Medium-exposed	Special	-	-	-	-	3ihj.A.88/18.401	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+501	V	none	none	none	none	-	19	0.109	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/19.52	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+502	E	none	none	none	none	-	131	0.5870000000000001	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	3ihj.A.88/17.087	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+503	K	none	none	none	none	-	90	0.381	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.88/13.997	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+504	L	L>M	L>M (exome, AC = 1, AN = 251456, AF = 3.97684e-06)	none	none	-	1	0.005	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/16.207	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+505	K	none	none	none	none	-	83	0.35200000000000004	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	3ihj.A.88/16.989	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K505: N6-acetyllysine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+506	T	T>M	T>M (exome, AC = 8, AN = 251458, AF = 3.18145e-05); T>M (genome, AC = 3, AN = 31394, AF = 9.55597e-05)	none	none	-	85	0.494	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.88/13.387	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+507	V	V>M	V>M (genome, AC = 1, AN = 31396, AF = 3.18512e-05)	none	none	-	10	0.057	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/13.076	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+508	L	L>P	L>P (exome, AC = 1, AN = 251464, AF = 3.97671e-06)	none	none	-	1	0.005	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.88/16.501	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+509	Q	none	none	none	none	-	99	0.44	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.88/15.777	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+510	K	none	none	none	none	-	52	0.22	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.88/13.064	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+511	V	none	none	none	none	-	2	0.011000000000000001	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/15.487	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+512	K	none	none	none	none	-	53	0.225	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	3ihj.A.491/16.369	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K512: N6-acetyllysine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+513	D	none	none	none	none	-	84	0.435	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	3ihj.A.88/16.915	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+514	F	F>L	F>L (exome, AC = 1, AN = 251456, AF = 3.97684e-06); F>L (genome, AC = 1, AN = 31404, AF = 3.18431e-05)	none	none	-	7	0.028999999999999998	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.88/16.139	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+515	H	H>Y	H>Y (exome, AC = 1, AN = 251454, AF = 3.97687e-06)	none	none	-	1	0.004	alpha-helix	Helices	core	Positively Charged & Polar	-	-	-	-	3ihj.A.491/13.482	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+516	I	I>V	I>V (exome, AC = 1, AN = 251458, AF = 3.97681e-06)	none	none	-	52	0.264	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/16.181	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+517	N	N>S	N>S (exome, AC = 1, AN = 251454, AF = 3.97687e-06)	none	none	-	86	0.441	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	3ihj.A.491/17.569	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+518	F	none	none	none	none	-	3	0.013000000000000001	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/14.473	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+519	L	none	none	none	none	-	54	0.26899999999999996	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	3ihj.A.491/14.206	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+520	E	none	none	none	none	-	143	0.6409999999999999	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	3ihj.A.491/18.006	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+521	K	none	none	none	none	-	120	0.508	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	3ihj.A.491/17.869	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+522	Y	none	none	none	none	-	65	0.247	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	3ihj.A.491/15.562	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+523	A	A>P; A>V	A>P (exome, AC = 1, AN = 251410, AF = 3.97757e-06); A>V (exome, AC = 309, AN = 251414, AF = 0.00122905); A>V (genome, AC = 144, AN = 31402, AF = 0.0045857)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
