@@ -1,0 +1,632 @@
+Amino Acid Index	Amino Acid	Population Mutation	Population Mutation (details)	Pathogenic Mutation	Pathogenic Mutation (details)	Bond Detail	Accessible Surface Area	Relative Accessible Surface Area	8-class DSSP Secondary Structure Properties	3-class DSSP Secondary Structure Properties	Exposure	Physiochemical Property	Acetylation Detail	Methylation Detail	O.GalNAc Detail	O.GclNAc Detail	Phosphorylation Detail	Sumoylation Detail	Ubiquitination Detail	Active Site	Metal Binding Site	binding Site	Site	Zinc Finger	Dna Binding	Nucleotide Phosphate Binding	Calcium Binding	Region	Repeat	Coiled Coil	Topological Domain	Peptide	Modified Residue	Motif	Domain	Intramembrane	Propetide	Lipidation	Glycosylation	Cross Links	Disulfide Bond	Transit Peptide	Transmembrane	Signal Peptide	Functional Site	Functional Binding Region	Sequence Motif Region	Modular Domain	Molecular Processing	Modified Residues
+1	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+3	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+4	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+5	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+6	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+7	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+8	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+9	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+10	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+11	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+12	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+13	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+14	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+15	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+16	K	K>R	K>R (exome, AC = 1, AN = 250334, AF = 3.99466e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+17	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+18	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+19	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+20	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+21	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+22	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+23	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+24	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+25	K	K>E	K>E (exome, AC = 1, AN = 250698, AF = 3.98886e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+26	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+27	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+28	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+29	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+30	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+31	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+32	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+33	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+34	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+35	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+36	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+37	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+38	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+39	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+40	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+41	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+42	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+43	S	S>N	S>N (exome, AC = 1, AN = 247926, AF = 4.03346e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+44	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+45	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+46	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S46: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+47	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+48	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K48: Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)	-	-	-	-	-	-	-	-	-	cross links
+49	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+50	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+51	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+52	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+53	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+54	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+55	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+56	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+57	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+58	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+59	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+60	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+61	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+62	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+63	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+64	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+65	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+66	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+67	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+68	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+69	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+70	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+71	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+72	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+73	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+74	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+75	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+76	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+77	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+78	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+79	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+80	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+81	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+82	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+83	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+84	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+85	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+86	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+87	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+88	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+89	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+90	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+91	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+92	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+93	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+94	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+95	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+96	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+97	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+98	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+99	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+100	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+101	R	R>Q	R>Q (exome, AC = 1, AN = 250690, AF = 3.98899e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+102	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+103	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+104	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+105	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+106	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+107	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+108	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+109	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+110	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+111	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+112	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+113	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+114	F	none	none	F>L	F>L (ClinVar, phenotype = Autism spectrum disorder)	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+115	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+116	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+117	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+118	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+119	Q	Q>H	Q>H (exome, AC = 1, AN = 250640, AF = 3.98979e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+120	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+121	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+122	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+123	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+124	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+125	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+126	D	D>N	D>N (exome, AC = 1, AN = 250364, AF = 3.99418e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+127	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+128	D	D>N	D>N (exome, AC = 1, AN = 250562, AF = 3.99103e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+129	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+130	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+131	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+132	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+133	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+134	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+135	L	L>S	L>S (exome, AC = 1, AN = 251038, AF = 3.98346e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+136	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+137	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+138	S	S>R	S>R (genome, AC = 1, AN = 31380, AF = 3.18674e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+139	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+140	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+141	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+142	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+143	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+144	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+145	M	M>L	M>L (exome, AC = 1, AN = 251066, AF = 3.98302e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+146	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+147	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+148	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+149	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+150	G	G>E	G>E (exome, AC = 1, AN = 250968, AF = 3.98457e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+151	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+152	I	I>M	I>M (exome, AC = 1, AN = 250912, AF = 3.98546e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+153	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S153: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+154	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+155	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+156	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+157	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+158	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+159	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+160	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+161	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+162	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+163	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+164	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+165	M	M>R	M>R (exome, AC = 1, AN = 249762, AF = 4.00381e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+166	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+167	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+168	R	R>C	R>C (exome, AC = 1, AN = 250128, AF = 3.99795e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+169	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+170	I	I>M	I>M (exome, AC = 3, AN = 250430, AF = 1.19794e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+171	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+172	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	R172: Cleavage by ESPL1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	site	-	-	-	-	-
+173	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	E173: Cleavage by ESPL1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	site	-	-	-	-	-
+174	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+175	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S175: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+176	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+177	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+178	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+179	D	D>G	D>G (exome, AC = 1, AN = 250696, AF = 3.98889e-06); D>G (genome, AC = 1, AN = 31408, AF = 3.1839e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+180	D	D>A	D>A (exome, AC = 1, AN = 250702, AF = 3.9888e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+181	D	D>H	D>H (exome, AC = 1, AN = 250712, AF = 3.98864e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+182	M	M>V	M>V (exome, AC = 3, AN = 250736, AF = 1.19648e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+183	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+184	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+185	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+186	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+187	T	T>A	T>A (exome, AC = 2, AN = 250720, AF = 7.97703e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+188	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+189	S	S>T	S>T (exome, AC = 2, AN = 250748, AF = 7.97614e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+190	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+191	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+192	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+193	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+194	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+195	S	S>P	S>P (exome, AC = 3, AN = 250746, AF = 1.19643e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+196	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+197	Q	Q>E	Q>E (exome, AC = 1, AN = 250746, AF = 3.9881e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+198	S	S>N	S>N (genome, AC = 1, AN = 31410, AF = 3.1837e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+199	T	T>I	T>I (exome, AC = 1, AN = 250758, AF = 3.98791e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+200	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+201	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+202	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+203	N	N>S	N>S (exome, AC = 1, AN = 250790, AF = 3.9874e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+204	E	E>D	E>D (genome, AC = 1, AN = 31400, AF = 3.18471e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+205	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+206	I	I>S	I>S (exome, AC = 1, AN = 250756, AF = 3.98794e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+207	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+208	H	H>D	H>D (exome, AC = 1, AN = 250744, AF = 3.98813e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+209	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+210	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+211	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+212	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+213	D	D>V	D>V (exome, AC = 2, AN = 250722, AF = 7.97696e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+214	Q	Q>E	Q>E (exome, AC = 2, AN = 250702, AF = 7.9776e-06); Q>E (genome, AC = 2, AN = 31380, AF = 6.37349e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+215	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+216	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K216: Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)	-	-	-	-	-	-	-	-	-	cross links
+217	D	D>Y	D>Y (exome, AC = 1, AN = 250682, AF = 3.98912e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+218	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+219	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+220	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+221	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+222	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+223	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+224	N	N>S	N>S (exome, AC = 1, AN = 250412, AF = 3.99342e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+225	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+226	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+227	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+228	I	I>L	I>L (exome, AC = 1, AN = 250188, AF = 3.99699e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+229	L	L>F	L>F (exome, AC = 2, AN = 250002, AF = 7.99994e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+230	D	D>G	D>G (exome, AC = 1, AN = 202402, AF = 4.94066e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+231	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+232	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+233	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+234	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+235	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+236	N	N>S	N>S (exome, AC = 11, AN = 210118, AF = 5.23515e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+237	N	N>S	N>S (exome, AC = 2, AN = 210608, AF = 9.49632e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+238	D	D>N	D>N (exome, AC = 1, AN = 211052, AF = 4.73817e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+239	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+240	G	G>S	G>S (exome, AC = 14, AN = 216688, AF = 6.4609e-05); G>S (genome, AC = 2, AN = 31384, AF = 6.37267e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+241	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+242	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+243	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+244	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+245	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+246	P	P>L	P>L (exome, AC = 1, AN = 232456, AF = 4.30189e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+247	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+248	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+249	S	S>P; S>T; S>C	S>P (exome, AC = 3, AN = 237868, AF = 1.2612e-05); S>T (exome, AC = 2, AN = 237868, AF = 8.40802e-06); S>C (exome, AC = 2, AN = 237600, AF = 8.41751e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S249: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+250	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+251	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+252	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+253	V	V>G	V>G (exome, AC = 2, AN = 237906, AF = 8.40668e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+254	M	M>L; M>I	M>L (exome, AC = 1, AN = 238980, AF = 4.18445e-06); M>I (exome, AC = 1, AN = 239022, AF = 4.18372e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+255	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+256	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+257	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+258	Q	Q>R; Q>H	Q>R (exome, AC = 2, AN = 239826, AF = 8.33938e-06); Q>H (genome, AC = 1, AN = 31392, AF = 3.18552e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+259	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+260	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+261	H	H>R	H>R (exome, AC = 1, AN = 238778, AF = 4.18799e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+262	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+263	D	D>N; D>E	D>N (exome, AC = 2, AN = 238222, AF = 8.39553e-06); D>E (exome, AC = 1, AN = 238354, AF = 4.19544e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+264	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+265	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+266	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+267	D	D>E	D>E (exome, AC = 1, AN = 239134, AF = 4.18176e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+268	D	D>H	D>H (exome, AC = 1, AN = 238744, AF = 4.18859e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+269	N	N>D	N>D (exome, AC = 2, AN = 240282, AF = 8.32355e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+270	V	V>I	V>I (exome, AC = 1, AN = 238236, AF = 4.19752e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+271	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+272	M	M>R	M>R (exome, AC = 16, AN = 92638, AF = 0.000172715)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+273	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+274	G	G>R	G>R (exome, AC = 1, AN = 135098, AF = 7.40203e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+275	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+276	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+277	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+278	P	P>L	P>L (exome, AC = 1, AN = 178356, AF = 5.60676e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+279	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	D279: Cleavage by caspase-3 or caspase-7	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	site	-	-	-	-	-
+280	S	S>L	S>L (exome, AC = 1, AN = 192368, AF = 5.19837e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	S280: Cleavage by caspase-3 or caspase-7	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	site	-	-	-	-	-
+281	V	V>L	V>L (exome, AC = 1, AN = 203300, AF = 4.91884e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+282	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+283	P	P>R	P>R (exome, AC = 1, AN = 211948, AF = 4.71814e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+284	V	V>I	V>I (exome, AC = 3, AN = 212978, AF = 1.4086e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+285	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+286	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+287	M	M>V; M>L	M>V (exome, AC = 16, AN = 230032, AF = 6.95555e-05); M>L (exome, AC = 1, AN = 230032, AF = 4.34722e-06); M>V (genome, AC = 2, AN = 30750, AF = 6.50407e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+288	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+289	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+290	M	M>V	M>V (exome, AC = 4, AN = 234106, AF = 1.70863e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+291	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+292	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+293	Q	Q>H	Q>H (exome, AC = 1, AN = 245542, AF = 4.07262e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+294	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+295	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+296	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+297	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+298	P	P>S; P>A	P>S (exome, AC = 1, AN = 245084, AF = 4.08023e-06); P>A (exome, AC = 5, AN = 245084, AF = 2.04012e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+299	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+300	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+301	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+302	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+303	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+304	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+305	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+306	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+307	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+308	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+309	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+310	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+311	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+312	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+313	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+314	K	K>R	K>R (exome, AC = 1, AN = 250360, AF = 3.99425e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+315	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+316	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+317	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+318	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+319	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+320	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+321	K	none	none	none	none	-	256	1.085	loop	coils	exposed	Positively Charged & Polar	-	-	-	-	4pju.B.344/38.684;4pjw.B.344/38.594;4pk7.B.344/38.548	-	4pju.B.330/20.818;4pjw.B.330/20.74;4pk7.B.330/20.797	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+322	R	none	none	none	none	-	123	0.449	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	4pju.B.344/37.259;4pjw.B.344/37.196;4pk7.B.344/37.099	-	4pju.B.330/18.83;4pjw.B.330/18.709;4pk7.B.330/18.767	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+323	K	none	none	none	none	-	139	0.589	loop	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	4pju.B.344/35.115;4pjw.B.344/35.126;4pk7.B.344/34.945	-	4pju.B.330/18.19;4pjw.B.330/18.169;4pk7.B.330/18.143	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+324	L	none	none	none	none	-	19	0.095	bend	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.344/33.837;4pjw.B.344/33.678;4pk7.B.344/33.56	-	4pju.B.330/15.482;4pjw.B.330/15.311;4pk7.B.330/15.31	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+325	I	none	none	none	none	-	56	0.284	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.344/30.05;4pjw.B.344/29.902;4pk7.B.344/29.82	-	4pju.B.330/12.164;4pjw.B.330/12.017;4pk7.B.330/11.999	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+326	V	none	none	none	none	-	76	0.43700000000000006	beta-strand	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.344/29.361;4pjw.B.344/29.408;4pk7.B.344/29.314	-	4pju.B.330/9.526;4pjw.B.330/9.468;4pk7.B.330/9.433	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+327	D	none	none	none	none	-	17	0.08800000000000001	loop	coils	buried	Negatively Charged & Polar	-	-	-	-	4pju.B.344/26.032;4pjw.B.344/26.092;4pk7.B.344/26.01	-	4pju.B.330/6.176;4pjw.B.330/6.126;4pk7.B.330/6.094	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+328	S	S>N	S>N (exome, AC = 1, AN = 251204, AF = 3.98083e-06)	none	none	-	109	0.703	bend	coils	Medium-exposed	Neutral & Polar	-	-	-	-	4pju.B.344/26.241;4pjw.B.344/26.195;4pk7.B.344/26.201	-	4pju.B.330/6.64;4pjw.B.330/6.495;4pk7.B.330/6.375	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+329	V	none	none	none	none	-	97	0.557	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.344/22.982;4pjw.B.344/22.961;4pk7.B.344/22.897	-	4pju.B.330/3.848;4pjw.B.330/3.793;4pk7.B.330/3.777	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+330	K	none	none	none	none	-	40	0.16899999999999998	loop	coils	buried	Positively Charged & Polar	-	-	-	-	4pju.B.344/22.291;4pjw.B.344/22.562;4pk7.B.344/22.51	-	4pju.B.330/0.0;4pjw.B.330/0.0;4pk7.B.330/0.0	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+331	E	none	none	none	none	-	56	0.251	beta-strand	beta-strand/sheet	Medium-buried	NegativelyCharged & Polar	-	-	-	-	4pju.B.344/19.554;4pjw.B.344/19.739;4pk7.B.344/19.766	-	4pju.B.330/3.822;4pjw.B.330/3.822;4pk7.B.330/3.824	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+332	L	none	none	none	none	-	43	0.214	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.344/16.126;4pjw.B.344/16.322;4pk7.B.344/16.331	-	4pju.B.330/6.995;4pjw.B.330/7.129;4pk7.B.330/7.071	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+333	D	none	none	none	none	-	88	0.456	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	4pju.B.344/17.158;4pjw.B.344/17.308;4pk7.B.344/16.96	-	4pju.B.335/5.508;4pjw.B.335/5.599;4pk7.B.335/5.405	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+334	S	none	none	none	none	-	52	0.335	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	4pju.B.344/16.351;4pjw.B.344/16.389;4pk7.B.344/16.39	-	4pju.B.335/3.788;4pjw.B.335/3.814;4pk7.B.335/3.791	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+335	K	none	none	none	none	-	158	0.669	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	4pju.B.344/14.91;4pjw.B.344/14.928;4pk7.B.344/15.11	-	4pju.B.335/0.0;4pjw.B.335/0.0;4pk7.B.335/0.0	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+336	T	none	none	none	none	-	51	0.297	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	4pju.B.344/12.195;4pjw.B.344/12.131;4pk7.B.344/12.25	-	4pju.B.335/3.804;4pjw.B.335/3.808;4pk7.B.335/3.822	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+337	I	none	none	none	none	-	17	0.086	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.344/11.167;4pjw.B.344/11.232;4pk7.B.344/11.266	-	4pju.B.335/5.353;4pjw.B.335/5.378;4pk7.B.335/5.567	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+338	R	none	none	none	none	-	164	0.599	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	4pju.B.344/11.152;4pjw.B.344/11.294;4pk7.B.344/11.218	-	4pju.B.335/5.008;4pjw.B.335/5.049;4pk7.B.335/5.279	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+339	A	none	none	none	none	-	54	0.419	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.344/8.821;4pjw.B.344/8.91;4pk7.B.344/8.817	-	4pju.B.335/6.454;4pjw.B.335/6.388;4pk7.B.335/6.605	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+340	Q	none	none	none	none	-	22	0.098	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	4pju.B.344/6.364;4pjw.B.344/6.356;4pk7.B.344/6.249	-	4pju.B.335/8.776;4pjw.B.335/8.795;4pk7.B.335/9.106	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+341	L	none	none	none	none	-	60	0.299	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.344/6.647;4pjw.B.344/6.866;4pk7.B.344/6.991	-	4pju.B.335/10.128;4pjw.B.335/10.248;4pk7.B.335/10.36	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+342	S	none	none	none	none	-	101	0.652	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	4pju.B.344/6.844;4pjw.B.344/6.888;4pk7.B.344/6.797	-	4pju.B.335/10.738;4pjw.B.335/10.825;4pk7.B.335/11.185	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+343	D	none	none	none	none	-	90	0.466	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	4pju.B.344/3.851;4pjw.B.344/3.825;4pk7.B.344/3.84	-	4pju.B.335/12.837;4pjw.B.335/12.801;4pk7.B.335/12.98	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+344	Y	none	none	none	none	-	65	0.247	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	4pju.B.344/0.0;4pjw.B.344/0.0;4pk7.B.344/0.0	-	4pju.B.335/14.91;4pjw.B.335/14.928;4pk7.B.335/15.11	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+345	S	none	none	none	none	-	75	0.484	310-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	4pju.B.344/3.817;4pjw.B.344/3.824;4pk7.B.344/3.833	-	4pju.B.335/17.851;4pjw.B.335/17.832;4pk7.B.335/18.027	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+346	D	none	none	none	none	-	80	0.415	310-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	4pju.B.344/5.49;4pjw.B.344/5.41;4pk7.B.344/5.542	-	4pju.B.335/17.864;4pjw.B.335/17.849;4pk7.B.335/18.058	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+347	I	I>T	I>T (exome, AC = 1, AN = 251294, AF = 3.9794e-06)	none	none	-	10	0.051	310-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.344/5.601;4pjw.B.344/5.572;4pk7.B.344/5.56	-	4pju.B.335/18.545;4pjw.B.335/18.596;4pk7.B.335/18.789	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+348	V	V>I	V>I (exome, AC = 1, AN = 251286, AF = 3.97953e-06)	none	none	-	38	0.218	beta-strand	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.344/6.599;4pjw.B.344/6.509;4pk7.B.344/6.573	-	4pju.B.335/21.145;4pjw.B.335/21.133;4pk7.B.335/21.372	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+349	T	none	none	none	none	-	58	0.337	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	4pju.B.344/9.914;4pjw.B.344/9.869;4pk7.B.344/10.002	-	4pju.B.364/22.547;4pjw.B.364/22.313;4pk7.B.364/22.294	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+350	T	T>A	T>A (exome, AC = 2, AN = 251256, AF = 7.96001e-06)	none	none	-	118	0.6859999999999999	loop	coils	Medium-exposed	Neutral & Polar	-	-	-	-	4pju.B.344/13.112;4pjw.B.344/13.07;4pk7.B.344/13.226	-	4pju.B.364/20.257;4pjw.B.364/20.115;4pk7.B.364/20.128	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+351	L	none	none	none	none	-	42	0.209	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.344/15.987;4pjw.B.344/15.907;4pk7.B.344/16.032	-	4pju.B.364/17.882;4pjw.B.364/17.759;4pk7.B.364/17.799	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+352	D	none	none	none	none	-	86	0.446	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	4pju.B.344/18.551;4pjw.B.344/18.449;4pk7.B.344/18.489	-	4pju.B.364/14.33;4pjw.B.364/14.159;4pk7.B.364/14.229	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+353	L	none	none	none	none	-	55	0.27399999999999997	beta-strand	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.366/18.103;4pjw.B.366/17.711;4pk7.B.366/17.824	-	4pju.B.364/12.364;4pjw.B.364/12.215;4pk7.B.364/12.333	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+354	A	none	none	none	none	-	4	0.031	loop	coils	core	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.366/15.129;4pjw.B.366/14.591;4pk7.B.366/14.829	-	4pju.B.364/9.605;4pjw.B.364/9.309;4pk7.B.364/9.527	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+355	P	none	none	none	none	-	15	0.094	loop	coils	buried	Special	-	-	-	-	4pju.B.366/12.814;4pjw.B.366/12.417;4pk7.B.366/12.575	-	4pju.B.364/7.483;4pjw.B.364/7.363;4pk7.B.364/7.488	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+356	P	none	none	none	none	-	37	0.233	loop	coils	buried	Special	-	-	-	-	4pju.B.366/15.736;4pjw.B.366/15.479;4pk7.B.366/15.496	-	4pju.B.358/7.062;4pjw.B.358/7.122;4pk7.B.358/7.015	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+357	T	none	none	none	none	-	32	0.18600000000000003	bend	coils	buried	Neutral & Polar	-	-	-	-	4pju.B.366/14.451;4pjw.B.366/14.204;4pk7.B.366/14.253	-	4pju.B.358/3.789;4pjw.B.358/3.804;4pk7.B.358/3.796	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+358	K	none	none	none	none	-	86	0.364	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4pju.B.366/12.321;4pjw.B.366/12.214;4pk7.B.366/12.216	-	4pju.B.358/0.0;4pjw.B.358/0.0;4pk7.B.358/0.0	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+359	K	K>R	K>R (exome, AC = 1, AN = 251290, AF = 3.97947e-06)	none	none	-	101	0.428	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4pju.B.366/10.74;4pjw.B.366/10.549;4pk7.B.366/10.475	-	4pju.B.358/3.813;4pjw.B.358/3.795;4pk7.B.358/3.825	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+360	L	none	none	none	none	-	44	0.21899999999999997	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.366/9.942;4pjw.B.366/9.779;4pk7.B.366/9.726	-	4pju.B.358/5.558;4pjw.B.358/5.524;4pk7.B.358/5.62	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+361	M	none	none	none	none	-	22	0.098	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4pk7.B.366/8.627	-	4pk7.B.358/4.966	-	-	-	-	-	-	-	-	M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+362	M	none	none	none	none	-	98	0.43799999999999994	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	4pk7.B.366/5.892	-	4pk7.B.364/5.353	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+363	W	none	none	none	none	-	40	0.14	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	4pju.B.366/5.334;4pjw.B.366/5.094;4pk7.B.366/5.013	-	4pju.B.364/3.803;4pjw.B.364/3.817;4pk7.B.364/3.852	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+364	K	none	none	none	none	-	114	0.483	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4pju.B.366/5.777;4pjw.B.366/5.551;4pk7.B.366/5.524	-	4pju.B.364/0.0;4pjw.B.364/0.0;4pk7.B.364/0.0	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+365	E	none	none	none	none	-	114	0.511	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	4pju.B.366/3.824;4pjw.B.366/3.801;4pk7.B.366/3.777	-	4pju.B.364/3.805;4pjw.B.364/3.817;4pk7.B.364/3.79	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+366	T	T>I	T>I (exome, AC = 1, AN = 251258, AF = 3.97997e-06)	none	none	-	49	0.285	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	4pju.B.366/0.0;4pjw.B.366/0.0;4pk7.B.366/0.0	-	4pju.B.364/5.777;4pjw.B.364/5.551;4pk7.B.364/5.524	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+367	G	none	none	none	none	-	22	0.193	loop	coils	buried	Special	-	-	-	-	4pju.B.366/3.783;4pjw.B.366/3.805;4pk7.B.366/3.812	-	4pju.B.364/4.922;4pjw.B.364/5.079;4pk7.B.364/5.292	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+368	G	none	none	none	none	-	30	0.263	bend	coils	Medium-buried	Special	-	-	-	-	4pju.B.366/6.775;4pjw.B.366/6.963;4pk7.B.366/6.956	-	4pju.B.371/5.636;4pjw.B.371/5.683;4pk7.B.371/5.493	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+369	V	none	none	none	none	-	24	0.138	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.374/8.631;4pjw.B.374/8.651;4pk7.B.374/8.625	-	4pju.B.371/5.649;4pjw.B.371/5.725;4pk7.B.371/5.571	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+370	E	none	none	none	none	-	163	0.731	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	4pju.B.374/6.462;4pjw.B.374/6.529;4pk7.B.374/6.401	-	4pju.B.371/3.822;4pjw.B.371/3.807;4pk7.B.371/3.774	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+371	K	none	none	none	none	-	92	0.39	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4pju.B.374/5.126;4pjw.B.374/5.217;4pk7.B.374/5.333	-	4pju.B.371/0.0;4pjw.B.371/0.0;4pk7.B.371/0.0	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+372	L	none	none	none	none	-	20	0.1	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.374/5.507;4pjw.B.374/5.409;4pk7.B.374/5.42	-	4pju.B.371/3.806;4pjw.B.371/3.814;4pk7.B.371/3.8	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+373	F	none	none	none	none	-	16	0.067	turn	coils	buried	Aromatic & Hydrophobic	-	-	-	-	4pju.B.374/3.812;4pjw.B.374/3.826;4pk7.B.374/3.806	-	4pju.B.371/5.545;4pjw.B.371/5.674;4pk7.B.371/5.721	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+374	S	none	none	none	none	-	43	0.27699999999999997	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	4pju.B.374/0.0;4pjw.B.374/0.0;4pk7.B.374/0.0	-	4pju.B.371/5.126;4pjw.B.371/5.217;4pk7.B.371/5.333	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+375	L	none	none	none	none	-	44	0.21899999999999997	bend	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.374/3.828;4pjw.B.374/3.825;4pk7.B.374/3.826	-	4pju.B.371/6.148;4pjw.B.371/6.346;4pk7.B.371/6.539	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+376	P	none	none	P>R	P>R (ClinVar, phenotype = Cornelia de Lange syndrome 4); P>R (ClinVar, phenotype = Cornelia de Lange-like syndrome)	-	11	0.069	loop	coils	buried	Special	-	-	-	-	4pju.B.374/7.072;4pjw.B.374/7.115;4pk7.B.374/7.197	-	4pju.B.371/9.559;4pjw.B.371/9.743;4pk7.B.371/9.946	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+377	A	A>S	A>S (exome, AC = 3, AN = 251072, AF = 1.19488e-05)	none	none	-	5	0.039	bend	coils	core	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.374/9.684;4pjw.B.374/9.669;4pk7.B.374/9.72	-	4pju.B.371/11.002;4pjw.B.371/11.034;4pk7.B.371/11.127	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+378	Q	none	none	none	none	-	24	0.107	bend	coils	buried	Neutral & Polar	-	-	-	-	4pju.B.374/12.139;4pjw.B.374/12.175;4pk7.B.374/12.253	-	4pju.B.371/13.415;4pjw.B.387/13.504;4pk7.B.387/13.664	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+379	P	P>L	P>L (exome, AC = 1, AN = 250898, AF = 3.98568e-06)	none	none	-	74	0.465	loop	coils	Medium-buried	Special	-	-	-	-	4pju.B.366/10.585;4pjw.B.366/10.791;4pk7.B.366/10.644	-	4pju.B.371/11.893;4pjw.B.387/11.921;4pk7.B.387/12.135	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+380	L	none	none	none	none	-	17	0.085	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.374/12.209;4pjw.B.374/12.273;4pk7.B.374/12.287	-	4pju.B.387/9.486;4pjw.B.387/9.374;4pk7.B.387/9.489	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+381	W	none	none	none	none	-	54	0.18899999999999997	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	4pju.B.366/13.391;4pjw.B.366/13.57;4pk7.B.366/13.537	-	4pju.B.387/10.948;4pjw.B.387/10.82;4pk7.B.387/10.986	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+382	N	N>S	N>S (exome, AC = 3, AN = 250806, AF = 1.19614e-05)	none	none	-	14	0.07200000000000001	bend	coils	buried	Neutral & Polar	-	-	-	-	4pju.B.374/15.448;4pjw.B.374/15.363;4pk7.B.374/15.602	-	4pju.B.387/8.921;4pjw.B.387/8.746;4pk7.B.387/9.104	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+383	N	N>T	N>T (exome, AC = 1, AN = 250706, AF = 3.98874e-06)	none	none	-	119	0.61	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	4pju.B.374/13.599;4pjw.B.374/13.483;4pk7.B.374/13.634	-	4pju.B.387/6.071;4pjw.B.387/5.847;4pk7.B.387/6.167	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+384	R	none	none	none	none	-	121	0.442	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4pju.B.374/15.601;4pjw.B.374/15.549;4pk7.B.374/15.646	-	4pju.B.387/5.826;4pjw.B.387/5.755;4pk7.B.387/5.965	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+385	L	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.374/13.955;4pjw.B.374/13.777;4pk7.B.374/14.039	-	4pju.B.387/5.585;4pjw.B.387/5.414;4pk7.B.387/5.727	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+386	L	none	none	none	none	-	35	0.174	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.374/10.393;4pjw.B.374/10.189;4pk7.B.374/10.414	-	4pju.B.387/3.795;4pjw.B.387/3.794;4pk7.B.387/3.851	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+387	K	none	none	none	none	-	134	0.568	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	4pju.B.374/10.797;4pjw.B.374/10.688;4pk7.B.374/10.757	-	4pju.B.387/0.0;4pjw.B.387/0.0;4pk7.B.387/0.0	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+388	L	none	none	none	none	-	11	0.055	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.374/11.957;4pjw.B.374/11.945;4pk7.B.374/11.992	-	4pju.B.387/3.811;4pjw.B.387/3.826;4pk7.B.387/3.819	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+389	F	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	4pju.B.374/8.539;4pjw.B.374/8.622;4pk7.B.374/8.697	-	4pju.B.387/5.151;4pjw.B.387/5.183;4pk7.B.387/5.239	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+390	T	none	none	none	none	-	51	0.297	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	4pju.B.374/6.729;4pjw.B.374/6.664;4pk7.B.374/6.767	-	4pju.B.387/4.897;4pjw.B.387/4.891;4pk7.B.387/4.705	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+391	R	R>S; R>C	R>S (exome, AC = 1, AN = 188772, AF = 5.2974e-06); R>C (genome, AC = 1, AN = 29848, AF = 3.35031e-05)	none	none	-	73	0.266	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	4pju.B.394/8.113;4pjw.B.394/8.242;4pk7.B.394/7.018	-	4pju.B.387/5.414;4pjw.B.387/5.473;4pk7.B.387/5.405	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+392	C	C>F	C>F (exome, AC = 1, AN = 220892, AF = 4.5271e-06)	none	none	-	0	0	turn	coils	core	Special	-	-	-	-	4pju.B.394/6.401;4pjw.B.394/6.172;4pk7.B.394/6.531	-	4pju.B.387/8.491;4pjw.B.387/8.595;4pk7.B.387/8.454	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+393	L	none	none	none	none	-	25	0.124	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	4pju.B.394/3.832;4pjw.B.394/3.813;4pk7.B.394/3.787	-	4pju.B.387/9.9;4pjw.B.387/9.969;4pk7.B.387/9.543	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+394	T	none	none	none	none	-	126	0.733	loop	coils	Medium-exposed	Neutral & Polar	-	-	-	-	4pju.B.394/0.0;4pjw.B.394/0.0;4pk7.B.394/0.0	-	4pju.B.387/12.964;4pjw.B.387/13.114;4pk7.B.387/11.303	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	T394: Phosphothreonine	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	modified_residue
+395	P	P>L	P>L (exome, AC = 3, AN = 232166, AF = 1.29218e-05)	none	none	-	65	0.409	loop	coils	Medium-buried	Special	-	-	-	-	4pjw.B.394/3.843;4pk7.B.394/3.776	-	4pjw.B.387/16.012;4pk7.B.387/13.326	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+396	L	none	none	none	none	-	128	0.637	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	4pk7.B.394/6.005	-	4pk7.B.387/16.359	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+397	V	V>I	V>I (exome, AC = 3, AN = 249106, AF = 1.20431e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+398	P	P>S	P>S (exome, AC = 1, AN = 250102, AF = 3.99837e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+399	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+400	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+401	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+402	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+403	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M362-K403: Interaction with STAG1;M287-K403: Interaction with WAPL and PDS5B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	region	-	-	-
+404	R	R>K	R>K (exome, AC = 3, AN = 250750, AF = 1.19641e-05); R>K (genome, AC = 1, AN = 31162, AF = 3.20904e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+405	R	R>K	R>K (exome, AC = 1, AN = 250832, AF = 3.98673e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+406	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+407	G	G>R; G>E	G>R (exome, AC = 2, AN = 250890, AF = 7.97162e-06); G>E (genome, AC = 1, AN = 31212, AF = 3.2039e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+408	G	G>R	G>R (exome, AC = 1, AN = 250924, AF = 3.98527e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+409	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+410	A	A>T	A>T (exome, AC = 3, AN = 250912, AF = 1.19564e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+411	D	D>H	D>H (exome, AC = 2, AN = 250966, AF = 7.96921e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+412	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+413	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+414	D	D>Y; D>E	D>Y (exome, AC = 1, AN = 250944, AF = 3.98495e-06); D>E (exome, AC = 372, AN = 250988, AF = 0.00148214); D>E (exome, AC = 1, AN = 250988, AF = 3.98425e-06); D>E (genome, AC = 156, AN = 31326, AF = 0.00497989)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+415	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+416	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+417	L	L>F	L>F (exome, AC = 1, AN = 250932, AF = 3.98514e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+418	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K418: Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)	-	-	-	-	-	-	-	-	-	cross links
+419	E	E>K	E>K (exome, AC = 1, AN = 250934, AF = 3.98511e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+420	F	F>L	F>L (exome, AC = 1, AN = 250902, AF = 3.98562e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+421	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+422	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+423	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+424	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+425	V	V>I	V>I (exome, AC = 3, AN = 250848, AF = 1.19594e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+426	P	P>S	P>S (exome, AC = 1, AN = 250614, AF = 3.9902e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+427	R	R>G	R>G (exome, AC = 1, AN = 250742, AF = 3.98816e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+428	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+429	D	D>N; D>V	D>N (exome, AC = 1, AN = 250392, AF = 3.99374e-06); D>V (exome, AC = 1, AN = 250580, AF = 3.99074e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+430	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+431	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+432	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+433	Q	Q>R	Q>R (exome, AC = 1, AN = 250022, AF = 3.99965e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+434	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+435	Q	Q>E; Q>R	Q>E (exome, AC = 1, AN = 249742, AF = 4.00413e-06); Q>R (exome, AC = 1, AN = 249820, AF = 4.00288e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+436	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+437	R	R>C; R>H	R>C (exome, AC = 1, AN = 248746, AF = 4.02017e-06); R>H (exome, AC = 4, AN = 248888, AF = 1.60715e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+438	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+439	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+440	I	I>T	I>T (exome, AC = 2, AN = 247848, AF = 8.06946e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+441	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+442	E	E>V	E>V (exome, AC = 1, AN = 249970, AF = 4.00048e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+443	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+444	I	I>T	I>T (exome, AC = 2, AN = 250600, AF = 7.98085e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+445	I	I>V	I>V (exome, AC = 1, AN = 250622, AF = 3.99007e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+446	E	E>K	E>K (exome, AC = 1, AN = 250614, AF = 3.9902e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+447	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+448	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+449	S	S>G	S>G (exome, AC = 2, AN = 250810, AF = 7.97416e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+450	R	R>C; R>H	R>C (exome, AC = 1, AN = 250792, AF = 3.98737e-06); R>H (exome, AC = 8, AN = 250764, AF = 3.19025e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	R450: Cleavage by ESPL1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	site	-	-	-	-	-
+451	L	L>R	L>R (exome, AC = 71, AN = 250940, AF = 0.000282936); L>R (genome, AC = 10, AN = 31408, AF = 0.00031839)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	L451: Cleavage by ESPL1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	site	-	-	-	-	-
+452	Q	Q>L	Q>L (exome, AC = 1, AN = 250954, AF = 3.98479e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+453	E	E>Q; E>D	E>Q (exome, AC = 1, AN = 250954, AF = 3.98479e-06); E>D (exome, AC = 5, AN = 250954, AF = 1.9924e-05); E>Q (genome, AC = 1, AN = 31410, AF = 3.1837e-05); E>D (genome, AC = 3, AN = 31414, AF = 9.54988e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+454	S	S>P	S>P (exome, AC = 5, AN = 250972, AF = 1.99225e-05); S>P (genome, AC = 3, AN = 31404, AF = 9.55292e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S454: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+455	V	V>M; V>A	V>M (exome, AC = 1, AN = 251008, AF = 3.98394e-06); V>A (exome, AC = 5, AN = 251004, AF = 1.992e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+456	M	M>V	M>V (exome, AC = 2, AN = 251012, AF = 7.96775e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+457	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+458	A	A>S	A>S (exome, AC = 1, AN = 250986, AF = 3.98429e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+459	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+460	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+461	T	T>I	T>I (exome, AC = 1, AN = 251058, AF = 3.98314e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+462	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+463	I	I>V; I>K	I>V (exome, AC = 1, AN = 251078, AF = 3.98283e-06); I>K (exome, AC = 1, AN = 251090, AF = 3.98264e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+464	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+465	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+466	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+467	A	A>V	A>V (genome, AC = 1, AN = 31404, AF = 3.18431e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+468	M	M>V	M>V (exome, AC = 6, AN = 251130, AF = 2.3892e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+469	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+470	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+471	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+472	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+473	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+474	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+475	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+476	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+477	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+478	R	R>G	R>G (exome, AC = 1, AN = 251034, AF = 3.98352e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+479	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+480	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+481	G	G>R	G>R (exome, AC = 5, AN = 251008, AF = 1.99197e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+482	Q	Q>K; Q>R; Q>H	Q>K (exome, AC = 1, AN = 251022, AF = 3.98371e-06); Q>R (exome, AC = 1, AN = 251032, AF = 3.98356e-06); Q>H (exome, AC = 2, AN = 251032, AF = 7.96711e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+483	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+484	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+485	P	P>R	P>R (exome, AC = 2, AN = 250976, AF = 7.96889e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+486	E	E>K; E>V	E>K (exome, AC = 1, AN = 250942, AF = 3.98498e-06); E>V (exome, AC = 1, AN = 250934, AF = 3.98511e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+487	P	P>S; P>L	P>S (exome, AC = 1, AN = 250824, AF = 3.98686e-06); P>L (exome, AC = 3, AN = 250848, AF = 1.19594e-05); P>L (genome, AC = 1, AN = 31392, AF = 3.18552e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+488	V	V>A	V>A (exome, AC = 11, AN = 250746, AF = 4.38691e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+489	M	M>V	M>V (exome, AC = 1, AN = 250696, AF = 3.98889e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+490	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+491	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+492	Q	Q>P	Q>P (exome, AC = 1, AN = 250688, AF = 3.98902e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+493	Q	Q>R; Q>H	Q>R (exome, AC = 1, AN = 250622, AF = 3.99007e-06); Q>H (exome, AC = 14, AN = 250752, AF = 5.58321e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+494	V	V>I	V>I (exome, AC = 1, AN = 250788, AF = 3.98743e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+495	E	E>K	E>K (exome, AC = 1, AN = 250918, AF = 3.98537e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+496	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+497	M	M>V	M>V (exome, AC = 4, AN = 251092, AF = 1.59304e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+498	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+499	I	I>V; I>M	I>V (exome, AC = 1, AN = 251128, AF = 3.98203e-06); I>M (exome, AC = 1, AN = 251082, AF = 3.98276e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+500	P	P>T; P>R	P>T (exome, AC = 1, AN = 251124, AF = 3.9821e-06); P>R (exome, AC = 2, AN = 251152, AF = 7.96331e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+501	P	P>R	P>R (exome, AC = 1, AN = 251152, AF = 3.98165e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+502	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+503	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+504	L	L>R	L>R (exome, AC = 1, AN = 251196, AF = 3.98096e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+505	P	P>H	P>H (exome, AC = 1, AN = 251196, AF = 3.98096e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+506	P	P>A; P>L	P>A (exome, AC = 1, AN = 251210, AF = 3.98073e-06); P>L (exome, AC = 2, AN = 251186, AF = 7.96223e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+507	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+508	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+509	P	P>R	P>R (exome, AC = 1, AN = 251218, AF = 3.98061e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+510	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+511	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+512	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+513	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+514	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+515	L	L>V	L>V (exome, AC = 1, AN = 251190, AF = 3.98105e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+516	I	I>M	I>M (exome, AC = 1, AN = 251220, AF = 3.98057e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+517	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+518	E	E>D	E>D (exome, AC = 1, AN = 251142, AF = 3.98181e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+519	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+520	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+521	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+522	L	L>V; L>P	L>V (exome, AC = 177, AN = 251050, AF = 0.000705039); L>P (exome, AC = 1, AN = 251034, AF = 3.98352e-06); L>V (genome, AC = 43, AN = 31368, AF = 0.00137082)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+523	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+524	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+525	K	K>R	K>R (exome, AC = 3, AN = 251120, AF = 1.19465e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+526	E	E>Q	E>Q (exome, AC = 4, AN = 251078, AF = 1.59313e-05); E>Q (genome, AC = 2, AN = 31386, AF = 6.37227e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+527	K	K>E; K>T	K>E (exome, AC = 47, AN = 251072, AF = 0.000187197); K>T (exome, AC = 1, AN = 251046, AF = 3.98333e-06); K>E (genome, AC = 8, AN = 31398, AF = 0.000254793)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+528	E	E>Q; E>A	E>Q (exome, AC = 2, AN = 251030, AF = 7.96718e-06); E>A (exome, AC = 1, AN = 251076, AF = 3.98286e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+529	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+530	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+531	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+532	E	E>G	E>G (exome, AC = 4, AN = 250948, AF = 1.59396e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+533	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+534	E	E>D	E>D (exome, AC = 17, AN = 250706, AF = 6.78085e-05); E>D (genome, AC = 3, AN = 31374, AF = 9.56206e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+535	D	D>E	D>E (exome, AC = 2, AN = 250552, AF = 7.98237e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+536	D	D>H; D>E	D>H (exome, AC = 1, AN = 250562, AF = 3.99103e-06); D>E (exome, AC = 1, AN = 250538, AF = 3.99141e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+537	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+538	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+539	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+540	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+541	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+542	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+543	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+544	A	A>V	A>V (exome, AC = 18, AN = 233404, AF = 7.71195e-05); A>V (genome, AC = 1, AN = 31234, AF = 3.20164e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+545	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S545: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+546	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+547	G	G>D	G>D (exome, AC = 1, AN = 235998, AF = 4.23732e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+548	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+549	Q	Q>E	Q>E (exome, AC = 1, AN = 240044, AF = 4.1659e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+550	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+551	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+552	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+553	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+554	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+555	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+556	W	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+557	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+558	K	K>E	K>E (exome, AC = 1, AN = 246382, AF = 4.05874e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+559	R	R>S	R>S (exome, AC = 1, AN = 246408, AF = 4.05831e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+560	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+561	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+562	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+563	M	M>T	M>T (exome, AC = 1, AN = 247236, AF = 4.04472e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+564	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+565	H	H>Q	H>Q (exome, AC = 1, AN = 247222, AF = 4.04495e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+566	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+567	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+568	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+569	R	R>C; R>H	R>C (exome, AC = 1, AN = 247222, AF = 4.04495e-06); R>H (exome, AC = 3, AN = 247220, AF = 1.21349e-05); R>C (genome, AC = 1, AN = 31396, AF = 3.18512e-05); R>H (genome, AC = 1, AN = 31384, AF = 3.18634e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+570	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+571	L	L>F	L>F (exome, AC = 35, AN = 248106, AF = 0.000141069); L>F (genome, AC = 3, AN = 31390, AF = 9.55718e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+572	A	A>T; A>V	A>T (exome, AC = 2, AN = 249036, AF = 8.03097e-06); A>V (exome, AC = 1, AN = 249036, AF = 4.01548e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+573	K	K>E	K>E (exome, AC = 1, AN = 249458, AF = 4.00869e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+574	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+575	G	G>A	G>A (exome, AC = 6, AN = 250194, AF = 2.39814e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+576	A	A>V	A>V (exome, AC = 1, AN = 250382, AF = 3.9939e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+577	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+578	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+579	I	I>V	I>V (exome, AC = 12, AN = 250886, AF = 4.78305e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+580	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+581	L	L>F	L>F (exome, AC = 1, AN = 250960, AF = 3.9847e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+582	L	L>I	L>I (exome, AC = 1, AN = 250972, AF = 3.98451e-06); L>I (genome, AC = 1, AN = 31402, AF = 3.18451e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+583	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+584	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+585	C	none	none	C>R	C>R (ClinVar, phenotype = Cornelia de Lange syndrome 4); C>R (ClinVar, phenotype = Cornelia de Lange-like syndrome)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+586	R	R>Q	R>Q (exome, AC = 5, AN = 251070, AF = 1.99148e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+587	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+588	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+589	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+590	R	R>K	R>K (exome, AC = 1, AN = 251250, AF = 3.9801e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+591	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+592	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+593	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+594	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+595	A	A>T	A>T (exome, AC = 1, AN = 251272, AF = 3.97975e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+596	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+597	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+598	Y	Y>C	Y>C (exome, AC = 1, AN = 251320, AF = 3.97899e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+599	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+600	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+601	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+602	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+603	L	none	none	L>P	L>P (ClinVar, phenotype = Cornelia de Lange syndrome 4)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+604	K	K>R	K>R (exome, AC = 4, AN = 251324, AF = 1.59157e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+605	K	K>R	K>R (exome, AC = 1, AN = 251312, AF = 3.97912e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+606	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+607	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+608	A	A>G	A>G (exome, AC = 1, AN = 251312, AF = 3.97912e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+609	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+610	E	E>Q	E>Q (exome, AC = 1, AN = 251308, AF = 3.97918e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+611	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+612	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+613	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+614	E	E>Q	E>Q (genome, AC = 1, AN = 31396, AF = 3.18512e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+615	E	E>K	E>K (exome, AC = 1, AN = 251226, AF = 3.98048e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+616	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+617	Y	Y>F	Y>F (exome, AC = 3, AN = 251186, AF = 1.19433e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+618	S	S>N	S>N (exome, AC = 1, AN = 251044, AF = 3.98337e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+619	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+620	I	I>V	I>V (exome, AC = 1, AN = 250484, AF = 3.99227e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+621	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+622	A	A>T	A>T (exome, AC = 2, AN = 250086, AF = 7.99725e-06)	A>T	A>T (ClinVar, phenotype = Mungan syndrome); A>T (ClinVar, phenotype = Chronic intestinal pseudo-obstruction)	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+623	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	T623: Phosphothreonine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+624	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+625	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+626	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+627	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+628	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+629	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+630	I	I>V	I>V (exome, AC = 1, AN = 246316, AF = 4.05983e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+631	I	I>V	I>V (exome, AC = 1, AN = 245084, AF = 4.08023e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
