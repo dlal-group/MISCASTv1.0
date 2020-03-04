@@ -1,0 +1,285 @@
+Amino Acid Index	Amino Acid	Population Mutation	Population Mutation (details)	Pathogenic Mutation	Pathogenic Mutation (details)	Bond Detail	Accessible Surface Area	Relative Accessible Surface Area	8-class DSSP Secondary Structure Properties	3-class DSSP Secondary Structure Properties	Exposure	Physiochemical Property	Acetylation Detail	Methylation Detail	O.GalNAc Detail	O.GclNAc Detail	Phosphorylation Detail	Sumoylation Detail	Ubiquitination Detail	Active Site	Metal Binding Site	binding Site	Site	Zinc Finger	Dna Binding	Nucleotide Phosphate Binding	Calcium Binding	Region	Repeat	Coiled Coil	Topological Domain	Peptide	Modified Residue	Motif	Domain	Intramembrane	Propetide	Lipidation	Glycosylation	Cross Links	Disulfide Bond	Transit Peptide	Transmembrane	Signal Peptide	Functional Site	Functional Binding Region	Sequence Motif Region	Modular Domain	Molecular Processing	Modified Residues
+1	M	none	none	none	none	-	11	0.049	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/49.502	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+2	S	none	none	none	none	-	10	0.065	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	4egc.A.513/52.347	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+3	M	none	none	none	none	-	87	0.38799999999999996	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/52.804	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+4	L	none	none	none	none	-	56	0.27899999999999997	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/49.218	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+5	P	P>A; P>L; P>Q	P>A (exome, AC = 2, AN = 240200, AF = 8.32639e-06); P>L (exome, AC = 1, AN = 240396, AF = 4.1598e-06); P>Q (exome, AC = 2, AN = 240396, AF = 8.31961e-06)	none	none	-	76	0.478	loop	coils	Medium-buried	Special	-	-	-	-	4egc.A.513/49.047	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+6	S	S>A	S>A (exome, AC = 3, AN = 241038, AF = 1.24462e-05)	none	none	-	131	0.845	loop	coils	exposed	Neutral & Polar	-	-	-	-	4egc.A.513/47.103	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+7	F	none	none	none	none	-	81	0.33799999999999997	loop	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/44.868	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+8	G	G>A	G>A (exome, AC = 1, AN = 243038, AF = 4.11458e-06)	none	none	-	51	0.447	loop	coils	Medium-buried	Special	-	-	-	-	4egc.A.513/41.266	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+9	F	none	none	none	none	-	34	0.142	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/38.176	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+10	T	none	none	none	none	-	68	0.395	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.513/35.029	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+11	Q	none	none	none	none	-	132	0.5870000000000001	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	4egc.A.513/31.814	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+12	E	E>K	E>K (exome, AC = 1, AN = 245382, AF = 4.07528e-06)	none	none	-	93	0.41700000000000004	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	4egc.A.513/30.506	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+13	Q	none	none	none	none	-	13	0.057999999999999996	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	4egc.A.513/33.859	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+14	V	none	none	none	none	-	7	0.04	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/33.847	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+15	A	none	none	none	none	-	21	0.163	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/30.433	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+16	C	none	none	none	none	-	7	0.042	alpha-helix	Helices	core	Special	-	-	-	-	4egc.A.513/31.848	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+17	V	none	none	V>E	V>E (ClinVar, phenotype = Melnick-Fraser syndrome); V>E (ClinVar, phenotype = Branchio-otic-renal syndrome)	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/34.951	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+18	C	none	none	none	none	-	0	0	alpha-helix	Helices	core	Special	-	-	-	-	4egc.A.513/33.043	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+19	E	none	none	none	none	-	37	0.166	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	4egc.A.513/31.059	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+20	V	V>A	V>A (exome, AC = 1, AN = 248614, AF = 4.0223e-06)	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/34.249	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+21	L	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/36.368	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+22	Q	none	none	none	none	-	15	0.067	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	4egc.A.513/33.875	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+23	Q	Q>P	Q>P (exome, AC = 1, AN = 249510, AF = 4.00786e-06)	none	none	-	84	0.373	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.513/33.552	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+24	G	none	none	none	none	-	19	0.16699999999999998	turn	coils	buried	Special	-	-	-	-	4egc.A.513/37.34	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+25	G	G>E	G>E (exome, AC = 1, AN = 249720, AF = 4.00449e-06)	none	none	-	53	0.465	turn	coils	Medium-buried	Special	-	-	-	-	4egc.A.513/37.83	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+26	N	none	none	none	none	-	49	0.251	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.513/40.023	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+27	L	none	none	none	none	-	42	0.209	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/39.172	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+28	E	E>D	E>D (exome, AC = 1, AN = 250070, AF = 3.99888e-06)	none	none	-	68	0.305	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	4egc.A.513/42.514	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+29	R	none	none	none	none	-	73	0.266	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/42.137	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+30	L	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/38.637	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+31	G	none	none	none	none	-	2	0.018000000000000002	alpha-helix	Helices	core	Special	-	-	-	-	4egc.A.513/40.041	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+32	R	none	none	none	none	-	47	0.172	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/42.74	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+33	F	F>L	F>L (exome, AC = 2, AN = 250438, AF = 7.98601e-06); F>L (genome, AC = 1, AN = 31372, AF = 3.18756e-05)	none	none	-	0	0	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/40.368	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+34	L	none	none	none	none	-	17	0.085	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/38.206	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+35	W	none	none	none	none	-	70	0.24600000000000002	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/41.526	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+36	S	none	none	none	none	-	36	0.23199999999999998	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	4egc.A.513/42.383	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+37	L	L>V	L>V (exome, AC = 1, AN = 250642, AF = 3.98975e-06)	none	none	-	48	0.239	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/39.357	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+38	P	P>A	P>A (exome, AC = 1, AN = 250666, AF = 3.98937e-06)	none	none	-	106	0.667	loop	coils	Medium-exposed	Special	-	-	-	-	4egc.A.513/40.689	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+39	A	A>T	A>T (exome, AC = 1, AN = 250616, AF = 3.99017e-06)	none	none	-	105	0.8140000000000001	loop	coils	exposed	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/39.867	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+40	C	C>G	C>G (exome, AC = 1, AN = 250746, AF = 3.9881e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+41	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+42	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+43	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+44	H	H>R; H>Q	H>R (exome, AC = 1, AN = 250966, AF = 3.9846e-06); H>Q (exome, AC = 1, AN = 250930, AF = 3.98518e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+45	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+46	N	none	none	none	none	-	79	0.405	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.513/27.047	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+47	E	none	none	none	none	-	49	0.22	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	4egc.A.513/25.031	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+48	S	S>N; S>R	S>N (exome, AC = 1, AN = 251064, AF = 3.98305e-06); S>R (exome, AC = 2, AN = 251026, AF = 7.9673e-06)	none	none	-	19	0.12300000000000001	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	4egc.A.513/27.478	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+49	V	none	none	none	none	-	16	0.092	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/30.39	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+50	L	none	none	none	none	-	36	0.179	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/28.929	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+51	K	none	none	none	none	-	10	0.042	alpha-helix	Helices	core	Positively Charged & Polar	-	-	-	-	4egc.A.513/28.156	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+52	A	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/31.731	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+53	K	none	none	none	none	-	71	0.301	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/33.198	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+54	A	A>T	A>T (exome, AC = 1, AN = 251082, AF = 3.98276e-06)	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/31.601	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+55	V	V>M	V>M (exome, AC = 1, AN = 251076, AF = 3.98286e-06)	none	none	-	9	0.052000000000000005	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/33.02	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+56	V	V>L	V>L (exome, AC = 1, AN = 251090, AF = 3.98264e-06)	none	none	-	4	0.023	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/36.379	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+57	A	none	none	none	none	-	4	0.031	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/36.394	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+58	F	none	none	none	none	-	56	0.233	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/35.825	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+59	H	H>Y	H>Y (exome, AC = 1, AN = 251246, AF = 3.98016e-06)	none	none	-	64	0.28600000000000003	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/38.525	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+60	R	R>H	R>H (exome, AC = 1, AN = 251258, AF = 3.97997e-06)	none	none	-	118	0.431	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/40.897	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+61	G	none	none	none	none	-	38	0.33299999999999996	turn	coils	Medium-buried	Special	-	-	-	-	4egc.A.513/40.151	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+62	N	none	none	none	none	-	75	0.385	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.513/39.091	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+63	F	F>L	F>L (exome, AC = 1, AN = 251378, AF = 3.97807e-06)	none	none	-	27	0.113	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/36.602	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+64	R	R>H	R>H (exome, AC = 4, AN = 251382, AF = 1.5912e-05); R>H (genome, AC = 1, AN = 31380, AF = 3.18674e-05)	none	none	-	175	0.639	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	4egc.A.513/36.467	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+65	E	none	none	none	none	-	75	0.336	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	4egc.A.513/35.504	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+66	L	L>P	L>P (exome, AC = 1, AN = 251414, AF = 3.9775e-06)	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/32.962	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+67	Y	none	none	none	none	-	26	0.099	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/31.227	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+68	K	K>M	K>M (genome, AC = 1, AN = 31368, AF = 3.18796e-05)	none	none	-	89	0.377	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/31.397	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+69	I	none	none	none	none	-	9	0.046	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/29.691	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+70	L	L>V	L>V (exome, AC = 1, AN = 251432, AF = 3.97722e-06)	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/26.944	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+71	E	none	none	none	none	-	89	0.39899999999999997	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	4egc.A.513/26.237	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+72	S	S>R	S>R (exome, AC = 4, AN = 251422, AF = 1.59095e-05)	none	none	-	55	0.355	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.513/26.602	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+73	H	none	none	H>P	H>P (ClinVar, phenotype = Branchio-otic-renal syndrome)	-	72	0.321	bend	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/23.872	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+74	Q	none	none	none	none	-	62	0.276	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.513/20.231	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+75	F	none	none	none	none	-	5	0.021	loop	coils	core	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/20.158	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+76	S	S>L	S>L (exome, AC = 2, AN = 251436, AF = 7.95431e-06)	none	none	-	43	0.27699999999999997	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.513/17.95	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+77	P	none	none	none	none	-	91	0.5720000000000001	310-helix	Helices	Medium-exposed	Special	-	-	-	-	4egc.A.513/16.523	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+78	H	none	none	none	none	-	110	0.491	310-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/19.068	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+79	N	N>D; N>S	N>D (exome, AC = 1, AN = 251450, AF = 3.97693e-06); N>S (exome, AC = 1, AN = 251444, AF = 3.97703e-06)	none	none	-	13	0.067	310-helix	Helices	buried	Neutral & Polar	-	-	-	-	4egc.A.513/21.849	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+80	H	none	none	none	none	-	9	0.04	alpha-helix	Helices	core	Positively Charged & Polar	-	-	-	-	4egc.A.513/21.028	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+81	P	P>S	P>S (exome, AC = 1, AN = 251442, AF = 3.97706e-06)	none	none	-	78	0.491	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	4egc.A.513/23.257	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+82	K	K>R	K>R (exome, AC = 1, AN = 251450, AF = 3.97693e-06)	none	none	-	81	0.34299999999999997	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/26.344	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+83	L	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/25.922	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+84	Q	Q>R; Q>H	Q>R (exome, AC = 1, AN = 251440, AF = 3.97709e-06); Q>H (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	41	0.182	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	4egc.A.513/25.418	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+85	Q	none	none	none	none	-	87	0.387	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.513/28.676	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+86	L	none	none	none	none	-	16	0.08	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/30.521	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+87	W	none	none	none	none	-	10	0.035	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/29.538	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+88	L	none	none	none	none	-	26	0.129	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/30.628	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+89	K	none	none	none	none	-	94	0.39799999999999996	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/33.753	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+90	A	none	none	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/35.005	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+91	H	none	none	none	none	-	8	0.036000000000000004	alpha-helix	Helices	core	Positively Charged & Polar	-	-	-	-	4egc.A.513/34.686	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+92	Y	none	none	none	none	-	37	0.141	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/36.537	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+93	V	none	none	none	none	-	77	0.44299999999999995	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/39.243	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+94	E	none	none	none	none	-	78	0.35	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	4egc.A.513/39.727	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+95	A	A>V	A>V (exome, AC = 4, AN = 251382, AF = 1.5912e-05)	none	none	-	26	0.20199999999999999	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/39.788	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+96	E	none	none	none	none	-	84	0.377	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	4egc.A.513/42.187	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+97	K	none	none	none	none	-	140	0.593	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	4egc.A.513/44.597	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+98	L	L>V; L>M	L>V (exome, AC = 1, AN = 251356, AF = 3.97842e-06); L>M (exome, AC = 1, AN = 251356, AF = 3.97842e-06); L>M (genome, AC = 1, AN = 31390, AF = 3.18573e-05)	none	none	-	161	0.8009999999999999	alpha-helix	Helices	exposed	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/44.707	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+99	R	none	none	none	none	-	104	0.38	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/45.464	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+100	G	none	none	none	none	-	72	0.632	turn	coils	Medium-exposed	Special	-	-	-	-	4egc.A.513/48.273	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+101	R	none	none	none	none	-	152	0.555	bend	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	4egc.A.513/47.298	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+102	P	P>S	P>S (exome, AC = 1, AN = 251320, AF = 3.97899e-06)	none	none	-	101	0.635	loop	coils	Medium-exposed	Special	-	-	-	-	4egc.A.513/44.612	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+103	L	none	none	none	none	-	18	0.09	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/41.218	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+104	G	none	none	none	none	-	37	0.325	loop	coils	Medium-buried	Special	-	-	-	-	4egc.A.513/40.71	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+105	A	none	none	none	none	-	86	0.667	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/37.683	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+106	V	none	none	V>G	V>G (ClinVar, phenotype = Melnick-Fraser syndrome); V>G (ClinVar, phenotype = Branchio-otic-renal syndrome)	-	78	0.44799999999999995	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/37.802	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+107	G	none	none	none	none	-	10	0.08800000000000001	alpha-helix	Helices	buried	Special	-	-	-	-	4egc.A.513/38.405	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+108	K	none	none	none	none	-	82	0.34700000000000003	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/35.309	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+109	Y	none	none	none	none	-	111	0.42200000000000004	alpha-helix	Helices	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/33.323	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+110	R	none	none	R>W; R>Q; R>G; R>W; R>Q	R>W (ClinVar, phenotype = Branchiootic syndrome 3); R>Q (ClinVar, phenotype = not provided); R>G (ClinVar, phenotype = Branchio-otic-renal syndrome); R>W (ClinVar, phenotype = Branchio-otic syndrome); R>Q (ClinVar, phenotype = Branchio-otic-renal syndrome)	-	157	0.573	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	4egc.A.513/34.71	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+111	V	none	none	none	none	-	14	0.08	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/33.998	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+112	R	none	none	R>C	R>C (ClinVar, phenotype = Melnick-Fraser syndrome); R>C (ClinVar, phenotype = Branchio-otic-renal syndrome)	-	113	0.41200000000000003	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/30.329	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+113	R	R>G	R>G (genome, AC = 1, AN = 31384, AF = 3.18634e-05)	none	none	-	182	0.664	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	4egc.A.513/30.246	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+114	K	none	none	none	none	-	156	0.6609999999999999	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	4egc.A.513/32.21	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+115	F	none	none	none	none	-	72	0.3	bend	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/30.174	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+116	P	P>A; P>L	P>A (exome, AC = 1, AN = 251368, AF = 3.97823e-06); P>L (exome, AC = 2, AN = 251390, AF = 7.95577e-06)	none	none	-	83	0.522	loop	coils	Medium-exposed	Special	-	-	-	-	4egc.A.513/26.474	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+117	L	none	none	none	none	-	30	0.149	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/24.361	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+118	P	none	none	none	none	-	21	0.132	loop	coils	buried	Special	-	-	-	-	4egc.A.513/23.313	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+119	R	none	none	none	none	-	91	0.332	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/19.663	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+120	T	T>S	T>S (exome, AC = 2, AN = 251400, AF = 7.95545e-06)	none	none	-	8	0.047	turn	coils	core	Neutral & Polar	-	-	-	-	4egc.A.513/20.469	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+121	I	none	none	none	none	-	0	0	bend	coils	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/20.732	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+122	W	none	none	W>R	W>R (ClinVar, phenotype = Branchiootic syndrome 3); W>R (ClinVar, phenotype = Branchio-otic-renal syndrome)	-	119	0.418	loop	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/18.724	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+123	D	none	none	none	none	-	117	0.606	loop	coils	Medium-exposed	Negatively Charged & Polar	-	-	-	-	4egc.A.513/15.402	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+124	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+125	E	none	none	E>K	E>K (ClinVar, phenotype = Deafness, autosomal dominant 23); E>K (ClinVar, phenotype = Hearing impairment)	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+126	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+127	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+128	S	S>N	S>N (exome, AC = 1, AN = 251416, AF = 3.97747e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+129	Y	Y>C	Y>C (exome, AC = 1, AN = 251416, AF = 3.97747e-06)	Y>C	Y>C (ClinVar, phenotype = Branchiootic syndrome 3,Deafness, autosomal dominant 23,Melnick-Fraser syndrome,not provided); Y>C (ClinVar, phenotype = Branchio-otic syndrome)	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+130	C	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+131	F	F>L	F>L (genome, AC = 1, AN = 31394, AF = 3.18532e-05)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+132	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+133	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+134	K	none	none	none	none	-	198	0.8390000000000001	loop	coils	exposed	Positively Charged & Polar	-	-	-	-	4egc.A.513/14.346	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+135	S	none	none	none	none	-	31	0.2	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	4egc.A.513/12.304	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+136	R	none	none	none	none	-	161	0.588	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	4egc.A.513/10.04	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+137	G	none	none	none	none	-	17	0.149	alpha-helix	Helices	buried	Special	-	-	-	-	4egc.A.513/9.977	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+138	V	V>L	V>L (exome, AC = 1, AN = 251376, AF = 3.9781e-06)	none	none	-	52	0.299	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/8.634	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+139	L	none	none	none	none	-	1	0.005	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/5.96	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+140	R	none	none	none	none	-	130	0.474	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/5.043	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+141	E	E>K; E>G	E>K (exome, AC = 6, AN = 251362, AF = 2.387e-05); E>G (exome, AC = 6, AN = 251360, AF = 2.38701e-05)	none	none	-	142	0.637	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	4egc.A.513/5.574	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+142	W	none	none	none	none	-	67	0.235	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/3.811	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+143	Y	none	none	none	none	-	23	0.087	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/0.0	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+144	A	A>V	A>V (exome, AC = 5, AN = 251306, AF = 1.98961e-05)	none	none	-	88	0.682	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/3.806	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+145	H	H>D; H>Q	H>D (exome, AC = 1, AN = 251304, AF = 3.97924e-06); H>Q (exome, AC = 1, AN = 251296, AF = 3.97937e-06)	none	none	-	158	0.705	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	4egc.A.513/5.372	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+146	N	none	none	none	none	-	52	0.267	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.513/4.985	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+147	P	none	none	none	none	-	42	0.264	bend	coils	Medium-buried	Special	-	-	-	-	4egc.A.513/4.603	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+148	Y	none	none	none	none	-	141	0.536	bend	coils	Medium-exposed	Aromatic & Hydrophobic	-	-	-	-	4egc.A.520/6.577	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+149	P	none	none	none	none	-	13	0.08199999999999999	loop	coils	buried	Special	-	-	-	-	4egc.A.520/3.814	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+150	S	none	none	none	none	-	41	0.265	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.520/0.0	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+151	P	none	none	none	none	-	89	0.56	alpha-helix	Helices	Medium-exposed	Special	-	-	-	-	4egc.A.520/3.82	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+152	R	none	none	none	none	-	137	0.5	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	4egc.A.520/5.437	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+153	E	E>K	E>K (exome, AC = 1, AN = 251100, AF = 3.98248e-06)	none	none	-	44	0.19699999999999998	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	4egc.A.520/5.01	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+154	K	none	none	none	none	-	60	0.254	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.520/6.138	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+155	R	R>W; R>Q	R>W (exome, AC = 2, AN = 251052, AF = 7.96648e-06); R>Q (exome, AC = 3, AN = 251068, AF = 1.1949e-05)	none	none	-	148	0.54	alpha-helix	Helices	Medium-exposed	Positively Charged & Polar	-	-	-	-	4egc.A.520/8.703	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+156	E	E>K; E>D	E>K (exome, AC = 1, AN = 251110, AF = 3.98232e-06); E>D (exome, AC = 1, AN = 251026, AF = 3.98365e-06); E>K (genome, AC = 1, AN = 31374, AF = 3.18735e-05)	none	none	-	96	0.43	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	4egc.A.520/9.869	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+157	L	none	none	none	none	-	6	0.03	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.520/10.373	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+158	A	A>V	A>V (exome, AC = 1, AN = 251000, AF = 3.98406e-06)	none	none	-	11	0.085	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.520/12.159	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+159	E	E>K	E>K (genome, AC = 1, AN = 31368, AF = 3.18796e-05)	none	none	-	162	0.726	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	4egc.A.520/14.191	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+160	A	none	none	none	none	-	70	0.5429999999999999	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/13.858	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+161	T	T>S	T>S (exome, AC = 2, AN = 251098, AF = 7.96502e-06)	none	none	-	23	0.134	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	4egc.A.513/13.355	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+162	G	none	none	none	none	-	69	0.605	turn	coils	Medium-exposed	Special	-	-	-	-	4egc.A.513/16.679	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+163	L	none	none	none	none	-	47	0.23399999999999999	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/15.385	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+164	T	T>S	T>S (exome, AC = 1, AN = 251156, AF = 3.98159e-06)	none	none	-	71	0.413	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.520/14.544	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+165	T	T>I	T>I (genome, AC = 1, AN = 31382, AF = 3.18654e-05)	none	none	-	59	0.34299999999999997	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.520/10.977	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+166	T	none	none	none	none	-	92	0.535	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	4egc.A.520/12.931	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+167	Q	none	none	none	none	-	94	0.418	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.513/14.303	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+168	V	V>I	V>I (genome, AC = 1, AN = 31386, AF = 3.18613e-05)	none	none	-	0	0	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/10.872	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+169	S	S>G	S>G (exome, AC = 1, AN = 251156, AF = 3.98159e-06)	none	none	-	33	0.213	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	4egc.A.520/10.001	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+170	N	none	none	none	none	-	84	0.431	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.513/12.797	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+171	W	none	none	none	none	-	55	0.193	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/10.032	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+172	F	none	none	none	none	-	1	0.004	alpha-helix	Helices	core	Aromatic & Hydrophobic	-	-	-	-	4egc.A.513/7.616	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+173	K	none	none	K>N	K>N (ClinVar, phenotype = Branchio-otic-renal syndrome)	-	107	0.45299999999999996	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/10.799	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+174	N	none	none	none	none	-	58	0.297	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.513/11.701	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+175	R	none	none	none	none	-	72	0.263	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/8.701	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+176	R	none	none	none	none	-	50	0.182	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/9.259	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+177	Q	none	none	none	none	-	85	0.37799999999999995	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	4egc.A.513/12.926	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+178	R	none	none	none	none	-	77	0.281	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/12.879	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+179	D	none	none	none	none	-	49	0.254	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	4egc.A.513/11.279	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+180	R	none	none	none	none	-	134	0.489	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	4egc.A.513/13.974	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+181	A	none	none	none	none	-	54	0.419	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/16.601	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+182	A	none	none	none	none	-	29	0.225	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/16.017	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+183	E	none	none	none	none	-	143	0.6409999999999999	alpha-helix	Helices	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	4egc.A.513/16.513	-	-	-	-	-	-	-	G124-E183: Homeobox	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	dna binding	-	-	-	-
+184	A	A>T; A>V	A>T (exome, AC = 2, AN = 247994, AF = 8.06471e-06); A>V (exome, AC = 17, AN = 247802, AF = 6.86032e-05); A>T (genome, AC = 1, AN = 31374, AF = 3.18735e-05)	none	none	-	93	0.721	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	4egc.A.513/19.752	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+185	K	none	none	none	none	-	134	0.568	loop	coils	Medium-exposed	Positively Charged & Polar	-	-	-	-	4egc.A.513/21.069	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+186	E	E>K	E>K (exome, AC = 1, AN = 246518, AF = 4.0565e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+187	R	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+188	E	E>G	E>G (exome, AC = 1, AN = 243830, AF = 4.10122e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+189	N	N>S	N>S (exome, AC = 7, AN = 244396, AF = 2.8642e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+190	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+191	E	E>K	E>K (exome, AC = 4, AN = 244894, AF = 1.63336e-05)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+192	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+193	N	N>D; N>S; N>I	N>D (exome, AC = 1, AN = 246034, AF = 4.06448e-06); N>S (exome, AC = 3, AN = 246560, AF = 1.21674e-05); N>I (genome, AC = 7, AN = 29886, AF = 0.000234223)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+194	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+195	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+196	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+197	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+198	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+199	K	K>N	K>N (exome, AC = 1, AN = 248504, AF = 4.02408e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+200	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+201	N	N>K	N>K (exome, AC = 6, AN = 248750, AF = 2.41206e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+202	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+203	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+204	S	S>C	S>C (exome, AC = 1, AN = 249024, AF = 4.01568e-06); S>C (genome, AC = 1, AN = 31092, AF = 3.21626e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+205	P	P>L	P>L (exome, AC = 2, AN = 249048, AF = 8.03058e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+206	L	L>V	L>V (exome, AC = 1, AN = 249086, AF = 4.01468e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+207	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+208	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+209	G	G>A	G>A (exome, AC = 1, AN = 249116, AF = 4.01419e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+210	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+211	P	P>L	P>L (exome, AC = 11, AN = 249166, AF = 4.41473e-05); P>L (genome, AC = 1, AN = 31224, AF = 3.20266e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+212	L	L>F	L>F (exome, AC = 2, AN = 249168, AF = 8.02671e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+213	M	M>L	M>L (exome, AC = 1, AN = 249178, AF = 4.0132e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+214	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+215	S	S>G; S>N	S>G (exome, AC = 2, AN = 249222, AF = 8.02497e-06); S>N (exome, AC = 1, AN = 249228, AF = 4.01239e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+216	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+217	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+218	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+219	E	E>D	E>D (exome, AC = 1, AN = 249334, AF = 4.01068e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+220	F	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+221	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+222	P	P>S	P>S (exome, AC = 3, AN = 249404, AF = 1.20287e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+223	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+224	Q	Q>R	Q>R (exome, AC = 4, AN = 249476, AF = 1.60336e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+225	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+226	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+227	D	D>Y; D>E	D>Y (exome, AC = 28, AN = 249570, AF = 0.000112193); D>E (exome, AC = 2, AN = 249594, AF = 8.01301e-06); D>Y (genome, AC = 2, AN = 31180, AF = 6.41437e-05); D>E (genome, AC = 1, AN = 31266, AF = 3.19836e-05)	D>Y	D>Y (ClinVar, phenotype = Renal hypodysplasia)	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+228	Q	Q>E; Q>H	Q>E (exome, AC = 9, AN = 249606, AF = 3.60568e-05); Q>H (exome, AC = 1, AN = 249616, AF = 4.00615e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+229	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+230	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+231	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+232	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+233	L	L>M	L>M (exome, AC = 9, AN = 249858, AF = 3.60205e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+234	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+235	Q	Q>H	Q>H (exome, AC = 1, AN = 250058, AF = 3.99907e-06); Q>H (genome, AC = 4, AN = 31142, AF = 0.000128444)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+236	G	G>R	G>R (exome, AC = 1, AN = 250058, AF = 3.99907e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+237	N	N>H	N>H (exome, AC = 1, AN = 250158, AF = 3.99747e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+238	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+239	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+240	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+241	A	A>T	A>T (exome, AC = 28, AN = 250484, AF = 0.000111784); A>T (genome, AC = 13, AN = 31030, AF = 0.000418949)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+242	R	R>G; R>K	R>G (exome, AC = 1, AN = 250658, AF = 3.9895e-06); R>K (exome, AC = 1, AN = 250644, AF = 3.98972e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+243	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+244	S	S>L	S>L (exome, AC = 1, AN = 250910, AF = 3.98549e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+245	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+246	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+247	S	S>P; S>Y	S>P (exome, AC = 1, AN = 251170, AF = 3.98137e-06); S>Y (exome, AC = 1, AN = 251128, AF = 3.98203e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+248	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+249	P	P>Q; P>L	P>Q (exome, AC = 26, AN = 251256, AF = 0.00010348); P>L (genome, AC = 3, AN = 31164, AF = 9.62649e-05)	P>L	P>L (ClinVar, phenotype = Branchio-otic-renal syndrome)	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+250	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+251	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+252	T	T>S	T>S (exome, AC = 4, AN = 251342, AF = 1.59146e-05); T>S (genome, AC = 2, AN = 31100, AF = 6.43087e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+253	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+254	S	S>L	S>L (exome, AC = 1, AN = 251366, AF = 3.97826e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+255	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+256	P	P>S	P>S (exome, AC = 2, AN = 251364, AF = 7.95659e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+257	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+258	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+259	G	G>R	G>R (exome, AC = 1, AN = 251404, AF = 3.97766e-06); G>R (genome, AC = 1, AN = 31018, AF = 3.22393e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+260	L	L>Q	L>Q (exome, AC = 3, AN = 251396, AF = 1.19334e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+261	Q	Q>P	Q>P (exome, AC = 1, AN = 251398, AF = 3.97776e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+262	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+263	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+264	Q	Q>E	Q>E (exome, AC = 1, AN = 251386, AF = 3.97795e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+265	H	H>Q; H>R	H>Q (exome, AC = 1, AN = 251392, AF = 3.97785e-06); H>R (genome, AC = 1, AN = 31176, AF = 3.2076e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+266	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+267	L	L>F	L>F (exome, AC = 1, AN = 251374, AF = 3.97814e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+268	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+269	D	D>H; D>G	D>H (exome, AC = 1, AN = 251348, AF = 3.97855e-06); D>G (exome, AC = 1, AN = 251312, AF = 3.97912e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+270	S	S>T	S>T (exome, AC = 1, AN = 251282, AF = 3.97959e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+271	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+272	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+273	G	G>S	G>S (exome, AC = 4, AN = 251118, AF = 1.59288e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+274	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+275	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+276	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+277	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+278	S	S>N	S>N (exome, AC = 1, AN = 250826, AF = 3.98683e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+279	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+280	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+281	D	D>E	D>E (exome, AC = 4, AN = 250698, AF = 1.59555e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+282	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+283	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+284	S	S>P	S>P (exome, AC = 1, AN = 250470, AF = 3.99249e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
