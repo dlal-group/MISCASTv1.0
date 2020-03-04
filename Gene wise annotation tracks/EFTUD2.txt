@@ -1,0 +1,973 @@
+Amino Acid Index	Amino Acid	Population Mutation	Population Mutation (details)	Pathogenic Mutation	Pathogenic Mutation (details)	Bond Detail	Accessible Surface Area	Relative Accessible Surface Area	8-class DSSP Secondary Structure Properties	3-class DSSP Secondary Structure Properties	Exposure	Physiochemical Property	Acetylation Detail	Methylation Detail	O.GalNAc Detail	O.GclNAc Detail	Phosphorylation Detail	Sumoylation Detail	Ubiquitination Detail	Active Site	Metal Binding Site	binding Site	Site	Zinc Finger	Dna Binding	Nucleotide Phosphate Binding	Calcium Binding	Region	Repeat	Coiled Coil	Topological Domain	Peptide	Modified Residue	Motif	Domain	Intramembrane	Propetide	Lipidation	Glycosylation	Cross Links	Disulfide Bond	Transit Peptide	Transmembrane	Signal Peptide	Functional Site	Functional Binding Region	Sequence Motif Region	Modular Domain	Molecular Processing	Modified Residues
+1	M	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	M1: N-acetylmethionine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+2	D	D>E	D>E (exome, AC = 3, AN = 251222, AF = 1.19416e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+3	T	T>I	T>I (exome, AC = 1, AN = 251226, AF = 3.98048e-06)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+4	D	D>N	D>N (exome, AC = 4, AN = 251274, AF = 1.59189e-05); D>N (genome, AC = 2, AN = 31398, AF = 6.36983e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+5	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+6	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+7	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+8	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+9	F	F>L	F>L (exome, AC = 1, AN = 251414, AF = 3.9775e-06)	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+10	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+11	N	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+12	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+13	I	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+14	G	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+15	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+16	E	E>D	E>D (exome, AC = 1, AN = 251438, AF = 3.97712e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+17	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+18	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+19	S	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	S19: Phosphoserine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+20	D	D>N	D>N (exome, AC = 1, AN = 251448, AF = 3.97697e-06); D>N (genome, AC = 3, AN = 31408, AF = 9.55171e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+21	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+22	D	D>N	D>N (exome, AC = 1, AN = 251456, AF = 3.97684e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+23	D	D>N	D>N (exome, AC = 1, AN = 251452, AF = 3.9769e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+24	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+25	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+26	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+27	G	G>D	G>D (exome, AC = 1, AN = 251432, AF = 3.97722e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+28	R	R>S	R>S (exome, AC = 1, AN = 251432, AF = 3.97722e-06)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+29	E	E>Q; E>A	E>Q (exome, AC = 1, AN = 251426, AF = 3.97731e-06); E>A (exome, AC = 1, AN = 251426, AF = 3.97731e-06)	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+30	T	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+31	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+32	D	D>Y	D>Y (exome, AC = 2, AN = 251418, AF = 7.95488e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+33	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+34	D	D>N	D>N (exome, AC = 1, AN = 251382, AF = 3.97801e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+35	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+36	M	M>V; M>L	M>V (exome, AC = 3, AN = 248026, AF = 1.20955e-05); M>L (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+37	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+38	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+39	D	D>H	D>H (exome, AC = 13, AN = 249466, AF = 5.21113e-05); D>H (genome, AC = 2, AN = 31406, AF = 6.36821e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+40	D	D>G	D>G (exome, AC = 1, AN = 249954, AF = 4.00074e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+41	D	D>N	D>N (exome, AC = 3, AN = 250224, AF = 1.19893e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+42	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+43	D	D>N	D>N (exome, AC = 4, AN = 250622, AF = 1.59603e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+44	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+45	V	V>I	V>I (exome, AC = 70, AN = 250888, AF = 0.000279009); V>I (genome, AC = 24, AN = 31396, AF = 0.000764429)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+46	G	G>V	G>V (exome, AC = 1, AN = 251190, AF = 3.98105e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+47	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+48	H	H>P; H>Q; H>D	H>P (exome, AC = 3, AN = 251288, AF = 1.19385e-05); H>Q (exome, AC = 2, AN = 251286, AF = 7.95906e-06); H>D (genome, AC = 1, AN = 31394, AF = 3.18532e-05); H>P (genome, AC = 1, AN = 31386, AF = 3.18613e-05)	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+49	D	D>E	D>E (exome, AC = 1, AN = 251350, AF = 3.97852e-06)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+50	D	D>N	D>N (exome, AC = 28, AN = 251360, AF = 0.000111394); D>N (genome, AC = 1, AN = 31390, AF = 3.18573e-05)	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+51	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+52	H	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+53	P	P>S; P>H	P>S (exome, AC = 4, AN = 251390, AF = 1.59115e-05); P>H (exome, AC = 2, AN = 251390, AF = 7.95577e-06); P>S (genome, AC = 2, AN = 31390, AF = 6.37146e-05)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+54	G	G>E	G>E (exome, AC = 2, AN = 251390, AF = 7.95577e-06)	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+55	M	M>L	M>L (exome, AC = 8, AN = 251404, AF = 3.18213e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+56	E	E>G	E>G (exome, AC = 1, AN = 251426, AF = 3.97731e-06)	none	none	-	163	0.731	loop	coils	Medium-exposed	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+57	V	none	none	none	none	-	100	0.575	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+58	V	none	none	none	none	-	76	0.43700000000000006	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+59	L	none	none	none	none	-	50	0.249	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+60	H	none	none	none	none	-	74	0.33	bend	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+61	E	E>K	E>K (exome, AC = 1, AN = 251458, AF = 3.97681e-06)	none	none	-	110	0.493	bend	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+62	D	none	none	none	none	-	76	0.39399999999999996	bend	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+63	K	K>N	K>N (exome, AC = 3, AN = 251468, AF = 1.19299e-05)	none	none	-	51	0.21600000000000003	loop	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+64	K	none	none	none	none	-	73	0.309	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	K64: Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1);K64: Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)	-	-	-	-	-	-	-	-	-	cross links
+65	Y	none	none	none	none	-	96	0.365	bend	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+66	Y	none	none	none	none	-	60	0.228	bend	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+67	P	none	none	none	none	-	83	0.522	loop	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+68	T	T>A	T>A (exome, AC = 5, AN = 251474, AF = 1.98828e-05)	none	none	-	76	0.442	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+69	A	none	none	none	none	-	52	0.40299999999999997	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+70	E	E>K	E>K (exome, AC = 1, AN = 251472, AF = 3.97659e-06); E>K (genome, AC = 2, AN = 31396, AF = 6.37024e-05)	none	none	-	42	0.188	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+71	E	none	none	none	none	-	89	0.39899999999999997	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+72	V	V>M	V>M (exome, AC = 1, AN = 251480, AF = 3.97646e-06)	none	none	-	80	0.46	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+73	Y	none	none	none	none	-	64	0.243	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+74	G	G>D	G>D (exome, AC = 1, AN = 251476, AF = 3.97652e-06)	none	none	-	25	0.21899999999999997	loop	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+75	P	P>L	P>L (exome, AC = 1, AN = 251468, AF = 3.97665e-06)	none	none	-	139	0.8740000000000001	bend	coils	exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+76	E	E>D	E>D (exome, AC = 2, AN = 251476, AF = 7.95305e-06)	none	none	-	99	0.444	bend	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+77	V	none	none	none	none	-	55	0.316	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+78	E	none	none	none	none	-	70	0.314	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+79	T	T>S	T>S (exome, AC = 1, AN = 251430, AF = 3.97725e-06)	none	none	-	86	0.5	beta-sheet	beta-strand/sheet	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+80	I	I>M	I>M (exome, AC = 1, AN = 251404, AF = 3.97766e-06)	none	none	-	49	0.249	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+81	V	none	none	none	none	-	47	0.27	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+82	Q	none	none	none	none	-	72	0.32	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+83	E	none	none	none	none	-	99	0.444	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+84	E	none	none	none	none	-	105	0.47100000000000003	bend	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+85	D	none	none	none	none	-	74	0.38299999999999995	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+86	T	T>A; T>S	T>A (exome, AC = 2, AN = 251302, AF = 7.95855e-06); T>S (exome, AC = 1, AN = 251322, AF = 3.97896e-06)	none	none	-	30	0.174	bend	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	T86: Phosphothreonine	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	modified_residue
+87	Q	Q>H	Q>H (exome, AC = 1, AN = 251268, AF = 3.97981e-06)	none	none	-	67	0.298	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+88	P	P>S	P>S (exome, AC = 1, AN = 251286, AF = 3.97953e-06)	none	none	-	102	0.642	loop	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+89	L	none	none	none	none	-	83	0.413	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+90	T	none	none	T>T	T>T (ClinVar, phenotype = Multiple congenital anomalies)	-	92	0.535	bend	coils	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+91	E	none	none	none	none	-	79	0.354	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+92	P	none	none	none	none	-	38	0.239	loop	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+93	I	I>V; L>S	I>V (exome, AC = 1, AN = 251234, AF = 3.98035e-06); L>S (exome, AC = 1, AN = 251304, AF = 3.97924e-06)	none	none	-	94	0.47700000000000004	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+94	I	I>L	I>L (exome, AC = 1, AN = 251308, AF = 3.97918e-06)	none	none	-	49	0.249	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+95	K	none	none	none	none	-	51	0.21600000000000003	loop	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+96	P	none	none	none	none	-	131	0.8240000000000001	loop	coils	exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+97	V	V>A	V>A (exome, AC = 3, AN = 251348, AF = 1.19356e-05)	none	none	-	86	0.494	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+98	K	none	none	none	none	-	89	0.377	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+99	T	none	none	none	none	-	94	0.547	loop	coils	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+100	K	K>N	K>N (exome, AC = 2, AN = 251366, AF = 7.95653e-06)	none	none	-	90	0.381	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+101	K	K>E	K>E (exome, AC = 1, AN = 251374, AF = 3.97814e-06)	none	none	-	75	0.318	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+102	F	none	none	none	none	-	81	0.33799999999999997	bend	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+103	T	none	none	none	none	-	40	0.233	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+104	L	L>R	L>R (exome, AC = 1, AN = 251380, AF = 3.97804e-06)	none	none	-	69	0.34299999999999997	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+105	M	none	none	none	none	-	76	0.33899999999999997	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+106	E	none	none	none	none	-	46	0.20600000000000002	bend	coils	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+107	Q	none	none	none	none	-	107	0.47600000000000003	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+108	T	none	none	none	none	-	59	0.34299999999999997	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+109	L	none	none	none	none	-	83	0.413	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+110	P	none	none	none	none	-	116	0.73	loop	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+111	V	none	none	none	none	-	41	0.23600000000000002	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+112	T	T>M	T>M (exome, AC = 9, AN = 251338, AF = 3.58084e-05); T>M (genome, AC = 1, AN = 31366, AF = 3.18817e-05)	none	none	-	47	0.273	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+113	V	V>L; V>M	V>L (exome, AC = 1, AN = 251364, AF = 3.97829e-06); V>M (genome, AC = 1, AN = 31384, AF = 3.18634e-05)	none	none	-	80	0.46	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+114	Y	none	none	none	none	-	73.5	0.27899999999999997	loop	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+115	E	E>D	E>D (exome, AC = 1, AN = 251176, AF = 3.98127e-06)	none	none	-	38.5	0.17300000000000001	loop	coils	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+116	M	M>L	M>L (exome, AC = 1, AN = 251136, AF = 3.98191e-06)	none	none	-	82	0.366	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+117	D	none	none	none	none	-	61.5	0.319	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+118	F	none	none	none	none	-	19	0.079	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+119	L	none	none	none	none	-	44.5	0.221	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+120	A	A>V	A>V (exome, AC = 2, AN = 251434, AF = 7.95437e-06)	none	none	-	62	0.48100000000000004	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+121	D	none	none	none	none	-	42.5	0.22	alpha-helix	Helices	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+122	L	none	none	none	none	-	32.5	0.162	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+123	M	none	none	none	none	-	34.5	0.154	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+124	D	none	none	none	none	-	49.5	0.256	turn	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+125	N	N>D	N>D (exome, AC = 1, AN = 251440, AF = 3.97709e-06)	none	none	-	65.5	0.336	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+126	S	none	none	none	none	-	47.5	0.306	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+127	E	none	none	none	none	-	52	0.233	bend	coils	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+128	L	none	none	none	none	-	63.5	0.316	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+129	I	none	none	none	none	-	25	0.127	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+130	R	none	none	none	none	-	42	0.153	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+131	N	none	none	none	none	-	39	0.2	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+132	V	none	none	none	none	-	35	0.201	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+133	T	none	none	none	none	-	17	0.099	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+134	L	none	none	none	none	-	36.5	0.182	beta-strand	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+135	C	none	none	none	none	-	28	0.168	loop	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+136	G	none	none	none	none	-	8	0.07	loop	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	G136-T143: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+137	H	none	none	none	none	-	26	0.11599999999999999	bend	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	G136-T143: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+138	L	none	none	none	none	-	56	0.27899999999999997	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	G136-T143: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+139	H	none	none	none	none	-	60.5	0.27	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	G136-T143: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+140	H	H>Y	H>Y (exome, AC = 1, AN = 251452, AF = 3.9769e-06)	none	none	-	33.5	0.15	bend	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	G136-T143: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+141	G	none	none	G>D	G>D (ClinVar, phenotype = not provided)	-	32.5	0.285	bend	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	G136-T143: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+142	K	K>R	K>R (exome, AC = 1, AN = 251450, AF = 3.97693e-06)	none	none	-	18.5	0.078	bend	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	G136-T143: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+143	T	none	none	none	none	-	42	0.244	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	G136-T143: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+144	C	none	none	none	none	-	34.5	0.207	alpha-helix	Helices	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+145	F	none	none	none	none	-	64	0.267	alpha-helix	Helices	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+146	V	V>M	V>M (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	42	0.24100000000000002	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+147	D	none	none	none	none	-	22	0.114	alpha-helix	Helices	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+148	C	none	none	none	none	-	37.5	0.225	alpha-helix	Helices	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+149	L	none	none	none	none	-	62	0.308	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+150	I	I>V; I>M	I>V (exome, AC = 1, AN = 251400, AF = 3.97772e-06); I>M (exome, AC = 19, AN = 251332, AF = 7.55972e-05); I>M (genome, AC = 3, AN = 31402, AF = 9.55353e-05)	none	none	-	40	0.203	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+151	E	none	none	none	none	-	38.5	0.17300000000000001	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+152	Q	none	none	none	none	-	83	0.369	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+153	T	none	none	none	none	-	26	0.151	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+154	H	none	none	none	none	-	35	0.156	bend	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+155	P	P>L; P>A	P>L (exome, AC = 6, AN = 251392, AF = 2.38671e-05); P>A (genome, AC = 1, AN = 31386, AF = 3.18613e-05)	none	none	-	106.5	0.67	bend	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+156	E	none	none	none	none	-	94.5	0.424	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+157	I	none	none	none	none	-	47	0.239	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+158	R	none	none	none	none	-	72	0.263	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+159	K	none	none	none	none	-	76	0.322	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+160	R	R>C; R>H	R>C (exome, AC = 1, AN = 251402, AF = 3.97769e-06); R>H (exome, AC = 10, AN = 251406, AF = 3.97763e-05)	none	none	-	62	0.226	turn	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+161	Y	none	none	none	none	-	88.5	0.337	turn	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+162	D	D>E	D>E (exome, AC = 1, AN = 251386, AF = 3.97795e-06)	none	none	-	102	0.528	turn	coils	Medium-exposed	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+163	Q	none	none	none	none	-	68.5	0.304	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+164	D	none	none	none	none	-	86	0.446	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+165	L	none	none	none	none	-	40.5	0.201	bend	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+166	C	C>R	C>R (exome, AC = 1, AN = 251396, AF = 3.97779e-06)	none	none	-	47	0.281	bend	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+167	Y	none	none	none	none	-	65.5	0.249	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+168	T	T>A	T>A (exome, AC = 1, AN = 251428, AF = 3.97728e-06)	none	none	-	59.5	0.34600000000000003	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+169	D	none	none	none	none	-	58	0.301	bend	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+170	I	I>V	I>V (exome, AC = 1, AN = 251438, AF = 3.97712e-06)	none	none	-	69.5	0.353	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+171	L	L>F	L>F (exome, AC = 2, AN = 251428, AF = 7.95456e-06)	none	none	-	39.5	0.19699999999999998	bend	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+172	F	F>L	F>L (exome, AC = 3, AN = 251438, AF = 1.19314e-05)	none	none	-	74	0.308	turn	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+173	T	T>A	T>A (exome, AC = 2, AN = 251436, AF = 7.95431e-06); T>A (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	66	0.384	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+174	E	none	none	none	none	-	32	0.14300000000000002	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+175	Q	none	none	none	none	-	60	0.267	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+176	E	none	none	none	none	-	71.5	0.321	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+177	R	none	none	none	none	-	31.5	0.115	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+178	G	none	none	none	none	-	47	0.41200000000000003	bend	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+179	V	none	none	none	none	-	42	0.24100000000000002	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+180	G	none	none	G>V	G>V (ClinVar, phenotype = not provided)	-	33	0.289	loop	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+181	I	I>M	I>M (exome, AC = 1, AN = 251242, AF = 3.98023e-06)	none	none	-	53.5	0.272	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+182	K	K>R	K>R (exome, AC = 1, AN = 251258, AF = 3.97997e-06)	none	none	-	68	0.28800000000000003	bend	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+183	S	none	none	none	none	-	44.5	0.287	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+184	T	T>I	T>I (exome, AC = 2, AN = 251292, AF = 7.95887e-06)	none	none	-	44	0.256	beta-strand	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+185	P	none	none	none	none	-	75.5	0.475	loop	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+186	V	none	none	none	none	-	30	0.172	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+187	T	none	none	none	none	-	44	0.256	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+188	V	none	none	none	none	-	48.5	0.27899999999999997	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+189	V	none	none	none	none	-	37	0.213	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+190	L	none	none	none	none	-	35.5	0.177	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+191	P	none	none	none	none	-	88	0.5529999999999999	beta-sheet	beta-strand/sheet	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+192	D	D>H	D>H (exome, AC = 1, AN = 251316, AF = 3.97905e-06)	none	none	-	15.5	0.08	loop	coils	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+193	T	none	none	none	none	-	45	0.262	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+194	K	none	none	none	none	-	86	0.364	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+195	G	none	none	none	none	-	37.5	0.32899999999999996	bend	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+196	K	none	none	none	none	-	26.5	0.11199999999999999	loop	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+197	S	none	none	none	none	-	56.5	0.365	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+198	Y	Y>S	Y>S (exome, AC = 1, AN = 251278, AF = 3.97966e-06)	none	none	-	38	0.14400000000000002	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+199	L	none	none	none	none	-	23	0.114	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+200	F	none	none	none	none	-	52.5	0.21899999999999997	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+201	N	N>S	N>S (exome, AC = 5, AN = 251236, AF = 1.99016e-05)	none	none	-	33	0.16899999999999998	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+202	I	I>V	I>V (exome, AC = 1, AN = 251228, AF = 3.98045e-06); I>V (genome, AC = 1, AN = 31406, AF = 3.1841e-05)	none	none	-	51	0.259	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+203	M	M>V; M>T	M>V (exome, AC = 2, AN = 251170, AF = 7.96273e-06); M>T (genome, AC = 1, AN = 31400, AF = 3.18471e-05)	none	none	-	30.5	0.136	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+204	D	none	none	none	none	-	35.5	0.184	beta-strand	beta-strand/sheet	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	D204-H208: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+205	T	T>I	T>I (exome, AC = 1, AN = 250988, AF = 3.98425e-06)	none	none	-	13	0.076	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	D204-H208: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+206	P	none	none	none	none	-	11.5	0.07200000000000001	loop	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	D204-H208: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+207	G	none	none	none	none	-	21	0.184	loop	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	D204-H208: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+208	H	none	none	H>R	H>R (ClinVar, phenotype = Growth and mental retardation, mandibulofacial dysostosis, microcephaly, and cleft palate); H>R (ClinVar, phenotype = Mandibulofacial dysostosis)	-	39	0.174	bend	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	D204-H208: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+209	V	none	none	none	none	-	56.5	0.325	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+210	N	N>H	N>H (exome, AC = 24, AN = 251128, AF = 9.55688e-05)	none	none	-	23	0.11800000000000001	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+211	F	none	none	none	none	-	13	0.054000000000000006	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+212	S	S>P; S>F	S>P (exome, AC = 2, AN = 251226, AF = 7.96096e-06); S>F (exome, AC = 1, AN = 251230, AF = 3.98042e-06)	none	none	-	42	0.271	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+213	D	none	none	none	none	-	10.5	0.054000000000000006	alpha-helix	Helices	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+214	E	none	none	none	none	-	27.5	0.12300000000000001	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+215	V	none	none	none	none	-	19	0.109	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+216	T	none	none	none	none	-	30.5	0.177	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+217	A	none	none	none	none	-	31.5	0.244	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+218	G	G>S	G>S (exome, AC = 2, AN = 251378, AF = 7.95615e-06)	none	none	-	37	0.325	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+219	L	L>S	L>S (exome, AC = 1, AN = 251388, AF = 3.97791e-06)	none	none	-	37	0.184	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+220	R	R>H	R>H (exome, AC = 4, AN = 251342, AF = 1.59146e-05)	none	none	-	66.5	0.243	turn	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+221	I	I>T	I>T (genome, AC = 1, AN = 31358, AF = 3.18898e-05)	none	none	-	51	0.259	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+222	S	none	none	none	none	-	25	0.161	bend	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+223	D	none	none	none	none	-	39.5	0.205	bend	coils	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+224	G	none	none	G>R	G>R (ClinVar, phenotype = Mandibulofacial dysostosis)	-	9	0.079	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+225	V	V>M	V>M (exome, AC = 1, AN = 251408, AF = 3.9776e-06)	none	none	-	26.5	0.152	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+226	V	none	none	none	none	-	28.5	0.16399999999999998	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+227	L	none	none	none	none	-	32.5	0.162	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+228	F	none	none	none	none	-	15.5	0.065	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+229	I	I>V	I>V (exome, AC = 1, AN = 251416, AF = 3.97747e-06)	none	none	-	34.5	0.175	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+230	D	none	none	none	none	-	30	0.155	beta-sheet	beta-strand/sheet	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+231	A	none	none	none	none	-	51	0.395	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+232	A	none	none	none	none	-	51	0.395	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+233	E	none	none	none	none	-	82.5	0.37	turn	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+234	G	none	none	none	none	-	22.5	0.19699999999999998	loop	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+235	V	none	none	none	none	-	75	0.431	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+236	M	none	none	none	none	-	45	0.201	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+237	L	none	none	none	none	-	58	0.289	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+238	N	none	none	none	none	-	32.5	0.16699999999999998	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+239	T	T>A	T>A (exome, AC = 1, AN = 250350, AF = 3.99441e-06)	none	none	-	28.5	0.166	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+240	E	none	none	none	none	-	64	0.287	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+241	R	R>Q	R>Q (exome, AC = 4, AN = 250696, AF = 1.59556e-05)	none	none	-	62.5	0.228	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+242	L	L>Q	L>Q (exome, AC = 2, AN = 250902, AF = 7.97124e-06)	none	none	-	44.5	0.221	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+243	I	I>M	I>M (exome, AC = 1, AN = 250962, AF = 3.98467e-06)	none	none	-	45.5	0.231	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+244	K	none	none	none	none	-	60.5	0.256	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+245	H	H>D; H>R	H>D (exome, AC = 1, AN = 251032, AF = 3.98356e-06); H>R (exome, AC = 1, AN = 251128, AF = 3.98203e-06)	none	none	-	36	0.161	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+246	A	A>V	A>V (exome, AC = 4, AN = 251080, AF = 1.59312e-05)	none	none	-	21.5	0.16699999999999998	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+247	V	V>L	V>L (exome, AC = 1, AN = 251214, AF = 3.98067e-06)	none	none	-	41	0.23600000000000002	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+248	Q	none	none	none	none	-	89	0.396	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+249	E	none	none	none	none	-	70	0.314	turn	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+250	R	none	none	none	none	-	82.5	0.301	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+251	L	none	none	none	none	-	29.5	0.147	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+252	A	none	none	none	none	-	45	0.349	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+253	V	V>I	V>I (exome, AC = 1, AN = 251368, AF = 3.97823e-06)	none	none	-	62.5	0.359	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+254	T	none	none	none	none	-	31	0.18	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+255	V	none	none	none	none	-	43.5	0.25	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+256	C	none	none	none	none	-	35.5	0.213	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+257	I	none	none	none	none	-	38	0.193	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+258	N	none	none	none	none	-	15.5	0.079	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	N258-D261: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+259	K	none	none	none	none	-	33	0.14	bend	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	N258-D261: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+260	I	none	none	none	none	-	36	0.183	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	N258-D261: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+261	D	D>V	D>V (exome, AC = 1, AN = 251428, AF = 3.97728e-06)	none	none	-	52	0.26899999999999996	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	N258-D261: GTP	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	nucleotide phosphate binding	-	domain	-	-
+262	R	none	none	R>W	R>W (ClinVar, phenotype = Growth and mental retardation, mandibulofacial dysostosis, microcephaly, and cleft palate); R>W (ClinVar, phenotype = Mandibulofacial dysostosis with microcephaly)	-	36	0.131	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+263	L	none	none	none	none	-	21.5	0.107	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+264	I	none	none	none	none	-	46	0.23399999999999999	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+265	L	none	none	none	none	-	53.5	0.266	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+266	E	none	none	none	none	-	40	0.179	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+267	L	none	none	none	none	-	47.5	0.23600000000000002	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+268	K	none	none	none	none	-	32	0.136	turn	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+269	L	none	none	none	none	-	39.5	0.19699999999999998	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+270	P	none	none	none	none	-	45	0.28300000000000003	loop	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+271	P	none	none	none	none	-	63	0.396	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+272	T	T>A	T>A (exome, AC = 6, AN = 251452, AF = 2.38614e-05)	none	none	-	66.5	0.387	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+273	D	none	none	none	none	-	42.5	0.22	alpha-helix	Helices	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+274	A	none	none	none	none	-	39.5	0.306	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+275	Y	none	none	none	none	-	43	0.163	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+276	Y	Y>C	Y>C (exome, AC = 1, AN = 251454, AF = 3.97687e-06)	none	none	-	37.5	0.14300000000000002	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+277	K	none	none	none	none	-	38	0.161	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+278	L	none	none	none	none	-	62	0.308	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+279	R	R>C	R>C (exome, AC = 2, AN = 251440, AF = 7.95418e-06)	none	none	-	57.5	0.21	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+280	H	none	none	none	none	-	33.5	0.15	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+281	I	I>T	I>T (exome, AC = 1, AN = 251438, AF = 3.97712e-06)	none	none	-	53	0.26899999999999996	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+282	V	none	none	none	none	-	40	0.23	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+283	D	none	none	none	none	-	58.5	0.303	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+284	E	none	none	none	none	-	61.5	0.276	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+285	V	none	none	none	none	-	55	0.316	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+286	N	none	none	none	none	-	24.5	0.126	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+287	G	none	none	none	none	-	37.5	0.32899999999999996	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+288	L	none	none	none	none	-	55	0.27399999999999997	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+289	I	I>M	I>M (exome, AC = 1, AN = 251188, AF = 3.98108e-06)	none	none	-	35	0.17800000000000002	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+290	S	none	none	none	none	-	57	0.368	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+291	M	M>T	M>T (exome, AC = 1, AN = 247520, AF = 4.04008e-06); M>T (genome, AC = 2, AN = 31408, AF = 6.3678e-05)	none	none	-	84	0.375	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+292	Y	none	none	none	none	-	53	0.20199999999999999	turn	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+293	S	none	none	none	none	-	60.5	0.39	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+294	T	T>A	T>A (exome, AC = 1, AN = 249486, AF = 4.00824e-06)	none	none	-	107.5	0.625	bend	coils	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+295	D	none	none	none	none	-	66.5	0.345	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+296	E	none	none	none	none	-	85.5	0.38299999999999995	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+297	N	none	none	none	none	-	87.5	0.449	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+298	L	none	none	none	none	-	58	0.289	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+299	I	none	none	none	none	-	50	0.254	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+300	L	L>I	L>I (exome, AC = 1, AN = 251022, AF = 3.98371e-06)	none	none	-	56.5	0.281	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+301	S	none	none	none	none	-	27	0.174	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+302	P	none	none	none	none	-	79	0.49700000000000005	turn	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+303	L	none	none	none	none	-	60	0.299	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+304	L	none	none	none	none	-	67	0.33299999999999996	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+305	G	G>S	G>S (exome, AC = 1, AN = 251244, AF = 3.98019e-06)	none	none	-	18.5	0.162	turn	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+306	N	T>M	T>M (exome, AC = 1, AN = 251274, AF = 3.97972e-06)	none	none	-	23.5	0.121	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+307	V	V>I	V>I (exome, AC = 5, AN = 251278, AF = 1.98983e-05)	none	none	-	40.5	0.233	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+308	C	none	none	none	none	-	21.5	0.129	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+309	F	F>L; S>F	F>L (exome, AC = 1, AN = 251288, AF = 3.9795e-06); S>F (exome, AC = 1, AN = 251304, AF = 3.97924e-06)	none	none	-	57	0.237	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+310	S	none	none	none	none	-	28	0.18100000000000002	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+311	S	S>T	S>T (exome, AC = 1, AN = 251306, AF = 3.97921e-06)	none	none	-	13	0.084	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+312	S	S>P; S>C; P>H	S>P (exome, AC = 1, AN = 251314, AF = 3.97909e-06); S>C (exome, AC = 3, AN = 251312, AF = 1.19374e-05); P>H (exome, AC = 3, AN = 251318, AF = 1.19371e-05)	none	none	-	44.5	0.287	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+313	Q	none	none	none	none	-	86.5	0.384	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+314	Y	Y>C; Y>H	Y>C (exome, AC = 1, AN = 251352, AF = 3.97848e-06); Y>H (genome, AC = 1, AN = 31406, AF = 3.1841e-05)	none	none	-	22	0.084	turn	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+315	S	S>N	S>N (genome, AC = 2, AN = 31408, AF = 6.3678e-05)	none	none	-	47.5	0.306	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+316	I	I>M	I>M (exome, AC = 1, AN = 251352, AF = 3.97848e-06)	none	none	-	25	0.127	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+317	C	none	none	none	none	-	47	0.281	beta-sheet	beta-strand/sheet	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+318	F	S>L	S>L (exome, AC = 1, AN = 251344, AF = 3.97861e-06)	none	none	-	36	0.15	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+319	T	R>L; R>H	R>L (exome, AC = 1, AN = 251340, AF = 3.97867e-06); R>H (exome, AC = 13, AN = 251340, AF = 5.17228e-05); R>H (genome, AC = 1, AN = 31400, AF = 3.18471e-05)	none	none	-	16.5	0.096	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+320	L	none	none	none	none	-	38.5	0.192	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+321	G	A>V	A>V (exome, AC = 4, AN = 251350, AF = 1.59141e-05)	none	none	-	35	0.307	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+322	S	P>R	P>R (exome, AC = 9, AN = 251346, AF = 3.58072e-05); P>R (genome, AC = 4, AN = 31410, AF = 0.000127348)	none	none	-	17.5	0.113	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+323	F	F>L	F>L (exome, AC = 1, AN = 251334, AF = 3.97877e-06)	none	none	-	55	0.22899999999999998	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+324	A	none	none	none	none	-	17	0.132	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+325	K	K>N	K>N (exome, AC = 1, AN = 251338, AF = 3.97871e-06)	none	none	-	48	0.203	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+326	I	I>V; I>M	I>V (exome, AC = 1, AN = 251332, AF = 3.9788e-06); I>M (exome, AC = 4, AN = 251334, AF = 1.59151e-05)	none	none	-	58	0.294	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+327	Y	none	none	none	none	-	45	0.171	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+328	A	P>L	P>L (exome, AC = 327, AN = 251306, AF = 0.0013012); P>L (genome, AC = 31, AN = 31400, AF = 0.000987261)	none	none	-	26	0.20199999999999999	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+329	D	D>N; D>E	D>N (exome, AC = 1, AN = 251306, AF = 3.97921e-06); D>E (exome, AC = 1, AN = 251324, AF = 3.97893e-06); D>N (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	80.5	0.41700000000000004	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+330	T	P>H; T>I	P>H (exome, AC = 2, AN = 251318, AF = 7.95805e-06); T>I (genome, AC = 1, AN = 31402, AF = 3.18451e-05)	none	none	-	88	0.512	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+331	F	none	none	none	none	-	63	0.263	bend	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+332	G	none	none	none	none	-	40.5	0.355	loop	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+333	D	D>V	D>V (exome, AC = 1, AN = 251052, AF = 3.98324e-06)	none	none	-	56	0.29	turn	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+334	I	none	none	none	none	-	75	0.381	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+335	N	none	none	none	none	-	45.5	0.233	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+336	Y	none	none	none	none	-	48	0.183	bend	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+337	Q	none	none	none	none	-	87.5	0.389	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+338	E	none	none	none	none	-	59.5	0.267	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+339	F	none	none	none	none	-	28.5	0.11900000000000001	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+340	A	none	none	none	none	-	16.5	0.128	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+341	K	none	none	none	none	-	57.5	0.244	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+342	R	none	none	none	none	-	40.5	0.14800000000000002	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+343	L	none	none	none	none	-	38	0.18899999999999997	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+344	W	none	none	none	none	-	30	0.105	bend	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+345	G	G>S	G>S (exome, AC = 1, AN = 251294, AF = 3.9794e-06)	none	none	-	44	0.386	bend	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+346	D	none	none	none	none	-	81	0.42	bend	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+347	I	none	none	none	none	-	21.5	0.109	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+348	Y	none	none	none	none	-	6	0.023	beta-sheet	beta-strand/sheet	core	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+349	F	none	none	none	none	-	60	0.25	beta-sheet	beta-strand/sheet	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+350	N	none	none	none	none	-	32.5	0.16699999999999998	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+351	P	none	none	none	none	-	121	0.7609999999999999	turn	coils	exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+352	K	K>N	K>N (exome, AC = 1, AN = 251162, AF = 3.98149e-06)	none	none	-	92	0.39	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+353	T	none	none	none	none	-	71	0.413	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+354	R	R>Q	R>Q (genome, AC = 1, AN = 31342, AF = 3.19061e-05)	none	none	-	32	0.11699999999999999	turn	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+355	K	none	none	none	none	-	27	0.114	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+356	F	none	none	none	none	-	27.5	0.115	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+357	T	none	none	none	none	-	31	0.18	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+358	K	none	none	none	none	-	39	0.165	bend	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+359	K	none	none	none	none	-	66.5	0.282	bend	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+360	A	A>P	A>P (exome, AC = 1, AN = 232840, AF = 4.29479e-06)	none	none	-	82.5	0.64	bend	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+361	P	none	none	none	none	-	85.5	0.5379999999999999	loop	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+362	T	T>A; T>S; T>I	T>A (exome, AC = 1, AN = 235170, AF = 4.25224e-06); T>S (exome, AC = 2, AN = 236254, AF = 8.46547e-06); T>I (genome, AC = 1, AN = 31380, AF = 3.18674e-05)	none	none	-	66	0.384	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+363	S	S>G	S>G (exome, AC = 1, AN = 237028, AF = 4.21891e-06)	none	none	-	108.5	0.7	turn	coils	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+364	S	S>G	S>G (exome, AC = 3, AN = 238098, AF = 1.25999e-05); S>G (genome, AC = 1, AN = 31376, AF = 3.18715e-05)	none	none	-	74.5	0.48100000000000004	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+365	S	none	none	none	none	-	30	0.19399999999999998	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+366	Q	none	none	none	none	-	72.5	0.322	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+367	R	none	none	none	none	-	28	0.102	loop	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+368	S	none	none	none	none	-	13	0.084	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+369	F	F>C	F>C (exome, AC = 1, AN = 242040, AF = 4.13155e-06)	none	none	-	24.5	0.102	pi-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+370	V	V>M	V>M (exome, AC = 2, AN = 241522, AF = 8.28082e-06)	none	none	-	17.5	0.10099999999999999	pi-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+371	E	E>Q	E>Q (exome, AC = 1, AN = 241490, AF = 4.14096e-06)	none	none	-	46.5	0.209	pi-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+372	F	none	none	none	none	-	58.5	0.244	pi-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+373	I	none	none	none	none	-	53.5	0.272	pi-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+374	L	none	none	none	none	-	27.5	0.13699999999999998	pi-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+375	E	none	none	none	none	-	41.5	0.18600000000000003	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+376	P	none	none	none	none	-	39.5	0.248	alpha-helix	Helices	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+377	L	none	none	none	none	-	60.5	0.301	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+378	Y	Y>C	Y>C (exome, AC = 1, AN = 237250, AF = 4.21496e-06)	none	none	-	53.5	0.203	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+379	K	none	none	none	none	-	26.5	0.11199999999999999	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+380	I	none	none	none	none	-	66	0.335	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+381	L	none	none	none	none	-	53.5	0.266	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+382	A	none	none	none	none	-	30	0.233	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+383	Q	none	none	none	none	-	25.5	0.113	turn	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+384	V	V>I	V>I (exome, AC = 25, AN = 250848, AF = 9.96619e-05); V>I (genome, AC = 1, AN = 31394, AF = 3.18532e-05)	none	none	-	44.5	0.256	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+385	V	none	none	none	none	-	44	0.253	310-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+386	G	none	none	none	none	-	9	0.079	310-helix	Helices	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+387	D	none	none	none	none	-	36	0.187	310-helix	Helices	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+388	V	V>M	V>M (exome, AC = 1, AN = 251060, AF = 3.98311e-06)	none	none	-	46.5	0.267	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+389	D	none	none	none	none	-	82.5	0.42700000000000005	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+390	T	T>I	T>I (exome, AC = 5, AN = 251140, AF = 1.99092e-05)	none	none	-	76	0.442	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+391	S	S>T	S>T (exome, AC = 2, AN = 251104, AF = 7.96483e-06)	none	none	-	29	0.187	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+392	L	none	none	none	none	-	45	0.22399999999999998	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+393	P	none	none	none	none	-	89	0.56	alpha-helix	Helices	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+394	R	R>W; R>Q	R>W (exome, AC = 3, AN = 251184, AF = 1.19434e-05); R>Q (exome, AC = 2, AN = 251172, AF = 7.96267e-06); R>W (genome, AC = 1, AN = 31394, AF = 3.18532e-05)	none	none	-	67	0.245	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+395	T	none	none	none	none	-	47.5	0.276	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+396	L	L>V	L>V (exome, AC = 1, AN = 251200, AF = 3.98089e-06)	none	none	-	32.5	0.162	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+397	D	D>H; D>E	D>H (exome, AC = 1, AN = 251228, AF = 3.98045e-06); D>E (exome, AC = 3, AN = 251218, AF = 1.19418e-05)	none	none	-	84	0.435	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+398	E	E>K	E>K (exome, AC = 1, AN = 251238, AF = 3.98029e-06); E>K (genome, AC = 1, AN = 31390, AF = 3.18573e-05)	none	none	-	74.5	0.33399999999999996	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+399	L	none	none	none	none	-	83	0.413	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+400	G	G>V	G>V (exome, AC = 2, AN = 251252, AF = 7.96014e-06)	none	none	-	51	0.447	turn	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+401	I	none	none	none	none	-	54.5	0.27699999999999997	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+402	H	none	none	none	none	-	101.5	0.45299999999999996	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+403	L	none	none	none	none	-	72	0.358	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+404	T	T>M	T>M (exome, AC = 1, AN = 251256, AF = 3.98e-06)	none	none	-	68	0.395	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+405	K	none	none	none	none	-	89	0.377	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+406	E	none	none	none	none	-	87	0.39	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+407	E	none	none	none	none	-	56	0.251	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+408	L	none	none	none	none	-	74.5	0.371	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+409	K	none	none	none	none	-	73	0.309	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	E127-K409: tr-type G	-	-	-	-	-	-	-	-	-	-	-	-	domain	-	-
+410	L	none	none	none	none	-	50	0.249	bend	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+411	N	none	none	none	none	-	33	0.16899999999999998	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+412	I	none	none	none	none	-	67	0.34	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+413	R	R>H; R>C	R>H (exome, AC = 5, AN = 251220, AF = 1.99029e-05); R>C (genome, AC = 1, AN = 31378, AF = 3.18695e-05); R>H (genome, AC = 1, AN = 31390, AF = 3.18573e-05)	none	none	-	74.5	0.272	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+414	P	none	none	none	none	-	59	0.371	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+415	L	none	none	none	none	-	40.5	0.201	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+416	L	none	none	none	none	-	42	0.209	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+417	R	none	none	none	none	-	28	0.102	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+418	L	none	none	none	none	-	61	0.303	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+419	V	none	none	none	none	-	54.5	0.313	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+420	C	none	none	none	none	-	20	0.12	alpha-helix	Helices	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+421	K	none	none	none	none	-	56.5	0.239	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+422	K	none	none	none	none	-	70	0.297	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+423	F	none	none	none	none	-	83.5	0.348	alpha-helix	Helices	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+424	F	F>S	F>S (exome, AC = 1, AN = 251118, AF = 3.98219e-06)	none	none	-	35	0.146	turn	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+425	G	none	none	none	none	-	50.5	0.44299999999999995	loop	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+426	E	E>K	E>K (exome, AC = 4, AN = 251078, AF = 1.59313e-05)	none	none	-	70.5	0.316	bend	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+427	F	none	none	none	none	-	49	0.204	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+428	T	none	none	none	none	-	24	0.14	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+429	G	none	none	none	none	-	6	0.053	alpha-helix	Helices	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+430	F	none	none	none	none	-	44	0.183	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+431	V	none	none	none	none	-	23.5	0.135	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+432	D	none	none	none	none	-	48	0.249	alpha-helix	Helices	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+433	M	M>V	M>V (exome, AC = 5, AN = 250822, AF = 1.99345e-05)	none	none	-	23.5	0.105	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+434	C	C>S	C>S (exome, AC = 2, AN = 251190, AF = 7.9621e-06)	none	none	-	38.5	0.231	alpha-helix	Helices	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+435	V	none	none	none	none	-	69.5	0.39899999999999997	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+436	Q	Q>P; Q>H	Q>P (exome, AC = 1, AN = 251054, AF = 3.98321e-06); Q>H (exome, AC = 1, AN = 251284, AF = 3.97956e-06)	Q>E	Q>E (ClinVar, phenotype = Mandibulofacial dysostosis with microcephaly)	-	90.5	0.402	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+437	H	none	none	none	none	-	50.5	0.225	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+438	I	none	none	none	none	-	34	0.17300000000000001	bend	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+439	P	P>R	P>R (exome, AC = 1, AN = 251298, AF = 3.97934e-06)	none	none	-	45.5	0.28600000000000003	loop	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+440	S	none	none	none	none	-	47	0.303	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+441	P	none	none	none	none	-	47	0.29600000000000004	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+442	K	K>Q	K>Q (exome, AC = 1, AN = 251326, AF = 3.9789e-06)	none	none	-	36	0.153	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+443	V	V>M	V>M (exome, AC = 2, AN = 251344, AF = 7.95722e-06)	none	none	-	71	0.408	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+444	G	G>D	G>D (exome, AC = 8, AN = 251344, AF = 3.18289e-05)	none	none	-	13	0.114	alpha-helix	Helices	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+445	A	none	none	none	none	-	32	0.248	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+446	K	none	none	none	none	-	56.5	0.239	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+447	P	none	none	none	none	-	69	0.434	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+448	K	none	none	none	none	-	49	0.20800000000000002	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+449	I	I>F	I>F (exome, AC = 1, AN = 251360, AF = 3.97836e-06)	none	none	-	33	0.168	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+450	E	none	none	none	none	-	68.5	0.307	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+451	H	none	none	none	none	-	93	0.415	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+452	T	T>A; T>I	T>A (exome, AC = 5, AN = 251344, AF = 1.98931e-05); T>I (exome, AC = 1, AN = 251338, AF = 3.97871e-06)	none	none	-	47.5	0.276	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+453	Y	none	none	none	none	-	33	0.125	bend	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+454	T	none	none	none	none	-	96	0.5579999999999999	bend	coils	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+455	G	G>S	G>S (exome, AC = 89, AN = 251186, AF = 0.000354319); G>S (genome, AC = 6, AN = 31406, AF = 0.000191046)	none	none	-	39	0.342	bend	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+456	G	none	none	none	none	-	50	0.439	loop	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+457	V	V>L; V>G	V>L (exome, AC = 1, AN = 251122, AF = 3.98213e-06); V>G (exome, AC = 1, AN = 251168, AF = 3.9814e-06); V>L (genome, AC = 1, AN = 31404, AF = 3.18431e-05); V>G (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	69	0.397	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+458	D	D>N; D>E	D>N (exome, AC = 1, AN = 251148, AF = 3.98172e-06); D>E (exome, AC = 1, AN = 251124, AF = 3.9821e-06)	none	none	-	93.5	0.484	turn	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+459	S	S>Y; S>C	S>Y (exome, AC = 5, AN = 251084, AF = 1.99137e-05); S>C (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	66.5	0.429	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+460	D	D>G	D>G (exome, AC = 1, AN = 251044, AF = 3.98337e-06)	none	none	-	50	0.259	turn	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+461	L	none	none	none	none	-	48	0.239	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+462	G	G>S	G>S (exome, AC = 4, AN = 250944, AF = 1.59398e-05)	none	none	-	27	0.237	alpha-helix	Helices	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+463	E	E>V	E>V (exome, AC = 1, AN = 250976, AF = 3.98444e-06)	none	none	-	49	0.22	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+464	A	A>T	A>T (exome, AC = 2, AN = 250916, AF = 7.9708e-06)	none	none	-	48.5	0.376	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+465	M	none	none	none	none	-	43.5	0.19399999999999998	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+466	S	S>R; S>N	S>R (exome, AC = 7, AN = 250842, AF = 2.7906e-05); S>N (exome, AC = 1, AN = 250828, AF = 3.9868e-06); S>R (genome, AC = 3, AN = 31396, AF = 9.55536e-05)	none	none	-	50.5	0.326	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+467	D	none	none	none	none	-	33.5	0.174	alpha-helix	Helices	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+468	C	none	none	none	none	-	43	0.257	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+469	D	none	none	none	none	-	63.5	0.32899999999999996	turn	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+470	P	none	none	none	none	-	90.5	0.569	turn	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+471	D	D>V; D>E	D>V (exome, AC = 1, AN = 250046, AF = 3.99926e-06); D>E (exome, AC = 1, AN = 250074, AF = 3.99882e-06)	none	none	-	65.5	0.33899999999999997	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+472	G	none	none	none	none	-	34.5	0.303	loop	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+473	P	none	none	none	none	-	77.5	0.48700000000000004	bend	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+474	L	none	none	none	none	-	40.5	0.201	bend	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+475	M	none	none	none	none	-	39	0.174	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+476	C	C>G	C>G (exome, AC = 1, AN = 250296, AF = 3.99527e-06)	C>R	C>R (ClinVar, phenotype = Mandibulofacial dysostosis with microcephaly)	-	33.5	0.201	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+477	H	H>N	H>N (exome, AC = 2, AN = 250330, AF = 7.98945e-06)	none	none	-	37.5	0.16699999999999998	loop	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+478	T	T>A	T>A (exome, AC = 1, AN = 249310, AF = 4.01107e-06)	none	none	-	38.5	0.22399999999999998	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+479	T	T>A	T>A (exome, AC = 4, AN = 250746, AF = 1.59524e-05); T>A (genome, AC = 2, AN = 31390, AF = 6.37146e-05)	none	none	-	28	0.163	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+480	K	K>Q	K>Q (exome, AC = 1, AN = 250820, AF = 3.98692e-06)	none	none	-	43.5	0.184	loop	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+481	M	none	none	none	none	-	34.5	0.154	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+482	Y	Y>C	Y>C (exome, AC = 1, AN = 251092, AF = 3.9826e-06)	none	none	-	44.5	0.16899999999999998	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+483	S	none	none	none	none	-	84.5	0.545	beta-sheet	beta-strand/sheet	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+484	T	none	none	none	none	-	52.5	0.305	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+485	D	D>N	D>N (exome, AC = 1, AN = 251152, AF = 3.98165e-06)	none	none	-	93.5	0.484	bend	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+486	D	none	none	none	none	-	58	0.301	bend	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+487	G	none	none	none	none	-	59	0.518	bend	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+488	V	none	none	none	none	-	107	0.615	bend	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+489	Q	Q>H	Q>H (genome, AC = 1, AN = 31404, AF = 3.18431e-05)	none	none	-	57	0.253	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+490	F	none	none	none	none	-	42	0.175	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+491	H	none	none	none	none	-	28.5	0.127	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+492	A	A>T	A>T (exome, AC = 2, AN = 251258, AF = 7.95995e-06)	none	none	-	26	0.20199999999999999	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+493	F	none	none	none	none	-	27	0.113	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+494	G	none	none	none	none	-	18	0.158	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+495	R	R>Q	R>Q (exome, AC = 1, AN = 251244, AF = 3.98019e-06)	none	none	-	28	0.102	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+496	V	none	none	none	none	-	22.5	0.129	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+497	L	none	none	none	none	-	53	0.264	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+498	S	none	none	none	none	-	8.5	0.055	bend	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+499	G	none	none	G>D	G>D (ClinVar, phenotype = Mandibulofacial dysostosis with microcephaly)	-	3.5	0.031	bend	coils	core	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+500	T	T>I	T>I (exome, AC = 2, AN = 251284, AF = 7.95912e-06)	none	none	-	61.5	0.358	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+501	I	none	none	none	none	-	51	0.259	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+502	H	none	none	none	none	-	43.5	0.19399999999999998	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+503	A	A>S	A>S (exome, AC = 3, AN = 251282, AF = 1.19388e-05); A>S (genome, AC = 1, AN = 31384, AF = 3.18634e-05)	none	none	-	57	0.442	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+504	G	none	none	none	none	-	51.5	0.452	turn	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+505	Q	none	none	none	none	-	41	0.182	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+506	P	none	none	none	none	-	74.5	0.469	beta-sheet	beta-strand/sheet	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+507	V	none	none	none	none	-	30.5	0.175	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+508	K	none	none	none	none	-	24.5	0.10400000000000001	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+509	V	none	none	none	none	-	15	0.086	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+510	L	none	none	none	none	-	16	0.08	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+511	G	none	none	none	none	-	15	0.132	loop	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+512	E	none	none	none	none	-	83	0.37200000000000005	bend	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+513	N	N>S	N>S (exome, AC = 1, AN = 251258, AF = 3.97997e-06)	none	none	-	95	0.48700000000000004	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+514	Y	none	none	none	none	-	20	0.076	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+515	T	none	none	none	none	-	58	0.337	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+516	L	none	none	none	none	-	92	0.45799999999999996	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+517	E	E>Q	E>Q (exome, AC = 1, AN = 251232, AF = 3.98038e-06)	none	none	-	106	0.475	bend	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+518	D	none	none	none	none	-	66.5	0.345	bend	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+519	E	none	none	none	none	-	64.5	0.289	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+520	E	none	none	none	none	-	102	0.457	bend	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+521	D	none	none	none	none	-	47.5	0.24600000000000002	bend	coils	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+522	S	none	none	none	none	-	46.5	0.3	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+523	Q	none	none	none	none	-	47.5	0.21100000000000002	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+524	I	none	none	none	none	-	73	0.371	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+525	C	C>R	C>R (exome, AC = 1, AN = 251014, AF = 3.98384e-06)	none	none	-	25.5	0.153	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+526	T	none	none	none	none	-	54	0.314	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+527	V	V>A	V>A (exome, AC = 1, AN = 250776, AF = 3.98762e-06)	none	none	-	25.5	0.147	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+528	G	G>S	G>S (exome, AC = 2, AN = 250698, AF = 7.97773e-06)	none	none	-	57	0.5	loop	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+529	R	R>H	R>H (exome, AC = 2, AN = 250290, AF = 7.99073e-06)	none	none	-	53.5	0.195	loop	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+530	L	none	none	none	none	-	17	0.085	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+531	W	none	none	none	none	-	27	0.095	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+532	I	none	none	none	none	-	40	0.203	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+533	S	none	none	none	none	-	35	0.226	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+534	V	V>A	V>A (genome, AC = 1, AN = 31372, AF = 3.18756e-05)	none	none	-	42.5	0.244	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+535	A	none	none	none	none	-	77.5	0.601	turn	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+536	R	none	none	none	none	-	63	0.23	turn	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+537	Y	none	none	none	none	-	45	0.171	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+538	H	none	none	none	none	-	62	0.27699999999999997	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+539	I	none	none	none	none	-	63	0.32	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+540	E	E>Q	E>Q (exome, AC = 1, AN = 250904, AF = 3.98559e-06)	none	none	-	91	0.408	beta-sheet	beta-strand/sheet	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+541	V	V>A	V>A (exome, AC = 1, AN = 251036, AF = 3.98349e-06)	none	none	-	51	0.293	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+542	N	none	none	none	none	-	75.5	0.387	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+543	R	none	none	none	none	-	59.5	0.217	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+544	V	V>I	V>I (exome, AC = 2, AN = 251186, AF = 7.96223e-06)	none	none	-	23	0.132	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+545	P	P>L	P>L (genome, AC = 1, AN = 31370, AF = 3.18776e-05)	none	none	-	44	0.27699999999999997	loop	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+546	A	none	none	none	none	-	19.5	0.151	bend	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+547	G	none	none	none	none	-	54.5	0.478	bend	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+548	N	N>S	N>S (genome, AC = 1, AN = 31378, AF = 3.18695e-05)	none	none	-	34	0.174	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+549	W	none	none	none	none	-	66	0.23199999999999998	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+550	V	none	none	none	none	-	32	0.184	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+551	L	L>M	L>M (exome, AC = 3, AN = 251318, AF = 1.19371e-05); L>M (genome, AC = 1, AN = 31388, AF = 3.18593e-05)	none	none	-	22	0.109	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+552	I	I>T; I>M	I>T (exome, AC = 2, AN = 251340, AF = 7.95735e-06); I>M (exome, AC = 1, AN = 251334, AF = 3.97877e-06); I>T (genome, AC = 2, AN = 31390, AF = 6.37146e-05)	none	none	-	34	0.17300000000000001	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+553	E	none	none	none	none	-	45.5	0.204	loop	coils	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+554	G	none	none	none	none	-	54	0.474	bend	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+555	V	none	none	none	none	-	33	0.19	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+556	D	none	none	none	none	-	51	0.264	bend	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+557	Q	none	none	none	none	-	96	0.42700000000000005	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+558	P	none	none	none	none	-	51.5	0.324	bend	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+559	I	I>V; I>T	I>V (exome, AC = 8, AN = 251290, AF = 3.18357e-05); I>T (exome, AC = 4, AN = 251292, AF = 1.59177e-05)	none	none	-	33	0.168	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+560	V	V>M	V>M (exome, AC = 1, AN = 251274, AF = 3.97972e-06)	none	none	-	65	0.374	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+561	K	none	none	none	none	-	72.5	0.307	bend	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+562	T	none	none	none	none	-	32	0.18600000000000003	bend	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+563	A	none	none	none	none	-	13.5	0.105	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+564	T	none	none	none	none	-	12.5	0.073	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+565	I	none	none	none	none	-	33	0.168	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+566	T	none	none	none	none	-	20	0.11599999999999999	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+567	E	none	none	none	none	-	16.5	0.07400000000000001	loop	coils	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+568	P	none	none	none	none	-	75	0.47200000000000003	turn	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+569	R	R>Q	R>Q (exome, AC = 1, AN = 251182, AF = 3.98118e-06)	none	none	-	87.5	0.319	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+570	G	none	none	none	none	-	68.5	0.601	turn	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+571	N	none	none	none	none	-	35	0.179	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+572	E	none	none	none	none	-	85	0.381	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+573	E	none	none	none	none	-	77	0.345	bend	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+574	A	none	none	none	none	-	41.5	0.322	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+575	Q	none	none	none	none	-	61.5	0.273	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+576	I	I>V; I>S	I>V (exome, AC = 7, AN = 251386, AF = 2.78456e-05); I>S (exome, AC = 1, AN = 251392, AF = 3.97785e-06)	none	none	-	25.5	0.129	bend	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+577	F	none	none	none	none	-	31.5	0.131	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+578	R	R>Q	R>Q (exome, AC = 2, AN = 251402, AF = 7.95539e-06)	none	none	-	61	0.223	loop	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+579	P	P>L	P>L (exome, AC = 5, AN = 251418, AF = 1.98872e-05)	none	none	-	76.5	0.48100000000000004	loop	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+580	L	L>F	L>F (exome, AC = 2, AN = 251426, AF = 7.95463e-06); L>F (genome, AC = 1, AN = 31406, AF = 3.1841e-05)	none	none	-	71.5	0.35600000000000004	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+581	K	none	none	none	none	-	88	0.373	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+582	F	none	none	none	none	-	40	0.16699999999999998	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+583	N	N>S	N>S (exome, AC = 2, AN = 251430, AF = 7.9545e-06)	none	none	-	86	0.441	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+584	T	none	none	none	none	-	62	0.36	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+585	T	T>A	T>A (exome, AC = 1, AN = 251446, AF = 3.977e-06)	none	none	-	63	0.366	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+586	S	S>P	S>P (exome, AC = 1, AN = 251448, AF = 3.97697e-06)	none	none	-	59.5	0.384	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+587	V	V>I	V>I (exome, AC = 1, AN = 251454, AF = 3.97687e-06)	none	none	-	16.5	0.095	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+588	I	I>V; I>T	I>V (exome, AC = 1, AN = 251456, AF = 3.97684e-06); I>T (exome, AC = 1, AN = 251454, AF = 3.97687e-06); I>V (genome, AC = 1, AN = 31406, AF = 3.1841e-05)	none	none	-	35.5	0.18	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+589	K	none	none	none	none	-	33	0.14	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+590	I	none	none	none	none	-	28	0.142	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+591	A	none	none	none	none	-	31.5	0.244	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+592	V	none	none	none	none	-	51	0.293	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+593	E	none	none	none	none	-	45.5	0.204	beta-sheet	beta-strand/sheet	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+594	P	P>A	P>A (exome, AC = 2, AN = 251466, AF = 7.95336e-06)	none	none	-	48.5	0.305	beta-sheet	beta-strand/sheet	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+595	V	none	none	none	none	-	73.5	0.42200000000000004	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+596	N	N>S; N>K	N>S (exome, AC = 9, AN = 251468, AF = 3.57898e-05); N>K (exome, AC = 1, AN = 251468, AF = 3.97665e-06)	none	none	-	48.5	0.249	bend	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+597	P	none	none	none	none	-	79	0.49700000000000005	310-helix	Helices	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+598	S	none	none	none	none	-	88	0.568	310-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+599	E	none	none	none	none	-	14.5	0.065	310-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+600	L	none	none	none	none	-	47.5	0.23600000000000002	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+601	P	none	none	none	none	-	92.5	0.5820000000000001	alpha-helix	Helices	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+602	K	none	none	none	none	-	42	0.17800000000000002	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+603	M	none	none	none	none	-	42	0.188	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+604	L	none	none	none	none	-	64.5	0.321	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+605	D	none	none	none	none	-	63	0.326	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+606	G	none	none	none	none	-	10	0.08800000000000001	alpha-helix	Helices	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+607	L	none	none	none	none	-	42	0.209	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+608	R	none	none	none	none	-	62.5	0.228	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+609	K	K>R	K>R (exome, AC = 3, AN = 251470, AF = 1.19299e-05)	none	none	-	48.5	0.20600000000000002	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+610	V	none	none	none	none	-	26.5	0.152	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+611	N	N>S; N>K	N>S (exome, AC = 1, AN = 251456, AF = 3.97684e-06); N>K (exome, AC = 1, AN = 251462, AF = 3.97674e-06)	none	none	-	34.5	0.177	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+612	K	none	none	none	none	-	43.5	0.184	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+613	S	S>R	S>R (exome, AC = 1, AN = 251460, AF = 3.97678e-06)	none	none	-	58.5	0.377	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+614	Y	none	none	none	none	-	40.5	0.154	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+615	P	none	none	none	none	-	72	0.45299999999999996	turn	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+616	S	none	none	none	none	-	59	0.381	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+617	L	none	none	none	none	-	35.5	0.177	bend	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+618	T	T>S	T>S (exome, AC = 1, AN = 251426, AF = 3.97731e-06)	none	none	-	55.5	0.32299999999999995	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+619	T	none	none	none	none	-	68	0.395	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+620	K	none	none	K>N	K>N (ClinVar, phenotype = Mandibulofacial dysostosis with microcephaly)	-	64.5	0.273	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+621	V	V>G	V>G (genome, AC = 1, AN = 31384, AF = 3.18634e-05)	none	none	-	87.5	0.503	beta-sheet	beta-strand/sheet	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+622	E	none	none	none	none	-	45.5	0.204	loop	coils	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+623	E	none	none	none	none	-	99	0.444	turn	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+624	S	none	none	none	none	-	65.5	0.423	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+625	G	G>C	G>C (exome, AC = 1, AN = 251286, AF = 3.97953e-06)	none	none	-	66	0.579	bend	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+626	E	E>K	E>K (exome, AC = 2, AN = 251300, AF = 7.95862e-06)	none	none	-	48.5	0.217	loop	coils	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+627	H	none	none	none	none	-	53.5	0.239	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+628	V	V>L	V>L (exome, AC = 1, AN = 251340, AF = 3.97867e-06)	none	none	-	35	0.201	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+629	I	none	none	none	none	-	41.5	0.21100000000000002	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+630	L	none	none	none	none	-	32	0.159	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+631	G	none	none	none	none	-	11.5	0.10099999999999999	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+632	T	T>A	T>A (exome, AC = 1, AN = 251394, AF = 3.97782e-06)	none	none	-	43	0.25	bend	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+633	G	none	none	G>R	G>R (ClinVar, phenotype = not provided)	-	27	0.237	bend	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+634	E	none	none	none	none	-	78	0.35	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+635	L	none	none	none	none	-	70.5	0.35100000000000003	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+636	Y	Y>S	Y>S (exome, AC = 1, AN = 251428, AF = 3.97728e-06)	none	none	-	28	0.106	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+637	L	none	none	L>R	L>R (ClinVar, phenotype = Growth and mental retardation, mandibulofacial dysostosis, microcephaly, and cleft palate); L>R (ClinVar, phenotype = Mandibulofacial dysostosis with microcephaly)	-	37.5	0.187	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+638	D	none	none	none	none	-	20	0.10400000000000001	alpha-helix	Helices	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+639	C	none	none	none	none	-	55.5	0.332	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+640	V	none	none	none	none	-	46.5	0.267	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+641	M	none	none	none	none	-	37	0.165	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+642	H	none	none	none	none	-	47.5	0.212	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+643	D	none	none	none	none	-	53	0.275	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+644	L	none	none	none	none	-	27	0.134	pi-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+645	R	none	none	none	none	-	47	0.172	pi-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+646	K	none	none	none	none	-	86.5	0.36700000000000005	pi-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+647	M	M>L	M>L (genome, AC = 1, AN = 31370, AF = 3.18776e-05)	none	none	-	65.5	0.292	pi-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+648	Y	Y>C	Y>C (exome, AC = 1, AN = 251400, AF = 3.97772e-06)	none	none	-	42.5	0.162	pi-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+649	S	none	none	none	none	-	28.5	0.184	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+650	E	none	none	none	none	-	106	0.475	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+651	I	I>T	I>T (exome, AC = 1, AN = 251384, AF = 3.97798e-06)	none	none	-	47.5	0.24100000000000002	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+652	D	none	none	none	none	-	57	0.295	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+653	I	none	none	none	none	-	48.5	0.24600000000000002	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+654	K	none	none	none	none	-	41.5	0.17600000000000002	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+655	V	V>M	V>M (exome, AC = 1, AN = 251438, AF = 3.97712e-06)	none	none	-	43.5	0.25	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+656	A	none	none	none	none	-	31.5	0.244	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+657	D	none	none	none	none	-	85	0.44	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+658	P	none	none	none	none	-	89	0.56	loop	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+659	V	V>A	V>A (exome, AC = 2, AN = 251468, AF = 7.9533e-06)	none	none	-	55.5	0.319	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+660	V	V>I	V>I (exome, AC = 1, AN = 251462, AF = 3.97674e-06)	none	none	-	42.5	0.244	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+661	T	T>K	T>K (exome, AC = 1, AN = 251462, AF = 3.97674e-06)	none	none	-	49.5	0.28800000000000003	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+662	F	none	none	none	none	-	54	0.225	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+663	C	none	none	none	none	-	28	0.168	beta-strand	beta-strand/sheet	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+664	E	none	none	none	none	-	21.5	0.096	beta-sheet	beta-strand/sheet	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+665	T	none	none	none	none	-	26	0.151	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+666	V	none	none	none	none	-	16	0.092	beta-strand	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+667	V	none	none	none	none	-	69.5	0.39899999999999997	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+668	E	none	none	none	none	-	46.5	0.209	bend	coils	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+669	T	none	none	none	none	-	61.5	0.358	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+670	S	none	none	none	none	-	17	0.11	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+671	S	none	none	none	none	-	102.5	0.6609999999999999	loop	coils	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+672	L	none	none	none	none	-	64.5	0.321	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+673	K	none	none	none	none	-	94	0.39799999999999996	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+674	C	none	none	none	none	-	7.5	0.045	loop	coils	core	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+675	F	none	none	none	none	-	53.5	0.223	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+676	A	none	none	none	none	-	17	0.132	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+677	E	none	none	none	none	-	70	0.314	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+678	T	T>M	T>M (exome, AC = 1, AN = 251468, AF = 3.97665e-06)	T>K	T>K (ClinVar, phenotype = Mandibulofacial dysostosis with microcephaly)	-	10.5	0.061	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+679	P	none	none	none	none	-	131.5	0.8270000000000001	turn	coils	exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+680	N	none	none	none	none	-	75	0.385	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+681	K	K>R	K>R (exome, AC = 3, AN = 251460, AF = 1.19303e-05)	none	none	-	85	0.36	bend	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+682	K	none	none	none	none	-	33.5	0.142	loop	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+683	N	none	none	N>Y	N>Y (ClinVar, phenotype = Global developmental delay,Seizures); N>Y (ClinVar, phenotype = Epilepsy, syndromic)	-	26	0.133	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+684	K	K>E	K>E (exome, AC = 1, AN = 251292, AF = 3.97943e-06)	none	none	-	41	0.174	loop	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+685	I	none	none	none	none	-	36	0.183	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+686	T	none	none	none	none	-	20.5	0.11900000000000001	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+687	M	none	none	none	none	-	25.5	0.114	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+688	I	none	none	none	none	-	45	0.228	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+689	A	none	none	none	none	-	16	0.124	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+690	E	none	none	none	none	-	39.5	0.177	beta-sheet	beta-strand/sheet	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+691	P	none	none	none	none	-	60	0.377	beta-sheet	beta-strand/sheet	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+692	L	none	none	none	none	-	38.5	0.192	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+693	E	none	none	none	none	-	60	0.26899999999999996	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+694	K	none	none	none	none	-	86	0.364	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+695	G	none	none	none	none	-	55	0.48200000000000004	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+696	L	none	none	none	none	-	50	0.249	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+697	A	none	none	none	none	-	23.5	0.182	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+698	E	none	none	none	none	-	63	0.28300000000000003	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+699	D	none	none	none	none	-	36	0.187	alpha-helix	Helices	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+700	I	I>V	I>V (exome, AC = 1, AN = 251474, AF = 3.97655e-06)	none	none	-	36	0.183	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+701	E	none	none	none	none	-	76.5	0.34299999999999997	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+702	N	N>D	N>D (exome, AC = 1, AN = 251484, AF = 3.9764e-06)	none	none	-	75.5	0.387	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+703	E	none	none	none	none	-	71.5	0.321	turn	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+704	V	none	none	none	none	-	71	0.408	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+705	V	none	none	none	none	-	57.5	0.33	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+706	Q	none	none	none	none	-	67.5	0.3	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+707	I	none	none	none	none	-	97	0.49200000000000005	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+708	T	none	none	none	none	-	99	0.5760000000000001	turn	coils	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+709	W	none	none	none	none	-	57	0.2	bend	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+710	N	none	none	none	none	-	67.5	0.34600000000000003	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+711	R	none	none	none	none	-	67	0.245	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+712	K	none	none	none	none	-	80.5	0.341	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+713	K	none	none	none	none	-	50.5	0.214	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+714	L	none	none	none	none	-	37.5	0.187	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+715	G	none	none	none	none	-	10.5	0.092	alpha-helix	Helices	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+716	E	none	none	none	none	-	56.5	0.253	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+717	F	none	none	none	none	-	47	0.196	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+718	F	none	none	none	none	-	36	0.15	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+719	Q	none	none	none	none	-	37.5	0.16699999999999998	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+720	T	none	none	none	none	-	90	0.523	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+721	K	none	none	none	none	-	86	0.364	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+722	Y	none	none	none	none	-	70.5	0.268	bend	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+723	D	D>N; D>G	D>N (exome, AC = 1, AN = 251122, AF = 3.98213e-06); D>G (exome, AC = 1, AN = 251132, AF = 3.98197e-06); D>N (genome, AC = 1, AN = 31384, AF = 3.18634e-05)	none	none	-	85.5	0.44299999999999995	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+724	W	none	none	none	none	-	38	0.133	loop	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+725	D	none	none	none	none	-	63	0.326	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+726	L	none	none	none	none	-	75.5	0.376	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+727	L	none	none	none	none	-	82.5	0.41	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+728	A	none	none	none	none	-	51.5	0.39899999999999997	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+729	A	none	none	none	none	-	11.5	0.08900000000000001	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+730	R	none	none	none	none	-	56	0.204	turn	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+731	S	none	none	none	none	-	28	0.18100000000000002	turn	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+732	I	I>V	I>V (exome, AC = 1, AN = 251162, AF = 3.98149e-06)	none	none	-	64.5	0.327	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+733	W	none	none	none	none	-	76.5	0.268	beta-sheet	beta-strand/sheet	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+734	A	none	none	none	none	-	51	0.395	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+735	F	none	none	none	none	-	61	0.254	loop	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+736	G	none	none	none	none	-	13	0.114	bend	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+737	P	P>R	P>R (genome, AC = 1, AN = 31398, AF = 3.18492e-05)	none	none	-	35.5	0.223	310-helix	Helices	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+738	D	D>E	D>E (exome, AC = 1, AN = 251148, AF = 3.98172e-06)	none	none	-	104	0.539	310-helix	Helices	Medium-exposed	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+739	A	A>G	A>G (exome, AC = 3, AN = 251086, AF = 1.19481e-05)	none	none	-	66	0.512	310-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+740	T	none	none	none	none	-	59.5	0.34600000000000003	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+741	G	none	none	none	none	-	16	0.14	bend	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+742	P	none	none	none	none	-	31.5	0.198	bend	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+743	N	N>S	N>S (exome, AC = 2, AN = 251080, AF = 7.96559e-06)	none	none	-	27.5	0.141	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+744	I	none	none	I>L	I>L (ClinVar, phenotype = Intellectual disability, autism, seizures, microcephaly, feeding difficulties & dysmorphic features)	-	59.5	0.302	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+745	L	none	none	none	none	-	29.5	0.147	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+746	V	none	none	none	none	-	29	0.16699999999999998	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+747	D	none	none	none	none	-	43.5	0.225	beta-sheet	beta-strand/sheet	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+748	D	none	none	none	none	-	73	0.37799999999999995	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+749	T	none	none	none	none	-	40.5	0.235	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+750	L	none	none	none	none	-	88	0.43799999999999994	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+751	P	none	none	none	none	-	89.5	0.563	alpha-helix	Helices	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+752	S	none	none	none	none	-	31.5	0.203	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+753	E	none	none	none	none	-	84	0.377	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+754	V	none	none	none	none	-	90.5	0.52	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+755	D	D>N	D>N (genome, AC = 1, AN = 31402, AF = 3.18451e-05)	none	none	-	38	0.19699999999999998	loop	coils	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+756	K	none	none	none	none	-	68	0.28800000000000003	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+757	A	A>V	A>V (exome, AC = 1, AN = 250890, AF = 3.98581e-06)	none	none	-	82	0.636	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+758	L	none	none	none	none	-	34	0.16899999999999998	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+759	L	none	none	none	none	-	42	0.209	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+760	G	none	none	none	none	-	48.5	0.425	alpha-helix	Helices	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+761	S	none	none	none	none	-	86	0.555	alpha-helix	Helices	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+762	V	none	none	none	none	-	41.5	0.239	turn	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+763	K	K>R	K>R (exome, AC = 1, AN = 250992, AF = 3.98419e-06)	none	none	-	44	0.18600000000000003	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+764	D	none	none	none	none	-	77	0.39899999999999997	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+765	S	none	none	none	none	-	25.5	0.165	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+766	I	none	none	none	none	-	50	0.254	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+767	V	V>I	V>I (exome, AC = 8, AN = 251170, AF = 3.18509e-05)	none	none	-	43	0.247	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+768	Q	none	none	none	none	-	60	0.267	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+769	G	none	none	G>R	G>R (ClinVar, phenotype = Mandibulofacial dysostosis with microcephaly)	-	5	0.044000000000000004	alpha-helix	Helices	core	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+770	F	none	none	none	none	-	47.5	0.198	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+771	Q	none	none	none	none	-	42.5	0.18899999999999997	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+772	W	none	none	none	none	-	74	0.26	alpha-helix	Helices	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+773	G	none	none	none	none	-	23.5	0.20600000000000002	alpha-helix	Helices	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+774	T	none	none	none	none	-	23	0.134	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+775	R	none	none	none	none	-	55.5	0.203	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+776	E	none	none	none	none	-	53	0.23800000000000002	bend	coils	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+777	G	none	none	none	none	-	11	0.096	loop	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+778	P	none	none	P>H	P>H (ClinVar, phenotype = not provided)	-	78	0.491	turn	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+779	L	none	none	none	none	-	69.5	0.34600000000000003	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+780	C	none	none	none	none	-	36.5	0.21899999999999997	turn	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+781	D	none	none	none	none	-	62.5	0.324	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+782	E	none	none	none	none	-	18.5	0.083	loop	coils	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+783	L	none	none	none	none	-	55	0.27399999999999997	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+784	I	none	none	none	none	-	28	0.142	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+785	R	R>Q	R>Q (exome, AC = 1, AN = 251264, AF = 3.97988e-06)	none	none	-	31.5	0.115	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+786	N	none	none	none	none	-	20	0.10300000000000001	bend	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+787	V	none	none	none	none	-	30.5	0.175	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+788	K	none	none	none	none	-	26.5	0.11199999999999999	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+789	F	none	none	none	none	-	48	0.2	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+790	K	none	none	none	none	-	46.5	0.19699999999999998	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+791	I	none	none	none	none	-	37	0.188	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+792	L	none	none	none	none	-	54	0.26899999999999996	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+793	D	none	none	none	none	-	58	0.301	beta-sheet	beta-strand/sheet	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+794	A	A>V	A>V (exome, AC = 2, AN = 251370, AF = 7.9564e-06)	none	none	-	62	0.48100000000000004	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+795	V	V>M	V>M (exome, AC = 2, AN = 251386, AF = 7.95589e-06)	none	none	-	48	0.276	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+796	V	V>I	V>I (exome, AC = 1, AN = 251384, AF = 3.97798e-06)	none	none	-	57	0.32799999999999996	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+797	A	A>V	A>V (exome, AC = 1, AN = 251368, AF = 3.97823e-06)	none	none	-	32	0.248	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+798	Q	none	none	none	none	-	114.5	0.509	loop	coils	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+799	E	none	none	none	none	-	53.5	0.24	loop	coils	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+800	P	P>R	P>R (exome, AC = 1, AN = 251346, AF = 3.97858e-06)	none	none	-	115	0.723	turn	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+801	L	none	none	none	none	-	96.5	0.48	turn	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+802	H	none	none	none	none	-	41	0.183	turn	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+803	R	R>W	R>W (genome, AC = 1, AN = 31366, AF = 3.18817e-05)	none	none	-	34	0.124	bend	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+804	G	none	none	none	none	-	35.5	0.311	loop	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+805	G	G>R	G>R (exome, AC = 1, AN = 251232, AF = 3.98038e-06)	none	none	-	46.5	0.408	bend	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+806	G	none	none	none	none	-	64	0.561	turn	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+807	Q	none	none	none	none	-	26	0.11599999999999999	turn	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+808	I	none	none	none	none	-	25.5	0.129	turn	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+809	I	none	none	none	none	-	25.5	0.129	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+810	P	none	none	none	none	-	83.5	0.525	alpha-helix	Helices	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+811	T	none	none	none	none	-	20.5	0.11900000000000001	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+812	A	none	none	none	none	-	23.5	0.182	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+813	R	none	none	none	none	-	32.5	0.11900000000000001	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+814	R	none	none	none	none	-	43.5	0.159	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+815	V	none	none	none	none	-	9	0.052000000000000005	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+816	V	V>I	V>I (exome, AC = 1, AN = 251388, AF = 3.97791e-06)	none	none	-	53	0.305	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+817	Y	Y>C	Y>C (exome, AC = 1, AN = 251370, AF = 3.9782e-06)	none	none	-	23.5	0.08900000000000001	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+818	S	S>T	S>T (exome, AC = 1, AN = 251376, AF = 3.9781e-06)	none	none	-	10	0.065	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+819	A	none	none	none	none	-	5	0.039	alpha-helix	Helices	core	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+820	F	none	none	none	none	-	26.5	0.11	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+821	L	none	none	none	none	-	43.5	0.21600000000000003	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+822	M	M>L	M>L (exome, AC = 1, AN = 251332, AF = 3.9788e-06)	none	none	-	48	0.214	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+823	A	none	none	A>T	A>T (ClinVar, phenotype = Treacher-Collins syndrome)	-	1	0.008	turn	coils	core	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+824	T	none	none	none	none	-	51	0.297	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+825	P	none	none	none	none	-	36	0.226	beta-strand	beta-strand/sheet	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+826	R	none	none	none	none	-	17	0.062	loop	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+827	L	none	none	none	none	-	32	0.159	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+828	M	none	none	none	none	-	13	0.057999999999999996	beta-strand	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+829	E	none	none	E>K	E>K (ClinVar, phenotype = Mandibulofacial dysostosis with microcephaly)	-	37	0.166	beta-sheet	beta-strand/sheet	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+830	P	none	none	none	none	-	23	0.145	beta-sheet	beta-strand/sheet	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+831	Y	none	none	none	none	-	21.5	0.08199999999999999	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+832	Y	Y>C	Y>C (exome, AC = 5, AN = 251360, AF = 1.98918e-05)	none	none	-	14	0.053	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+833	F	none	none	none	none	-	37.5	0.156	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+834	V	none	none	none	none	-	29.5	0.17	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+835	E	none	none	none	none	-	48.5	0.217	beta-sheet	beta-strand/sheet	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+836	V	none	none	none	none	-	26	0.149	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+837	Q	none	none	none	none	-	46	0.204	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+838	A	none	none	none	none	-	12	0.09300000000000001	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+839	P	P>S	P>S (exome, AC = 1, AN = 251326, AF = 3.9789e-06)	none	none	-	72.5	0.456	loop	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+840	A	none	none	none	none	-	82.5	0.64	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+841	D	none	none	none	none	-	81	0.42	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+842	C	none	none	none	none	-	11	0.066	alpha-helix	Helices	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+843	V	V>I	V>I (genome, AC = 1, AN = 31386, AF = 3.18613e-05)	none	none	-	30.5	0.175	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+844	S	none	none	none	none	-	65	0.419	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+845	A	none	none	none	none	-	34.5	0.267	alpha-helix	Helices	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+846	V	none	none	none	none	-	38.5	0.221	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+847	Y	none	none	none	none	-	62	0.23600000000000002	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+848	T	none	none	none	none	-	63	0.366	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+849	V	V>I	V>I (exome, AC = 2, AN = 250992, AF = 7.96838e-06)	none	none	-	35	0.201	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+850	L	none	none	none	none	-	32	0.159	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+851	A	none	none	none	none	-	74	0.574	alpha-helix	Helices	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+852	R	R>K; R>W	R>K (exome, AC = 16, AN = 250822, AF = 6.37903e-05); R>W (genome, AC = 1, AN = 31370, AF = 3.18776e-05)	none	none	-	91.5	0.33399999999999996	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+853	R	none	none	none	none	-	39	0.142	turn	coils	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+854	R	none	none	none	none	-	83.5	0.305	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+855	G	none	none	none	none	-	24	0.21100000000000002	loop	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+856	H	R>C	R>C (exome, AC = 2, AN = 250998, AF = 7.96819e-06); R>C (genome, AC = 2, AN = 31376, AF = 6.3743e-05)	H>Y	H>Y (ClinVar, phenotype = Mandibulofacial dysostosis with microcephaly)	-	71.5	0.319	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+857	V	none	none	none	none	-	65.5	0.376	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+858	T	S>A	S>A (exome, AC = 1, AN = 251088, AF = 3.98267e-06)	none	none	-	72.5	0.42200000000000004	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+859	Q	none	none	none	none	-	65	0.289	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+860	D	none	none	none	none	-	83.5	0.433	beta-sheet	beta-strand/sheet	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+861	A	none	none	none	none	-	56	0.434	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+862	P	H>Y	H>Y (exome, AC = 1, AN = 251306, AF = 3.97921e-06)	none	none	-	107.5	0.6759999999999999	beta-sheet	beta-strand/sheet	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+863	I	none	none	none	none	-	32	0.162	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+864	P	P>L	P>L (exome, AC = 3, AN = 251356, AF = 1.19353e-05)	none	none	-	81.5	0.513	turn	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+865	G	none	none	none	none	-	48	0.42100000000000004	turn	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+866	S	none	none	none	none	-	19	0.12300000000000001	turn	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+867	P	P>L	P>L (exome, AC = 1, AN = 251374, AF = 3.97814e-06)	none	none	-	82	0.516	turn	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+868	L	none	none	none	none	-	36	0.179	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+869	Y	H>Y	H>Y (exome, AC = 28, AN = 251364, AF = 0.000111392); H>Y (genome, AC = 1, AN = 31378, AF = 3.18695e-05)	none	none	-	22.5	0.086	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+870	T	T>N	T>N (exome, AC = 2, AN = 251368, AF = 7.95646e-06); T>N (genome, AC = 1, AN = 31390, AF = 3.18573e-05)	none	none	-	44	0.256	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+871	I	none	none	none	none	-	31	0.157	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+872	K	none	none	none	none	-	36.5	0.155	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+873	A	none	none	none	none	-	22	0.171	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+874	F	none	none	none	none	-	41	0.171	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+875	I	I>V	I>V (exome, AC = 1, AN = 251398, AF = 3.97776e-06)	none	none	-	25.5	0.129	beta-sheet	beta-strand/sheet	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+876	P	G>S	G>S (exome, AC = 2, AN = 251396, AF = 7.95558e-06)	none	none	-	48.5	0.305	beta-sheet	beta-strand/sheet	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+877	A	H>Y	H>Y (exome, AC = 141, AN = 251420, AF = 0.000560815); H>Y (genome, AC = 15, AN = 31358, AF = 0.000478347)	none	none	-	26.5	0.205	bend	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+878	I	I>V	I>V (exome, AC = 2, AN = 251430, AF = 7.9545e-06)	none	none	-	69.5	0.353	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+879	D	none	none	none	none	-	30.5	0.158	turn	coils	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+880	S	none	none	none	none	-	31.5	0.203	turn	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+881	F	F>L	F>L (genome, AC = 1, AN = 31364, AF = 3.18837e-05)	none	none	-	75.5	0.315	turn	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+882	G	none	none	none	none	-	33.5	0.294	turn	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+883	F	none	none	none	none	-	57	0.237	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+884	E	none	none	none	none	-	61	0.27399999999999997	alpha-helix	Helices	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+885	T	none	none	none	none	-	29.5	0.172	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+886	D	none	none	none	none	-	52.5	0.272	alpha-helix	Helices	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+887	L	none	none	none	none	-	29	0.14400000000000002	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+888	R	none	none	none	none	-	38	0.139	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+889	T	none	none	none	none	-	71	0.413	alpha-helix	Helices	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+890	H	none	none	none	none	-	66.5	0.297	alpha-helix	Helices	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+891	T	none	none	none	none	-	21	0.122	turn	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+892	Q	none	none	none	none	-	65.5	0.29100000000000004	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+893	G	none	none	none	none	-	13.5	0.11800000000000001	bend	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+894	Q	none	none	none	none	-	38	0.16899999999999998	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+895	A	none	none	none	none	-	16	0.124	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+896	F	none	none	none	none	-	54	0.225	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+897	S	S>Y	S>Y (exome, AC = 1, AN = 251412, AF = 3.97753e-06)	none	none	-	55	0.355	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+898	L	L>V	L>V (exome, AC = 1, AN = 251416, AF = 3.97747e-06)	none	none	-	59.5	0.29600000000000004	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+899	S	S>Y	S>Y (exome, AC = 1, AN = 251402, AF = 3.97769e-06)	none	none	-	62	0.4	beta-sheet	beta-strand/sheet	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+900	V	none	none	none	none	-	56.5	0.325	beta-sheet	beta-strand/sheet	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+901	F	F>C	F>C (exome, AC = 3, AN = 251392, AF = 1.19336e-05)	none	none	-	56.5	0.235	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+902	H	none	none	none	none	-	46.5	0.20800000000000002	beta-sheet	beta-strand/sheet	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+903	H	none	none	none	none	-	99.5	0.444	beta-sheet	beta-strand/sheet	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+904	W	none	none	none	none	-	65.5	0.23	beta-sheet	beta-strand/sheet	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+905	Q	none	none	none	none	-	44.5	0.198	beta-sheet	beta-strand/sheet	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+906	I	none	none	none	none	-	76.5	0.38799999999999996	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+907	V	none	none	none	none	-	32	0.184	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+908	P	none	none	none	none	-	120.5	0.758	bend	coils	exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+909	G	none	none	none	none	-	13	0.114	bend	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+910	D	none	none	none	none	-	56.5	0.293	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+911	P	none	none	none	none	-	35	0.22	bend	coils	buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+912	L	none	none	none	none	-	65	0.32299999999999995	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+913	D	none	none	none	none	-	69.5	0.36	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+914	K	none	none	none	none	-	110	0.466	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+915	S	none	none	none	none	-	101.5	0.655	turn	coils	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+916	I	none	none	none	none	-	36	0.183	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+917	V	none	none	none	none	-	87	0.5	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+918	I	none	none	none	none	-	63.5	0.322	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+919	R	R>H	R>H (exome, AC = 2, AN = 242596, AF = 8.24416e-06)	none	none	-	75.5	0.276	loop	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+920	P	P>L	P>L (exome, AC = 1, AN = 240304, AF = 4.1614e-06)	none	none	-	102.5	0.645	bend	coils	Medium-exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+921	L	none	none	none	none	-	87	0.433	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+922	E	none	none	none	none	-	60.5	0.271	bend	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+923	P	none	none	none	none	-	78.5	0.494	loop	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+924	Q	none	none	none	none	-	32	0.142	loop	coils	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+925	P	none	none	none	none	-	145	0.912	bend	coils	exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+926	A	none	none	none	none	-	48	0.37200000000000005	bend	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+927	P	P>S	P>S (exome, AC = 1, AN = 234696, AF = 4.26083e-06)	none	none	-	69.5	0.43700000000000006	turn	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+928	H	none	none	none	none	-	15.5	0.069	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+929	L	none	none	none	none	-	41	0.204	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+930	A	none	none	none	none	-	17.5	0.136	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+931	R	R>G	R>G (exome, AC = 1, AN = 210468, AF = 4.75132e-06)	none	none	-	19	0.069	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+932	E	none	none	none	none	-	30.5	0.13699999999999998	alpha-helix	Helices	buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+933	F	none	none	none	none	-	52.5	0.21899999999999997	alpha-helix	Helices	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+934	M	none	none	none	none	-	35	0.156	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+935	I	none	none	none	none	-	42.5	0.21600000000000003	alpha-helix	Helices	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+936	K	none	none	none	none	-	13	0.055	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+937	T	none	none	none	none	-	35.5	0.20600000000000002	alpha-helix	Helices	buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+938	R	none	none	R>H	R>H (ClinVar, phenotype = Mandibulofacial dysostosis with microcephaly)	-	8	0.028999999999999998	alpha-helix	Helices	core	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+939	R	R>H	R>H (exome, AC = 1, AN = 209292, AF = 4.77801e-06); R>H (genome, AC = 1, AN = 31358, AF = 3.18898e-05)	none	none	-	56	0.204	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+940	R	none	none	none	none	-	66.5	0.243	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+941	K	none	none	none	none	-	40.5	0.172	alpha-helix	Helices	buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+942	G	none	none	none	none	-	51	0.447	turn	coils	Medium-buried	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+943	L	none	none	none	none	-	51.5	0.256	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+944	S	S>I	S>I (exome, AC = 1, AN = 250114, AF = 3.99818e-06)	none	none	-	80.5	0.519	loop	coils	Medium-exposed	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+945	E	none	none	none	none	-	76.5	0.34299999999999997	loop	coils	Medium-buried	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+946	D	none	none	none	none	-	80	0.415	loop	coils	Medium-buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+947	V	none	none	none	none	-	74.5	0.428	loop	coils	Medium-buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+948	S	S>I	S>I (exome, AC = 1, AN = 250428, AF = 3.99316e-06)	none	none	-	75.5	0.48700000000000004	loop	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+949	I	none	none	none	none	-	43.5	0.221	loop	coils	buried	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+950	S	none	none	none	none	-	71.5	0.461	turn	coils	Medium-buried	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+951	K	K>R	K>R (exome, AC = 1, AN = 250598, AF = 3.99045e-06)	none	none	-	94	0.39799999999999996	turn	coils	Medium-buried	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+952	F	none	none	none	none	-	91	0.379	turn	coils	Medium-buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+953	F	none	none	none	none	-	28.5	0.11900000000000001	turn	coils	buried	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+954	D	none	none	none	none	-	44.5	0.231	bend	coils	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+955	D	none	none	none	none	-	40.5	0.21	loop	coils	buried	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+956	P	none	none	none	none	-	149.5	0.94	loop	coils	exposed	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+957	M	none	none	none	none	-	133	0.594	loop	coils	Medium-exposed	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+958	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+959	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+960	E	none	none	none	none	-	-1	-1	-	-	-	NegativelyCharged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+961	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+962	A	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+963	K	none	none	none	none	-	-1	-1	-	-	-	Positively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+964	Q	none	none	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+965	D	none	none	none	none	-	-1	-1	-	-	-	Negatively Charged & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+966	V	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+967	V	V>A	V>A (exome, AC = 1, AN = 251040, AF = 3.98343e-06)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+968	L	none	none	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+969	N	N>S	N>S (exome, AC = 9, AN = 251088, AF = 3.5844e-05); N>S (genome, AC = 1, AN = 31388, AF = 3.18593e-05)	none	none	-	-1	-1	-	-	-	Neutral & Polar	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+970	Y	none	none	none	none	-	-1	-1	-	-	-	Aromatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+971	P	none	none	none	none	-	-1	-1	-	-	-	Special	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+972	M	M>I	M>I (exome, AC = 3, AN = 251094, AF = 1.19477e-05); M>I (genome, AC = 1, AN = 31406, AF = 3.1841e-05)	none	none	-	-1	-1	-	-	-	Aliphatic & Hydrophobic	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
